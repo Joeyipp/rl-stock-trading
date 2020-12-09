@@ -8,7 +8,7 @@ An automated stock trading with Deep Reinforcement Learning (DQN & DDPG) for AAP
 
 ![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/flowchart_design.png)
 
-### Instructions to Run
+### Instructions
 
 1. Install Open MPI from [here](https://stable-baselines.readthedocs.io/en/master/guide/install.html)
 
@@ -26,9 +26,9 @@ An automated stock trading with Deep Reinforcement Learning (DQN & DDPG) for AAP
 
 > `pip install -r requirements.txt`
 
-5. Run!
+### Run
 
-**run.py arguments**
+**Arguments**
 
 - -a, --agent, DQN or DDPG
 - -f, --forecast, one or multi
