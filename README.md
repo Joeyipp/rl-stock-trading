@@ -18,7 +18,7 @@ To run locally:
 
 3. Create conda environment
 
-> `conda create --name rl_stock python=3.7`
+> `conda create --name rl_stock python=3.7 -y`
 
 4. Activate the conda environment
 
