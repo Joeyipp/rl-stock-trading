@@ -69,7 +69,7 @@ To run locally:
 This repo is self-contained with data.
 To self-collect for your own stock data, navigate to `utils/collect_data.py` and modify accordingly.
 
-### References
+### Credits
 
 - [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522)
 - [LazyProgrammer](https://github.com/lazyprogrammer)
