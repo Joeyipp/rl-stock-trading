@@ -33,3 +33,19 @@ An automated stock trading with Deep Reinforcement Learning (DQN & DDPG) for AAP
 - -a, --agent, DQN or DDPG
 - -f, --forecast, one or multi
 - -s, --sentiment, True or False
+
+**Baseline**
+
+`python run.py -a {DQN|DDPG}`
+
+**Baseline + One/Multi-step Stock Forecast**
+
+`python run.py -a {DQN|DDPG} -f {one|multi}`
+
+**Baseline + News Sentiment Analysis**
+
+`python run.py -a {DQN|DDPG} -s True`
+
+**Baseline + One/Multi-step Stock Forecast + News Sentiment Analysis**
+
+`python run.py -a {DQN|DDPG} -f {one|multi} -s True`
