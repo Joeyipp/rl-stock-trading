@@ -4,25 +4,25 @@
 
 An automated stock trading with Deep Reinforcement Learning (DQN & DDPG) for AAPL, BA, and TSLA with news sentiment and one/ multi-step stock price prediction.
 
-### Flowchart
-
-![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/flowchart_design.png)
-
 ### Instructions
 
-1. Install Open MPI from [here](https://stable-baselines.readthedocs.io/en/master/guide/install.html)
+To run locally:
+
+1. Clone this repository. NOTE: Scripts are written with Python 3.7.
+
+2. Install Open MPI from [here](https://stable-baselines.readthedocs.io/en/master/guide/install.html)
 
 > `MacOS: brew install cmake openmpi`
 
-2. Create conda environment
+3. Create conda environment
 
 > `conda create --name rl_stock python=3.7`
 
-3. Activate the conda environment
+4. Activate the conda environment
 
 > `conda activate rl_stock`
 
-4. Install requirements
+5. Install requirements
 
 > `pip install -r requirements.txt`
 
@@ -49,3 +49,20 @@ An automated stock trading with Deep Reinforcement Learning (DQN & DDPG) for AAP
 > Baseline + One/Multi-step Stock Forecast + News Sentiment Analysis
 
 `python run.py -a {DQN|DDPG} -f {one|multi} -s True`
+
+### System Architecture
+
+![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/flowchart_design.png)
+
+### Stock Price Forecast
+
+![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/forecast.png)
+
+### News Sentiment Analysis
+
+![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/sentiment.png)
+
+### References
+
+- [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522)
+- LazyProgrammer.me
