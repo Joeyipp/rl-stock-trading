@@ -60,7 +60,7 @@ To run locally:
 
 ![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/sentiment.png)
 
-### Stock Price Forecast
+### Stock Price LSTM Forecast
 
 ![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/forecast.png)
 
