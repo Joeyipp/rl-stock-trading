@@ -8,7 +8,7 @@ An automated stock trading with Deep Reinforcement Learning (DQN & DDPG) for AAP
 
 To run locally:
 
-1. Clone this repository. NOTE: Scripts are written with Python 3.7.
+1. Clone this repository. `NOTE: Scripts are written with Python 3.7.`
 
 2. Install Open MPI from [here](https://stable-baselines.readthedocs.io/en/master/guide/install.html)
 
@@ -38,13 +38,13 @@ To run locally:
 
 `python run.py -a {DQN|DDPG}`
 
-> Baseline + One/Multi-step Stock Forecast
-
-`python run.py -a {DQN|DDPG} -f {one|multi}`
-
 > Baseline + News Sentiment Analysis
 
 `python run.py -a {DQN|DDPG} -s True`
+
+> Baseline + One/Multi-step Stock Forecast
+
+`python run.py -a {DQN|DDPG} -f {one|multi}`
 
 > Baseline + One/Multi-step Stock Forecast + News Sentiment Analysis
 
@@ -54,15 +54,15 @@ To run locally:
 
 ![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/flowchart_design.png)
 
-### Stock Price Forecast
-
-![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/forecast.png)
-
 ### News Sentiment Analysis
 
 ![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/sentiment.png)
 
+### Stock Price Forecast
+
+![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/forecast.png)
+
 ### References
 
 - [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522)
-- LazyProgrammer.me
+- [LazyProgrammer](https://github.com/lazyprogrammer)
