@@ -1,0 +1,552 @@
+{
+    "status": "ok",
+    "totalResults": 42,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Elon Musk overtakes Bill Gates to become world\u2019s second richest person behind Jeff Bezos",
+            "description": "Elon Musk has passed Microsoft founder Bill Gates to become the world\u2019s second richest person. The Tesla CEO\u2019s net worth now sits at around $128 billion, after increasing by $100.3 billion over the course of this year.",
+            "url": "https://www.theverge.com/2020/11/24/21612410/elon-musk-overtakes-bill-gates-to-become-worlds-second-richest-person-behind-jeff-bezos",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XNmqiGAnj46mpXZTwtvsCgBJqB4=/0x481:6720x3999/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22071794/1270402636.jpg",
+            "publishedAt": "2020-11-24T10:10:18Z",
+            "content": "The Tesla CEOs net worth now sits at $128 billion\r\nPhoto by Maja Hitij/Getty Images\r\nElon Musk has passed Microsoft co-founder Bill Gates to become the worlds second richest person, according to the \u2026 [+2446 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Stan Schroeder",
+            "title": "Elon Musk's pile of money is now bigger than Bill Gates's pile of money",
+            "description": "In the battle of rich, white dudes becoming even richer, Elon Musk is winning.\u00a0\nThe CEO of Tesla and SpaceX has overtaken Bill Gates to become the second richest man in the world, behind Amazon CEO Jeff Bezos, Bloomberg has assessed.\u00a0\nThis is due to Tesla sto\u2026",
+            "url": "https://mashable.com/article/elon-musk-second-richest/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F24%252F3e%252Fd41d68d9b9b04731bb861929a9243534.f8197.jpg%252F1200x630.jpg?signature=rB0I6TRHm7bh1vasP59bKzqyrWE=",
+            "publishedAt": "2020-11-24T08:49:29Z",
+            "content": "In the battle of rich, white dudes becoming even richer, Elon Musk is winning.\u00a0\r\nThe CEO of Tesla and SpaceX has overtaken Bill Gates to become the second richest man in the world, behind Amazon CEO \u2026 [+1180 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Tesla is now worth half a trillion dollars",
+            "description": "Surging Tesla shares have pushed the company\u2019s market capitalization to more than $515 billion, a fivefold increase since the start of the year. The traditionally volatile stock has continued to experience price swings. But since reaching a low for the year i\u2026",
+            "url": "http://techcrunch.com/2020/11/24/tesla-is-now-worth-half-a-trillion-dollars/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1236085488.jpg?w=600",
+            "publishedAt": "2020-11-24T16:23:59Z",
+            "content": "Surging Tesla shares have pushed the company\u2019s market capitalization to more than $515 billion, a fivefold increase since the start of the year.\r\nThe traditionally volatile stock has continued to exp\u2026 [+1592 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla mulls expanding in Europe with compact vehicles - CEO - Reuters UK",
+            "description": "U.S. electric vehicle maker Tesla is looking at expanding in Europe by entering the mass-market segment with a compact car, Chief Executive Elon Musk said on Tuesday.",
+            "url": "https://uk.reuters.com/article/uk-tesla-europe-idUKKBN2842BZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542301355&r=LYNXMPEGAN17O&w=800",
+            "publishedAt": "2020-11-24T15:26:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Elon Musk wears a protective mask as he arrives to attend a meeting with the leadership of the conservative CDU/CSU parliamentary group, in Berlin, Germany September 2, \u2026 [+1138 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla mulls expanding in Europe with compact vehicles - CEO - Reuters",
+            "description": "U.S. electric vehicle maker Tesla is looking at expanding in Europe by entering the mass-market segment with a compact car, Chief Executive Elon Musk said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-tesla-europe-idUSKBN2842CR",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542303038&r=LYNXMPEGAN184&w=800",
+            "publishedAt": "2020-11-24T15:25:00Z",
+            "content": "By Reuters Staff\r\nPARIS (Reuters) - U.S. electric vehicle maker Tesla is looking at expanding in Europe by entering the mass-market segment with a compact car, Chief Executive Elon Musk said on Tuesd\u2026 [+918 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Robert Cyran",
+            "title": "Breakingviews - Musk passes Gates, but not yet in impact - Reuters",
+            "description": "Elon Musk is now the second-richest person in the world, at least on paper, but he has a long way to go in catching up to the newly-displaced Bill Gates in impact. The Tesla and SpaceX mogul\u2019s wealth edged past the Microsoft founder\u2019s at just under $128 billi\u2026",
+            "url": "https://www.reuters.com/article/us-tesla-ceo-breakingviews-idUSKBN2842FL",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542305585&r=LYNXMPEGAN194&w=800",
+            "publishedAt": "2020-11-24T16:06:00Z",
+            "content": "Tesla Inc CEO Elon Musk speaks at an opening ceremony for Tesla China-made Model Y program in Shanghai, China January 7, 2020. REUTERS/Aly Song\r\nNEW YORK (Reuters Breakingviews) - Elon Musk is now th\u2026 [+2236 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Subrat Patnaik",
+            "title": "Tesla market value crosses $500 billion as shares surge six-fold this year - Reuters India",
+            "description": "Tesla Inc crossed $500 billion in market value on Tuesday as investors lapped up its shares in the run-up to its addition to the S&P 500 index, extending a meteoric rally that has seen the stock gain more than six times this year.",
+            "url": "https://in.reuters.com/article/tesla-stocks-idINKBN284258",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542296237&r=LYNXMPEGAN14Q&w=800",
+            "publishedAt": "2020-11-24T14:44:00Z",
+            "content": "FILE PHOTO: A Tesla logo is seen at a groundbreaking ceremony of Tesla Shanghai Gigafactory in Shanghai, China January 7, 2019. REUTERS/Aly Song/File Photo\r\n(Reuters) - Tesla Inc crossed $500 billion\u2026 [+1431 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla set to breach $500 billion in market value - Reuters UK",
+            "description": "Tesla Inc was set to breach $500 billion in market value on Tuesday, as its shares extended a meteoric rally that has seen the stock gain more than six times this year.",
+            "url": "https://www.reuters.com/article/uk-tesla-stocks-idUKKBN2841K6",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542277551&r=LYNXMPEGAN0T8&w=800",
+            "publishedAt": "2020-11-24T12:02:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Tesla logo is seen at the entrance to Tesla Motors' showroom in Manhattan's Meatpacking District in New York City, U.S., December 14, 2017. REUTERS/Brendan McDermid\r\u2026 [+1042 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla set to breach $500 billion in market value - Reuters Canada",
+            "description": "Tesla Inc was set to breach $500 billion in market value on Tuesday, as its shares extended a meteoric rally that has seen the stock gain more than six times this year.",
+            "url": "https://ca.reuters.com/article/us-tesla-stocks-idCAKBN2841QP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542282883&r=LYNXMPEGAN0X3&w=800",
+            "publishedAt": "2020-11-24T12:45:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Tesla logo is seen at the entrance to Tesla Motors' showroom in Manhattan's Meatpacking District in New York City, U.S., December 14, 2017. REUTERS/Brendan McDermid/\u2026 [+1053 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Wall Street poised to jump on Biden transition, rebound hopes - Reuters India",
+            "description": "Wall Street opened higher on Tuesday as the formal go-ahead for President-elect Joe Biden's transition to the White House ended weeks of political uncertainty, while Tesla surged 3.3% to cross $500 billion in market capitalization for the first time.",
+            "url": "https://www.reuters.com/article/usa-stocks-idINKBN28424W",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542295704&r=LYNXMPEGAN14E&w=800",
+            "publishedAt": "2020-11-24T14:34:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A street sign for Wall Street is seen outside the New York Stock Exchange (NYSE) in Manhattan, New York City, U.S. December 28, 2016. REUTERS/Andrew Kelly/File Photo\r\n(R\u2026 [+511 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shriya Ramakrishnan, Shivani Kumaresan",
+            "title": "US STOCKS-Wall St poised to jump on Biden transition, rebound hopes - Reuters",
+            "description": "* Futures up: Dow 1.10%, S&P 0.82%, Nasdaq 0.44% (Adds comments, updates prices)",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSL4N2IA337",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-24T14:15:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* S&amp;P 500 on track for best November since 1980\r\n* Investors await consumer confiden\u2026 [+3180 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dow crosses 30000, and Elon Musk is richer than Bill Gates: CNBC After Hours - CNBC",
+            "description": "<ol><li>Dow crosses 30000, and Elon Musk is richer than Bill Gates: CNBC After Hours\u00a0\u00a0CNBC\r\n</li><li>Tesla Semi electric truck to have up to 621 miles of range, says Elon Musk\u00a0\u00a0Electrek\r\n</li><li>Elon Musk is now the second richest man in the world, surpassin\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TEZSUnExMnNhbEXSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-24T23:23:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shriya Ramakrishnan",
+            "title": "Futures rise as Biden transition, vaccine progress lift mood - Reuters UK",
+            "description": "U.S. stock index futures rose on Tuesday as the formal go-ahead for President-elect Joe Biden's transition to the White House ended weeks of political uncertainty and added to hopes of an economic recovery next year.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-idINKBN2841OS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542281522&r=LYNXMPEGAN0VV&w=800",
+            "publishedAt": "2020-11-24T12:29:00Z",
+            "content": "FILE PHOTO: A man wearing a protective face mask walks by 14 Wall Street, as the global outbreak of the coronavirus disease (COVID-19) continues, in the financial district of New York, U.S., November\u2026 [+1997 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh, CNN Business",
+            "title": "Elon Musk is now tied with Bill Gates as world's second richest man",
+            "description": "Elon Musk and Bill Gates are each worth $128 billion, tying as the world's second richest man, according to the Bloomberg Billionaires index.",
+            "url": "https://www.cnn.com/2020/11/24/business/elon-musk-bill-gates-worth-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201117065953-elon-musk-0903-super-tease.jpg",
+            "publishedAt": "2020-11-24T10:22:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shriya Ramakrishnan, Shivani Kumaresan",
+            "title": "Dow hits all-time high on Biden transition, rebound hopes - Reuters.com",
+            "description": "Wall Street's main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Biden's transition to the White House ended weeks of political uncertainty.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-idUSKBN2841OS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542293781&r=LYNXMPEGAN0VV&w=800",
+            "publishedAt": "2020-11-24T15:50:50Z",
+            "content": "(Reuters) - Wall Streets main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Bidens transition to the White House ended weeks of poli\u2026 [+2907 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chuck Mikolajczak",
+            "title": "US STOCKS-Dow scales 30,000 on vaccine headway, Biden transition - Reuters India",
+            "description": "U.S. stocks rallied on Tuesday and the Dow breached the 30,000 level for the first time, as investors anticipated a 2021 economic recovery on coronavirus vaccine progress and the formal clearance for President-elect Joe Biden's transition to the White House.",
+            "url": "https://in.reuters.com/article/us-usa-stocks-idINKBN2841OS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542293781&r=LYNXMPEGAN0VV&w=800",
+            "publishedAt": "2020-11-24T21:44:00Z",
+            "content": "NEW YORK (Reuters) - U.S. stocks rallied on Tuesday and the Dow breached the 30,000 level for the first time, as investors anticipated a 2021 economic recovery on coronavirus vaccine progress and the\u2026 [+3516 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Elon Musk Talks Future Batteries and Compact Hatchback at European Battery Conference",
+            "description": "Elon Musk spoke about EV range and the cost of batteries at a European Battery Conference. Here is the key points from the Electrified copy of the interview with Elon Musk. 1:00 Elon Musk talks about...\n\n[[ This is a content summary only. Visit my website for\u2026",
+            "url": "https://www.nextbigfuture.com/2020/11/elon-musk-talks-range-of-evs-and-cost-of-batteries-at-european-conference.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2019/09/SX3Semi-Tesla-1024x510.jpg",
+            "publishedAt": "2020-11-24T22:44:17Z",
+            "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology\u2026 [+593 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "Elon Musk Net Worth As Tesla Boss Soars Past Bill Gates to Become World's Second Richest Person",
+            "description": "The tech industry billionaire just got richer, with the Bloomberg Billionaires Index showing his net worth has surged to $128 billion. In terms of wealth, he only trails Amazon boss Jeff Bezos.",
+            "url": "https://www.newsweek.com/elon-musk-net-worth-worlds-second-richest-person-tesla-stock-bill-gates-1549789",
+            "urlToImage": "https://d.newsweek.com/en/full/1675359/elon-musk.jpg",
+            "publishedAt": "2020-11-24T11:59:46Z",
+            "content": "Elon Musk's total net worth soared to $128 billion this week, earning him the title of second-richest person in the world.\r\nThe Tesla and SpaceX boss today surpassed a slew of technology industry bil\u2026 [+3010 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Matousek",
+            "title": "Morgan Stanley explains how Elon Musk and Tesla could follow the playbook Tim Cook used to make Apple the world's most valuable company (TSLA, APPL)",
+            "description": "Summary List Placement\n\nApple has become the world's most valuable company in part by building a network of software-based services, from the app store to Apple TV+, that allows the tech giant to keep making money from customers after they buy their iPhone or\u2026",
+            "url": "https://www.businessinsider.com/elon-musk-tim-cook-tesla-apple-morgan-stanley-2020-11",
+            "urlToImage": "https://i.insider.com/5fb842eb50e71a0011556a15?width=1200&format=jpeg",
+            "publishedAt": "2020-11-24T13:46:00Z",
+            "content": "Apple has become the world's most valuable company in part by building a network of software-based services, from the app store to Apple TV+, that allows the tech giant to keep making money from cust\u2026 [+4234 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Scott Reeves",
+            "title": "Tesla Joins S&P 500 as Electric Car Stocks Surge",
+            "description": "Tesla's addition to the S&P 500 next month may have settled the chicken-or-the-egg argument about the future of electric vehicles.",
+            "url": "https://www.newsweek.com/tesla-joins-sp-500-electric-car-stocks-surge-1549930",
+            "urlToImage": "https://d.newsweek.com/en/full/1670543/elon-musk.jpg",
+            "publishedAt": "2020-11-24T20:45:41Z",
+            "content": "Tesla's addition to the S&amp;P 500 next month may have settled the chicken-or-the-egg argument about the future of electric vehicles: Build it, the market now says, and they will come.\r\nCritics have\u2026 [+11255 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Duffy, CNN Business",
+            "title": "Tesla's market value tops $500 billion for the first time",
+            "description": "Tesla may be the new kid on the block in the auto industry, but it's quickly become a big kid on Wall Street.",
+            "url": "https://www.cnn.com/2020/11/24/cars/tesla-worth-500-billion/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201124133911-tesla-car-1028-restricted-super-tease.jpg",
+            "publishedAt": "2020-11-24T19:41:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "Elon Musk surpasses Bill Gates as the world's second-richest person as Tesla's market value nears $500 billion",
+            "description": "The jump in Musk's net worth places him second to Amazon boss Jeff Bezos, whose wealth stands at $182 billion.",
+            "url": "https://www.businessinsider.com/elon-musk-net-worth-bill-gates-second-richest-tesla-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbcc19f32f2170011f70d10?format=jpeg",
+            "publishedAt": "2020-11-24T09:32:07Z",
+            "content": "Asa Mathat | D: All Things Digital\r\nElon Musk has officially overtaken Bill Gates to become the world's second-richest person.\u00a0\r\nMusk saw his net worth rise by about $7 billion to $128 billion on Mon\u2026 [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chuck Mikolajczak",
+            "title": "Dow scales 30,000 on vaccine headway, Biden transition - Reuters",
+            "description": "<ol><li>Dow scales 30,000 on vaccine headway, Biden transition\u00a0\u00a0Reuters\r\n</li><li>Dow surges more than 400 points, closes above 30,000 for the first time ever\u00a0\u00a0CNBC\r\n</li><li>Optimism over COVID-19 vaccine, GSA's decision on Biden push up stocks\u00a0\u00a0Fox Business\u2026",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSL1N2IA2CL",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-24T12:31:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* S&amp;P 500 on track for biggest monthly percentage gain since April\r\n* Tesla market v\u2026 [+3293 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "Tesla's market cap breaches $500 billion as mammoth 2020 rally charges on",
+            "description": "Tesla's 2020 rally has minted a fortune for Elon Musk. The CEO's net worth is up more than $100 billion in the year to date.",
+            "url": "https://www.businessinsider.com/tesla-market-cap-500-billion-stock-price-rally-elon-musk-2020-11",
+            "urlToImage": "https://i.insider.com/5fbd299950e71a00115570ea?width=1200&format=jpeg",
+            "publishedAt": "2020-11-24T17:21:44Z",
+            "content": "<ul><li>Tesla's market cap rallied above $500 billion for the first time on Tuesday as investors continued to scoop up the highly valued shares.</li><li>The automaker's stock gained as much as 5.1%, \u2026 [+3180 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "Elon Musk says Tesla is working on a battery that drives more than 600 miles \u2014 and hints at a new compact car for Europe",
+            "description": "The billionaire said he recently had a tricky time finding space to park a Tesla Model X on Berlin's dense streets.",
+            "url": "https://www.businessinsider.com/elon-musk-tesla-600-mile-battery-compact-hatchback-europe-2020-11",
+            "urlToImage": "https://i.insider.com/5f5156347ed0ee001e25d630?width=1200&format=jpeg",
+            "publishedAt": "2020-11-24T18:14:24Z",
+            "content": "It's not easy to park a Tesla Model X in Berlin, Elon Musk recently learned, leading the CEO to hint at a possible compact model for European markets.\r\n\"In Europe it would make sense to do a compact \u2026 [+1578 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shriya Ramakrishnan, Shivani Kumaresan",
+            "title": "US STOCKS-Wall St poised to jump on Biden transition, rebound hopes - Reuters",
+            "description": "* Futures up: Dow 1.10%, S&P 0.82%, Nasdaq 0.44% (Adds comments, updates prices)",
+            "url": "https://ca.reuters.com/article/usa-stocks-idINL4N2IA337",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-24T14:14:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* S&amp;P 500 on track for best November since 1980\r\n* Investors await consumer confiden\u2026 [+3180 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chuck Mikolajczak",
+            "title": "US STOCKS-Dow scales 30,000 on vaccine headway, Biden transition - Reuters",
+            "description": "<ol><li>US STOCKS-Dow scales 30,000 on vaccine headway, Biden transition\u00a0\u00a0Reuters\r\n</li><li>Dow tops 30,000 for the first time ever as Biden transition begins\u00a0\u00a0CNN\r\n</li><li>Wall St. Climbs to Record as Biden Transition Begins\u00a0\u00a0The New York Times\r\n</li><li>St\u2026",
+            "url": "https://uk.reuters.com/article/usa-stocks-idUKL1N2IA2GN",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-24T21:02:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* S&amp;P 500 on pace for biggest monthly percentage gain since April\r\n* Tesla market va\u2026 [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jim Davis",
+            "title": "The hack found on Tesla Model X highlights the vulnerability of different systems in connected vehicles",
+            "description": "Summary List PlacementResearchers affiliated with the University of Leuven in Belgium\u00a0demonstrated\r\n how the Tesla Model X can be stolen in a few minutes by exploiting a flaw in how the car uses the Bluetooth Low Energy (BLE) signals to communicate with the k\u2026",
+            "url": "https://www.businessinsider.com/new-hack-on-tesla-shows-vulnerability-of-connected-vehicles-2020-11",
+            "urlToImage": "https://i.insider.com/5fbd173d32f2170011f70d81?width=1200&format=jpeg",
+            "publishedAt": "2020-11-24T14:25:00Z",
+            "content": "Researchers affiliated with the University of Leuven in Belgium\u00a0demonstrated\r\n how the Tesla Model X can be stolen in a few minutes by exploiting a flaw in how the car uses the Bluetooth Low Energy (\u2026 [+2706 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kate Duffy",
+            "title": "SpaceX engineers say they're looking to fill some 'hot jobs' and reduce outages on the Starlink satellite-internet service",
+            "description": "Summary List Placement\n\nEngineers at Elon Musk's SpaceX laid out Saturday how they plan to improve the aerospace company's Starlink satellite-internet service \u2014 and said they're looking for people to fill some \"hot jobs.\"\nThe engineers hosted an AMA on the Re\u2026",
+            "url": "https://www.businessinsider.com/spacex-starlink-internet-speed-jobs-outages-engineers-2020-11",
+            "urlToImage": "https://i.insider.com/5fbbb5b750e71a0011556c12?width=1200&format=jpeg",
+            "publishedAt": "2020-11-24T10:11:53Z",
+            "content": "Engineers at Elon Musk's SpaceX laid out Saturday how they plan to improve the aerospace company's Starlink satellite-internet service \u2014 and said they're looking for people to fill some \"hot jobs.\"\r\n\u2026 [+2857 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "dmosher@businessinsider.com (Dave Mosher)",
+            "title": "New FAA documents reveal SpaceX's latest plans for launching Starship prototypes on suborbital flights from South Texas \u2014 and potential hurdles to orbit",
+            "description": "SpaceX hopes to eventually fly Starships to orbit from Boca Chica, Texas, but it can't do so without Federal Aviation Administration approval.",
+            "url": "https://www.businessinsider.com/spacex-faa-boca-chica-texas-environmental-impact-statement-written-reevaluation-2020-10",
+            "urlToImage": "https://i.insider.com/5f15cba13f737078417df846?width=1200&format=jpeg",
+            "publishedAt": "2020-11-24T04:12:05Z",
+            "content": "The Federal Aviation Administration on Monday published several key documents and a new website related to SpaceX's future in Boca Chica, Texas.\r\nThe aerospace company is moving briskly at the site t\u2026 [+7947 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "10 things you need to know before the opening bell",
+            "description": "This is what traders are talking about.",
+            "url": "https://www.businessinsider.com/opening-bell-november-24-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbce55032f2170011f70d33?format=jpeg",
+            "publishedAt": "2020-11-24T11:21:30Z",
+            "content": "Thomson Reuters\r\nWelcome to 10 Things Before the Opening Bell. Sign up here to get this email in your inbox every morning.\r\nFor the biggest stories in politics,\u00a0sign up here for 10 Things in Politics\u2026 [+1572 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "Dow closes above 30,000 for the first time ever on Biden-transition rally",
+            "description": "The Dow's new record caps a rapid rebound from March, when recession fears and overwhelming bearishness dragged the index as low as 18,213.",
+            "url": "https://www.businessinsider.com/stock-market-news-today-dow-30k-biden-transition-value-rotation-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbd6ad032f2170011f71035?format=jpeg",
+            "publishedAt": "2020-11-24T21:11:01Z",
+            "content": "Getty Images / Scott Olson\r\n<ul><li>US equities jumped on Tuesday after the General Services Administration's ascertainment of President-elect Joe Biden's victory lifted investor sentiments.</li><li>\u2026 [+5759 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Matthew DeBord)",
+            "title": "Henrik Fisker wants to lease you an electric car for no-strings-attached road trips",
+            "description": "The new electric-car maker is going after younger buyers who have different expectations about personal mobility than previous generations.",
+            "url": "https://www.businessinsider.com/henrik-fisker-lease-electric-car-for-road-trips-2020-11",
+            "urlToImage": "https://i.insider.com/5fb7ea3f50e71a00115567a1?width=1200&format=jpeg",
+            "publishedAt": "2020-11-24T14:19:00Z",
+            "content": "Henrik Fisker is back, but he isn't on his second act. With his eponymous new company, he's on his fourth, and maybe his fifth, incarnation. And he has a plan for changing how everyone, but especiall\u2026 [+7082 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kate Bratskeir",
+            "title": "30 gift ideas for your favorite home cook and foodie",
+            "description": "Whether they fancy themselves a chef, a baker or just someone who loves to eat cool food, we found some fun and genius gift ideas for them.",
+            "url": "https://www.cnn.com/2020/11/24/cnn-underscored/best-gifts-for-cooks-bakers/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201117152746-cookgiftslead-super-169.jpg",
+            "publishedAt": "2020-11-24T13:59:43Z",
+            "content": "The year 2020 turned everyone into a home cook. While some felt desperate to return to their regularly scheduled Seamless routines, others relished the hours they could spend off Zoom and in the kitc\u2026 [+7752 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla (TSLA) Stock Nears Half a Trillion Mark After Soaring 525% This Year - Bloomberg",
+            "description": "Tesla (TSLA) Stock Nears Half a Trillion Mark After Soaring 525% This Year\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-11-24/tesla-nears-half-a-trillion-mark-after-soaring-525-this-year",
+            "urlToImage": null,
+            "publishedAt": "2020-11-24T13:34:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kiana Murden",
+            "title": "46 beauty products you should honestly just gift yourself",
+            "description": "",
+            "url": "https://www.cnn.com/2020/11/24/cnn-underscored/beauty-gift-sets-keywee/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201118153516-beauty-gift-sets-lead-super-169.jpg",
+            "publishedAt": "2020-11-24T23:21:35Z",
+            "content": "From perfumes to eyeshadow palettes to facial tools to combat wrinkles, there are seemingly infinite options to give the beauty product-obsessed person in your life. (Because really, there are.) \r\nWe\u2026 [+14932 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Germany: Europe will extend industrial cooperation to hydrogen",
+            "description": "European countries are intensifying cooperation on battery cell production for electric cars, and will extend this cross-border approach into new industrial areas such as hydrogen technology, the German economy minister said on Tuesday.",
+            "url": "https://uk.reuters.com/article/uk-eu-industry-germany-idUKKBN2840TM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542284742&r=LYNXMPEGAN0XZ&w=800",
+            "publishedAt": "2020-11-24T12:57:40Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - European countries are intensifying cooperation on battery cell production for electric cars, and will extend this cross-border approach into new industrial areas\u2026 [+2387 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla set to breach $500 billion in market value",
+            "description": "Tesla Inc was set to breach $500 billion in market value on Tuesday, as its shares extended a meteoric rally that has seen the stock gain more than six times this year.",
+            "url": "https://www.reuters.com/article/tesla-stocks-idUSL4N2IA2SI",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-24T12:00:10Z",
+            "content": "By Reuters Staff\r\nNov 24 (Reuters) - Tesla Inc was set to breach $500 billion in market value on Tuesday, as its shares extended a meteoric rally that has seen the stock gain more than six times this\u2026 [+935 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Joe Ciolli",
+            "title": "Getting ahead of an economic rebound \u2014 Trading Tesla's S&P 500 debut \u2014 From community college to Wall Street",
+            "description": "Summary List PlacementDear Readers,\nAfter bottoming out in historic fashion this past spring, the US economy has nowhere to go but up ... Right?\nNot so fast. As COVID-19 infection rates have surged globally, Wall Street's biggest institutions are walking back\u2026",
+            "url": "https://www.businessinsider.com/business-insider-week-of-november-24-best-investing-stories-2020-11",
+            "urlToImage": "https://i.insider.com/5fbd0ee050e71a001155704c?width=1200&format=jpeg",
+            "publishedAt": "2020-11-24T13:48:26Z",
+            "content": "Dear Readers,\r\nAfter bottoming out in historic fashion this past spring, the US economy has nowhere to go but up ... Right?\r\nNot so fast. As COVID-19 infection rates have surged globally, Wall Street\u2026 [+3962 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "SpaceX Starlink questions answered: \u201cWider beta\u201d soon, no plan for data caps",
+            "description": "Starlink technology and the service's future covered in Q&A on Reddit.",
+            "url": "https://arstechnica.com/information-technology/2020/11/spacex-starlink-questions-answered-wider-beta-soon-no-plan-for-data-caps/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/spacex-starlink-illustration-760x380.jpg",
+            "publishedAt": "2020-11-24T19:18:59Z",
+            "content": "0 with 0 posters participating\r\nSpaceX Starlink engineers answered questions in a Reddit AMA (Ask Me Anything) on Saturday, covering topics such as data caps (which they hope to never implement), whe\u2026 [+5257 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Melia Russell",
+            "title": "100 top startups of 2020, according to VCs",
+            "description": "Summary List Placement\n\nTo build a company from scratch and scale it into a solid business is a Herculean feat in the best of times. By most measures, 2020 has not been the best of times.\nBut all year long, startup founders still raised capital in Zoom meetin\u2026",
+            "url": "https://www.businessinsider.com/top-100-startups-2020-11",
+            "urlToImage": "https://i.insider.com/5fbc29dd32f2170011f70c44?width=1200&format=jpeg",
+            "publishedAt": "2020-11-24T15:56:00Z",
+            "content": "To build a company from scratch and scale it into a solid business is a Herculean feat in the best of times. By most measures, 2020 has not been the best of times.\r\nBut all year long, startup founder\u2026 [+1149 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shriya Ramakrishnan",
+            "title": "Futures rise as Biden transition, vaccine progress lift mood",
+            "description": "U.S. stock index futures rose on Tuesday as the formal go-ahead for President-elect Joe Biden's transition to the White House ended weeks of political uncertainty and added to hopes of an economic recovery next year.",
+            "url": "https://ca.reuters.com/article/us-usa-stocks-idCAKBN2841OS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201124&t=2&i=1542281522&r=LYNXMPEGAN0VV&w=800",
+            "publishedAt": "2020-11-24T12:30:34Z",
+            "content": "By Shriya Ramakrishnan\r\nFILE PHOTO: A man wearing a protective face mask walks by 14 Wall Street, as the global outbreak of the coronavirus disease (COVID-19) continues, in the financial district of \u2026 [+2021 chars]"
+        }
+    ]
+}

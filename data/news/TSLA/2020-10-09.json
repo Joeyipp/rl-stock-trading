@@ -1,0 +1,357 @@
+{
+    "status": "ok",
+    "totalResults": 27,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Why Amazon and Panasonic are betting on this battery recycling startup",
+            "description": "JB Straubel, the Tesla co-founder and former CTO, is often cast as the humble and pioneering engineer, the quiet one who toiled away in the background for 15 years on some of the company\u2019s most important technologies. That characterization \u2014 which intensified\u2026",
+            "url": "http://techcrunch.com/2020/10/09/why-amazon-and-panasonic-are-betting-on-this-battery-recycling-startup/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/Redwood-used-batteries-and-accumulators-ecology-ang-recycling.jpg?w=600",
+            "publishedAt": "2020-10-09T19:19:05Z",
+            "content": "JB Straubel, the Tesla co-founder and former CTO, is often cast as the humble and pioneering engineer, the quiet one who toiled away in the background for 15 years on some of the company\u2019s most impor\u2026 [+9941 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew DeBord",
+            "title": "Elon Musk's former right-hand man, JB Straubel, is building a company to chase the big money in recycling old EV batteries as demand for lithium skyrockets (TSLA)",
+            "description": "Summary List Placement\n\n\n\u00a0\nWhen JB Straubel announced last year that he was leaving Tesla, investors put forth a chorus of concern. Employee No. 5 had been with the automaker since 2004, when pretty much nobody had heard of the electric-car startup, or of Elo\u2026",
+            "url": "https://www.businessinsider.com/jb-straubel-is-building-redwood-to-recycle-old-ev-batteries-2020-10",
+            "urlToImage": "https://i.insider.com/5f7f83d6ea74820019ca6133?width=1200&format=jpeg",
+            "publishedAt": "2020-10-09T12:37:00Z",
+            "content": "When JB Straubel announced last year that he was leaving Tesla, investors put forth a chorus of concern. Employee No. 5 had been with the automaker since 2004, when pretty much nobody had heard of th\u2026 [+7815 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Veronika Kero",
+            "title": "Enter to win a Tesla Model 3 by donating to a good cause",
+            "description": "TL;DR: Get 100 entries to win a 2020 Tesla Model 3 for just $10 as of Oct. 9.\u00a0\n\nWe love a raffle, and here's a particularly good one: Enter to win a brand new Tesla Model 3 by simply donating to a good cause.\nThe more you donate, the more entries you'll get i\u2026",
+            "url": "https://mashable.com/shopping/oct-9-tesla-model-3-giveaway/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F09%252Ff7%252Fa76accdc387846e08fbb1297f0145748.a0197.png%252F1200x630.png?signature=edzbw_E3rHaYFZVxj4cYRywUHX8=",
+            "publishedAt": "2020-10-09T09:00:00Z",
+            "content": "TL;DR: Get 100 entries to win a 2020 Tesla Model 3 for just $10 as of Oct. 9.\u00a0\r\nWe love a raffle, and here's a particularly good one: Enter to win a brand new Tesla Model 3 by simply donating to a go\u2026 [+879 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Polestar CEO defends the Polestar 2\u2019s recall and 233-mile EPA rating",
+            "description": "Polestar is a young automaker spun out of Volvo and Geely. Now, just four years old, it has two cars on the market with more launching soon. Like many startups, the company is weathering early storms coming from government regulators and early recalls. Earlie\u2026",
+            "url": "http://techcrunch.com/2020/10/09/polestar-ceo-defends-the-polestar-2s-recall-and-233-mile-epa-rating/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/08/polestar-2-6.jpg?w=600",
+            "publishedAt": "2020-10-09T16:17:05Z",
+            "content": "Polestar is a young automaker spun out of Volvo and Geely. Now, just four years old, it has two cars on the market with more launching soon. Like many startups, the company is weathering early storms\u2026 [+2613 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Alexander Smith",
+            "title": "SailGP looks beyond wind power to hit climate positive goal - Reuters",
+            "description": "SailGP aims to be climate positive when its \"foiling\" F50 catamarans begin their second season next year, in a move it hopes will speed up the electrification of the marine industry.",
+            "url": "https://www.reuters.com/article/us-sailing-sailgp-climatechange-idUSKBN26U1G7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201009&t=2&i=1536852276&r=LYNXMPEG980US&w=800",
+            "publishedAt": "2020-10-09T12:58:00Z",
+            "content": "LONDON (Reuters) - SailGP aims to be climate positive when its foiling F50 catamarans begin their second season next year, in a move it hopes will speed up the electrification of the marine industry.\u2026 [+1660 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Alexander Smith",
+            "title": "SailGP looks beyond wind power to hit climate positive goal - Reuters UK",
+            "description": "SailGP aims to be climate positive when its \"foiling\" F50 catamarans begin their second season next year, in a move it hopes will speed up the electrification of the marine industry.",
+            "url": "https://uk.reuters.com/article/uk-sailing-sailgp-climatechange-idUKKBN26U1L2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201009&t=2&i=1536858300&r=LYNXMPEG980XP&w=800",
+            "publishedAt": "2020-10-09T13:56:00Z",
+            "content": "LONDON (Reuters) - SailGP aims to be climate positive when its foiling F50 catamarans begin their second season next year, in a move it hopes will speed up the electrification of the marine industry.\u2026 [+1660 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Alexander Smith",
+            "title": "SailGP looks beyond wind power to hit climate positive goal - Reuters Canada",
+            "description": "SailGP aims to be climate positive when its \"foiling\" F50 catamarans begin their second season next year, in a move it hopes will speed up the electrification of the marine industry.",
+            "url": "https://ca.reuters.com/article/us-sailing-sailgp-climatechange-idCAKBN26U1G7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201009&t=2&i=1536857457&r=LYNXMPEG980US&w=800",
+            "publishedAt": "2020-10-09T13:47:00Z",
+            "content": "By Alexander Smith\r\nLONDON (Reuters) - SailGP aims to be climate positive when its foiling F50 catamarans begin their second season next year, in a move it hopes will speed up the electrification of \u2026 [+1680 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson, Joey Roulette",
+            "title": "Exclusive: Virgin Hyperloop picks West Virginia to test high-speed transport system - Reuters",
+            "description": "Virgin Hyperloop has picked the U.S. state of West Virginia to host a $500 million certification center and test track for billionaire Richard Branson's super high-speed travel system, the company told Reuters.",
+            "url": "https://www.reuters.com/article/virgin-hyperloop-west-virginia-idUSKBN26U08Y",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201009&t=2&i=1536799655&r=LYNXMPEG9805D&w=800",
+            "publishedAt": "2020-10-09T03:07:00Z",
+            "content": "SEATTLE/WASHINGTON (Reuters) - Virgin Hyperloop has picked the U.S. state of West Virginia to host a $500 million certification center and test track for billionaire Richard Bransons super high-speed\u2026 [+2620 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mike Dolan",
+            "title": "COLUMN-Stay focused on concentration :Mike Dolan - Reuters",
+            "description": "For those worried about the dominance of global technology titans in their stock portfolios, recent antitrust actions may seem like the perfect moment to cut and run.",
+            "url": "https://www.reuters.com/article/global-concentration-idUSL8N2GY5RH",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-09T06:02:00Z",
+            "content": "(The author is editor-at-large for finance and markets at Reuters News. Any views expressed here are his own)\r\nLONDON, Oct 9 (Reuters) - For those worried about the dominance of global technology tit\u2026 [+4471 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mike Dolan",
+            "title": "COLUMN-Stay focused on concentration :Mike Dolan - Reuters India",
+            "description": "For those worried about the dominance of global technology titans in their stock portfolios, recent antitrust actions may seem like the perfect moment to cut and run.",
+            "url": "https://www.reuters.com/article/global-concentration-idINL8N2GY5RH",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-09T06:01:00Z",
+            "content": "(The author is editor-at-large for finance and markets at Reuters News. Any views expressed here are his own)\r\nLONDON, Oct 9 (Reuters) - For those worried about the dominance of global technology tit\u2026 [+4471 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mike Dolan",
+            "title": "Column: Stay focused on concentration - Reuters UK",
+            "description": "For those worried about the dominance of global technology titans in their stock portfolios, recent antitrust actions may seem like the perfect moment to cut and run.",
+            "url": "https://uk.reuters.com/article/us-global-concentration-idUKKBN26U0IO",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201009&t=2&i=1536814268&r=LYNXMPEG980A1&w=800",
+            "publishedAt": "2020-10-09T06:45:00Z",
+            "content": "LONDON (Reuters) - For those worried about the dominance of global technology titans in their stock portfolios, recent antitrust actions may seem like the perfect moment to cut and run.\r\nTrading info\u2026 [+4512 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mike Dolan",
+            "title": "Column: Stay focused on concentration - Reuters UK",
+            "description": "For those worried about the dominance of global technology titans in their stock portfolios, recent antitrust actions may seem like the perfect moment to cut and run.",
+            "url": "https://www.reuters.com/article/us-global-concentration-idUKKBN26U0IO",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201009&t=2&i=1536814268&r=LYNXMPEG980A1&w=800",
+            "publishedAt": "2020-10-09T06:45:00Z",
+            "content": "LONDON (Reuters) - For those worried about the dominance of global technology titans in their stock portfolios, recent antitrust actions may seem like the perfect moment to cut and run.\r\nTrading info\u2026 [+4622 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "David Slotnick",
+            "title": "Boom Supersonic's CEO explains how his jet could avoid the pitfalls that doomed the Concorde \u2014 and someday bring faster-than-sound flight to the masses",
+            "description": "Summary List Placement\n\nAerospace startup Boom Supersonic unveiled its first plane this week, the XB-1. The reveal marked a\u00a0major milestone for the company, which aims to have a supersonic passenger jet \u2014 a plane capable of traveling faster than the speed of \u2026",
+            "url": "https://www.businessinsider.com/boom-supersonic-interview-overture-concorde-ceo-2020-10",
+            "urlToImage": "https://i.insider.com/5f7f7a96ea74820019ca60fd?width=1200&format=jpeg",
+            "publishedAt": "2020-10-09T12:29:00Z",
+            "content": "Aerospace startup Boom Supersonic unveiled its first plane this week, the XB-1. The reveal marked a\u00a0major milestone for the company, which aims to have a supersonic passenger jet \u2014 a plane capable of\u2026 [+3812 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier",
+            "title": "Tesla permit application reveals it wants to build batteries alongside Cybertrucks at its new Texas factory (TSLA)",
+            "description": "Summary List Placement\n\nTesla may be planning to build battery cells alongside Cybertrucks and other vehicles at its newest factory, set to open in 2021.\nDocuments filed with the state's Commission on Environmental Quality, first reported by the Austin Busine\u2026",
+            "url": "https://www.businessinsider.com/tesla-permit-to-build-battery-cells-in-texas-alongside-cybertrucks-2020-10",
+            "urlToImage": "https://i.insider.com/5f809353ea74820019ca6402?width=1200&format=jpeg",
+            "publishedAt": "2020-10-09T17:04:14Z",
+            "content": "Tesla may be planning to build battery cells alongside Cybertrucks and other vehicles at its newest factory, set to open in 2021.\r\nDocuments filed with the state's Commission on Environmental Quality\u2026 [+1680 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Why Amazon and Panasonic are betting on this battery recycling startup",
+            "description": "JB Straubel, the Tesla co-founder and former CTO, is often cast as the humble and pioneering engineer, the quiet one who toiled away in the background for 15 years on some of the company's most important technologies. Straubel envisions and is actively workin\u2026",
+            "url": "https://techcrunch.com/2020/10/09/why-amazon-and-panasonic-are-betting-on-this-battery-recycling-startup/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/epx.kjIUScbdCLfaie4Ljg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/yGCHUkL2.APpPnfqrFXasg--~B/aD0zNzQ0O3c9NTYxNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/09a934f26e444402e15ab5bad373e437",
+            "publishedAt": "2020-10-09T19:19:05Z",
+            "content": "JB Straubel, the Tesla co-founder and former CTO, is often cast as the humble and pioneering engineer, the quiet one who toiled away in the background for 15 years on some of the company's most impor\u2026 [+10003 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Matousek",
+            "title": "A startup run by a 25-year-old CEO is proving Elon Musk wrong by bringing lidar \u2014 and self-driving savvy \u2014 to the mass market",
+            "description": "Summary List Placement\n\nFor years, Tesla CEO Elon Musk has said lidar sensors are too expensive for consumer cars. He's called the sensor a \"crutch,\" although most experts believe its key to making cars drive themselves. \"Anyone relying on lidar is doomed,\" M\u2026",
+            "url": "https://www.businessinsider.com/luminar-elon-musk-austin-russell-lidar-volvo-cars-2020-10",
+            "urlToImage": "https://i.insider.com/5f7f581be4029f0018760573?width=1200&format=jpeg",
+            "publishedAt": "2020-10-09T11:34:00Z",
+            "content": "For years, Tesla CEO Elon Musk has said lidar sensors are too expensive for consumer cars. He's called the sensor a \"crutch,\" although most experts believe its key to making cars drive themselves. \"A\u2026 [+3600 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Battery Boom for Electric Cars, Trucks and Half the Grid by 2040",
+            "description": "Tesla Battery Day had the goal of the world producing 20 TWh per year of low cost, high energy density batteries. Reaching this goal would enable all new cars, buses, and trucks to be electric and it...\n\n[[ This is a content summary only. Visit my website for\u2026",
+            "url": "https://www.nextbigfuture.com/2020/10/battery-boom-for-electric-cars-trucks-and-half-the-grid-by-2040.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2019/09/SX3Semi-Tesla-1024x510.jpg",
+            "publishedAt": "2020-10-09T06:44:52Z",
+            "content": "Tesla Battery Day had the goal of the world producing 20 TWh per year of low cost, high energy density batteries. Reaching this goal would enable all new cars, buses, and trucks to be electric and it\u2026 [+1710 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "myan@businessinsider.com (Michelle Yan,Bob Hunt,Dave Mosher)",
+            "title": "What Elon Musk's 42,000 Starlink satellites could do for \u2014 and to \u2014 earth",
+            "description": "Elon Musk is hoping to send 42,000 satellites to space to bring high-speed internet to every part of the world. But experts worry it may be costly.",
+            "url": "https://www.businessinsider.com/how-elon-musk-42000-starlink-satellites-earth-effects-stars-2020-10",
+            "urlToImage": "https://i.insider.com/5f7de4ea94fce90018f7ba4b?width=1200&format=jpeg",
+            "publishedAt": "2020-10-09T17:15:00Z",
+            "content": "Following is a transcript of the video.\r\nYou're looking at 60 satellites hurtling into the sky. And over the next few decades, Elon Musk is hoping to send 42,000 of these satellites to space, 15 time\u2026 [+5987 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "SpaceX Starlink Internet 'Catapulted Us Into the 21st Century,' Native American Tribe Says",
+            "description": "\"What a difference high-speed internet can make. Our children can participate in remote learning, residents can access healthcare,\" the Hoh tribe tweeted after getting a high-speed connection.",
+            "url": "https://www.newsweek.com/spacex-starlink-internet-hoh-tribe-washington-state-elon-musk-1537783",
+            "urlToImage": "https://d.newsweek.com/en/full/1648571/hoh-tribe-spacex.png",
+            "publishedAt": "2020-10-09T12:03:02Z",
+            "content": "A Native American tribe in a remote part of Washington has been \"catapulted into the 21st century\" after getting SpaceX's Starlink internet.\r\nThe Hoh Tribe, which is based on the Pacific coast, rough\u2026 [+2861 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "adavies@businessinsider.com (Alex Davies)",
+            "title": "Insider Transportation: SpaceX makes 'final attempt' to clear out Texas villagers for its rocket resort, Rivian's 6-figure salaries, and Luminar's bet on lidar",
+            "description": "Plus: a battery recycling venture from a Tesla veteran, Mercedes new plan for an electric future, and Delta's aging plane problem.",
+            "url": "https://www.businessinsider.com/spacex-battle-residents-boca-chica-luminar-rivian-mercedes-tesla-delta-2020-10",
+            "urlToImage": "https://i.insider.com/5f80a8e04c3b2e0019bba38a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-09T18:18:12Z",
+            "content": "For more than a year now, SpaceX has been trying to clear residents out of Boca Chica, the beachside Texas village where Elon Musk has decided to build a \"resort\" for launching rockets to orbit, the \u2026 [+2739 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena, CNN Business",
+            "title": "Electric carmaker Polestar prepares to leave Volvo behind",
+            "description": "Polestar was once the name of a Swedish racing team that had become part of Volvo. But in 2017, it became a separate company making fully electric luxury cars and it is, more and more, pulling itself away from the famously safety-conscious parent company.",
+            "url": "https://www.cnn.com/2020/10/09/business/volvo-polestar/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201007162733-03-volvo-polestar-super-tease.jpg",
+            "publishedAt": "2020-10-09T12:52:25Z",
+            "content": "(CNN)Polestar was once the name of a Swedish racing team that had become part of Volvo. But in 2017, it became a separate company making fully electric luxury cars and it is, more and more, pulling i\u2026 [+6536 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "The US military and Elon Musk are planning a 7,500 mph rocket that can deliver weapons anywhere in the world in an hour",
+            "description": "The planned SpaceX rocket can blast 80 tonnes of cargo into space, and complete a 7,652-mile journey from Florida to Afghanistan in about an hour.",
+            "url": "https://www.businessinsider.com/musks-spacex-partners-us-military-to-deliver-weapons-by-rockets-2020-10",
+            "urlToImage": "https://i.insider.com/5f803ad5ea74820019ca61ba?width=1200&format=jpeg",
+            "publishedAt": "2020-10-09T11:19:03Z",
+            "content": "Elon Musk's SpaceX and the US military plan to build a 7,500 mph rocket that can deliver 80 tonnes of cargo to anywhere in the world in 60 minutes.\r\nUnder a newly agreed contract, SpaceX will assess \u2026 [+1626 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Electric cars really do cost less to own than gas-powered vehicles, report says",
+            "description": "Electric car manufacturers have long claimed their vehicles are ultimately less expensive to own than their gas-powered counterparts, and it now looks like that wasn\u2019t just classic marketing spin. Consumer Reports has published a study indicating tha...",
+            "url": "https://www.engadget.com/electric-cars-cost-less-to-own-than-gas-vehicles-133913554.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F122f8cf0-0a36-11eb-beef-2579eedd8ed1&client=amp-blogside-v2&signature=2bb3bb6f5c663de79190843f58847e9905aa169e",
+            "publishedAt": "2020-10-09T13:39:13Z",
+            "content": "The savings on fuel unsurprisingly played a large role. CR determined that EV drivers spend about 60 percent less to keep their vehicles topped up, and owners whose cars have a range of 250 miles or \u2026 [+1386 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bjones@businessinsider.com (Benji Jones)",
+            "title": "Exxon's no good, very bad week",
+            "description": "Welcome to Insider Energy, Business Insider's weekly energy newsletter. Sign up to get it in your inbox every Friday.",
+            "url": "https://www.businessinsider.com/insider-energy-exxons-rough-week-mega-mergers-ahead-jobs-outlook-2020-10",
+            "urlToImage": "https://i.insider.com/5f44f96489aff80028ab7b10?width=1200&format=jpeg",
+            "publishedAt": "2020-10-09T16:40:00Z",
+            "content": "Welcome to Insider Energy, a weekly energy newsletter brought to you by Business Insider.\u00a0\r\nHere's what you need to know:\r\nI've been thinking a lot about that fly.\u00a0\r\nSpeaking of surprise appearances \u2026 [+7186 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Amanda Perelli",
+            "title": "How much money YouTube pays finance creators per month, per year, and for videos with 100,000 views",
+            "description": "Summary List Placement\n\nThis is the latest installment of\u00a0Business Insider's YouTube money logs, where creators break down how much they earn.\nAttorney Erika Kullberg started her personal-finance YouTube channel one year ago after leaving her job as a corpora\u2026",
+            "url": "https://www.businessinsider.com/how-much-money-youtube-pays-finance-creators-month-year-views-2020-10",
+            "urlToImage": "https://i.insider.com/5e53ecb4fee23d7c19455274?width=1200&format=jpeg",
+            "publishedAt": "2020-10-09T15:26:00Z",
+            "content": "This is the latest installment of\u00a0Business Insider's YouTube money logs, where creators break down how much they earn.\r\nAttorney Erika Kullberg started her personal-finance YouTube channel one year a\u2026 [+1325 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Rocket Report: China unveils big rocket plans, SpaceX\u2019s \u201csecret\u201d launch",
+            "description": "\"How do you spend that much money and have a return on investment?\"",
+            "url": "https://arstechnica.com/science/2020/10/rocket-report-china-unveils-big-rocket-plans-spacexs-secret-launch/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/p1020c-760x380.jpg",
+            "publishedAt": "2020-10-09T11:00:17Z",
+            "content": "Enlarge/ A P120C solid rocket motor is fired in French Guiana.\r\n0 with 0 posters participating\r\nWelcome to Edition 3.19 of the Rocket Report! This week we were glad to see US rockets, led by the Anta\u2026 [+7970 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mike Dolan",
+            "title": "COLUMN-Stay focused on concentration :Mike Dolan",
+            "description": "For those worried about the dominance of global technology titans in their stock portfolios, recent antitrust actions may seem like the perfect moment to cut and run.",
+            "url": "https://uk.reuters.com/article/global-concentration-idUKL8N2GY5RH",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-09T06:00:00Z",
+            "content": "(The author is editor-at-large for finance and markets at Reuters News. Any views expressed here are his own)\r\nLONDON, Oct 9 (Reuters) - For those worried about the dominance of global technology tit\u2026 [+4471 chars]"
+        }
+    ]
+}

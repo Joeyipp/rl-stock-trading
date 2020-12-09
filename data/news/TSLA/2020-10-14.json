@@ -1,0 +1,591 @@
+{
+    "status": "ok",
+    "totalResults": 45,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Elon Musk, lover of dumb jokes, says he\u2019s slashing Tesla Model S price to $69,420",
+            "description": "Elon Musk said that Tesla was reducing the price of its flagship sedan, the Model S, to $69,420. Dumb jokes aside, the price cut is likely a response to the announcement from Lucid Motors about the base model of its forthcoming electric sedan, the Lucid Air.",
+            "url": "https://www.theverge.com/2020/10/14/21516528/elon-musk-tesla-model-s-price-cut-twitter",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/edZ89ajSoVm_CnKtrPIi_y9oQvc=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21959296/twarren_08202017_1939_0003.0.jpg",
+            "publishedAt": "2020-10-14T20:09:48Z",
+            "content": "A billionaire with the sense of humor of a 12-year-old boy\r\nTesla CEO Elon Musk, lover of dirty jokes and weed jokes, is back at it again. On Wednesday, Musk tweeted that Tesla would be reducing the \u2026 [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Tesla to begin production on 7-seat Model Y in November, with deliveries in early December",
+            "description": "Elon Musk has shared some updated info about the timeline for the seven-seat version of the Model Y, Tesla\u2019s more affordable electric SUV. The Model Y began deliveries to customers in March of this year in the U.S., but Musk said in June that he anticipated t\u2026",
+            "url": "http://techcrunch.com/2020/10/14/tesla-to-begin-production-on-7-seat-model-y-in-november-with-deliveries-in-early-december/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/Model-Y-Side-Blue.jpg?w=711",
+            "publishedAt": "2020-10-14T19:15:18Z",
+            "content": "Elon Musk has shared some updated info about the timeline for the seven-seat version of the Model Y, Tesla\u2019s more affordable electric SUV. The Model Y began deliveries to customers in March of this y\u2026 [+1042 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sasha Lekach",
+            "title": "Musk: SpaceX's Starlink internet service will work in high-speed trains",
+            "description": "SpaceX\u2019s satellite internet network, Starlink, may deliver broadband to people\u2019s homes and their cars, according to CEO Elon Musk.\u00a0\nOn Tuesday, Twitter user Anton Kanerva asked Musk whether Starlink\u2019s satellite dishes will work over \u201chigh-speed moving objects\u2026",
+            "url": "https://mashable.com/article/spacex-starlink-internet-cars/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F14%252Fa3%252Ff91cba7dfaa44c83bf78327a38b09f1e.58f50.jpg%252F1200x630.jpg?signature=mgeMUGfzjSxHnWREABjrAFuEILI=",
+            "publishedAt": "2020-10-14T21:45:23Z",
+            "content": "SpaceXs satellite internet network, Starlink, may deliver broadband to peoples homes and their cars, according to CEO Elon Musk.\u00a0\r\nOn Tuesday, Twitter user Anton Kanerva asked Musk whether Starlinks \u2026 [+1579 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla's back-to-back price cuts put sticker on U.S. Model S below $70,000 - Reuters",
+            "description": "Tesla Inc <TSLA.O> will further cut the price of its Model S \"Long Range\" sedan in the United States to $69,420, the electric carmaker's chief executive, Elon Musk, announced in a tweet https://bit.ly/2H0JCP0 on Wednesday.",
+            "url": "https://www.reuters.com/article/us-tesla-model-s-idUSKBN26Z2Y9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537485880&r=LYNXMPEG9D1RE&w=800",
+            "publishedAt": "2020-10-14T20:06:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Tesla Model S drives during electric car E-Rallye Baltica 2019 near Iecava, Latvia July 23, 2019. REUTERS/Ints Kalnins/File Photo\r\n(Reuters) - Tesla Inc TSLA.O will furt\u2026 [+990 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla's back-to-back price cuts put sticker on U.S. Model S below $70,000 - Reuters UK",
+            "description": "Tesla Inc <TSLA.O> will further cut the price of its Model S \"Long Range\" sedan in the United States to $69,420, the electric carmaker's chief executive, Elon Musk, announced in a tweet https://bit.ly/2H0JCP0 on Wednesday.",
+            "url": "https://uk.reuters.com/article/us-tesla-model-s-idUKKBN26Z2Y9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537485880&r=LYNXMPEG9D1RE&w=800",
+            "publishedAt": "2020-10-14T21:06:09Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Tesla Model S drives during electric car E-Rallye Baltica 2019 near Iecava, Latvia July 23, 2019. REUTERS/Ints Kalnins/File Photo\r\n(Reuters) - Tesla Inc TSLA.O will furt\u2026 [+990 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Byron Hurd",
+            "title": "Elon Musk Says He's Cutting Tesla Model S Base Price to $69,420",
+            "description": "\"The gauntlet has been thrown down!\" Musk wrote on Twitter. \"The prophecy will be fulfilled. Model S price changes to $69,420 tonight!\"",
+            "url": "https://www.engadget.com/elon-musk-says-hes-cutting-210000414.html",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1602710307-tesla-v10-0-car-crop.jpg",
+            "publishedAt": "2020-10-14T21:19:17Z",
+            "content": "October\r\n14, 2020\r\n2 min read\r\nThis story originally appeared on EngadgetThe base\u00a0Tesla Model S\u00a0will now retail for $69,420, CEO\u00a0Elon Musk\u00a0said in a tweet Tuesday, announcing that the \"gauntlet has b\u2026 [+1520 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Christopher Thompson",
+            "title": "Breakingviews - VW bid for Tesla\u2019s crown rests on shaky optimism - Reuters",
+            "description": "Modesty is not a virtue associated with Tesla founder Elon Musk. Now Volkswagen boss Herbert Diess is trying to match his $426 billion rival\u2019s bluster with a pledge to increase electric-vehicle sales 27-fold by 2025. Still, Musk\u2019s deep battery expertise and t\u2026",
+            "url": "https://www.reuters.com/article/us-vw-tesla-breakingviews-idUSKBN26Z24H",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537441904&r=LYNXMPEG9D17O&w=800",
+            "publishedAt": "2020-10-14T14:17:00Z",
+            "content": "LONDON (Reuters Breakingviews) - Modesty is not a virtue associated with Tesla founder Elon Musk. Now Volkswagen boss Herbert Diess is trying to match his $426 billion rivals bluster with a pledge to\u2026 [+5789 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brian Fung, CNN Business",
+            "title": "Shocking Twitter hack this summer started with tech support scam, regulators allege",
+            "description": "The hackers who took over Twitter accounts belonging to Barack Obama and Elon Musk for several hours this summer gained entry into Twitter's internal systems simply by posing as company IT officials making a support call, according to an investigative report \u2026",
+            "url": "https://www.cnn.com/2020/10/14/tech/twitter-hack-tech-support-scam/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200715194919-02-twitter-hack-split-super-tease.jpg",
+            "publishedAt": "2020-10-14T15:31:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emily Graffeo",
+            "title": "Tesla will soar another 400% after torrid rally this year, billionaire stakeholder Ron Baron says (TSLA)",
+            "description": "Summary List Placement\n\n<ul>\n<li>Billionaire investor Ron Baron told CNBC on Wednesday that Tesla will become a $2 trillion company.\u00a0</li>\n<li>Baron's asset management firm bought Tesla in 2016 when shares were roughly $40.</li>\n<li>He said he's focused on th\u2026",
+            "url": "https://www.businessinsider.com/tesla-stock-price-target-ron-baron-trillion-market-capitalization-valuation-2020-10",
+            "urlToImage": "https://i.insider.com/5f870b59fd1f49001964d8f7?format=jpeg",
+            "publishedAt": "2020-10-14T15:36:25Z",
+            "content": "CNBC TV\r\n<ul><li>Billionaire investor Ron Baron told CNBC on Wednesday that Tesla will become a $2 trillion company.\u00a0</li><li>Baron's asset management firm bought Tesla in 2016 when shares were rough\u2026 [+2353 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Lucid reveals the price of its base Air sedan \u2014 $77,400 minus $7,500 US tax credit",
+            "description": "Electric car company Lucid finally revealed the price of its least expensive vehicle and it will start at $77,400. US buyers also qualify for a $7,500 tax credit making the vehicle eventually cost $69,900. This version of the Lucid Air comes rightfully less e\u2026",
+            "url": "http://techcrunch.com/2020/10/14/lucid-reveals-the-price-of-its-base-air-sedan-77500-minus-7500-us-tax-credit/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/3-1.jpg?w=617",
+            "publishedAt": "2020-10-14T15:30:23Z",
+            "content": "Electric car company Lucid finally revealed the price of its least expensive vehicle and it will start at $77,400. US buyers also qualify for a $7,500 tax credit making the vehicle eventually cost $6\u2026 [+1048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonathan Stempel",
+            "title": "Twitter's security fell short before hack targeting celebrities, regulator says - Reuters",
+            "description": "Twitter Inc suffered from cybersecurity shortfalls that enabled a \"simple\" hack attributed to a Florida teenager to take over the accounts of several of the world's most famous people in July, according to a report released on Wednesday.",
+            "url": "https://www.reuters.com/article/us-twitter-cyber-idUSKBN26Z1ZM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537435635&r=LYNXMPEG9D153&w=800",
+            "publishedAt": "2020-10-14T13:36:00Z",
+            "content": "NEW YORK (Reuters) - Twitter Inc suffered from cybersecurity shortfalls that enabled a simple hack attributed to a Florida teenager to take over the accounts of several of the worlds most famous peop\u2026 [+1966 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Twitter hack probe leads to call for cybersecurity rules for social media giants",
+            "description": "An investigation into this summer\u2019s Twitter hack by the New York State Department of Financial Services (NYSDFS) has ended with a stinging rebuke for how easily Twitter let itself be duped by a \u201csimple\u201d social engineering technique \u2014 and with a wider call for\u2026",
+            "url": "http://techcrunch.com/2020/10/14/twitter-hack-probe-leads-to-call-for-cybersecurity-rules-for-social-media-giants/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/twitter-app-icon-ios.jpg?w=695",
+            "publishedAt": "2020-10-14T14:32:18Z",
+            "content": "An investigation into this summer\u2019s Twitter hack by the New York State Department of Financial Services (NYSDFS) has ended with a stinging rebuke for how easily Twitter let itself be duped by a \u201csimp\u2026 [+4268 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonathan Stempel",
+            "title": "Twitter's security fell short before hack targeting celebrities, regulator says - Reuters Canada",
+            "description": "Twitter Inc suffered from cybersecurity shortfalls that enabled a \"simple\" hack attributed to a Florida teenager to take over the accounts of several of the world's most famous people in July, according to a report released on Wednesday.",
+            "url": "https://ca.reuters.com/article/ctech-us-twitter-cyber-idCAKBN26Z1ZM-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537435759&r=LYNXMPEG9D153-OCATC&w=800",
+            "publishedAt": "2020-10-14T13:36:00Z",
+            "content": "By Jonathan Stempel\r\nNEW YORK (Reuters) - Twitter Inc suffered from cybersecurity shortfalls that enabled a simple hack attributed to a Florida teenager to take over the accounts of several of the wo\u2026 [+2105 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Elon Musks tweets the Model S will be priced at $69,420 because he\u2019s a child",
+            "description": "The Tesla Model S is about to get a bit less expensive. Tesla CEO and resident meme maker, Elon Musk just tweeted that the Model S sedan will soon be priced at $69,420. This pricing wasn\u2019t done on a whim and a joint. The price cut is likely in response to Luc\u2026",
+            "url": "http://techcrunch.com/2020/10/14/elon-musks-tweets-the-model-s-will-be-price-at-69420-because-hes-a-child/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/laguna-seca-small.gif?w=700",
+            "publishedAt": "2020-10-14T19:27:34Z",
+            "content": "The Tesla Model S is about to get a bit less expensive. Tesla CEO and resident meme maker, Elon Musk just tweeted that the Model S sedan will soon be priced at $69,420. This pricing wasn\u2019t done on a \u2026 [+1631 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "A Tesla bull bets on Chinese tech stocks | Reuters Video - Reuters India",
+            "description": "Gerber Kawasaki CEO Ross Gerber, a Tesla bull who's otherwise very cautious on U.S. stocks, tells Reuters' Fred Katayama why he's investing heavily in Chinese battery stocks.",
+            "url": "https://in.reuters.com/video/watch/idRCV008UTK",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20201014&i=RCV008UTK&r=RCV008UTK&t=2",
+            "publishedAt": "2020-10-14T19:47:03Z",
+            "content": "Posted \r\nGerber Kawasaki CEO Ross Gerber, a Tesla bull who's otherwise very cautious on U.S. stocks, tells Reuters' Fred Katayama why he's investing heavily in Chinese battery stocks."
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sasha Lekach",
+            "title": "Lucid Air reveals price and range for its cheapest EV",
+            "description": "Last month Lucid made a splash with its first luxury electric vehicle, the Air Dream Edition, with more than 500 miles of battery range and a shocking $169,000 price tag to match.\nNow a more \"attainable\" version of Lucid's battery-powered car is available to \u2026",
+            "url": "https://mashable.com/article/lucid-air-ev-base-price-range/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F14%252Fe8%252F1895b67bb8994a1aa734a4230cda9d3f.a4140.jpg%252F1200x630.jpg?signature=PKpg6ReLqhsFV8jQKMow3EWMa8M=",
+            "publishedAt": "2020-10-14T13:00:00Z",
+            "content": "Last month Lucid made a splash with its first luxury electric vehicle, the Air Dream Edition, with more than 500 miles of battery range and a shocking $169,000 price tag to match.\r\nNow a more \"attain\u2026 [+1472 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "Getaround raises a $140 million Series E amid rebound in short-distance travel",
+            "description": "Amid a rebound in short-distance travel, Getaround, a Silicon Valley car rental startup, has raised some new money to meet demand. The startup, which allows customers to instantly rent cars near them in over 100 cities, announced today that it has raised $140\u2026",
+            "url": "http://techcrunch.com/2020/10/14/getaround-raises-a-140-million-series-e-amid-rebound-in-short-distance-travel/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-597436002-1.jpg?w=600",
+            "publishedAt": "2020-10-14T13:00:13Z",
+            "content": "Amid a rebound in short-distance travel, Getaround, a Silicon Valley car rental startup, has raised some new money to meet demand. The startup, which allows customers to instantly rent cars near them\u2026 [+3052 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette, Olzhas Auyezov",
+            "title": "One American, two Russians blast off to International Space Station - Reuters India",
+            "description": "A Russian Soyuz spacecraft carrying a U.S. astronaut and two Russian cosmonauts blasted off from the Baikonur cosmodrome in Kazakhstan on Wednesday and successfully reached orbit, live footage broadcast by Russia's space agency Roscosmos showed.",
+            "url": "https://in.reuters.com/article/space-exploration-astronaut-idINKBN26Z0U4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537390129&r=LYNXMPEG9D0FZ&w=800",
+            "publishedAt": "2020-10-14T07:27:39Z",
+            "content": "WASHINGTON/ALMATY (Reuters) - A Russian Soyuz spacecraft carrying a U.S. astronaut and two Russian cosmonauts blasted off from the Baikonur cosmodrome in Kazakhstan on Wednesday and successfully reac\u2026 [+1880 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette, Olzhas Auyezov",
+            "title": "One American, two Russians blast off to International Space Station - Reuters India",
+            "description": "A Russian Soyuz spacecraft carrying a U.S. astronaut and two Russian cosmonauts blasted off from the Baikonur cosmodrome in Kazakhstan on Wednesday and successfully reached orbit, live footage broadcast by Russia's space agency Roscosmos showed.",
+            "url": "https://de.reuters.com/article/us-space-exploration-astronaut-idUSKBN26Z0ST",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537392392&r=LYNXMPEG9D0H8&w=800",
+            "publishedAt": "2020-10-14T07:21:52Z",
+            "content": "WASHINGTON/ALMATY (Reuters) - A Russian Soyuz spacecraft carrying a U.S. astronaut and two Russian cosmonauts blasted off from the Baikonur cosmodrome in Kazakhstan on Wednesday and successfully reac\u2026 [+1886 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette, Olzhas Auyezov",
+            "title": "Two Russians, one American blast off to International Space Station - Reuters UK",
+            "description": "A Russian Soyuz spacecraft carrying a U.S. astronaut and two Russian cosmonauts blasted off from the Baikonur cosmodrome in Kazakhstan on Wednesday and successfully reached orbit, live footage broadcast by Russia's space agency Roscosmos showed.",
+            "url": "https://uk.reuters.com/article/us-space-exploration-astronaut-idUKKBN26Z0ST",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537392392&r=LYNXMPEG9D0H8&w=800",
+            "publishedAt": "2020-10-14T07:14:20Z",
+            "content": "WASHINGTON/ALMATY (Reuters) - A Russian Soyuz spacecraft carrying a U.S. astronaut and two Russian cosmonauts blasted off from the Baikonur cosmodrome in Kazakhstan on Wednesday and successfully reac\u2026 [+1886 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Andrey Ostroukh, Elena Fabrichnaya",
+            "title": "Moscow Exchange bets on retail investors, more listings - Reuters",
+            "description": "The Moscow Exchange banks on the growing number of retail investors at home when foreign investors cut their exposure to Russia, and stands ready to host more listings in the near future, the bourse's chief executive told Reuters.",
+            "url": "https://www.reuters.com/article/russia-moex-idUSL8N2H46S1",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-14T06:31:34Z",
+            "content": "MOSCOW, Oct 14 (Reuters) - The Moscow Exchange banks on the growing number of retail investors at home when foreign investors cut their exposure to Russia, and stands ready to host more listings in t\u2026 [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Elon Musks tweets the Model S will be priced at $69,420 because he\u2019s a child",
+            "description": "The Tesla Model S is about to get a bit less expensive. Tesla CEO and resident meme maker, Elon Musk, just tweeted that the Model S sedan will soon be priced at $69,420. The price cut is likely in response to Lucid undercutting Tesla on pricing a few hours ag\u2026",
+            "url": "https://techcrunch.com/2020/10/14/elon-musks-tweets-the-model-s-will-be-price-at-69420-because-hes-a-child/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/9xq3y7vu0k5GL1DwIPM_bw--~B/aD0zODg7dz03MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/fdeeedc5e539c2c1ff76196edf57ea08",
+            "publishedAt": "2020-10-14T19:27:34Z",
+            "content": "The Tesla Model S is about to get a bit less expensive.\r\nTesla CEO and resident meme maker, Elon Musk just tweeted that the Model S sedan will soon be priced at $69,420. This pricing wasn't done on a\u2026 [+1630 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyunjoo Jin, Joyce Lee",
+            "title": "Hyundai Motor heir takes over from father after 20 years in waiting - Reuters India",
+            "description": "Hyundai Motor Group appointed Euisun Chung as group chairman on Wednesday, cementing his succession from his octogenarian father in a move likely to give impetus to the world's fifth-largest automaker's push into electric vehicles and flying cars.",
+            "url": "https://in.reuters.com/article/hyundai-motor-heir-idINKBN26Z0CX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537371257&r=LYNXMPEG9D070&w=800",
+            "publishedAt": "2020-10-14T03:52:19Z",
+            "content": "SEOUL (Reuters) - Hyundai Motor Group appointed Euisun Chung as group chairman on Wednesday, cementing his succession from his octogenarian father in a move likely to give impetus to the worlds fifth\u2026 [+2997 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla Beefing Up Its Public, Government Relations Teams in China",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-14/tesla-beefing-up-its-public-government-relations-teams-in-china",
+            "urlToImage": null,
+            "publishedAt": "2020-10-14T06:28:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Martin Coulter",
+            "title": "10 things in tech you need to know today",
+            "description": "Summary List Placement\n\nGood morning! This is the tech news you need to know this Wednesday. Sign up here to get this email in your inbox every morning. Have an Amazon Alexa device? Listen to this update by searching \"Business Insider\" in your flash briefing \u2026",
+            "url": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-october-14-2020-10",
+            "urlToImage": "https://i.insider.com/5f869dc791aa9e001880b840?width=1200&format=jpeg",
+            "publishedAt": "2020-10-14T06:56:33Z",
+            "content": "Good morning! This is the tech news you need to know this Wednesday. Sign up here to get this email in your inbox every morning. Have an Amazon Alexa device? Listen to this update by searching \"Busin\u2026 [+1858 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Norihiko Shirouzu",
+            "title": "From iPhones to e-axles: how one tech firm is pushing into electric vehicles - Reuters UK",
+            "description": "The miniature motors that make iPhones buzz on silent helped power Japan's Nidec <6594.T> to become a 1.5-trillion-yen ($14 billion) company.",
+            "url": "https://uk.reuters.com/article/us-autos-electric-e-axle-insight-idUKKBN26Z1C9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537409068&r=LYNXMPEG9D0QG&w=800",
+            "publishedAt": "2020-10-14T10:11:55Z",
+            "content": "(Reuters) - The miniature motors that make iPhones buzz on silent helped power Japan's Nidec 6594.T to become a 1.5-trillion-yen ($14 billion) company.\r\nFILE PHOTO: Nidec Corp's logo is pictured at a\u2026 [+9321 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Norihiko Shirouzu",
+            "title": "From iPhones to e-axles: how one tech firm is pushing into electric vehicles - Reuters UK",
+            "description": "The miniature motors that make iPhones buzz on silent helped power Japan's Nidec to become a 1.5-trillion-yen ($14 billion) company.",
+            "url": "https://uk.reuters.com/article/uk-autos-electric-e-drive-insight-idUKKBN26Z1BO",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537408618&r=LYNXMPEG9D0Q3&w=800",
+            "publishedAt": "2020-10-14T10:06:05Z",
+            "content": "(Reuters) - The miniature motors that make iPhones buzz on silent helped power Japans Nidec to become a 1.5-trillion-yen ($14 billion) company.\r\nFILE PHOTO: Nidec Corp' s CEO Shigenobu Nagamori speak\u2026 [+9119 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Lucid reveals the price of its base Air sedan -- $77,400 minus $7,500 US tax credit",
+            "description": "Electric car company Lucid finally revealed the price of its least expensive vehicle and it will start at $77,400. This version of the Lucid Air comes rightfully less equipped than its more expensive counterparts. For $77,400 buyers get a 480 HP powertrain th\u2026",
+            "url": "https://techcrunch.com/2020/10/14/lucid-reveals-the-price-of-its-base-air-sedan-77500-minus-7500-us-tax-credit/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jd1XBaGynv0Pj7_PWNLwnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04MjkuODY2NjY2NjY2NjY2Nw--/https://s.yimg.com/uu/api/res/1.2/h05lxtydMgQXX8EsTSVyCA--~B/aD0zMjQyO3c9NTAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/eb6d65bd52a9cccc084b8cd7d86bc183",
+            "publishedAt": "2020-10-14T15:30:23Z",
+            "content": "Electric car company Lucid finally revealed the price of its least expensive vehicle and it will start at $77,400. US buyers also qualify for a $7,500 tax credit making the vehicle eventually cost $6\u2026 [+1048 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Hannah Levitt",
+            "title": "Wells Fargo Fires More Than 100 Workers Over Relief Fund Abuse - Bloomberg",
+            "description": "<ol><li>Wells Fargo Fires More Than 100 Workers Over Relief Fund Abuse\u00a0\u00a0Bloomberg\r\n</li><li>Stocks making the biggest moves midday: Wells Fargo, Nio, Bank of America, Tesla & more\u00a0\u00a0CNBC\r\n</li><li>Wells Fargo is still in turmoil as profits plunge and customer \u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-14/wells-fargo-fires-more-than-100-workers-over-relief-fund-abuse",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA0j1OiWZNcs/v0/1200x800.jpg",
+            "publishedAt": "2020-10-14T21:17:00Z",
+            "content": "Wells Fargo &amp; Co. fired more than 100 employees for improperly getting coronavirus relief funds, according to a person with knowledge of the situation.\r\nThe firm found staffers who it believes de\u2026 [+1452 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Twitter hack probe leads to call for cybersecurity rules for social media giants",
+            "description": "An investigation into this summer's Twitter hack by the New York State Department of Financial Services (NYSDFS) has ended with a stinging rebuke for how easily Twitter let itself be duped by a \"simple\" social engineering technique -- and with a wider call fo\u2026",
+            "url": "https://techcrunch.com/2020/10/14/twitter-hack-probe-leads-to-call-for-cybersecurity-rules-for-social-media-giants/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ZXC5TeAS67_lMVyUJCk0sg--~B/aD04NDA7dz0xNDYwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/ba4c935d03c653b5d19cebacc642b5cf",
+            "publishedAt": "2020-10-14T14:32:18Z",
+            "content": "An investigation into this summer's Twitter hack by the New York State Department of Financial Services (NYSDFS) has ended with a stinging rebuke for how easily Twitter let itself be duped by a \"simp\u2026 [+4279 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Progress to Vegas City Wide Loop Tunnel System",
+            "description": "Special use permit applications and Design Review applications have been started for the Boring Company Las Vegas Loop system. The Boring Company Vegas Loop will be underground tunnels stretching as...\n\n[[ This is a content summary only. Visit my website for \u2026",
+            "url": "https://www.nextbigfuture.com/2020/10/progress-to-vegas-city-wide-loop-tunnel-system.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2020/10/LVloop-562x1024.jpeg",
+            "publishedAt": "2020-10-14T04:31:05Z",
+            "content": "Special use permit applications and Design Review applications have been started for the Boring Company Las Vegas Loop system.\r\nThe Boring Company Vegas Loop will be underground tunnels stretching as\u2026 [+814 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tlevin@businessinsider.com (Tim Levin)",
+            "title": "Elon Musk announced Telsa is cutting the price of the Model S to $69,420 the same day competitor Lucid Motors revealed the price of its cheaper Air sedan",
+            "description": "Elon Musk announced via tweet Wednesday that new Tesla Model S pricing will go into effect tonight, but it's unclear if he was serious about the change.",
+            "url": "https://www.businessinsider.com/elon-musk-tesla-model-s-price-cut-lucid-unveils-air-2020-10",
+            "urlToImage": "https://i.insider.com/5f875beaea23a5001903d6c8?width=1200&format=jpeg",
+            "publishedAt": "2020-10-14T21:25:14Z",
+            "content": "After slashing the cost of the Model S earlier this week, Tesla CEO Elon Musk announced plans for yet another price drop on Wednesday, but it's still not clear if he's serious this time around.\r\nTesl\u2026 [+1522 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "Elon Musk's Boring Co. has officially applied to create a system of underground tunnels connecting the entire Las Vegas strip",
+            "description": "The project is supposed to cure Sin City's gridlock, but it's \"basically just Tesla's in tunnels,\" the billionaire said.",
+            "url": "https://www.businessinsider.com/elon-musk-boring-co-las-vegas-loop-tunnel-map-proposal-2020-10",
+            "urlToImage": "https://i.insider.com/5f871eccea23a5001903d560?width=1200&format=jpeg",
+            "publishedAt": "2020-10-14T16:58:45Z",
+            "content": "With its first Las Vegas project nearing completion, Elon Musk's Boring Company has set its sights on connecting the city's entire Strip, as well as the airport and stadium, with a network of undergr\u2026 [+2747 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles, CNN Business",
+            "title": "Jeff Bezos' rocket company launches first test of its tourism spaceship in a year",
+            "description": "Blue Origin, the rocket venture founded by Jeff Bezos, launched its space tourism rocket from its West Texas test site to the edge of Earth's atmosphere on Tuesday, marking the first test flight of the rocket in nearly a year.",
+            "url": "https://www.cnn.com/2020/10/14/tech/blue-origin-new-shepard-test-launch-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201014121031-blue-origin-new-shepard-rocket-1013-super-tease.jpg",
+            "publishedAt": "2020-10-14T18:22:22Z",
+            "content": "New York (CNN Business)Blue Origin, the rocket venture founded by Jeff Bezos, launched its space tourism rocket from its West Texas test site to the edge of Earth's atmosphere on Tuesday, marking the\u2026 [+2868 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sasha Lekach",
+            "title": "Chevy Bolt EV's back seat fires prompt federal investigation",
+            "description": "After two Chevrolet Bolt EV owners reported fires breaking out under their cars' back seats, the National Highway Traffic Safety Administration is looking into the cause. Two owners of 2018 and 2019 Bolt electric vehicles reported to the National Highway Traf\u2026",
+            "url": "https://mashable.com/article/chevy-bolt-ev-fire-investigation/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F14%252Fa6%252F67ef85d735ff499089a6771f1a382f3f.18833.jpg%252F1200x630.jpg?signature=Iq8bf4Lv11hBfieatUhjMrMd0fc=",
+            "publishedAt": "2020-10-14T18:40:51Z",
+            "content": "After two Chevrolet Bolt EV owners reported fires breaking out under their cars' back seats, the National Highway Traffic Safety Administration is looking into the cause.\r\nTwo owners of 2018 and 2019\u2026 [+2117 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Lucid Motors unveils a $69,900 version of its long-range, luxury electric sedan",
+            "description": "California-based Lucid Motors says the base model of its recently revealed Lucid Air electric sedan will cost $77,400, or $69,900 with the US federal tax credit. This version of the Air will have 480 horsepower and 406 miles of range.",
+            "url": "https://www.theverge.com/2020/10/14/21514294/lucid-motors-air-electric-luxury-sedan-base-price",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/m_S5-DAW10iSfpswdonpJuCwHiw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8230821/akrales_170324_1554_A_0115.0.jpg",
+            "publishedAt": "2020-10-14T13:00:00Z",
+            "content": "Nice\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nLucid Motors is releasing a more attainable version of its recently revealed luxury electric sedan, the Lucid Air. \r\nAt an unveiling event in Septem\u2026 [+2043 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jake Bright",
+            "title": "Harley-Davidson should keep making e-motorcycles",
+            "description": "Harley-Davidson should continue to make electric motorcycles. After nearly a month and a thousand miles on the LiveWire, I'd venture to say it could be the most innovative motorcycle Harley Davidson has ever produced. Harley Davidson did that with the LiveWir\u2026",
+            "url": "http://techcrunch.com/2020/10/14/harley-davidson-should-keep-making-e-motorcycles/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/DSC08015.jpg?w=634",
+            "publishedAt": "2020-10-14T17:11:17Z",
+            "content": "Harley-Davidson should continue to make electric motorcycles. That\u2019s my big takeaway after taking home the company\u2019s LiveWire\u00a0for three weeks.\r\nI\u2019d ridden it on a closed course in 2019, but that wasn\u2026 [+8149 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shalini Nagarajan",
+            "title": "BlackRock invests over $100 million in UK electric bus-and-van maker Arrival, expanding push into greener transport",
+            "description": "Summary List Placement\n\n<ul>\n<li> BlackRock has invested $118 million into British electric-powered vehicle startup Arrival, expanding its push into sustainable transport technology.</li>\n<li>The investment values Arrival at about 3 billion euros ($3.5 billio\u2026",
+            "url": "https://www.businessinsider.com/blackrock-investment-118-mln-uk-electric-vehicle-startup-arrival-green-2020-10",
+            "urlToImage": "https://i.insider.com/5f86e6fe91aa9e001880b8a3?width=1200&format=jpeg",
+            "publishedAt": "2020-10-14T13:49:11Z",
+            "content": "<ul><li> BlackRock has invested $118 million into British electric-powered vehicle startup Arrival, expanding its push into sustainable transport technology.</li><li>The investment values Arrival at \u2026 [+2553 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Norihiko Shirouzu",
+            "title": "From iPhones to e-axles: how one tech firm is pushing into electric vehicles - Reuters",
+            "description": "The miniature motors that make iPhones buzz on silent helped power Japan's Nidec to become a 1.5-trillion-yen ($14 billion) company.",
+            "url": "https://www.reuters.com/article/us-autos-electric-e-axle-insight-idUSKBN26Z1C9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537411808&r=LYNXMPEG9D0QG&w=800",
+            "publishedAt": "2020-10-14T10:17:00Z",
+            "content": "(Reuters) - The miniature motors that make iPhones buzz on silent helped power Japans Nidec to become a 1.5-trillion-yen ($14 billion) company.\r\nFILE PHOTO: Nidec Corp's logo is pictured at an earnin\u2026 [+9305 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Nio will surge 85% as Tesla's China success is a 'rising tide lifts all boats' phenomenon, JPMorgan says",
+            "description": "The bank expects the market penetration of electric vehicles to quadruple in China over the next five years, from less than 5% to 20%.",
+            "url": "https://www.businessinsider.com/nio-stock-price-upgrade-tesla-rising-tide-boats-buy-jpmorgan-2020-10",
+            "urlToImage": "https://i.insider.com/5f87046791aa9e001880b91e?format=jpeg",
+            "publishedAt": "2020-10-14T15:01:07Z",
+            "content": "NIO ES8 electric SUVs are seen displayed at the second media day for the Shanghai auto show in Shanghai\r\nReuters\r\n<ul><li>Tesla's success in China is not a \"winner takes all\" situation, but instead a\u2026 [+2278 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "A $13.5 Billion SPAC Sensation Will Buy Your House: Chris Bryant",
+            "description": "Opendoor Labs Inc. is planning to go public by merging with a special-purpose acquisition company.",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-10-14/opendoor-is-a-13-5-billion-spac-sensation-that-will-buy-your-house",
+            "urlToImage": "https://www.nreionline.com/sites/nreionline.com/files/opendoor-labs-inc.jpg",
+            "publishedAt": "2020-10-14T15:49:00Z",
+            "content": "(Bloomberg Opinion)One year ago WeWork called off plans to go public after investors recoiled at the office-space providers huge consumption of cash and peculiar accounting. Now, another real-estate \u2026 [+5202 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "David P. Goldman",
+            "title": "Huawei Plays Matador to Trump's Bull | Opinion",
+            "description": "If the United States wants to stay ahead of China, it has to restore funding for basic R&D and create incentives for businesses to return to capital-intensive manufacturing investment.",
+            "url": "https://www.newsweek.com/huawei-plays-matador-trumps-bull-opinion-1538495",
+            "urlToImage": "https://d.newsweek.com/en/full/1650120/huawei-office-uk.jpg",
+            "publishedAt": "2020-10-14T11:00:01Z",
+            "content": "Bulls usually lose bullfights not because they fail to charge, but because they charge at the matador's cape rather than at the matador himself. President Trump has no qualms about charging at China'\u2026 [+9988 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla's Model S price to be cut to $69,420: Musk",
+            "description": "The price of Model S sedan will be cut to $69,420 tonight, Tesla Inc Chief Executive Officer Elon Musk said in a tweet https://bit.ly/2H0JCP0 on Wednesday.",
+            "url": "https://ca.reuters.com/article/us-tesla-model-s-idCAKBN26Z2Y9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537481691&r=LYNXMPEG9D1QA&w=800",
+            "publishedAt": "2020-10-14T19:35:29Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Tesla Model S car is seen in a showroom in Santa Monica, California, U.S., January 4, 2018. REUTERS/Lucy Nicholson\r\n(Reuters) - The price of Model S sedan will be cut \u2026 [+271 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonathan Stempel",
+            "title": "UPDATE 2-Twitter's security fell short before hack targeting celebrities, regulator says",
+            "description": "Twitter Inc suffered from cybersecurity shortfalls that enabled a \"simple\" hack attributed to a Florida teenager to take over the accounts of several of the world's most famous people in July, according to a report released on Wednesday.",
+            "url": "https://uk.reuters.com/article/us-twitter-cyber-idUKKBN26Z1ZM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537435635&r=LYNXMPEG9D153&w=800",
+            "publishedAt": "2020-10-14T17:56:19Z",
+            "content": "NEW YORK (Reuters) - Twitter Inc suffered from cybersecurity shortfalls that enabled a simple hack attributed to a Florida teenager to take over the accounts of several of the worlds most famous peop\u2026 [+2148 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Norihiko Shirouzu",
+            "title": "From iPhones to e-axles: how one tech firm is pushing into electric vehicles",
+            "description": "The miniature motors that make iPhones buzz on silent helped power Japan's Nidec to become a 1.5-trillion-yen ($14 billion) company.",
+            "url": "https://ca.reuters.com/article/us-autos-electric-e-axle-insight-idCAKBN26Z1C9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537411808&r=LYNXMPEG9D0QG&w=800",
+            "publishedAt": "2020-10-14T10:07:15Z",
+            "content": "By Norihiko Shirouzu\r\n(Reuters) - The miniature motors that make iPhones buzz on silent helped power Japans Nidec to become a 1.5-trillion-yen ($14 billion) company.\r\nFILE PHOTO: Nidec Corp's logo is\u2026 [+9327 chars]"
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "SpaceX Starlink bringing free Internet to some Texas kids in early 2021",
+            "description": "Starlink's first Southern deployment focuses on students who lack home Internet.",
+            "url": "https://arstechnica.com/information-technology/2020/10/spacex-starlink-bringing-free-internet-to-some-texas-kids-in-early-2021/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/spacex-starlink-illustration_CROPPED-760x380.jpg",
+            "publishedAt": "2020-10-26T19:16:43Z",
+            "content": "Enlarge/ Starlink logo imposed on stylized image of the Earth.\r\n1 with 1 posters participating\r\nSpaceX has agreed to provide Internet service to 45 families in a Texas school district in early 2021 a\u2026 [+2973 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier",
+            "title": "Joe Biden's climate plan is great news for Tesla, Wall Street analyst says (TSLA)",
+            "description": "Summary List Placement\n\nJoe Biden's plan to subsidize electric vehicles and significantly accelerate the rollout of charging stations in the United States could be a boon for Tesla, according to one Wall Street analyst.\nGarrett Nelson of CFRA Research told Ya\u2026",
+            "url": "https://www.businessinsider.com/tesla-to-gain-most-from-a-joe-biden-presidency-analyst-2020-10",
+            "urlToImage": "https://i.insider.com/5f96e6304743a3001216b98f?width=1200&format=jpeg",
+            "publishedAt": "2020-10-26T15:47:31Z",
+            "content": "Joe Biden's plan to subsidize electric vehicles and significantly accelerate the rollout of charging stations in the United States could be a boon for Tesla, according to one Wall Street analyst.\r\nGa\u2026 [+2617 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "Geely's new EV plant will build premium Polestar cars: sources - Reuters Africa",
+            "description": "An electric vehicle (EV) factory planned by Chinese automaking group Geely will produce cars under the premium Polestar marque, two people with direct knowledge of the matter told Reuters on Monday.",
+            "url": "https://www.reuters.com/article/us-geely-electric-polestar-idUSKBN27B07P",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201026&t=2&i=1538798331&r=LYNXMPEG9P05F&w=800",
+            "publishedAt": "2020-10-26T03:36:00Z",
+            "content": "BEIJING/SHANGHAI (Reuters) - An electric vehicle (EV) factory planned by Chinese automaking group Geely will produce cars under the premium Polestar marque, two people with direct knowledge of the ma\u2026 [+1642 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "Geely's new EV plant will build premium Polestar cars - sources - Reuters UK",
+            "description": "An electric vehicle (EV) factory planned by Chinese automaking group Geely will produce cars under the premium Polestar marque, two people with direct knowledge of the matter told Reuters on Monday.",
+            "url": "https://uk.reuters.com/article/uk-geely-electric-polestar-idUKKBN27B083",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201026&t=2&i=1538798611&r=LYNXMPEG9P05P&w=800",
+            "publishedAt": "2020-10-26T03:38:00Z",
+            "content": "BEIJING/SHANGHAI (Reuters) - An electric vehicle (EV) factory planned by Chinese automaking group Geely will produce cars under the premium Polestar marque, two people with direct knowledge of the ma\u2026 [+1642 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "Geely's new EV plant will build premium Polestar cars - sources - Reuters India",
+            "description": "An electric vehicle (EV) factory planned by Chinese automaking group Geely will produce cars under the premium Polestar marque, two people with direct knowledge of the matter told Reuters on Monday.",
+            "url": "https://in.reuters.com/article/geely-electric-polestar-idINKBN27B0AR",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201026&t=2&i=1538801209&r=LYNXMPEG9P072&w=800",
+            "publishedAt": "2020-10-26T04:27:00Z",
+            "content": "BEIJING/SHANGHAI (Reuters) - An electric vehicle (EV) factory planned by Chinese automaking group Geely will produce cars under the premium Polestar marque, two people with direct knowledge of the ma\u2026 [+1608 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Matousek",
+            "title": "GM reveals how it will use the Hummer EV to win over electric car skeptics as it pivots to a zero-emissions future (GM)",
+            "description": "Summary List Placement\n\nRelaunching the Hummer as an electric vehicle was a big statement for General Motors that signaled how the automaker's priorities have changed since the nameplate's days as a gas-guzzling SUV.\u00a0\nThe Hummer EV, a pickup truck that will b\u2026",
+            "url": "https://www.businessinsider.com/gm-why-electric-car-skeptics-should-buy-hummer-ev-2020-10",
+            "urlToImage": "https://i.insider.com/5f93183ff21803001222ba54?width=1200&format=jpeg",
+            "publishedAt": "2020-10-26T14:45:21Z",
+            "content": "Relaunching the Hummer as an electric vehicle was a big statement for General Motors that signaled how the automaker's priorities have changed since the nameplate's days as a gas-guzzling SUV.\u00a0\r\nThe \u2026 [+2055 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Elon Musk is set to receive the 4th tranche of his Tesla compensation package worth $3.5 billion",
+            "description": "Musk can't sell any shares awarded to him for at least five years, given the lock-up period associated with the compensation pay package.",
+            "url": "https://www.businessinsider.com/tesla-stock-elon-musk-tranche-compensation-package-earnings-receive-ceo-2020-10",
+            "urlToImage": "https://i.insider.com/5f96e1644743a3001216b971?format=jpeg",
+            "publishedAt": "2020-10-26T15:41:26Z",
+            "content": "Maja Hitij/Getty Images\r\n<ul><li>Tesla CEO Elon Musk is set to receive the fourth tranche of his 12-tranche compensation package that was put in place in 2018.</li><li>The electric-vehicle maker surp\u2026 [+2773 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Christopher Competiello",
+            "title": "'I'm basically going to be long growth': Billionaire investor Chamath Palihapitiya has hauled in a 997% return since 2011. He details the 5 sectors shaping his long-term investment playbook.",
+            "description": "Summary List Placement\n\nInvestors often associate oversized returns with overly complicated, exotic, too-difficult-to-understand strategies.\u00a0\nBut complexity doesn't necessarily translate into outsized results. Sometimes, it's more of a burden than a boon.\u00a0\nWh\u2026",
+            "url": "https://www.businessinsider.com/chamath-palihapitiya-shares-5-sectors-shaping-long-term-investing-plan-2020-10",
+            "urlToImage": "https://i.insider.com/5f932715f21803001222bad1?width=1200&format=jpeg",
+            "publishedAt": "2020-10-26T16:01:00Z",
+            "content": "Investors often associate oversized returns with overly complicated, exotic, too-difficult-to-understand strategies.\u00a0\r\nBut complexity doesn't necessarily translate into outsized results. Sometimes, i\u2026 [+6043 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Tesla Nears China Model Y Production and Has Foundations Started at Tesla Texas Gigafactory",
+            "description": "Tesla\u2019s Model Y factory in Shanghai could be start production in November. The Q3 earnings report showed that the megacasting and other production equipment appears to be mostly installed....\n\n[[ This is a content summary only. Visit my website for full links\u2026",
+            "url": "https://www.nextbigfuture.com/2020/10/tesla-nears-china-model-y-production-and-has-foundations-started-at-tesla-texas-gigafactory.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2020/10/teslachinamodely-1024x576.jpg",
+            "publishedAt": "2020-10-26T04:43:15Z",
+            "content": "Tesla\u2019s Model Y factory in Shanghai could be start production in November. The Q3 earnings report showed that the megacasting and other production equipment appears to be mostly installed.\r\nAbove the\u2026 [+2033 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dow Jones Dives 400 Points On Jump In Coronavirus Cases; Tesla Reverses Higher - Investor's Business Daily",
+            "description": "<ol><li>Dow Jones Dives 400 Points On Jump In Coronavirus Cases; Tesla Reverses Higher\u00a0\u00a0Investor's Business Daily\r\n</li><li>Dow tumbles 400 points on rising COVID-19 cases, stimulus limbo\u00a0\u00a0Fox Business\r\n</li><li>Dow Futures Down 284 Pts; Virus Resurgence Weig\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtc3RvY2stbWFya2V0LXJhbGx5LWNvcm9uYXZpcnVzLWNhc2VzLWFwcGxlLXRlc2xhLWtleS1zdXBwb3J0LWxldmVscy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-26T14:45:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ahartmans@businessinsider.com (Avery Hartmans)",
+            "title": "Elon Musk reportedly sold Gene Wilder's former estate to Wilder's nephew, and may have financed 95% of the sale",
+            "description": "Elon Musk announced earlier this year that he would sell off his houses, but stipulated that Wilder's house could not be torn down.",
+            "url": "https://www.businessinsider.com/elon-musk-gene-wilder-house-sale-wilder-nephew-variety-2020-10",
+            "urlToImage": "https://i.insider.com/5f96d1de4743a3001216b90a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-26T14:42:24Z",
+            "content": "Elon Musk has made good on his promise to sell the former estate of Gene Wilder \u2014 and the buyer is Wilder's nephew, according to Variety's James McClain.\r\nMusk, who purchased the property in 2013, so\u2026 [+1701 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Vicky Ge Huang",
+            "title": "'EVs are REALLY profitable': Morgan Stanley analyst Adam Jonas and 3 more experts lay out their bullish cases for Tesla and 3 other popular electric-car stocks",
+            "description": "Summary List Placement\n\nMany investors have expressed doubt about Tesla's frothy valuation, but what's undeniable is the electric-vehicle maker's \"industry-leading gross margins,\" according to Morgan Stanley analyst Adam Jonas.\u00a0\n\"In our opinion, the most impo\u2026",
+            "url": "https://www.businessinsider.com/tesla-electric-vehicle-stock-picks-to-buy-bullish-cases-analysts-2020-10",
+            "urlToImage": "https://i.insider.com/5f7719b70ab50d00184adbe5?width=1200&format=jpeg",
+            "publishedAt": "2020-10-26T15:45:00Z",
+            "content": "Many investors have expressed doubt about Tesla's frothy valuation, but what's undeniable is the electric-vehicle maker's \"industry-leading gross margins,\" according to Morgan Stanley analyst Adam Jo\u2026 [+7114 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sean Czarnecki",
+            "title": "15 top financial public relations experts CEOs are scrambling to hire, with shareholder activism and bankruptcies on the rise",
+            "description": "Summary List Placement\n\nFinancial communications has thrived in the pandemic as companies scramble for help fending off shareholder activists, dealing with mergers and acquisitions, and creating SPACs, or special purpose acquisition companies.\nBusiness Inside\u2026",
+            "url": "https://www.businessinsider.com/top-financial-public-relations-pros-edelman-fti-consulting-sard-verbinnen-2020-10",
+            "urlToImage": "https://i.insider.com/5f930c4a212113001874078c?width=1200&format=jpeg",
+            "publishedAt": "2020-10-26T17:48:04Z",
+            "content": "Financial communications has thrived in the pandemic as companies scramble for help fending off shareholder activists, dealing with mergers and acquisitions, and creating SPACs, or special purpose ac\u2026 [+766 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Pelosi Awaits Mnuchin Virus Offer Today as Hope for Vote Fades - Bloomberg",
+            "description": "<ol><li>Pelosi Awaits Mnuchin Virus Offer Today as Hope for Vote Fades\u00a0\u00a0Bloomberg\r\n</li><li>AOC won't say whether she'll support Pelosi for speaker\u00a0\u00a0Fox News\r\n</li><li>Jobless claims, Tesla gains are something to smile about but still no stimulus\u00a0\u00a0Detroit Fre\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=30f7e680-1799-11eb-be41-4399c2c322a4&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMC0yNi9wZWxvc2ktYXdhaXRzLW1udWNoaW4tdmlydXMtb2ZmZXItdG9kYXktYXMtaG9wZS1mb3Itdm90ZS1mYWRlcw==",
+            "urlToImage": null,
+            "publishedAt": "2020-10-26T08:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Elon Musk Cruises to $11.8 Billion Haul From His Moonshot Award - Bloomberg",
+            "description": "Elon Musk Cruises to $11.8 Billion Haul From His Moonshot Award\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-26/elon-musk-cruises-to-11-8-billion-haul-from-his-moonshot-award",
+            "urlToImage": null,
+            "publishedAt": "2020-10-26T12:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "egraffeo@businessinsider.com (Emily Graffeo)",
+            "title": "JPMorgan says alternative energy stocks have more upside ahead regardless of who wins the election",
+            "description": "JPMorgan said the alternative energy industry appears more suited to long-term investors than at any prior time during their coverage.",
+            "url": "https://www.businessinsider.com/stock-market-outlook-alternative-energy-upside-election-biden-climate-jpmorgan-2020-10",
+            "urlToImage": "https://i.insider.com/5f96f008f21803001222beff?format=jpeg",
+            "publishedAt": "2020-10-26T16:16:32Z",
+            "content": "Vivint Solar workers install rooftop solar panels\r\nAnne Cusack/Los Angeles Times via Getty Images\r\n<ul><li>Alternative energy stocks will likely gain more after their run-up this year no matter who w\u2026 [+2383 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": null,
+            "title": "Boston Dynamics' Robots Won't Take Our Jobs ... Yet",
+            "description": "On this week's Get WIRED podcast, writer Matt Simon talks about Spot the dog and SpaceX with Marc Raibert.",
+            "url": "https://www.wired.com/story/get-wired-podcast-14-boston-dynamics/",
+            "urlToImage": "https://media.wired.com/photos/5f92e32c227dbb78ec30da74/191:100/w_1280,c_limit/Science_Spot_AB_0P1A1612.jpg",
+            "publishedAt": "2020-10-26T13:22:02Z",
+            "content": "Its impossible to talk about Boston Dynamics robots without acknowledging two things: Theyre a marvel of modern engineering, and their agility can be incredibly unnerving. A 46-second video of Spot t\u2026 [+2177 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Dana Hull",
+            "title": "Tesla Expects Rising Capex in Next Two Years Amid Growth Spurt",
+            "description": "Tesla Expects Rising Capex in Next Two Years Amid Growth Spurtbloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-26/tesla-expects-rising-capex-in-next-two-years-amid-growth-spurt",
+            "urlToImage": null,
+            "publishedAt": "2020-10-26T15:14:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "Geely's new EV plant will build premium Polestar cars: sources",
+            "description": "An electric vehicle (EV) factory planned by Chinese automaking group Geely will produce cars under the premium Polestar marque, two people with direct knowledge of the matter told Reuters on Monday.",
+            "url": "https://ca.reuters.com/article/us-geely-electric-polestar-idCAKBN27B07P",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201026&t=2&i=1538798331&r=LYNXMPEG9P05F&w=800",
+            "publishedAt": "2020-10-26T03:35:17Z",
+            "content": "By Yilei Sun, Brenda Goh\r\nBEIJING/SHANGHAI (Reuters) - An electric vehicle (EV) factory planned by Chinese automaking group Geely will produce cars under the premium Polestar marque, two people with \u2026 [+1668 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson, Heekyong Yang",
+            "title": "UPDATE 3-U.S. ITC delays decision on LG Chem, SK Innovation trade secret case",
+            "description": "The United States International Trade Commission (ITC) on Monday delayed a decision in a trade secrets case involving South Korean battery makers LG Chem Ltd <051910.KS> and SK Innovation Co Ltd <096770.KS> to Dec. 10.",
+            "url": "https://uk.reuters.com/article/us-lg-chem-sk-innovation-lawsuit-idUKKBN27B2GA",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201026&t=2&i=1538904813&r=LYNXMPEG9P1KX&w=800",
+            "publishedAt": "2020-10-26T22:56:42Z",
+            "content": "WASHINGTON/SEOUL (Reuters) - The United States International Trade Commission (ITC) on Monday delayed a decision in a trade secrets case involving South Korean battery makers LG Chem Ltd 051910.KS an\u2026 [+2328 chars]"
+        }
+    ]
+}

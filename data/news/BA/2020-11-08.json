@@ -1,0 +1,279 @@
+{
+    "status": "ok",
+    "totalResults": 21,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Abu Dhabi's Etihad announces departure of several senior execs - Reuters",
+            "description": "Abu Dhabi's Etihad Airways said on Sunday its chief commercial officer was leaving the state carrier as part of a broad management restructuring as it struggles through the pandemic.",
+            "url": "https://www.reuters.com/article/etihad-airways-restructuring-idUSL1N2HU0C0",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-08T13:58:00Z",
+            "content": "By Reuters Staff\r\n(Adds details)\r\nDUBAI, Nov 8 (Reuters) - Abu Dhabis Etihad Airways said on Sunday its chief commercial officer was leaving the state carrier as part of a broad management restructur\u2026 [+1351 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Abu Dhabi's Etihad announces departure of several senior execs - Reuters India",
+            "description": "Abu Dhabi's Etihad Airways said on Sunday its chief commercial officer was leaving the state carrier as part of a broad management restructuring as it struggles through the pandemic.",
+            "url": "https://www.reuters.com/article/etihad-airways-restructuring-idINL8N2HU0GS",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-08T13:27:00Z",
+            "content": "By Reuters Staff\r\nDUBAI, Nov 8 (Reuters) - Abu Dhabis Etihad Airways said on Sunday its chief commercial officer was leaving the state carrier as part of a broad management restructuring as it strugg\u2026 [+1088 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "Amtrak, automakers vow to work with future Biden administration - Reuters",
+            "description": "U.S. passenger railroad Amtrak and American automakers on Saturday pledged to work with the incoming administration of Democrat Joe Biden, who wants to boost mass transit and green vehicles.",
+            "url": "https://www.reuters.com/article/us-usa-election-transportation-idUSKBN27O036",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201108&t=2&i=1540402678&r=LYNXMPEGA703F&w=800",
+            "publishedAt": "2020-11-08T02:56:00Z",
+            "content": "WASHINGTON (Reuters) - U.S. passenger railroad Amtrak and American automakers on Saturday pledged to work with the incoming administration of Democrat Joe Biden, who wants to boost mass transit and g\u2026 [+2814 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Steve Scherer",
+            "title": "Canada ready for talks on aid to airlines, which could include loans - Reuters",
+            "description": "Canada is ready to start talks with major airlines this week about financial assistance to the hard-hit sector that could come in the form of loans or other support, Transport Minister Marc Garneau said on Sunday.",
+            "url": "https://www.reuters.com/article/us-canada-politics-airlines-idUSKBN27O0U6",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201108&t=2&i=1540450670&r=LYNXMPEGA70O7&w=800",
+            "publishedAt": "2020-11-08T20:35:00Z",
+            "content": "FILE PHOTO: Canada's Minister of Transport Marc Garneau speaks to media on Parliament Hill in Ottawa, Ontario, Canada March 9, 2020. REUTERS/Blair Gable\r\nOTTAWA (Reuters) - Canada is ready to start t\u2026 [+1634 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Canada ready for talks on aid to airlines, says it could include loans: statement - Reuters India",
+            "description": "Canada is ready to start talks with major airlines this week about financial assistance to the hard-hit sector that could come in the form of loans or other support, Transport Minister Marc Garneau said in a statement on Sunday.",
+            "url": "https://in.reuters.com/article/us-canada-politics-airlines-idINKBN27O0U6",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201108&t=2&i=1540450670&r=LYNXMPEGA70O7&w=800",
+            "publishedAt": "2020-11-08T20:38:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Canada's Minister of Transport Marc Garneau speaks to media on Parliament Hill in Ottawa, Ontario, Canada March 9, 2020. REUTERS/Blair Gable\r\nOTTAWA (Reuters) - Canada i\u2026 [+643 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Canada ready for talks on aid to airlines, which could include loans - Reuters Canada",
+            "description": "Canada is ready to start talks with major airlines this week about financial assistance to the hard-hit sector that could come in the form of loans or other support, Transport Minister Marc Garneau said in a statement on Sunday.",
+            "url": "https://www.reuters.com/article/canada-politics-airlines-idINL1N2HU0K3",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-08T20:38:00Z",
+            "content": "By Reuters Staff\r\nOTTAWA, Nov 8 (Reuters) - Canada is ready to start talks with major airlines this week about financial assistance to the hard-hit sector that could come in the form of loans or othe\u2026 [+496 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Thank you Tegel: Berliners bid emotional farewell to Cold War airport - Reuters UK",
+            "description": "Berlin's venerable Tegel airport hosted its final flight on Sunday, a Paris-bound Air France plane that left to cheers and a fountain salute from the terminal's fire engines.",
+            "url": "https://www.reuters.com/article/uk-germany-airport-tegel-closure-idUKKBN27O0NZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201108&t=2&i=1540438863&r=LYNXMPEGA70JR&w=800",
+            "publishedAt": "2020-11-08T16:37:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - Berlins venerable Tegel airport hosted its final flight on Sunday, a Paris-bound Air France plane that left to cheers and a fountain salute from the terminals fir\u2026 [+1117 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Thank you Tegel: Berliners bid emotional farewell to Cold War airport - Reuters",
+            "description": "Berlin's venerable Tegel airport hosted its final flight on Sunday, a Paris-bound Air France plane that left to cheers and a fountain salute from the terminal's fire engines.",
+            "url": "https://www.reuters.com/article/us-germany-airport-tegel-closure-idUSKBN27O0PD",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201108&t=2&i=1540441205&r=LYNXMPEGA70KJ&w=800",
+            "publishedAt": "2020-11-08T17:19:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - Berlins venerable Tegel airport hosted its final flight on Sunday, a Paris-bound Air France plane that left to cheers and a fountain salute from the terminals fir\u2026 [+1117 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Thank you Tegel: Berliners bid emotional farewell to Cold War airport - Reuters",
+            "description": "Berlin's venerable Tegel airport hosted its final flight on Sunday, a Paris-bound Air France plane that left to cheers and a fountain salute from the terminal's fire engines.",
+            "url": "https://www.reuters.com/article/germany-airport-tegel-closure-idUSL8N2HU0L2",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-08T16:14:00Z",
+            "content": "By Reuters Staff\r\nBERLIN, Nov 8 (Reuters) - Berlins venerable Tegel airport hosted its final flight on Sunday, a Paris-bound Air France plane that left to cheers and a fountain salute from the termin\u2026 [+1124 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Thank you Tegel: Berliners bid emotional farewell to Cold War airport - Reuters India",
+            "description": "Berlin's venerable Tegel airport hosted its final flight on Sunday, a Paris-bound Air France plane that left to cheers and a fountain salute from the terminal's fire engines.",
+            "url": "https://in.reuters.com/article/germany-airport-tegel-closure-idINKBN27O0R3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201108&t=2&i=1540443950&r=LYNXMPEGA70M9&w=800",
+            "publishedAt": "2020-11-08T17:57:00Z",
+            "content": "By Reuters Staff\r\nBerlin's Mayor Michael Mueller (R) and BER airport CEO Engelbert Luetke Daldrup pose during a key handover ceremony after the last flight to take-off from the Tegel 'Otto Lilienthal\u2026 [+1379 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Ryanair Boss Says the U.K. Shouldn't Bail Out Airlines: Mail",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-08/ryanair-boss-says-the-u-k-shouldn-t-bail-out-airlines-mail",
+            "urlToImage": null,
+            "publishedAt": "2020-11-08T09:12:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Etihad Airlines Streamlines Executive Team to Weather Pandemic",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-08/etihad-airlines-streamlines-executive-team-to-weather-pandemic",
+            "urlToImage": null,
+            "publishedAt": "2020-11-08T14:03:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Trudeau to Begin Talks With Canada Airlines on Financial Aid",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-08/trudeau-to-begin-talks-with-canada-airlines-on-financial-help",
+            "urlToImage": null,
+            "publishedAt": "2020-11-08T21:31:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mary Meisenzahl",
+            "title": "Oreo built an 'asteroid-proof doomsday vault' for cookies as advertising takes a turn for the apocalyptic",
+            "description": "Summary List Placement\n\nAs the world grapples with a pandemic and speeds towards irreversible climate change, old advertising tactics don't work like they used to. Pictures of delicious looking sandwiches aren't enough \u2014 brands have to start chicken sandwich \u2026",
+            "url": "https://www.businessinsider.com/oreo-asteroid-proof-doomsday-vault-in-norway-photos-2020-10",
+            "urlToImage": "https://i.insider.com/5f98702e0c60aa00190d49e9?width=1200&format=jpeg",
+            "publishedAt": "2020-11-08T12:18:00Z",
+            "content": "As the world grapples with a pandemic and speeds towards irreversible climate change, old advertising tactics don't work like they used to. Pictures of delicious looking sandwiches aren't enough \u2014 br\u2026 [+1354 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "These aircraft-themed Airbnbs are being touted as a way to fly without leaving the ground \u2013 take a look at the most unique properties",
+            "description": "Airbnb began promoting the inhabitable aircraft following the rise of flights to nowhere among airlines as a way to cater to travel-hungry consumers.",
+            "url": "https://www.businessinsider.com/aircraft-themed-airbnbs-most-unique-listings-around-the-world-2020-10",
+            "urlToImage": "https://i.insider.com/5f99c9df69331a0011bc5d98?width=1200&format=jpeg",
+            "publishedAt": "2020-11-08T13:46:00Z",
+            "content": "Travelers across the globe are desperate to get back in the air and explore the world.\u00a0\r\nA rise in aviation-themed activities spanning from \"flights to nowhere\" to an Airbus A380-turned-restaurant in\u2026 [+1212 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "I visited a Delta's airport lounge during the pandemic and couldn't believe how luxurious and close to normal the experience was",
+            "description": "Delta has kept most of the luxuries in its Sky Clubs including a full-service bar, hot food buffet, and near-endless spread of snacks and fresh food.",
+            "url": "https://www.businessinsider.com/delta-sky-club-jfk-lounge-visit-tour-photos-details-2020-10",
+            "urlToImage": "https://i.insider.com/5f871672fd1f49001964d94c?width=1200&format=jpeg",
+            "publishedAt": "2020-11-08T13:04:00Z",
+            "content": "Delta Air Lines' premium airport lounges, known as Delta Sky Clubs, have largely stayed open during the pandemic, offering an exclusive retreat to the airline's top customers.\u00a0\r\nAcross the country, 2\u2026 [+1091 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": null,
+            "title": "Top employers in Canada look for these three tech skills - County Weekly News",
+            "description": "Top employers in Canada look for these three tech skills\u00a0\u00a0County Weekly News",
+            "url": "https://financialpost.com/personal-finance/business-essentials/top-employers-in-canada-look-for-these-three-tech-skills",
+            "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/11/TFP-Company-Skills.jpg",
+            "publishedAt": "2020-11-08T11:18:21Z",
+            "content": "This article was created by StackCommerce. While Postmedia may collect a commission on sales through the links on this page, we are not being paid by the brands mentioned.\r\nFor millions of people acr\u2026 [+4380 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Benjamin Brimelow)",
+            "title": "Japan built monster plane-carrying subs to attack US cities during World War II, but they never fired a shot",
+            "description": "The enormous I-400-class submarines were supposed to carry planes and launch air raids on US cities, but the tide of the war turned on Japan.",
+            "url": "https://www.businessinsider.com/japans-i400-plane-carrying-subs-meant-to-attack-us-wwii-2020-11",
+            "urlToImage": "https://i.insider.com/5fa2d8c669331a0011bc7409?width=1200&format=jpeg",
+            "publishedAt": "2020-11-08T20:08:00Z",
+            "content": "On August 28, 1945, two US destroyers intercepted a massive Japanese submarine several miles off the coast of Honshu, Japan's biggest island. The submarine, which was larger than either US ship and n\u2026 [+6166 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Abu Dhabi's Etihad announces departure of several senior execs",
+            "description": "Abu Dhabi's Etihad Airways said on Sunday its chief commercial officer was leaving the state carrier as part of a broad management restructuring as it struggles through the pandemic.",
+            "url": "https://uk.reuters.com/article/etihad-airways-restructuring-idUKL1N2HU0C0",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-08T13:58:11Z",
+            "content": "By Reuters Staff\r\n(Adds details)\r\nDUBAI, Nov 8 (Reuters) - Abu Dhabis Etihad Airways said on Sunday its chief commercial officer was leaving the state carrier as part of a broad management restructur\u2026 [+1351 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "Amtrak, automakers vow to work with future Biden administration",
+            "description": "U.S. passenger railroad Amtrak and American automakers on Saturday pledged to work with the incoming administration of Democrat Joe Biden, who wants to boost mass transit and green vehicles.",
+            "url": "https://uk.reuters.com/article/us-usa-election-transportation-idUKKBN27O036",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201108&t=2&i=1540402678&r=LYNXMPEGA703F&w=800",
+            "publishedAt": "2020-11-08T02:54:53Z",
+            "content": "WASHINGTON (Reuters) - U.S. passenger railroad Amtrak and American automakers on Saturday pledged to work with the incoming administration of Democrat Joe Biden, who wants to boost mass transit and g\u2026 [+2814 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Canada ready for talks on aid to airlines, says it could include loans: statement",
+            "description": "Canada is ready to start talks with major airlines this week about financial assistance to the hard-hit sector that could come in the form of loans or other support, Transport Minister Marc Garneau said in a statement on Sunday.",
+            "url": "https://ca.reuters.com/article/us-canada-politics-airlines-idCAKBN27O0U6",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201108&t=2&i=1540450670&r=LYNXMPEGA70O7&w=800",
+            "publishedAt": "2020-11-08T20:34:15Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Canada's Minister of Transport Marc Garneau speaks to media on Parliament Hill in Ottawa, Ontario, Canada March 9, 2020. REUTERS/Blair Gable\r\nOTTAWA (Reuters) - Canada i\u2026 [+643 chars]"
+        }
+    ]
+}

@@ -1,0 +1,513 @@
+{
+    "status": "ok",
+    "totalResults": 39,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "FAA to begin environmental review at SpaceX Texas launch site - Reuters",
+            "description": "The U.S. Federal Aviation Administration (FAA) said it is beginning an environmental review for planned SpaceX launches in Texas.",
+            "url": "https://www.reuters.com/article/us-spacex-faa-idUSKBN2832ZS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201123&t=2&i=1542211649&r=LYNXMPEGAM1K9&w=800",
+            "publishedAt": "2020-11-23T22:10:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A crowd listens as SpaceX's Elon Musk gives an update on the company's Mars rocket Starship in Boca Chica, Texas, U.S. September 28, 2019. REUTERS/Callaghan O'Hare\r\n(Reu\u2026 [+464 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg",
+            "title": "This Bluetooth Attack Can Steal a Tesla Model X in Minutes",
+            "description": "The company is rolling out a patch today for the vulnerabilities, which allowed one researcher to break into one in 90 seconds and drive away.",
+            "url": "https://www.wired.com/story/tesla-model-x-hack-bluetooth/",
+            "urlToImage": "https://media.wired.com/photos/5fb8075c192c3e3e791e480b/191:100/w_1280,c_limit/Sec_TeslaHack_1229236022.jpg",
+            "publishedAt": "2020-11-23T12:00:00Z",
+            "content": "Wouters notes that the two most serious vulnerabilities he foundthe lack of validation for both key fob firmware updates and pairing new key fobs with a carpoint to an apparent disconnect between the\u2026 [+3151 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "The EPA confirms the 2021 Mustang Mach-E can run up to 300 miles",
+            "description": "The Environmental Protection Agency has released its certified range numbers for the 2021 Mustang Mach-E, and they're pretty much what Ford had expected. Depending on the configuration, the automaker's first major electric vehicle can run for up to 300 miles \u2026",
+            "url": "https://www.engadget.com/ford-mustang-mach-e-epa-certified-range-estimates-185946232.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F6fdef8b0-2dbb-11eb-bd7f-1ced42572fd2&client=amp-blogside-v2&signature=f5b9fe3488e38405611a3efd493ccb1789667518",
+            "publishedAt": "2020-11-23T18:59:46Z",
+            "content": "The EPA-estimated range of 300 miles for the 2021 #MustangMachE has been certified. It\u2019s time to hit the open road. pic.twitter.com/zE70CcfZGT\r\n\u2014 Ford Motor Company (@Ford) November 23, 2020\r\nAs for \u2026 [+708 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "The EPA says the Ford Mustang Mach-E\u2019s electric range is a lackluster 211-300 miles",
+            "description": "The EPA just released its findings on the Mustang Mach-E, and it\u2019s a mixture of good news and bad news. Depending on the model, the EPA says the Mach-E is good for just 211 miles to 300 miles on a charge. On the one hand, the Mach-E matched Ford\u2019s range targe\u2026",
+            "url": "http://techcrunch.com/2020/11/23/the-epa-says-the-ford-mustang-mach-es-electric-range-is-a-lackluster-211-300-miles/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/Mustang-Mach-E-04-GT.jpg?w=533",
+            "publishedAt": "2020-11-23T17:00:44Z",
+            "content": "The EPA just released its findings on the Mustang Mach-E, and it\u2019s a mixture of good news and bad news. Depending on the model, the EPA says the Mach-E is good for just 211 miles to 300 miles on a ch\u2026 [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla defies doubters as builds on rally ahead of S&P 500 debut - Reuters Africa",
+            "description": "Tesla shares rose 6% on Monday, approaching a $500 billion market value and extending gains to 27% since news a week ago that the electric car maker will debut in the S&P 500 in December, forcing index funds to buy billions of dollars of its stock.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-tesla-idUSKBN2832IJ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201123&t=2&i=1542198962&r=LYNXMPEGAM1A1&w=800",
+            "publishedAt": "2020-11-23T18:06:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Tesla logo is seen at the entrance to Tesla Motors' showroom in Manhattan's Meatpacking District in New York City, U.S., December 14, 2017. REUTERS/Brendan McDermid \u2026 [+1476 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "Small U.S. launch firm Rocket Lab recovers rocket, in test of reusability - Reuters India",
+            "description": "Small launch firm Rocket Lab was able to safely recover from the ocean a rocket it sent to space, its chief executive said on Monday, a key test of the company's strategy to slash rocket launch costs via reusability.",
+            "url": "https://in.reuters.com/article/us-rocketlab-reusable-idINKBN2832X4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201123&t=2&i=1542206545&r=LYNXMPEGAM1HY&w=800",
+            "publishedAt": "2020-11-23T21:28:00Z",
+            "content": "FILE PHOTO: Rocket Lab CEO Peter Beck sits alongside a Rutherford rocket engine in Auckland, New Zealand, October 20 2015. REUTERS/Nigel Marple\r\n(Reuters) - Small launch firm Rocket Lab was able to s\u2026 [+1444 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "Small U.S. launch firm Rocket Lab recovers rocket, in test of reusability - Reuters",
+            "description": "Small launch firm Rocket Lab was able to safely recover from the ocean a rocket it sent to space, its chief executive said on Monday, a key test of the company's strategy to slash rocket launch costs via reusability.",
+            "url": "https://www.reuters.com/article/us-rocketlab-reusable-idUSKBN2832X4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201123&t=2&i=1542206545&r=LYNXMPEGAM1HY&w=800",
+            "publishedAt": "2020-11-23T21:30:00Z",
+            "content": "FILE PHOTO: Rocket Lab CEO Peter Beck sits alongside a Rutherford rocket engine in Auckland, New Zealand, October 20 2015. REUTERS/Nigel Marple\r\n(Reuters) - Small launch firm Rocket Lab was able to s\u2026 [+1444 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Elon Musk Overtakes Bill Gates to Grab World's Second-Richest Ranking",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-23/musk-overtakes-gates-to-grab-world-s-second-richest-ranking",
+            "urlToImage": null,
+            "publishedAt": "2020-11-23T22:26:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chuck Mikolajczak",
+            "title": "Stocks rise on cyclical boost but megacaps curb gains - Reuters",
+            "description": "* Surging coronavirus cases cap stock market gains (Updates to market close)",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSL1N2I927O",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-23T21:01:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* Vaccine could reach first Americans by mid-December\r\n* Tesla nears $500 billion in mar\u2026 [+3308 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chuck Mikolajczak",
+            "title": "Energy, industrials prop up Dow; tech mega-caps slide - Reuters",
+            "description": "* Dow up 0.85%, S&P 500 up 0.31%, Nasdaq up 0.06% (Updates to mid-afternoon, changes byline)",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSL1N2I920G",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-23T19:56:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* Vaccine could reach first Americans by mid-December\r\n* Tesla nears $500 billion in mar\u2026 [+3255 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chuck Mikolajczak",
+            "title": "Cyclical boost lifts stocks; Yellen news gives short bump - Reuters UK",
+            "description": "* Surging coronavirus cases cap stock market gains (Updates to market close)",
+            "url": "https://uk.reuters.com/article/usa-stocks-idUKL1N2I927O",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-23T21:20:25Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* Vaccine could reach first Americans by mid-December\r\n* Tesla nears $500 billion in mar\u2026 [+3889 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "S.Korea shares close at record high as Samsung Electronics, SK Hynix surge - Reuters",
+            "description": "S.Korea shares close at record high as Samsung Electronics, SK Hynix surge\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/southkorea-markets-close-idUSAZN21U100",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-23T06:59:00Z",
+            "content": "By Reuters Staff\r\n* KOSPI closes at record high\r\n* Foreigners net buyers for 13th straight session\r\n* Korean won strengthens against U.S. dollar\r\n* South Korea benchmark bond yield falls\r\n* For the m\u2026 [+2002 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "S.Korea shares hit near 3-year high on Samsung Elec, SK Hynix boost - Reuters India",
+            "description": "* KOSPI rises, foreigners net buyers * Korean won strengthens against U.S. dollar * South Korea benchmark bond yield falls SEOUL, Nov 23 (Reuters) - Round-up of South Korean financial markets: ** South Korean shares rose on Monday as heavyweights Samsung Elec\u2026",
+            "url": "https://in.reuters.com/article/southkorea-markets-midday-idINL1N2I903J",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-23T02:52:00Z",
+            "content": "By Reuters Staff\r\n* KOSPI rises, foreigners net buyers\r\n * Korean won strengthens against U.S. dollar\r\n * South Korea benchmark bond yield falls\r\nSEOUL, Nov 23 (Reuters) - Round-up of South Korean fi\u2026 [+2070 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jack Newsham",
+            "title": "Electric-vehicle startup Faraday Future called its former top lawyer who's suing over $6 million in pay a useless 'potted plant'",
+            "description": "Summary List Placement\n\nA lawyer who says he wasn't paid over $6 million in compensation owed to him for serving as the top lawyer at electric-car company Faraday Future oversold his credentials and sat around like a \"potted plant\" during his year with the co\u2026",
+            "url": "https://www.businessinsider.com/faraday-future-lawsuit-general-counsel-compensation-electric-vehicles-spac-ipo-2020-11",
+            "urlToImage": "https://i.insider.com/5fb83cee32f2170011f70734?width=1200&format=jpeg",
+            "publishedAt": "2020-11-23T14:12:42Z",
+            "content": "A lawyer who says he wasn't paid over $6 million in compensation owed to him for serving as the top lawyer at electric-car company Faraday Future oversold his credentials and sat around like a \"potte\u2026 [+3088 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Elon Musk Could Pass Bill Gates Wealth This Week",
+            "description": "Elon Musk is close to passing Bill Gates to become the second richest person in the world. As of Sunday, Elon trailed Bill Gates by about $7 Billion according to the Bloomberg Billionaire index....\n\n[[ This is a content summary only. Visit my website for full\u2026",
+            "url": "https://www.nextbigfuture.com/2020/11/elon-musk-could-pass-bill-gates-wealth-this-week.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2018/02/8e6cd6c2a15165d2bbdcbe759cfcd962.jpg",
+            "publishedAt": "2020-11-23T22:34:15Z",
+            "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology\u2026 [+593 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Verne Kopytoff",
+            "title": "Elon Musk is now the world\u2019s second-richest person, passing Bill Gates",
+            "description": "Tesla CEO Musk has added $100.3 billion to his net worth this year, ranking him second on the world's wealthiest list.",
+            "url": "https://fortune.com/2020/11/23/elon-musk-second-richest-person-bill-gates/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/11/GettyImages-1228336849.jpg?resize=1200,600",
+            "publishedAt": "2020-11-23T23:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Jack Morse",
+            "title": "This WiFi router is a Black Friday steal. Experts say it's a security risk.",
+            "description": "When it comes to your electronics, price shouldn't be the only consideration.\u00a0\nThe shopping extravaganza known as Black Friday is fast approaching, and bargain hunters have their eyes peeled for savings. However, a discount might not be the only thing on the \u2026",
+            "url": "https://mashable.com/article/jetstream-wifi-router-backdoor/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F23%252F59%252F709742e7ec2646c8b6354e5b6b389a34.8bd82.jpg%252F1200x630.jpg?signature=an0yWZpkTsMU7L5kgt31wVbKB-I=",
+            "publishedAt": "2020-11-23T21:36:34Z",
+            "content": "When it comes to your electronics, price shouldn't be the only consideration.\u00a0\r\nThe shopping extravaganza known as Black Friday is fast approaching, and bargain hunters have their eyes peeled for sav\u2026 [+2540 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla defies doubters as builds on rally ahead of S&P 500 debut - Reuters",
+            "description": "<ol><li>Tesla defies doubters as builds on rally ahead of S&P 500 debut\u00a0\u00a0Reuters\r\n</li><li>Tesla\u2019s Addition to S&P 500 Shows Why Indexes Are So Weird\u00a0\u00a0The Wall Street Journal\r\n</li><li>Better Buy: Amazon or the Whole S&P 500?\u00a0\u00a0Motley Fool\r\n</li><li>Short-sell\u2026",
+            "url": "https://in.reuters.com/article/us-usa-stocks-tesla-idUSKBN2832IJ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201123&t=2&i=1542198962&r=LYNXMPEGAM1A1&w=800",
+            "publishedAt": "2020-11-23T18:06:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Tesla logo is seen at the entrance to Tesla Motors' showroom in Manhattan's Meatpacking District in New York City, U.S., December 14, 2017. REUTERS/Brendan McDermid \u2026 [+1476 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier",
+            "title": "A researcher managed to 'steal' a Tesla in 90 seconds with a $300 bluetooth kit (TSLA)",
+            "description": "Summary List Placement\n\nAll a Belgian researcher needed to break into and effectively steal a Tesla Model X: a $300 bluetooth kit, and some luck.\nAccording to Wired, Lennert Woulters, who studies security at the university KU Leuven, found a way to exploit tw\u2026",
+            "url": "https://www.businessinsider.com/tesla-unlocked-stolen-bluetooth-computer-hacks-researcher-patch-2020-11",
+            "urlToImage": "https://i.insider.com/5fbc1e9350e71a0011556ed4?width=1200&format=jpeg",
+            "publishedAt": "2020-11-23T20:55:26Z",
+            "content": "All a Belgian researcher needed to break into and effectively steal a Tesla Model X: a $300 bluetooth kit, and some luck.\r\nAccording to Wired, Lennert Woulters, who studies security at the university\u2026 [+1264 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rayna Hollander",
+            "title": "Here's a roundup of the latest video conferencing updates from Microsoft, Google, and Zoom",
+            "description": "Summary List PlacementEnterprise collaboration technology companies such as Microsoft, Google, Zoom, and Facebook made a variety of feature announcements last week. Here are some of the highlights:\n\n<ul>\n<li>Microsoft undercuts competitors with free unlimited\u2026",
+            "url": "https://www.businessinsider.com/microsoft-google-zoom-video-conferencing-updates-2020-11",
+            "urlToImage": "https://i.insider.com/5f986afd861cb70019936c0b?width=1200&format=jpeg",
+            "publishedAt": "2020-11-23T14:22:00Z",
+            "content": "Enterprise collaboration technology companies such as Microsoft, Google, Zoom, and Facebook made a variety of feature announcements last week. Here are some of the highlights:\r\nMicrosoft, Google, Zoo\u2026 [+2942 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Avery Hartmans",
+            "title": "Dropbox CEO Drew Houston is moving to Austin, the latest in a string of high-profile tech moguls abandoning Silicon Valley amid the pandemic (DBX)",
+            "description": "Summary List Placement\n\nDrew Houston is planning to move to Austin full-time, the latest high-profile departure from Silicon Valley.\u00a0\nHouston, who's the founder and CEO of cloud storage company Dropbox, purchased a house in Austin that will eventually become \u2026",
+            "url": "https://www.businessinsider.com/dropbox-drew-houston-moving-to-austin-report-2020-11",
+            "urlToImage": "https://i.insider.com/5fbbf73550e71a0011556da0?width=1200&format=jpeg",
+            "publishedAt": "2020-11-23T21:21:21Z",
+            "content": "Drew Houston is planning to move to Austin full-time, the latest high-profile departure from Silicon Valley.\u00a0\r\nHouston, who's the founder and CEO of cloud storage company Dropbox, purchased a house i\u2026 [+2977 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "Tesla is nearing $500 billion in market value. Elon Musk predicted self-driving cars would boost it to that level",
+            "description": "The electric-car maker's market capitalization has soared more than 11-fold since Musk's forecast in May 2019.",
+            "url": "https://www.businessinsider.com/tesla-500-billion-market-cap-elon-musk-self-driving-cars-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbbdcf750e71a0011556cec?format=jpeg",
+            "publishedAt": "2020-11-23T16:19:49Z",
+            "content": "Elon Musk.\r\nAP Photo/Mark Lennihan\r\n<ul><li>Tesla CEO Elon Musk predicted last year that autonomous driving would boost his company's market capitalization to $500 billion.</li><li>The electric-vehic\u2026 [+2265 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Reuters",
+            "title": "Small U.S. launch firm Rocket Lab recovers rocket, in test of reusability - Financial Post",
+            "description": "<ol><li>Small U.S. launch firm Rocket Lab recovers rocket, in test of reusability\u00a0\u00a0Financial Post\r\n</li><li>Rocket Lab on road to reusability after successful booster recovery\u00a0\u00a0Space.com\r\n</li><li>Rocket Lab declares success in Electron rocket recovery\u00a0\u00a0Space\u2026",
+            "url": "https://financialpost.com/pmn/business-pmn/small-u-s-launch-firm-rocket-lab-recovers-rocket-in-test-of-reusability",
+            "urlToImage": null,
+            "publishedAt": "2020-11-23T21:27:29Z",
+            "content": "Small launch firm Rocket Lab was able to safely recover from the ocean a rocket it sent to space, its chief executive said on Monday, a key test of the companys strategy to slash rocket launch costs \u2026 [+1373 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Avi Liberman; as told to Abby Ellin",
+            "title": "I've traveled more since Covid-19 than ever before -- no joke",
+            "description": "Avi Liberman is not joking when he says he's traveled even more since the pandemic started. Find out how the comedian with a dual US/Israeli citizenship has made it happen and where he's been.",
+            "url": "https://www.cnn.com/travel/article/avi-liberman-frequent-travel-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201117151836-01-frequent-travel-coronavirus-avi-liberman-super-tease.jpg",
+            "publishedAt": "2020-11-23T15:32:27Z",
+            "content": "Editor's Note Avi Liberman is a comedian with dual US/Israeli citizenship, who has chosen to travel throughout the pandemic. In sharing Liberman's story, CNN Travel is neither promoting nor condemnin\u2026 [+5616 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Tesla has 104% upside potential in bull-case scenario as global demand for EVs hits tipping point, Wedbush says",
+            "description": "An increase in consumer EV tax credits and incentives under a Joe Biden presidency could accelerate demand for Tesla's vehicles, Wedbush said.",
+            "url": "https://www.businessinsider.com/tesla-stock-price-outlook-upside-electric-vehicles-tipping-point-wedbush-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbbb33e32f2170011f70947?format=jpeg",
+            "publishedAt": "2020-11-23T14:15:09Z",
+            "content": "Johannes Eisele/AFP via Getty Images\r\n<ul><li>Tesla's inclusion in the S&amp;P 500 and its \"sustained path to profitability\" means the bull story is now all about an acceleration in demand for electr\u2026 [+2910 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "Volkswagen's Tesla competitor is reportedly delayed until 2021 because of the pandemic",
+            "description": "VW's electric SUV, the ID.4, was supposed to go on sale in the United States this year in select states before a wider rollout in 2021.",
+            "url": "https://www.businessinsider.com/volkswagen-vw-id4-us-launch-delayed-2021-eu-fine-report-2020-11",
+            "urlToImage": "https://i.insider.com/5fbbe1fa32f2170011f70a3f?width=1200&format=jpeg",
+            "publishedAt": "2020-11-23T16:41:26Z",
+            "content": "The first Volkswagen ID.4's won't arrive in the United States until 2021, Automotive News reported Friday, as the automaker grapples with a European emissions fine and the COVID-19 pandemic.\r\nThe SUV\u2026 [+1164 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tlevin@businessinsider.com (Tim Levin)",
+            "title": "Rivian's first batch of electric pickups and SUVs is already sold out as the Amazon-backed EV startup faces production constraints",
+            "description": "Rivian's limited production capacity means most buyers won't take delivery until 2022, Bloomberg reports.",
+            "url": "https://www.businessinsider.com/rivian-r1s-r1t-configurator-open-faces-limited-production-capacity-2020-11",
+            "urlToImage": "https://i.insider.com/5fbbe9d950e71a0011556d3b?width=1200&format=jpeg",
+            "publishedAt": "2020-11-23T19:40:14Z",
+            "content": "As of Monday morning, anyone can now configure and preorder a new pickup or SUV from electric-vehicle startup Rivian. But buyers will need to decide whether the much-anticipated R1T and R1S are worth\u2026 [+2525 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Blink Charging's roughly 200% surge in recent weeks has made it a '$1 billion joke,' says famed short-seller Andrew Left",
+            "description": "Blink Charging operates a network of nearly 15,000 electric vehicle charging stations as of December 31, according to the company.",
+            "url": "https://www.businessinsider.com/blink-charging-stock-price-electric-vehicle-joke-citron-research-says-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbc0e6c32f2170011f70b5d?format=jpeg",
+            "publishedAt": "2020-11-23T20:30:54Z",
+            "content": "The electric car Nissan Leaf, at an electric vehicle charging station at Balboa Park.\r\nD\u00fcnzl\\ullstein bild via Getty Images\r\n<ul><li>Blink Charging has soared nearly 200% in November as investor enth\u2026 [+1823 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Elon Musk Overtakes Bill Gates to Grab World\u2019s Second-Richest Ranking - Bloomberg",
+            "description": "Elon Musk Overtakes Bill Gates to Grab World\u2019s Second-Richest Ranking\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/amp/news/articles/2020-11-23/musk-overtakes-gates-to-grab-world-s-second-richest-ranking",
+            "urlToImage": null,
+            "publishedAt": "2020-11-23T22:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Could AOC be the next star on the tech scene? - Politico",
+            "description": "Lawmakers bash Apple\u2019s lobbying around forced labor bill \u2014 FTC Commissioner under fire",
+            "url": "https://www.politico.com/newsletters/morning-tech/2020/11/23/could-aoc-be-the-next-star-on-the-tech-scene-791837",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-11-23T15:00:00Z",
+            "content": "Presented by Masterworks\r\nWith help from John Hendel and Leah Nylen\r\nEditors Note: Morning Tech is a free version of POLITICO Pro Technology's morning newsletter, which is delivered to our subscriber\u2026 [+16354 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Anne Sraders",
+            "title": "Why Tesla stock could go to $1,000, according to a Wedbush analyst",
+            "description": "\"We\u2019re in for a golden age of demand over the coming years,\" says Wedbush's Dan Ives.",
+            "url": "https://fortune.com/2020/11/23/tsla-price-tesla-stock-target-1000-wedbush-analyst-outlook/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/11/GettyImages-1010166444.jpg?resize=1200,600",
+            "publishedAt": "2020-11-23T16:27:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Vicky Ge Huang",
+            "title": "Goldman Sachs says to buy these 26 stocks poised to deliver the strongest earnings growth in 2021 as the S&P 500 surges another 20%",
+            "description": "Summary List Placement\n\nAs the US continues to set daily records for COVID-19 infections, the country is faced with another lockdown that could deepen the ongoing economic recession.\u00a0\nHowever, Goldman Sachs' chief equity strategist David Kostin is optimistic \u2026",
+            "url": "https://www.businessinsider.com/stock-picks-to-buy-26-for-strong-earnings-2021-goldman-2020-11",
+            "urlToImage": "https://i.insider.com/5fb820ce32f2170011f7065b?width=1200&format=jpeg",
+            "publishedAt": "2020-11-23T16:15:00Z",
+            "content": "As the US continues to set daily records for COVID-19 infections, the country is faced with another lockdown that could deepen the ongoing economic recession.\u00a0\r\nHowever, Goldman Sachs' chief equity s\u2026 [+2571 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Martin Pelletier",
+            "title": "There's still time to get in on a stock recovery that has 'potential for an explosive upside'",
+            "description": "The positive recent action in equity markets following the announcement of several promising coronavirus vaccines has left many pundits thinking such a fast move in a short period of time warrants a correction. \n \n \n \n \n \n According to the most recent AAII Su\u2026",
+            "url": "https://financialpost.com/investing/investing-pro/theres-still-time-to-get-in-on-a-stock-recovery-that-has-potential-for-an-explosive-upside",
+            "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/11/stocks-ph1123.jpg",
+            "publishedAt": "2020-11-23T19:22:01Z",
+            "content": "Overall, we are still supportive of positioning into the post-COVID-19 recovery with the potential for explosive upside once this virus is behind us and the tremendous fiscal spending finally finds i\u2026 [+1266 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chuck Mikolajczak",
+            "title": "US STOCKS-Stocks rise on cyclical boost but megacaps curb gains",
+            "description": "* Dow up 0.85%, S&P 500 up 0.31%, Nasdaq up 0.06% (Updates to mid-afternoon, changes byline)",
+            "url": "https://uk.reuters.com/article/usa-stocks-idUKL1N2I920G",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-23T19:56:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* Vaccine could reach first Americans by mid-December\r\n* Tesla nears $500 billion in mar\u2026 [+3836 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "S.Korea shares hit near 3-year high on Samsung Elec, SK Hynix boost",
+            "description": "* KOSPI rises, foreigners net buyers * Korean won strengthens against U.S. dollar * South Korea benchmark bond yield falls SEOUL, Nov 23 (Reuters) - Round-up of South Korean financial markets: ** South Korean shares rose on Monday as heavyweights Samsung Elec\u2026",
+            "url": "https://uk.reuters.com/article/southkorea-markets-midday-idUKL1N2I903J",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-23T02:51:09Z",
+            "content": "By Reuters Staff\r\n* KOSPI rises, foreigners net buyers\r\n * Korean won strengthens against U.S. dollar\r\n * South Korea benchmark bond yield falls\r\nSEOUL, Nov 23 (Reuters) - Round-up of South Korean fi\u2026 [+2070 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "S.Korea shares close at record high as Samsung Electronics, SK Hynix surge",
+            "description": "Round-up of South Korean financial markets:",
+            "url": "https://uk.reuters.com/article/southkorea-markets-close-idUKAZN21U100",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-23T06:56:01Z",
+            "content": "By Reuters Staff\r\n* KOSPI closes at record high\r\n* Foreigners net buyers for 13th straight session\r\n* Korean won strengthens against U.S. dollar\r\n* South Korea benchmark bond yield falls\r\n* For the m\u2026 [+2002 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "S.Korea shares hit near 3-year high on Samsung Elec, SK Hynix boost",
+            "description": "* KOSPI rises, foreigners net buyers * Korean won strengthens against U.S. dollar * South Korea benchmark bond yield falls SEOUL, Nov 23 (Reuters) - Round-up of South Korean financial markets: ** South Korean shares rose on Monday as heavyweights Samsung Elec\u2026",
+            "url": "https://www.reuters.com/article/southkorea-markets-midday-idUSL1N2I903J",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-23T02:51:09Z",
+            "content": "By Reuters Staff\r\n* KOSPI rises, foreigners net buyers\r\n * Korean won strengthens against U.S. dollar\r\n * South Korea benchmark bond yield falls\r\nSEOUL, Nov 23 (Reuters) - Round-up of South Korean fi\u2026 [+2070 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chuck Mikolajczak",
+            "title": "Stocks rise on cyclical boost but megacaps curb gains",
+            "description": "The blue-chip Dow rose in choppy trading on Monday as hopes of a COVID-19 vaccine fueled demand for economically-sensitive stocks such as energy and industrials, while a sell-off in technology heavyweights weighed on the S&P 500 and the Nasdaq.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-idUSKBN2831HS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201123&t=2&i=1542182342&r=LYNXMPEGAM0TU&w=800",
+            "publishedAt": "2020-11-23T19:58:12Z",
+            "content": "NEW YORK (Reuters) - U.S. stocks closed higher in a choppy session on Monday as hopes for a COVID-19 vaccine lifted economically sensitive sectors such as energy and industrials, but a pullback in me\u2026 [+3561 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Carla Marinucci, Jeremy B. White, Graph Massara and Mackenzie Hawkins",
+            "title": "NEWSOM quarantines after COVID exposure \u2014 GOVERNOR vulnerable? RECALL MOVEMENT ramps up \u2014 WILLIE BROWN, 150 TOP DEM DONORS push woman of color for HARRIS seat \u2014 LA COUNTY bans outdoor dining",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/11/23/newsom-vulnerable-recall-movement-ramps-up-willie-brown-150-top-dem-donors-push-for-woman-of-color-for-harris-senate-seat-la-county-health-officials-ban-outdoor-dining-naacps-huffman-resigns-490967",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-11-23T14:25:58Z",
+            "content": "Presented by The Great Courses Plus\r\nTHE BUZZ KNIVES OUT FOR NEWSOM: Its getting rough out there. Gavin Newsom has had an unusually charmed political career spanning decades but the first two years o\u2026 [+20744 chars]"
+        }
+    ]
+}

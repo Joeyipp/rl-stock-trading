@@ -1,0 +1,292 @@
+{
+    "status": "ok",
+    "totalResults": 22,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Tesla has increased the price of its \u201cFull Self-Driving\u201d option to $10,000",
+            "description": "Tesla has made good on founder and CEO Elon Musk\u2019s promise to boost the price of its \u201cFull Self-Driving\u201d (FSD) software upgrade option, increasing it to $10,000 following the start of the staged rollout of a beta version of the software update last week. This\u2026",
+            "url": "http://techcrunch.com/2020/10/29/tesla-has-increased-the-price-of-its-full-self-driving-option-to-10000/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-609781368.jpg?w=600",
+            "publishedAt": "2020-10-29T23:24:02Z",
+            "content": "Tesla has made good on founder and CEO Elon Musk\u2019s promise to boost the price of its \u201cFull Self-Driving\u201d (FSD) software upgrade option, increasing it to $10,000 following the start of the staged roll\u2026 [+1890 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Makiko Yamazaki",
+            "title": "Panasonic beats forecasts, developing new battery cell for Tesla - Reuters UK",
+            "description": "Panasonic Corp <6752.T> said on Thursday it is working to develop a new battery cell for Tesla Inc <TSLA.O> based on the U.S. electric vehicle maker's new cell format, as the Japanese company moves forward its decade-old partnership with Tesla.",
+            "url": "https://uk.reuters.com/article/uk-panasonic-results-idUKKBN27E106",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539232333&r=LYNXMPEG9S0JJ&w=800",
+            "publishedAt": "2020-10-29T10:19:59Z",
+            "content": "TOKYO (Reuters) - Panasonic Corp 6752.T said on Thursday it is working to develop a new battery cell for Tesla Inc TSLA.O based on the U.S. electric vehicle maker's new cell format, as the Japanese c\u2026 [+2112 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Panasonic second-quarter profit beats estimates on boost from Tesla battery business - Reuters UK",
+            "description": "Panasonic second-quarter profit beats estimates on boost from Tesla battery business\u00a0\u00a0Reuters UK",
+            "url": "https://uk.reuters.com/article/us-panasonic-results-idUKKBN27E0ZE",
+            "urlToImage": null,
+            "publishedAt": "2020-10-29T07:30:00Z",
+            "content": "FILE PHOTO: The Panasonic booth is shown during the 2020 CES in Las Vegas, Nevada, U.S. January 7, 2020. REUTERS/Steve Marcus\r\nTechnology News\r\nReuters Staff\r\nTOKYO (Reuters) - Panasonic Corp reporte\u2026 [+1151 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Panasonic second-quarter profit beats estimates on boost from Tesla battery business - Reuters",
+            "description": "Panasonic second-quarter profit beats estimates on boost from Tesla battery business\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-panasonic-results-idUSKBN27E0ZE",
+            "urlToImage": null,
+            "publishedAt": "2020-10-29T07:29:00Z",
+            "content": "FILE PHOTO: The Panasonic booth is shown during the 2020 CES in Las Vegas, Nevada, U.S. January 7, 2020. REUTERS/Steve Marcus\r\nEarnings\r\nReuters Staff\r\nTOKYO (Reuters) - Panasonic Corp reported an 11\u2026 [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Panasonic second-quarter profit beats estimates on boost from Tesla battery business - Reuters India",
+            "description": "Panasonic second-quarter profit beats estimates on boost from Tesla battery business\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/panasonic-results-idINKBN27E10A",
+            "urlToImage": null,
+            "publishedAt": "2020-10-29T08:32:00Z",
+            "content": "A man is seen next to Panasonic Corp's logo at Panasonic Center in Tokyo, Japan, February 2, 2017. REUTERS/Kim Kyung-Hoon/Files\r\nGlobal Coverage 3\r\nReuters Staff\r\nTOKYO (Reuters) - Panasonic Corp rep\u2026 [+1176 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla plans to open about 52 new service centers in 2021: Electrek - Reuters",
+            "description": "Tesla Inc <TSLA.O> plans to add at least one new service center every week in 2021, Electrek reported on Thursday, citing a source familiar with the matter.",
+            "url": "https://www.reuters.com/article/tesla-service-int-idUSKBN27E1XS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539264856&r=LYNXMPEG9S10Q&w=800",
+            "publishedAt": "2020-10-29T11:46:06Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Tesla is seen at a Tesla Supercharger station in Dietikon, Switzerland October 21, 2020. REUTERS/Arnd Wiegmann\r\n(Reuters) - Tesla Inc TSLA.O plans to add at \u2026 [+774 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla plans to open about 52 new service centers in 2021: Electrek - Reuters UK",
+            "description": "Tesla Inc plans to add at least one new service center every week in 2021, Electrek reported on Thursday, citing a source familiar with the matter.",
+            "url": "https://uk.reuters.com/article/us-tesla-service-idUKKBN27E1V2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539261135&r=LYNXMPEG9S0ZK&w=800",
+            "publishedAt": "2020-10-29T11:23:17Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Tesla is seen at a Tesla Supercharger station in Dietikon, Switzerland October 21, 2020. REUTERS/Arnd Wiegmann\r\n(Reuters) - Tesla Inc plans to add at least o\u2026 [+767 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Daniel Gessner",
+            "title": "The world's first Tesla tuning shop creates super exclusive special edition Model X",
+            "description": "Los Angeles' T Sportline is the world's first Tesla tuning shop and creates a rare special edition custom Model X worth up to $300,000.",
+            "url": "https://www.businessinsider.com/tesla-tuner-shop-custom-model-x-2019-12",
+            "urlToImage": "https://i.insider.com/5df16644fd9db257d865da75?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T20:30:00Z",
+            "content": "EDITOR'S NOTE: This video was originally published in December 2019."
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Tesla has increased the price of its \"Full Self-Driving\" option to $10,000",
+            "description": "Tesla has made good on founder and CEO Elon Musk's promise to boost the price of its \"Full Self-Driving\" (FSD) software upgrade option, increasing it to $10,000 following the start of the staged rollout of a beta version of the software update last week. The \u2026",
+            "url": "https://techcrunch.com/2020/10/29/tesla-has-increased-the-price-of-its-full-self-driving-option-to-10000/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aSH3oEl.u7Y_glfVRWIo.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzM0/https://s.yimg.com/uu/api/res/1.2/sQWm9Ur5a3uB3YS644kAyA--~B/aD0yNjY3O3c9NDAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/9404a7ee98e777f74662eb5e39970d0f",
+            "publishedAt": "2020-10-29T23:24:02Z",
+            "content": "Tesla has made good on founder and CEO Elon Musk's promise to boost the price of its \"Full Self-Driving\" (FSD) software upgrade option, increasing it to $10,000 following the start of the staged roll\u2026 [+1890 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Reuters",
+            "title": "Volkswagen, the world's biggest car-maker, has bounced back to profitability thanks to luxury car buyers in China and Europe",
+            "description": "Summary List Placement\n\nVolkswagen has returned to profit in the third quarter, as surging Chinese demand for luxury cars helped offset a 1.1% drop in vehicle deliveries due to the COVID-19 crisis.\nVW's return to profitability came amid a spike in coronavirus\u2026",
+            "url": "https://www.businessinsider.com/vw-volkswagen-profit-porsche-audi-covid-19-covid19-2020-10",
+            "urlToImage": "https://i.insider.com/5f9a9b4e6f5b3100117241a5?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T14:25:33Z",
+            "content": "Volkswagen has returned to profit in the third quarter, as surging Chinese demand for luxury cars helped offset a 1.1% drop in vehicle deliveries due to the COVID-19 crisis.\r\nVW's return to profitabi\u2026 [+2201 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Morgan McFall-Johnsen",
+            "title": "SpaceX delayed its NASA astronaut launch because a red 'nail polish' material was plugging part of its rocket engines",
+            "description": "Summary List Placement\n\nSpaceX's Falcon 9 rocket has flown hundreds of satellites and two astronauts into Earth's orbit over the past two years. But on October 2, with just a few seconds to go before liftoff, a flight computer automatically shut everything do\u2026",
+            "url": "https://www.businessinsider.com/spacex-delayed-nasa-launch-red-nail-polish-blocking-rocket-engines-2020-10",
+            "urlToImage": "https://i.insider.com/5f84addd91aa9e001880b160?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T17:59:00Z",
+            "content": "SpaceX's Falcon 9 rocket has flown hundreds of satellites and two astronauts into Earth's orbit over the past two years. But on October 2, with just a few seconds to go before liftoff, a flight compu\u2026 [+3324 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kim Lyons",
+            "title": "White House officials considered Elon Musk for coronavirus ad campaign",
+            "description": "Elon Musk was among the celebrities that Trump administration officials tried to woo for a \u201cHelping the President will Help the Country\u201d taxpayer-funded ad blitz that never got off the ground, according to documents released by the House Oversight Committee.",
+            "url": "https://www.theverge.com/2020/10/29/21540000/elon-musk-celebrities-trump-campaign-help-azar",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/wIIi9_irkoq5CBBpazalmuQrRKs=/0x0:3300x1728/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21997969/632549212.jpg",
+            "publishedAt": "2020-10-29T16:40:08Z",
+            "content": "The Tesla CEO was among 250 people sought for an ad campaign to help the president\r\nPhoto by Matt McClain/The Washington Post via Getty Images\r\nElon Musk was among the celebrities that Trump administ\u2026 [+4602 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Tesla's $500 'Radio Upgrade' restores FM and Sirius XM access",
+            "description": "Earlier this year, Tesla started offering owners of older Model S and Model X vehicles the option to upgrade their infotainment systems for $2,500.  Purchasing it gives them access to features found in the newer version of the system, including YouTube, Netfl\u2026",
+            "url": "https://www.engadget.com/tesla-radio-upgrade-100037430.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F48b44fc0-19ba-11eb-bfff-d3aa7ef33936&client=amp-blogside-v2&signature=831c116b8baf8cc4f44bad85da816303f86cd09c",
+            "publishedAt": "2020-10-29T10:00:37Z",
+            "content": "Earlier this year, Tesla started offering owners of older Model S and Model X vehicles the option to upgrade their infotainment systems for $2,500. Purchasing it gives them access to features found i\u2026 [+959 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tlevin@businessinsider.com (Tim Levin)",
+            "title": "Watch Lordstown's upcoming electric pickup challenge the F-150 to a tug-of-war",
+            "description": "Tesla pulled the same stunt with its Cybertruck shortly after it was announced last year. Now Lordstown Motors is taking a crack at the F-150.",
+            "url": "https://www.businessinsider.com/electric-pickup-lordstown-endurance-ford-f-150-tug-of-war-2020-10",
+            "urlToImage": "https://i.insider.com/5f9ae2f56f5b3100117242dd?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T16:11:19Z",
+            "content": "With electric pickups from GMC, Rivian, Tesla, and others set to flood the market over the next few years, each company is looking to show why buyers should take a gamble on its unproven trucks inste\u2026 [+1413 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Ram is working on an electric version of its popular pickup truck",
+            "description": "Ram is working on an electrified version of its pickup. Fiat Chrysler Automobiles (FCA) CEO Mike Manley confirmed during an earnings call the automaker is moving into that market alongside the likes of Ford, Tesla, GMC and Rivian.Manley didn't offer...",
+            "url": "https://www.engadget.com/ram-electrified-pickup-truck-fiat-chrysler-141408623.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Ff74061a0-19ec-11eb-bfef-d94a56b8dc1b&client=amp-blogside-v2&signature=fc223e71583f77334a5fadec75b18cdf5bb5011b",
+            "publishedAt": "2020-10-29T14:14:08Z",
+            "content": "Ram is working on an electrified version of its pickup. Fiat Chrysler Automobiles (FCA) CEO Mike Manley confirmed during an earnings call the automaker is moving into that market alongside the likes \u2026 [+443 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Marley Jay",
+            "title": "Famed short-seller Andrew Left told us about his bullish positions in a magic-mushroom company and a COVID-19 test maker \u2014 and explained why he's now all-in on an online retailer he bet against barely a year ago",
+            "description": "Summary List Placement\n\nFamous short-sellers like Andrew Left tend to talk about stocks in flashy, attention getting, emphatic terms that often infuriate their targets. But it's nothing personal.\nAt least, not always. That's how Left found himself making a ve\u2026",
+            "url": "https://www.businessinsider.com/stock-market-short-selling-andrew-left-explains-jumia-compass-bets-2020-10",
+            "urlToImage": "https://i.insider.com/5f99bdeb6f5b310011723f3e?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T15:15:00Z",
+            "content": "Famous short-sellers like Andrew Left tend to talk about stocks in flashy, attention getting, emphatic terms that often infuriate their targets. But it's nothing personal.\r\nAt least, not always. That\u2026 [+3366 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tlevin@businessinsider.com (Tim Levin)",
+            "title": "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series",
+            "description": "The mishap occurred during Roborace's \"Season Beta,\" and it shows just how difficult autonomous-driving technology is to produce.",
+            "url": "https://www.businessinsider.com/self-driving-roborace-race-car-drove-straight-into-wall-2020-10",
+            "urlToImage": "https://i.insider.com/5f9b305569331a0011bc630a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T22:24:00Z",
+            "content": "Although driver-assistance technology has advanced considerably, we're still a long way away from cars that can truly drive themselves on public streets. Both Tesla's Autopilot and Chevrolet's Super \u2026 [+1492 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "David Rosenberg",
+            "title": "David Rosenberg: How to invest in a world being clobbered by climate-related disasters",
+            "description": "The United States has seen devastating wildfires ravage the Pacific Northwest (and Colorado more recently) as well as a record-breaking hurricane season in the Gulf of Mexico since we published our special report ESG Investing is Here to Stay on July 21. Clim\u2026",
+            "url": "https://financialpost.com/investing/investing-pro/david-rosenberg-how-to-invest-in-a-world-being-clobbered-by-climate-related-disasters",
+            "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/10/wildfire1029.jpg",
+            "publishedAt": "2020-10-29T18:49:02Z",
+            "content": "Overall, the cost of renewable energy has come down dramatically and is now in-line, or cheaper, than fossil fuel alternatives. And that is before factoring in the externality costs (pollution, carbo\u2026 [+1479 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Eric Lam",
+            "title": "Crypto Exchange FTX to Trade Top Stocks From Tesla to Amazon",
+            "description": "Crypto Exchange FTX to Trade Top Stocks From Tesla to Amazonbloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-29/crypto-exchange-ftx-to-trade-top-stocks-from-tesla-to-amazon",
+            "urlToImage": null,
+            "publishedAt": "2020-10-29T09:36:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Gabriel Friedman",
+            "title": "U.S. election next week could kick gold to new highs, no matter what the outcome",
+            "description": "In the early hours of Wednesday, around 1 a.m. in Vancouver, Randy Smallwood, chief executive of Wheaton Precious Metals Corp., was celebrating a new milestone for his company. \n \n \n \n \n \n That night, after months of planning, Wheaton finally started trading \u2026",
+            "url": "https://financialpost.com/commodities/u-s-election-next-week-could-kick-gold-to-new-highs-no-matter-what-the-outcome",
+            "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/10/gold102920.jpg",
+            "publishedAt": "2020-10-29T15:51:20Z",
+            "content": "While he allowed that a contested presidential election result might qualify as an exception to this rule, and have a significant lasting impact on the price of gold, his note cited other, more impor\u2026 [+1509 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla plans to open about 52 new service centers in 2021: Electrek",
+            "description": "Tesla Inc plans to add at least one new service center every week in 2021, Electrek reported on Thursday, citing a source familiar with the matter.",
+            "url": "https://ca.reuters.com/article/us-tesla-service-idCAKBN27E1V2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539261135&r=LYNXMPEG9S0ZK&w=800",
+            "publishedAt": "2020-10-29T11:19:10Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Tesla is seen at a Tesla Supercharger station in Dietikon, Switzerland October 21, 2020. REUTERS/Arnd Wiegmann\r\n(Reuters) - Tesla Inc plans to add at least o\u2026 [+767 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Panasonic second-quarter profit beats estimates on boost from Tesla battery business",
+            "description": "Panasonic Corp reported an 11% increase in second-quarter operating profit on Thursday, beating analyst estimates, helped by solid performance from its Tesla Inc battery business.",
+            "url": "https://ca.reuters.com/article/ctech-us-panasonic-results-idCAKBN27E0ZE-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539232169&r=LYNXMPEG9S0J9-OCATC&w=800",
+            "publishedAt": "2020-10-29T07:29:06Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Panasonic booth is shown during the 2020 CES in Las Vegas, Nevada, U.S. January 7, 2020. REUTERS/Steve Marcus\r\nTOKYO (Reuters) - Panasonic Corp reported an 11% incre\u2026 [+991 chars]"
+        }
+    ]
+}

@@ -1,0 +1,942 @@
+{
+    "status": "ok",
+    "totalResults": 72,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "American Airlines to restart flights to China, bringing U.S. weekly total to 10 - Reuters",
+            "description": "American Airlines is set to restart flights to China in coming days, lifting the total number of U.S. weekly flights to China to 10 from eight, a U.S. Department of Transportation (DOT) official said at an aviation conference on Wednesday.",
+            "url": "https://www.reuters.com/article/usa-china-flights-idUSKBN27R2AU",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540862977&r=LYNXMPEGAA1B3&w=800",
+            "publishedAt": "2020-11-11T16:02:00Z",
+            "content": "FILE PHOTO: A line of American Airlines Boeing 737 MAX passenger planes are parked on the tarmac at Tulsa International Airport in Tulsa, Oklahoma, U.S., March 23, 2020. REUTERS/Nick Oxford/File Phot\u2026 [+1292 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "American Airlines to start China flights in coming days, U.S. DOT official says - Reuters",
+            "description": "American Airlines <AAL.O> is set to begin flights to China in coming days, bringing the total number of U.S. weekly flights to China to 10 from eight, U.S. Department of Transportation official David Short said at an aviation conference on Wednesday.",
+            "url": "https://www.reuters.com/article/us-usa-china-flights-idUSKBN27R25B",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540855180&r=LYNXMPEGAA17W&w=800",
+            "publishedAt": "2020-11-11T15:01:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: An American Airlines Boeing 777-300ER plane takes off from Sydney Airport in Sydney, Australia, October 28, 2020. REUTERS/Loren Elliott\r\n(Reuters) - American Airlines AA\u2026 [+227 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "American Airlines to start China flights in coming days, U.S. DOT official says - Reuters UK",
+            "description": "American Airlines <AAL.O> is set to begin flights to China in coming days, bringing the total number of U.S. weekly flights to China to 10 from eight, U.S. Department of Transportation official David Short said at an aviation conference on Wednesday.",
+            "url": "https://uk.reuters.com/article/us-usa-china-flights-idUKKBN27R25B",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540855180&r=LYNXMPEGAA17W&w=800",
+            "publishedAt": "2020-11-11T15:02:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: An American Airlines Boeing 777-300ER plane takes off from Sydney Airport in Sydney, Australia, October 28, 2020. REUTERS/Loren Elliott\r\n(Reuters) - American Airlines AA\u2026 [+227 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Australia's Regional Express says could operate 30 or 40 jets by 2022 - Reuters India",
+            "description": "UPDATE 1-Australia's Regional Express says could operate 30 or 40 jets by 2022\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/rex-expansion-idINL1N2HX09V",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T05:32:00Z",
+            "content": "By Reuters Staff\r\n* Airline has announced plans to lease six 737 planes\r\n* Will compete against Qantas, Virgin Australia on major routes\r\n* To have nine daily return Sydney-Melbourne flights to start\u2026 [+1975 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Ryanair would not expect to pay Boeing tariffs - Reuters Canada",
+            "description": "Ryanair <RYA.I> would not expect to have to pay extra for aircraft deliveries due to a new 15% tariff announced by the European Union this week on Boeing aircraft, a senior executive said on Tuesday.",
+            "url": "https://ca.reuters.com/article/us-ryanair-boeing-idCAKBN27R1CA",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540829795&r=LYNXMPEGAA0QK&w=800",
+            "publishedAt": "2020-11-11T11:15:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Ryanair logo is pictured on the the jacket of a cabin crew member ahead of a news conference by Ryanair union representatives in Brussels, Belgium September 13, 2018. RE\u2026 [+570 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Ryanair would not expect to pay Boeing tariffs - Reuters Africa",
+            "description": "Ryanair <RYA.I> would not expect to have to pay extra for aircraft deliveries due to a new 15% tariff announced by the European Union this week on Boeing aircraft, a senior executive said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-ryanair-boeing-idUSKBN27R1CA",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540829795&r=LYNXMPEGAA0QK&w=800",
+            "publishedAt": "2020-11-11T11:14:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Ryanair logo is pictured on the the jacket of a cabin crew member ahead of a news conference by Ryanair union representatives in Brussels, Belgium September 13, 2018. RE\u2026 [+570 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Three Israeli airlines to run Dubai-Tel Aviv flights from December - Dubai Airports - Reuters",
+            "description": "Three Israeli airlines will begin direct flights from Tel Aviv to Dubai in December, with El Al operating twice daily services, Israir offering six weekly flights and Arkia operating a daily service, Dubai Airports said on Wednesday.",
+            "url": "https://www.reuters.com/article/israel-emirates-airlines-idUSL8N2HX3MV",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T11:51:00Z",
+            "content": "By Reuters Staff\r\nDUBAI, Nov 11 (Reuters) - Three Israeli airlines will begin direct flights from Tel Aviv to Dubai in December, with El Al operating twice daily services, Israir offering six weekly \u2026 [+1215 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia says aviation firms may need three years to recover - Reuters India",
+            "description": "Airlines in Malaysia could take three years to bounce back from the coronavirus pandemic, depending on the outbreak in the country and abroad, the transport ministry said.",
+            "url": "https://in.reuters.com/article/malaysia-aviation-idINKBN27R18B",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540826454&r=LYNXMPEGAA0O6&w=800",
+            "publishedAt": "2020-11-11T10:38:00Z",
+            "content": "By Reuters Staff\r\nA firefighter wearing personal protective equipment (PPE) sprays disinfectant on luggages of arrival passangers at the entrance of Kuala Lumpur International Airport, amid the coron\u2026 [+1433 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia says aviation firms may need three years to recover - Reuters UK",
+            "description": "Airlines in Malaysia could take three years to bounce back from the coronavirus pandemic, depending on the outbreak in the country and abroad, the transport ministry said.",
+            "url": "https://www.reuters.com/article/malaysia-aviation-idUKL4N2HX2FJ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T09:42:00Z",
+            "content": "By Reuters Staff\r\nKUALA LUMPUR, Nov 11 (Reuters) - Airlines in Malaysia could take three years to bounce back from the coronavirus pandemic, depending on the outbreak in the country and abroad, the t\u2026 [+1160 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia says aviation firms may need three years to recover - Reuters",
+            "description": "Airlines in Malaysia could take three years to bounce back from the coronavirus pandemic, depending on the outbreak in the country and abroad, the transport ministry said.",
+            "url": "https://www.reuters.com/article/malaysia-aviation-idUSKBN27R18B",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540826454&r=LYNXMPEGAA0O6&w=800",
+            "publishedAt": "2020-11-11T10:36:00Z",
+            "content": "By Reuters Staff\r\nA firefighter wearing personal protective equipment (PPE) sprays disinfectant on luggages of arrival passangers at the entrance of Kuala Lumpur International Airport, amid the coron\u2026 [+1433 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Russian airlines' passenger traffic falls 39% y/y in Oct - Rosaviatsiya - Reuters India",
+            "description": "The number of passengers flying with Russian airlines in October fell 39% year on year compared with a 32% drop in September, the aviation authority said on Wednesday, as fewer people took flights due to the coronavirus pandemic.",
+            "url": "https://www.reuters.com/article/health-coronavirus-russia-airlines-idUSL8N2HX165",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T06:32:00Z",
+            "content": "By Reuters Staff\r\nMOSCOW, Nov 11 (Reuters) - The number of passengers flying with Russian airlines in October fell 39% year on year compared with a 32% drop in September, the aviation authority said \u2026 [+509 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Malaysia says aviation firms may need three years to recover from COVID-19 - Reuters India",
+            "description": "Airlines in Malaysia could take three years to bounce back from the coronavirus pandemic, depending on the outbreak in the country and abroad, the transport ministry said.",
+            "url": "https://www.reuters.com/article/malaysia-aviation-idINKBN27R18B",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540826454&r=LYNXMPEGAA0O6&w=800",
+            "publishedAt": "2020-11-11T10:43:00Z",
+            "content": "By Reuters Staff\r\nKUALA LUMPUR (Reuters) - Airlines in Malaysia could take three years to bounce back from the coronavirus pandemic, depending on the outbreak in the country and abroad, the transport\u2026 [+1974 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Malaysia says aviation firms may need three years to recover from COVID-19 - Reuters India",
+            "description": "Airlines in Malaysia could take three years to bounce back from the coronavirus pandemic, depending on the outbreak in the country and abroad, the transport ministry said.",
+            "url": "https://in.reuters.com/article/malaysia-aviation-idINL1N2HX0NF",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T10:43:00Z",
+            "content": "By Reuters Staff\r\n(Adds ministers comments)\r\nKUALA LUMPUR, Nov 11 (Reuters) - Airlines in Malaysia could take three years to bounce back from the coronavirus pandemic, depending on the outbreak in th\u2026 [+1728 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Aziz  El Yaakoubi",
+            "title": "UPDATE 1-Etihad flags more cabin crew job cuts, Airbus A380s grounded - Reuters UK",
+            "description": "Etihad Airways told cabin crew on Wednesday there would be layoffs this week, an internal email showed, and a company source said the airline's Airbus <AIR.PA> A380 superjumbos have been parked \"indefinitely\" after a slower than expected recovery in demand.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-etihad-airways-idUKKBN27R1F7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540832455&r=LYNXMPEGAA0RZ&w=800",
+            "publishedAt": "2020-11-11T17:02:00Z",
+            "content": "DUBAI (Reuters) - Etihad Airways told cabin crew on Wednesday there would be layoffs this week, an internal email showed, and a company source said the airline's Airbus AIR.PA A380 superjumbos have b\u2026 [+2048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Aziz  El Yaakoubi",
+            "title": "Etihad flags more cabin crew job cuts, to keep Airbus A380s grounded - Reuters India",
+            "description": "Etihad Airways told cabin crew on Wednesday there would be layoffs this week, an internal email seen by Reuters showed, and a company source said the airline will keep its Airbus A380 superjumbos parked \"indefinitely\" due to a slower than expected recovery in\u2026",
+            "url": "https://in.reuters.com/article/health-coronavirus-etihad-airways-idINKBN27R1IB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540834810&r=LYNXMPEGAA0U0&w=800",
+            "publishedAt": "2020-11-11T12:03:00Z",
+            "content": "DUBAI (Reuters) - Etihad Airways told cabin crew on Wednesday there would be layoffs this week, an internal email seen by Reuters showed, and a company source said the airline will keep its Airbus A3\u2026 [+1976 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Etihad flags more cabin crew job cuts, to keep Airbus A380s grounded - Reuters",
+            "description": "Etihad flags more cabin crew job cuts, to keep Airbus A380s grounded\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-etihad-airways-idUSKBN27R1F7",
+            "urlToImage": null,
+            "publishedAt": "2020-11-11T11:40:00Z",
+            "content": "FILE PHOTO: A model Etihad Airways plane is seen on stage in New York, U.S. November 13, 2014. REUTERS/Lucas Jackson\r\nAutos\r\nAziz El Yaakoubi\r\nDUBAI (Reuters) - Etihad Airways told cabin crew on Wedn\u2026 [+2091 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa reaches crisis deal with union to cut costs - Reuters UK",
+            "description": "German airline Lufthansa <LHAG.DE> said on Wednesday it had reached a new deal with trade union Verdi to cut 200 million euros ($235 million) in costs in return for making no compulsory redundancies in 2021.",
+            "url": "https://uk.reuters.com/article/us-lufthansa-jobs-idUKKBN27R2LF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540876539&r=LYNXMPEGAA1J7&w=800",
+            "publishedAt": "2020-11-11T17:32:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Lufthansa planes are seen parked on the tarmac of Frankfurt Airport, Germany June 25, 2020. REUTERS/Kai Pfaffenbach/File Photo\r\nBERLIN (Reuters) - German airline Lufthan\u2026 [+1321 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa reaches crisis deal with union to cut costs - Reuters UK",
+            "description": "German airline Lufthansa <LHAG.DE> said on Wednesday it had reached a new deal with trade union Verdi to cut 200 million euros ($235 million) in costs in return for making no compulsory redundancies in 2021.",
+            "url": "https://www.reuters.com/article/us-lufthansa-jobs-idUKKBN27R2LF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540876539&r=LYNXMPEGAA1J7&w=800",
+            "publishedAt": "2020-11-11T17:32:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Lufthansa planes are seen parked on the tarmac of Frankfurt Airport, Germany June 25, 2020. REUTERS/Kai Pfaffenbach/File Photo\r\nBERLIN (Reuters) - German airline Lufthan\u2026 [+1321 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa hires finance head from chocolate maker Barry Callebaut - Reuters",
+            "description": "Loss-making German airline Lufthansa said on Wednesday it would revive the role of finance chief and had hired Remco Steenbegen from Swiss chocolate maker Barry Callebaut to fill the post.",
+            "url": "https://www.reuters.com/article/lufthansa-moves-idUSL8N2HX2MM",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T11:15:00Z",
+            "content": "By Reuters Staff\r\nBERLIN, Nov 11 (Reuters) - Loss-making German airline Lufthansa said on Wednesday it would revive the role of finance chief and had hired Remco Steenbegen from Swiss chocolate maker\u2026 [+1615 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa hires finance head from chocolate maker Barry Callebaut - Reuters India",
+            "description": "Loss-making German airline Lufthansa said on Wednesday it would revive the role of finance chief and had hired Remco Steenbegen from Swiss chocolate maker Barry Callebaut to fill the post.",
+            "url": "https://in.reuters.com/article/lufthansa-moves-idINKBN27R1DH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540834814&r=LYNXMPEGAA0U1&w=800",
+            "publishedAt": "2020-11-11T12:03:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - Loss-making German airline Lufthansa said on Wednesday it would revive the role of finance chief and had hired Remco Steenbegen from Swiss chocolate maker Barry C\u2026 [+1642 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Virgin Atlantic says it can survive worsening travel outlook - Reuters India",
+            "description": "Virgin Atlantic's recapitalisation two months ago means the airline can survive even if the travel situation worsens, its chief executive told an online industry event on Wednesday.",
+            "url": "https://www.reuters.com/article/health-coronavirus-virgin-atlantic-idINKBN27R187",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540825965&r=LYNXMPEGAA0NV&w=800",
+            "publishedAt": "2020-11-11T10:33:00Z",
+            "content": "By Reuters Staff\r\nVirgin Atlantic's planes are seen parked at Manchester Airport, following the outbreak of the coronavirus disease (COVID-19), Manchester, Britain, May 9, 2020. REUTERS/Phil Noble/Fi\u2026 [+397 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Virgin Atlantic says it can survive worsening travel outlook - Reuters UK",
+            "description": "Virgin Atlantic's recapitalisation two months ago means the airline can survive even if the travel situation worsens, its chief executive told an online industry event on Wednesday.",
+            "url": "https://www.reuters.com/article/uk-health-coronavirus-virgin-atlantic-idUKKBN27R193",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540826389&r=LYNXMPEGAA0OC&w=800",
+            "publishedAt": "2020-11-11T10:34:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Virgin Atlantic's planes are seen parked at Manchester Airport, following the outbreak of the coronavirus disease (COVID-19), Manchester, Britain, May 9, 2020. REUTERS/P\u2026 [+403 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Boeing lost more 737 MAX orders in October - Reuters",
+            "description": "Boeing lost another 12 orders for its grounded 737 MAX jetliner last month and delivered just 13 aircraft to customers -- down from the 20 jets delivered in October of last year.",
+            "url": "https://www.reuters.com/video/watch/idP7j3?now=true",
+            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/5fab3d84e4b04d4457630dd4-1605057927825?location=LANDSCAPE",
+            "publishedAt": "2020-11-11T04:10:22Z",
+            "content": "Posted \r\nBoeing lost another 12 orders for its grounded 737 MAX jetliner last month and delivered just 13 aircraft to customers -- down from the 20 jets delivered in October of last year."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa reaches crisis deal with union to cut costs - Reuters",
+            "description": "German airline Lufthansa <LHAG.DE> has reached a new deal with trade union Verdi to cut 200 million euros in costs in return for making no compulsory redundancies up until March 2022, the trade union said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-lufthansa-jobs-idUSKBN27R2LF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540873012&r=LYNXMPEGAA1HE&w=800",
+            "publishedAt": "2020-11-11T17:31:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A shut down first-class counter for German air carrier Lufthansa is seen at Frankfurt Airport as the spread of the coronavirus disease (COVID-19) continues in Frankfurt,\u2026 [+491 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa reaches crisis deal with union to cut costs - Reuters UK",
+            "description": "German airline Lufthansa <LHAG.DE> has reached a new deal with trade union Verdi to cut 200 million euros in costs in return for making no compulsory redundancies up until March 2022, the trade union said on Wednesday.",
+            "url": "https://uk.reuters.com/article/uk-lufthansa-jobs-idUKKBN27R2LJ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540873078&r=LYNXMPEGAA1HG&w=800",
+            "publishedAt": "2020-11-11T17:32:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Lufthansa planes are seen parked on the tarmac of Frankfurt Airport, Germany June 25, 2020. REUTERS/Kai Pfaffenbach\r\nBERLIN (Reuters) - German airline Lufthansa LHAG.DE \u2026 [+386 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Boeing lost more 737 MAX orders in October | Reuters Video - Reuters UK",
+            "description": "Boeing lost another 12 orders for its grounded 737 MAX jetliner last month and delivered just 13 aircraft to customers -- down from the 20 jets delivered in October of last year. Gloria Tso reports.",
+            "url": "https://uk.reuters.com/video/watch/idOVD44P37V",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20201111&i=OVD44P37V&r=OVD44P37V&t=2",
+            "publishedAt": "2020-11-11T03:42:46Z",
+            "content": "Posted \r\nBoeing lost another 12 orders for its grounded 737 MAX jetliner last month and delivered just 13 aircraft to customers -- down from the 20 jets delivered in October of last year. Gloria Tso \u2026 [+7 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ritvik Carvalho, Thyagaraju Adinarayan",
+            "title": "Markets in V-mode: vaccine hopes, Biden bounce in play - Reuters India",
+            "description": "Joe Biden's U.S. presidential election win and a promising vaccine breakthrough have combined to propel global stock markets to record highs in the last week, upending the virus-led investment strategies that have been in play since March.",
+            "url": "https://in.reuters.com/article/global-markets-biden-vaccine-graphic-idINKBN27R2AK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540863475&r=LYNXMPEGAA1BA&w=800",
+            "publishedAt": "2020-11-11T16:08:00Z",
+            "content": "LONDON (Reuters) - Joe Bidens U.S. presidential election win and a promising vaccine breakthrough have combined to propel global stock markets to record highs in the last week, upending the virus-led\u2026 [+2973 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ritvik Carvalho, Thyagaraju Adinarayan",
+            "title": "Markets in V-mode: vaccine hopes, Biden bounce in play - Reuters",
+            "description": "Joe Biden's U.S. presidential election win and a promising vaccine breakthrough have combined to propel global stock markets to record highs in the last week, upending the virus-led investment strategies that have been in play since March.",
+            "url": "https://www.reuters.com/article/us-global-markets-biden-vaccine-graphic-idUSKBN27R1TN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540844743&r=LYNXMPEGAA10D&w=800",
+            "publishedAt": "2020-11-11T13:31:00Z",
+            "content": "LONDON (Reuters) - Joe Bidens U.S. presidential election win and a promising vaccine breakthrough have combined to propel global stock markets to record highs in the last week, upending the virus-led\u2026 [+3026 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ritvik Carvalho, Thyagaraju Adinarayan",
+            "title": "Markets in V-mode: vaccine hopes, Biden bounce in play - Reuters Canada",
+            "description": "Joe Biden's U.S. presidential election win and a promising vaccine breakthrough have combined to propel global stock markets to record highs in the last week, upending the virus-led investment strategies that have been in play since March.",
+            "url": "https://ca.reuters.com/article/us-global-markets-biden-vaccine-graphic-idCAKBN27R1TN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540845571&r=LYNXMPEGAA10D&w=800",
+            "publishedAt": "2020-11-11T13:35:00Z",
+            "content": "By Ritvik Carvalho, Thyagaraju Adinarayan\r\nLONDON (Reuters) - Joe Bidens U.S. presidential election win and a promising vaccine breakthrough have combined to propel global stock markets to record hig\u2026 [+3069 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Hong Kong-Singapore travel bubble to begin on Nov. 22 - Reuters UK",
+            "description": "A travel bubble between Hong Kong and Singapore will begin on Nov. 22, Singapore's airlines regulator announced on Wednesday, as the two cities move to re-establish overseas travel links and lift the hurdle of quarantine for visiting foreigners. (Reporting by\u2026",
+            "url": "https://uk.reuters.com/article/health-coronavirus-hongkong-singapore-idUKL8N2HX09H",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T02:06:00Z",
+            "content": "By Reuters Staff\r\nSINGAPORE Nov 11 (Reuters) - A travel bubble between Hong Kong and Singapore will begin on Nov. 22, Singapores airlines regulator announced on Wednesday, as the two cities move to r\u2026 [+188 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Hong Kong-Singapore travel bubble to begin on Nov. 22 - Reuters UK",
+            "description": "A travel bubble between Hong Kong and Singapore will begin on Nov. 22, Singapore's airlines regulator announced on Wednesday, as the two cities move to re-establish overseas travel links and lift the hurdle of quarantine for visiting foreigners. (Reporting by\u2026",
+            "url": "https://www.reuters.com/article/health-coronavirus-hongkong-singapore-idUKL8N2HX09H",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T02:06:00Z",
+            "content": "By Reuters Staff\r\nSINGAPORE Nov 11 (Reuters) - A travel bubble between Hong Kong and Singapore will begin on Nov. 22, Singapores airlines regulator announced on Wednesday, as the two cities move to r\u2026 [+188 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Nikkei ends at fresh 29-year peak as vaccine hopes continue to rise - Reuters",
+            "description": "Japan's Nikkei surged to close at a fresh 29-year high on Wednesday, as investors remained hopeful of a swift global economic recovery from the COVID-19 pandemic on vaccine-related developments.",
+            "url": "https://www.reuters.com/article/japan-stocks-close-idUSL1N2HX0CD",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T07:07:00Z",
+            "content": "By Reuters Staff\r\nTOKYO, Nov 11 (Reuters) - Japans Nikkei surged to close at a fresh 29-year high on Wednesday, as investors remained hopeful of a swift global economic recovery from the COVID-19 pan\u2026 [+1847 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Japan shares climb over 29-year peak as vaccine hopes continue to cheer - Reuters UK",
+            "description": "Japanese shares hit a more than 29-year high on Wednesday, as investors remained hopeful of a swift global economic recovery from the COVID-19 pandemic on vaccine-related developments.",
+            "url": "https://uk.reuters.com/article/japan-stocks-midday-idUKL1N2HX058",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T03:16:00Z",
+            "content": "By Reuters Staff\r\nTOKYO, Nov 11 (Reuters) - Japanese shares hit a more than 29-year high on Wednesday, as investors remained hopeful of a swift global economic recovery from the COVID-19 pandemic on \u2026 [+1678 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Farah Master, Chen Lin",
+            "title": "Hong Kong, Singapore to allow travel to each other without quarantines from November 22 - Reuters India",
+            "description": "A travel bubble between Hong Kong and Singapore will begin on Nov. 22, the two cities announced on Wednesday, as they moved to re-establish overseas travel links and lift the hurdle of quarantine for visiting foreigners.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-hongkong-singapore-idINKBN27R0B2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540792683&r=LYNXMPEGAA054&w=800",
+            "publishedAt": "2020-11-11T03:47:00Z",
+            "content": "HONG KONG/ SINGAPORE (Reuters) - A travel bubble between Hong Kong and Singapore will begin on Nov. 22, the two cities announced on Wednesday, as they moved to re-establish overseas travel links and \u2026 [+2050 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Farah Master, Chen Lin",
+            "title": "Hong Kong, Singapore to allow travel to each other without quarantines from November 22 - Reuters UK",
+            "description": "A travel bubble between Hong Kong and Singapore will begin on Nov. 22, the two cities announced on Wednesday, as they moved to re-establish overseas travel links and lift the hurdle of quarantine for visiting foreigners.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-hongkong-singapore-idUSKBN27R0B2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540792683&r=LYNXMPEGAA054&w=800",
+            "publishedAt": "2020-11-11T03:46:00Z",
+            "content": "HONG KONG/ SINGAPORE (Reuters) - A travel bubble between Hong Kong and Singapore will begin on Nov. 22, the two cities announced on Wednesday, as they moved to re-establish overseas travel links and \u2026 [+2050 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Farah Master, Chen Lin",
+            "title": "Hong Kong, Singapore to allow travel to each other without quarantines from November 22 - Reuters Africa",
+            "description": "A travel bubble between Hong Kong and Singapore will begin on Nov. 22, the two cities announced on Wednesday, as they moved to re-establish overseas travel links and lift the hurdle of quarantine for visiting foreigners.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-hongkong-singapore-idUSKBN27R0B2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540792464&r=LYNXMPEGAA054&w=800",
+            "publishedAt": "2020-11-11T03:46:00Z",
+            "content": "HONG KONG/ SINGAPORE (Reuters) - A travel bubble between Hong Kong and Singapore will begin on Nov. 22, the two cities announced on Wednesday, as they moved to re-establish overseas travel links and \u2026 [+2050 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Swiss government resumes talks with EU on stalled treaty - Reuters UK",
+            "description": "Switzerland is to resume talks with the European Union over a wide-ranging bilateral treaty, including on issues such as protecting workers' rights and wages, that have lain dormant for two years.",
+            "url": "https://uk.reuters.com/article/swiss-eu-idUKL8N2HX5GO",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T14:47:00Z",
+            "content": "By Reuters Staff\r\n(Adds details and background)\r\nZURICH, Nov 11 (Reuters) - Switzerland is to resume talks with the European Union over a wide-ranging bilateral treaty, including on issues such as pr\u2026 [+1322 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Kemp",
+            "title": "RPT-COLUMN-Successful vaccine would boost oil consumption, but not for 6-12 months: Kemp - Reuters",
+            "description": "Coronavirus vaccines are expected to boost international passenger transportation and oil consumption, but the first significant impact will not be felt until well into the second half of 2021, based on futures price movements on Monday.",
+            "url": "https://www.reuters.com/article/oil-global-kemp-idUSL1N2HW177",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T01:00:00Z",
+            "content": "(Repeats Tuesdays column with no changes to the text. John Kemp is a Reuters market analyst. The views expressed are his own.)\r\n* Chart 1: tmsnrt.rs/3eRR2RC\r\n* Chart 2: tmsnrt.rs/3eJEfR2\r\nLONDON, Nov\u2026 [+3923 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Aftab Ahmed",
+            "title": "India planning around $20 billion of new stimulus - government sources - Reuters",
+            "description": "India is planning to announce a fresh round of stimulus totalling about $20 billion this week to help pull the economy out of its historic contraction, government officials said on Wednesday.",
+            "url": "https://www.reuters.com/article/india-economy-stimulus-idUSKBN27R1KM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540841360&r=LYNXMPEGAA0V1&w=800",
+            "publishedAt": "2020-11-11T12:21:00Z",
+            "content": "An India Rupee note is seen in this illustration photo June 1, 2017. REUTERS/Thomas White/Illustration\r\nNEW DELHI (Reuters) - India is planning to announce a fresh round of stimulus totalling about $\u2026 [+1471 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Roche chairman favours requiring COVID-19 shots -Handelszeitung - Reuters",
+            "description": "Swiss drugmaker Roche's chairman, Christoph Franz, favours requiring people to get a vaccination against COVID-19 when one is available and proven safe and effective, newspaper Handelszeitung reported on Wednesday, citing an interview.",
+            "url": "https://www.reuters.com/article/roche-hldg-chairman-vaccination-idUSL8N2HX6T6",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T18:31:00Z",
+            "content": "By Reuters Staff\r\nZURICH, Nov 11 (Reuters) - Swiss drugmaker Roches chairman, Christoph Franz, favours requiring people to get a vaccination against COVID-19 when one is available and proven safe and\u2026 [+1771 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ebrahim Harris",
+            "title": "Captain's Corner: Grounded Malaysian pilot's noodle stall takes off - Reuters",
+            "description": "Every morning, Malaysian pilot Azrin Mohamad Zawawi puts on his white uniform and black captain's hat before heading to work.",
+            "url": "https://www.reuters.com/article/health-coronavirus-malaysia-pilot-idUSL1N2HX06P",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T04:45:00Z",
+            "content": "SUBANG JAYA, Malaysia, Nov 11 (Reuters) - Every morning, Malaysian pilot Azrin Mohamad Zawawi puts on his white uniform and black captains hat before heading to work.\r\nBut rather than going to the ai\u2026 [+1579 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ebrahim Harris",
+            "title": "Captain's Corner: Grounded Malaysian pilot's noodle stall takes off - Reuters India",
+            "description": "Every morning, Malaysian pilot Azrin Mohamad Zawawi puts on his white uniform and black captain's hat before heading to work.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-malaysia-pilot-idINKBN27R0EA",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540796929&r=LYNXMPEGAA06U&w=800",
+            "publishedAt": "2020-11-11T04:57:00Z",
+            "content": "SUBANG JAYA, Malaysia (Reuters) - Every morning, Malaysian pilot Azrin Mohamad Zawawi puts on his white uniform and black captains hat before heading to work.\r\nBut rather than going to the airport, a\u2026 [+1515 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Deepali Saxena",
+            "title": "Australia, NZ shares gain as vaccine euphoria lifts recovery hopes - Reuters India",
+            "description": "Australia, NZ shares gain as vaccine euphoria lifts recovery hopes\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/australia-stocks-close-idINL4N2HX0ZS",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T05:47:00Z",
+            "content": "* Energy stocks jump to their highest since July 3\r\n* Financials extend gains; CBA records highest level since Aug 13\r\n* RBNZ keeps rates at record low, unveils funding-for-lending facility (Updates \u2026 [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shruti Sonal",
+            "title": "Australian shares gain for fifth session; NZ eyes c.bank decision - Reuters India",
+            "description": "Australian shares gain for fifth session; NZ eyes c.bank decision\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/australia-stocks-midday-idINL4N2HW5EJ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T00:47:00Z",
+            "content": "* Energy index hits highest since Aug. 20\r\n* CBA gains despite drop in Q1 profit\r\n* NZ c.bank to hold cash rate, leave QE untouched - Reuters poll\r\nNov 11 (Reuters) - Australian shares rose for a fif\u2026 [+1918 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Farah Master, Chen Lin",
+            "title": "UPDATE 1-Hong Kong-Singapore travel bubble to begin on Nov 22 - Reuters UK",
+            "description": "A travel bubble between Hong Kong and Singapore will begin on Nov 22, the two cities announced on Wednesday, as they moved to re-establish overseas travel links and lift the hurdle of quarantine for visiting foreigners.",
+            "url": "https://www.reuters.com/article/health-coronavirus-hongkong-singapore-idUKL1N2HX03X",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T02:36:00Z",
+            "content": "* Starts with one flight a day into each city\r\n* Each flight will have a quota of 200 travellers\r\n* No quarantine, subject to COVID-19 tests\r\nHONG KONG/ SINGAPORE, Nov 11 (Reuters) - A travel bubble \u2026 [+1896 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Farah Master, Chen Lin",
+            "title": "UPDATE 1-Hong Kong-Singapore travel bubble to begin on Nov 22 - Reuters UK",
+            "description": "A travel bubble between Hong Kong and Singapore will begin on Nov 22, the two cities announced on Wednesday, as they moved to re-establish overseas travel links and lift the hurdle of quarantine for visiting foreigners.",
+            "url": "https://uk.reuters.com/article/health-coronavirus-hongkong-singapore-idUKL1N2HX03X",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T02:36:00Z",
+            "content": "* Starts with one flight a day into each city\r\n* Each flight will have a quota of 200 travellers\r\n* No quarantine, subject to COVID-19 tests\r\nHONG KONG/ SINGAPORE, Nov 11 (Reuters) - A travel bubble \u2026 [+1896 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shruti Sonal",
+            "title": "Australian shares gain for fifth session; New Zealand eyes central bank decision - Reuters",
+            "description": "Australian shares rose for a fifth straight session on Wednesday following gains in financial and energy stocks, while New Zealand stocks inched up ahead of the outcome of the central bank's meeting due later in the day.",
+            "url": "https://www.reuters.com/article/australia-stocks-int-idUSKBN27R01J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540779848&r=LYNXMPEGAA00U&w=800",
+            "publishedAt": "2020-11-11T00:41:00Z",
+            "content": "(Reuters) - Australian shares rose for a fifth straight session on Wednesday following gains in financial and energy stocks, while New Zealand stocks inched up ahead of the outcome of the central ban\u2026 [+2027 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Vicky Ge Huang",
+            "title": "A Wall Street bank breaks down why Pfizer and BioNTech's vaccine efficacy news means a faster return to normal \u2014 and shares the 16 stocks set to bounce back rapidly as soon as COVID panic recedes",
+            "description": "Summary List Placement\n\nMonday's announcement from Pfizer and BioNTech that their\u00a0COVID vaccine is over 90% effective sent shock waves across the financial markets.\u00a0\nWhile still an early promise to return to normal economic activity, global stocks nevertheles\u2026",
+            "url": "https://www.businessinsider.com/16-stock-picks-to-buy-as-pandemic-fears-recede-evercore-2020-11",
+            "urlToImage": "https://i.insider.com/5faa9f0b1df1d50018219cc0?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T13:15:00Z",
+            "content": "Monday's announcement from Pfizer and BioNTech that their\u00a0COVID vaccine is over 90% effective sent shock waves across the financial markets.\u00a0\r\nWhile still an early promise to return to normal economi\u2026 [+4160 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ali Hussain",
+            "title": "What is liquidity? How easily you can sell an asset for cash \u2014 here's when and why it matters to your finances",
+            "description": "Summary List Placement\n\nLiquidity may take on a different meaning depending on the context, but it always has to do with one thing: cash, or ready money.\u00a0\nLiquidity refers to the amount of money that is promptly available to meet debts or to use for investmen\u2026",
+            "url": "https://www.businessinsider.com/what-is-liquidity",
+            "urlToImage": "https://i.insider.com/5fa98a86f7d1cb0019e3a942?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T20:57:59Z",
+            "content": "Liquidity may take on a different meaning depending on the context, but it always has to do with one thing: cash, or ready money.\u00a0\r\nLiquidity refers to the amount of money that is promptly available \u2026 [+8179 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Will a Covid-19 Vaccine Be Enough to Save Airlines?",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-11-11/will-a-covid-19-vaccine-be-enough-to-save-airlines-video",
+            "urlToImage": null,
+            "publishedAt": "2020-11-11T10:36:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mike Dolan",
+            "title": "Beware of whiplash in 'normality trade': Mike Dolan - Reuters",
+            "description": "(The author is editor-at-large for finance and markets at Reuters News. Any views expressed here are his own.)",
+            "url": "https://www.reuters.com/article/us-global-rotation-column-idUSKBN27R0NZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540806113&r=LYNXMPEGAA0BT&w=800",
+            "publishedAt": "2020-11-11T07:06:00Z",
+            "content": "(The author is editor-at-large for finance and markets at Reuters News. Any views expressed here are his own.)\r\nFILE PHOTO: Passersby wearing protective face masks are reflected on a stock quotation \u2026 [+5221 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mike Dolan",
+            "title": "RPT-COLUMN-Beware of whiplash in 'normality trade' :Mike Dolan - Reuters UK",
+            "description": "For a couple of days at least, there's been a craving for the 'old normal'. But the past is never quite what it seemed.",
+            "url": "https://in.reuters.com/article/global-rotation-idUKL8N2HW7HG",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T11:02:00Z",
+            "content": "(The author is editor-at-large for finance and markets at Reuters News. Any views expressed here are his own.)\r\nLONDON, Nov 11 (Reuters) - For a couple of days at least, theres been a craving for the\u2026 [+4911 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mike Dolan",
+            "title": "COLUMN-Beware of whiplash in 'normality trade' :Mike Dolan - Reuters",
+            "description": "For a couple of days at least, there's been a craving for the 'old normal'. But the past is never quite what it seemed.",
+            "url": "https://www.reuters.com/article/global-rotation-idUSL8N2HV7F7",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T07:00:00Z",
+            "content": "(The author is editor-at-large for finance and markets at Reuters News. Any views expressed here are his own.)\r\nLONDON, Nov 11 (Reuters) - For a couple of days at least, theres been a craving for the\u2026 [+4911 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Westbrook, Lawrence Delevingne",
+            "title": "GLOBAL MARKETS-Stocks up as vaccine shields against second-wave worries - Reuters UK",
+            "description": "Stock markets gained on Wednesday, as news of a working COVID-19 vaccine seemed to inoculate investors against worry about surging infections in Europe and the United States, while the kiwi rose as traders thought the central bank sounded upbeat.",
+            "url": "https://uk.reuters.com/article/uk-global-markets-idUKKBN27R01L",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540779855&r=LYNXMPEGAA00V&w=800",
+            "publishedAt": "2020-11-11T02:26:00Z",
+            "content": "SYDNEY/BOSTON (Reuters) - Stock markets gained on Wednesday, as news of a working COVID-19 vaccine seemed to inoculate investors against worry about surging infections in Europe and the United States\u2026 [+3915 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Holly Johnson",
+            "title": "3 credit cards that give you bonus points or cash back for using PayPal, no matter where you shop",
+            "description": "Summary List Placement\n\u00a0\nThis page includes information about the Discover it\u00ae Cash Back and Discover it\u00ae Student Cash Back which are currently not available on Business Insider and may be out of date.\n<ul>\n<li>The best credit cards for PayPal include a handf\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/best-credit-cards-for-paypal-purchases",
+            "urlToImage": "https://i.insider.com/5fac518b7f8f4200182a65e5?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T22:48:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+5622 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Verne Kopytoff",
+            "title": "Airport planned for \u2018Jetsons\u2019-like flying cars",
+            "description": "The aircraft will be supplied by Lilium, a Germany-based aviation company that manufacturers the industry\u2019s only five-passenger \u201celectric vertical takeoff and landing\" aircraft.",
+            "url": "https://fortune.com/2020/11/11/airport-planned-for-jetsons-like-flying-cars/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/11/GettyImages-1068295720.jpg?resize=1200,600",
+            "publishedAt": "2020-11-11T20:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Charleston Airport Evacuated, Flights Paused After TSA Finds Suspicious Package",
+            "description": "A bomb squad was on the scene and the airport won't reopen until law enforcement deems it safe.",
+            "url": "https://www.newsweek.com/charleston-airport-evacuated-flights-paused-after-tsa-finds-suspicious-package-1546724",
+            "urlToImage": "https://d.newsweek.com/en/full/1561291/breaking-news-newsweek-high-resolution.jpg",
+            "publishedAt": "2020-11-11T17:59:54Z",
+            "content": "The Charleston, South Carolina, airport was evacuated on Wednesday afternoon after TSA found a suspicious package.\r\nThe airport announced the evacuation on Twitter at 12:40 p.m. local time and images\u2026 [+481 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Jennifer Yellin",
+            "title": "Get a highest-ever $750 in bonus cash with these Chase business credit cards",
+            "description": "Both the Ink Business Cash and the Ink Business Unlimited credit cards are offering new customers $750 in bonus cash back.",
+            "url": "https://www.cnn.com/2020/11/11/cnn-underscored/chase-ink-business-cash-unlimited-credit-card-bonus-offer/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201109003721-underscored-chase-ink-cash-and-chase-ink-unlimited-cards-super-169.jpg",
+            "publishedAt": "2020-11-11T20:59:02Z",
+            "content": "CNN Underscored reviews financial products such as credit cards and bank accounts based on their overall value. We may receive a commission through the LendingTree affiliate network if you apply and \u2026 [+6848 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Shannon Huffman Polson",
+            "title": "Celebrate Service, Not a Uniform, This Veterans Day | Opinion",
+            "description": "We've transferred the weight of glory from the missions themselves to those who wear the uniform. We ache for heroes, especially in a time when our society is falling apart.",
+            "url": "https://www.newsweek.com/celebrate-service-not-uniform-this-veterans-day-opinion-1546445",
+            "urlToImage": "https://d.newsweek.com/en/full/1668545/us-army-uniform.jpg",
+            "publishedAt": "2020-11-11T11:00:01Z",
+            "content": "Six years ago I stood on the blustery beach at Normandy with my husband, two sons, my mother in law and my father in law, a Marine whose service began soon after World War II and included a year in t\u2026 [+4570 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Warren Buffett likely sold $4 billion of Apple shares and dumped more Wells Fargo stock last quarter, Berkshire Hathaway expert David Kass says",
+            "description": "Summary List Placement\n\nWarren Buffett's Berkshire Hathaway likely sold shares in Apple and multiple financial firms in the third quarter, according to an expert on the famed investor and his company.\n\"I am expecting that Buffett further reduced his holdings \u2026",
+            "url": "https://www.businessinsider.com/warren-buffett-sold-apple-wells-fargo-shares-q3-david-kass-2020-11",
+            "urlToImage": "https://i.insider.com/5fac02a0b09abb0018625f05?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T16:14:37Z",
+            "content": "Warren Buffett's Berkshire Hathaway likely sold shares in Apple and multiple financial firms in the third quarter, according to an expert on the famed investor and his company.\r\n\"I am expecting that \u2026 [+2874 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "salarshani@businessinsider.com (Sarah Al-Arshani)",
+            "title": "The European Union hit the US with $4 billion in tariffs after a long-running dispute over aid to the world's 2 biggest planemakers",
+            "description": "The World Trade Organization ruled that the EU can impose the tariffs in retaliation for subsidies granted to the aircraft manufacturer Boeing.",
+            "url": "https://www.businessinsider.com/european-union-united-states-4-billion-tariffs-boeing-airbus-dispute-2020-11",
+            "urlToImage": "https://i.insider.com/5fab2b9bf24e720018a2abdd?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T02:40:22Z",
+            "content": "The European Union will impose $4 billion in tariffs on the United States, CNN reported.\u00a0\r\nLast month, the World Trade Organization ruled that the EU could impose the tariffs on the US for subsidies \u2026 [+1578 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eliza Mackintosh, CNN",
+            "title": "What you need to know about coronavirus on Wednesday, November 11",
+            "description": "Coronavirus hospitalizations in the United States reached an all-time high of 61,694 on Tuesday, as the relentless pandemic smashes records and pushes the country's health care system to the brink.",
+            "url": "https://www.cnn.com/2020/11/11/world/coronavirus-newsletter-11-11-20-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130165125-corona-virus-cdc-image-super-tease.jpg",
+            "publishedAt": "2020-11-11T12:22:52Z",
+            "content": "A version of this story appeared in the November 11 edition of CNN's Coronavirus: Fact vs. Fiction newsletter. Sign up here to receive the need-to-know headlines every weekday.\r\n (CNN)Coronavirus hos\u2026 [+7754 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Susie Neilson",
+            "title": "Joe Biden just announced his NASA transition team. Here's what space policy might look like under the new administration.",
+            "description": "Summary List Placement\n\nPresident-elect Joe Biden named the members of his transition team for NASA on Tuesday, a key step in determining his administration's agenda for space exploration.\u00a0\nEllen Stofan, who currently leads the Smithsonian's Air and Space Mus\u2026",
+            "url": "https://www.businessinsider.com/biden-agenda-for-nasa-space-exploration-2020-11",
+            "urlToImage": "https://i.insider.com/5fab10f4f7d1cb0019e3b026?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T01:47:00Z",
+            "content": "President-elect Joe Biden named the members of his transition team for NASA on Tuesday, a key step in determining his administration's agenda for space exploration.\u00a0\r\nEllen Stofan, who currently lead\u2026 [+5710 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Justin Worland",
+            "title": "Joe Biden\u2019s Novel Approach to Climate Change Could Side-Step a Divided Congress",
+            "description": "This year\u2019s string of climate catastrophes is hard to miss. During the 2020 presidential campaign, more named tropical storms made landfall in one U.S. hurricane season than ever before. For the first time this century, a single wildfire burned more than one \u2026",
+            "url": "https://time.com/5910008/joe-biden-climate-change-election/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/11/joe-biden-climate.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2020-11-11T17:03:15Z",
+            "content": "This year\u2019s string of climate catastrophes is hard to miss. During the 2020 presidential campaign, more named tropical storms made landfall in one U.S. hurricane season than ever before. For the firs\u2026 [+9550 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jasmin Baron",
+            "title": "Chase Ink Business Unlimited card review: No annual fee and an impressive sign-up bonus make this card perfect for small-business owners who want to minimize costs",
+            "description": "Summary List PlacementChase Ink Business Unlimited\u00ae Credit Card\nReview: Is the Chase Ink Business Unlimited credit card right for you?\nFor small-business owners who prefer a straightforward earning rate and no annual fee, the Ink Business Unlimited\u2120 Credit Ca\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/chase-ink-business-unlimited-credit-card-review",
+            "urlToImage": "https://i.insider.com/5d726aed2e22af070e3c29e0?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T20:15:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+7867 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Flying taxi startup Lilium will build a hub for its electric aircraft in Florida",
+            "description": "Lilium, a flying taxi startup from Germany, says it will build a 56,000-square-feet \u201cvertiport\u201d for its electric aircraft in Orlando, Florida. The company aims to have its small vehicles flying above the state starting in 2025.",
+            "url": "https://www.theverge.com/2020/11/11/21558670/lilium-jet-flying-taxi-orlando-vertiport-hub-evtol",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/pRV65MunCo5lD4RDm8QmBgEuf9U=/0x322:3508x2159/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16278407/Lilium_eVTOL_R001_screen.jpg",
+            "publishedAt": "2020-11-11T15:00:00Z",
+            "content": "The $25 million, 56,000-square-foot vertiport will be located in Orlando\r\nImage: Lilium\r\nOne of Germanys premier flying taxi startups just gained a foothold in the US. Lilium, the five-year-old ventu\u2026 [+5241 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "avcooper@businessinsider.com (Amanda Cooper)",
+            "title": "ECB president Christine Lagarde says COVID-19 recession is 'highly unusual' and cautions against excessive optimism over a vaccine",
+            "description": "ECB president Christine Lagarde says bond-buying is the central bank's preferred tool to manage monetary policy right now.",
+            "url": "https://www.businessinsider.com/ecb-christine-lagarde-warns-against-quick-covid19-vaccine-fix-economy-2020-11",
+            "urlToImage": "https://i.insider.com/5fac0032f24e720018a2ac88?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T15:53:12Z",
+            "content": "The COVID-19 crisis has produced a highly unusual recession and recovery is likely to be uneven, according to European Central Bank president, Christine Lagarde, who on Wednesday warned against exces\u2026 [+2681 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Silbert",
+            "title": "4 strategies to get more from your credit cards during the pandemic, from experts who have done it",
+            "description": "Summary List Placement\n\u00a0\n<ul>\n<li>The coronavirus pandemic has led many Americans to put their travel plans on hold.</li>\n<li>For travelers who love to book trips on points and miles, this slow period presents an opportunity to switch up their rewards strateg\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/credit-card-experts-earning-using-rewards-quarantine-2020-11",
+            "urlToImage": "https://i.insider.com/5f9042cfd25aab0018402c76?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T21:38:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+7879 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Farah Master, Chen Lin",
+            "title": "Hong Kong, Singapore to allow travel to each other without quarantines from November 22",
+            "description": "A travel bubble between Hong Kong and Singapore will begin on Nov. 22, the two cities announced on Wednesday, as they moved to re-establish overseas travel links and lift the hurdle of quarantine for visiting foreigners.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-hongkong-singapore-idUKKBN27R0B2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540792683&r=LYNXMPEGAA054&w=800",
+            "publishedAt": "2020-11-11T03:47:51Z",
+            "content": "HONG KONG/ SINGAPORE (Reuters) - A travel bubble between Hong Kong and Singapore will begin on Nov. 22, the two cities announced on Wednesday, as they moved to re-establish overseas travel links and \u2026 [+2050 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ebrahim Harris",
+            "title": "Captain's Corner: Grounded Malaysian pilot's noodle stall takes off",
+            "description": "Every morning, Malaysian pilot Azrin Mohamad Zawawi puts on his white uniform and black captain's hat before heading to work.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-malaysia-pilot-idUKKBN27R0EA",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540796930&r=LYNXMPEGAA06Y&w=800",
+            "publishedAt": "2020-11-11T04:50:14Z",
+            "content": "SUBANG JAYA, Malaysia (Reuters) - Every morning, Malaysian pilot Azrin Mohamad Zawawi puts on his white uniform and black captains hat before heading to work.\r\nBut rather than going to the airport, a\u2026 [+1515 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Spain to demand negative COVID test for air travellers from high-risk countries",
+            "description": "Spain will from Nov. 23 demand a negative coronavirus test taken within 72 hours for air travellers arriving from countries with a high risk of contracting COVID-19, the Health Ministry said on Wednesday, adding to an array of internal restrictions.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-spain-idUKKBN27R28Z",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540861171&r=LYNXMPEGAA1AJ&w=800",
+            "publishedAt": "2020-11-11T19:44:55Z",
+            "content": "By Reuters Staff\r\nMADRID (Reuters) - Spain will from Nov. 23 demand a negative coronavirus test taken within 72 hours for air travellers arriving from countries with a high risk of contracting COVID-\u2026 [+2071 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Jim Bridenstine is leaving NASA. How should we assess his 30-month tenure?",
+            "description": "\u201cI think he\u2019s exceeded anyone\u2019s expectations in the position.\u201d",
+            "url": "https://arstechnica.com/science/2020/11/jim-bridenstine-is-leaving-nasa-how-should-we-assess-his-30-month-tenure/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/GettyImages-1228805258-760x380.jpg",
+            "publishedAt": "2020-11-11T15:55:01Z",
+            "content": "Enlarge/ NASA Administrator Jim Bridenstine testifies before a US Senate Commerce, Science, and Transportation committee on September 30, 2020.\r\n5 with 5 posters participating\r\nThe first thing to kno\u2026 [+6451 chars]"
+        }
+    ]
+}

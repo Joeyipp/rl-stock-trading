@@ -1,0 +1,825 @@
+{
+    "status": "ok",
+    "totalResults": 63,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Laurence Frost",
+            "title": "'Bad math': Airlines' COVID safety analysis challenged by expert - Reuters Africa",
+            "description": "A campaign by coronavirus-stricken aviation giants to persuade the world it's safe to fly has been questioned by one of the scientists whose research it draws upon.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-airlines-risks-idUSKBN27411C",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538006955&r=LYNXMPEG9I0NZ&w=800",
+            "publishedAt": "2020-10-19T09:18:00Z",
+            "content": "PARIS (Reuters) - A campaign by coronavirus-stricken aviation giants to persuade the world its safe to fly has been questioned by one of the scientists whose research it draws upon.\r\nFILE PHOTO: A st\u2026 [+5518 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-UK's Flybe seen flying again in 2021 after administrators agree to sale - Reuters India",
+            "description": "Regional airline Flybe will be sold to a firm affiliated with investment adviser Cyrus Capital and may start flying again from 2021, its joint administrators said on Monday, months after the British firm became one of the first pandemic casualties.",
+            "url": "https://in.reuters.com/article/flybe-administration-idINL4N2HA2EI",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-19T09:11:00Z",
+            "content": "By Reuters Staff\r\n(Adds background on Flybe, aviation industry, quote from Thyme Opco)\r\nOct 19 (Reuters) - Regional airline Flybe will be sold to a firm affiliated with investment adviser Cyrus Capit\u2026 [+1272 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-UK's Flybe seen flying again in 2021 after administrators agree to sale - Reuters",
+            "description": "Regional airline Flybe will be sold to a firm affiliated with investment adviser Cyrus Capital and may start flying again from 2021, its joint administrators said on Monday, months after the British firm became one of the first pandemic casualties.",
+            "url": "https://www.reuters.com/article/flybe-administration-idUSL4N2HA2EI",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-19T09:11:00Z",
+            "content": "By Reuters Staff\r\n(Adds background on Flybe, aviation industry, quote from Thyme Opco)\r\nOct 19 (Reuters) - Regional airline Flybe will be sold to a firm affiliated with investment adviser Cyrus Capit\u2026 [+1272 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Medha Singh",
+            "title": "Futures rise on renewed hopes of stimulus deal - Reuters",
+            "description": "U.S. stock index futures climbed on Monday on hopes of a coronavirus vaccine by the year end, while remarks from House Speaker Nancy Pelosi revived bets that an agreement in Washington on a fiscal package could be reached soon.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-idUSKBN2741D0",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538018790&r=LYNXMPEG9I0VB&w=800",
+            "publishedAt": "2020-10-19T11:05:00Z",
+            "content": "(Reuters) - U.S. stock index futures climbed on Monday on hopes of a coronavirus vaccine by the year end, while remarks from House Speaker Nancy Pelosi revived bets that an agreement in Washington on\u2026 [+2010 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Qatar Airways expects to keep A380s parked for years - Reuters",
+            "description": "Qatar Airways does not expect to use its Airbus <AIR.PA> A380s for at least the next two years, its chief executive said on Monday, longer than a previous projection for the superjumbos to possibly return to service in 2021.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-qatar-airways-idUSKBN2741HN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538030042&r=LYNXMPEG9I10Q&w=800",
+            "publishedAt": "2020-10-19T12:19:00Z",
+            "content": "By Reuters Staff\r\nDUBAI (Reuters) - Qatar Airways does not expect to use its Airbus AIR.PA A380s for at least the next two years, its chief executive said on Monday, longer than a previous projection\u2026 [+1272 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Cathay Pacific to operate less than 50% of pre-pandemic capacity in 2021 - Reuters",
+            "description": "UPDATE 1-Cathay Pacific to operate less than 50% of pre-pandemic capacity in 2021\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/cathay-pacific-outlook-idUSL4N2HA1CJ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-19T05:03:00Z",
+            "content": "By Reuters Staff\r\n* Airline nearing completion of strategic review\r\n* Capacity could recover in H2 2021 if vaccine widely adopted\r\n* Passenger numbers fell 98.1% in Sept., cargo down 36.6% (Adds deta\u2026 [+2091 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Qatar Airways expects to keep A380s parked for years - Reuters India",
+            "description": "Qatar Airways does not expect to use its Airbus A380s for at least the next two years, its chief executive said on Monday, longer than a previous projection for the superjumbos to possibly return to service in 2021.",
+            "url": "https://in.reuters.com/article/health-coronavirus-qatar-airways-idINL8N2HA3LP",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-19T12:21:00Z",
+            "content": "By Reuters Staff\r\n(Adds detail, context)\r\nDUBAI, Oct 19 (Reuters) - Qatar Airways does not expect to use its Airbus A380s for at least the next two years, its chief executive said on Monday, longer t\u2026 [+1345 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wall Street set to rise on renewed hopes of stimulus deal - Reuters India",
+            "description": "Wall Street set to rise on renewed hopes of stimulus deal\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/usa-stocks-idINKBN2741OA",
+            "urlToImage": null,
+            "publishedAt": "2020-10-19T12:47:00Z",
+            "content": "A nearly empty trading floor is seen as preparations are made for the return to trading at the New York Stock Exchange (NYSE) in New York, U.S., May 22, 2020. REUTERS/Brendan McDermid/File Photo\r\nMon\u2026 [+2678 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Medha Singh",
+            "title": "US STOCKS-Wall Street set to rise on renewed hopes of stimulus deal - Reuters",
+            "description": "Wall Street's main indexes were set to inch higher at the open on Monday on hopes of a coronavirus vaccine by the year-end, while investors were also encouraged by signs an agreement in Washington on a fiscal package could be reached soon.",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSKBN2741OA",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538031858&r=LYNXMPEG9I12N&w=800",
+            "publishedAt": "2020-10-19T12:44:00Z",
+            "content": "(Reuters) - Wall Streets main indexes were set to inch higher at the open on Monday on hopes of a coronavirus vaccine by the year-end, while investors were also encouraged by signs an agreement in Wa\u2026 [+2493 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. screened over one million airline passengers Sunday for first time since March - Reuters",
+            "description": "The U.S. Transportation Security Administration screened more than 1 million airline passengers for the first time since mid-March.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-airlines-idUSKBN2741RA",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538036302&r=LYNXMPEG9I145&w=800",
+            "publishedAt": "2020-10-19T13:23:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Workers in protective gear walk on the tarmac at Oakland International Airport as authorities continue debarkation from the ship after 21 people on board have tested pos\u2026 [+497 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. screened over one million airline passengers Sunday for first time since March - Reuters India",
+            "description": "The U.S. Transportation Security Administration screened more than 1 million airline passengers for the first time since mid-March.",
+            "url": "https://in.reuters.com/article/health-coronavirus-usa-airlines-idINKBN2741TW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538040931&r=LYNXMPEG9I165&w=800",
+            "publishedAt": "2020-10-19T13:57:00Z",
+            "content": "By Reuters Staff\r\nPassengers wear masks as they sit in the departures area, amid the global outbreak of the coronavirus disease (COVID-19), at the Tom Bradley International terminal of the LAX airpor\u2026 [+475 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. screened over one million airline passengers Sunday for first time since March - Reuters India",
+            "description": "The U.S. Transportation Security Administration screened more than 1 million airline passengers for the first time since mid-March.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-usa-airlines-idINKBN2741RA",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538036302&r=LYNXMPEG9I145&w=800",
+            "publishedAt": "2020-10-19T13:27:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Workers in protective gear walk on the tarmac at Oakland International Airport as authorities continue debarkation from the ship after 21 people on board have tested pos\u2026 [+497 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ben Winck",
+            "title": "What 5 Top Execs Think About the Prospect of More Economic Stimulus",
+            "description": "Earnings season kicked off on Tuesday, and executives are sounding off on the stimulus stalemate and the risks it poses to the ongoing economic recovery.",
+            "url": "https://markets.businessinsider.com/news/stocks/economic-outlook-executives-coronavirus-stimulus-deadlock-credit-risks-banks-airlines-2020-10-1029691035",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1603116680-capitol.jpg",
+            "publishedAt": "2020-10-19T14:12:07Z",
+            "content": "October\r\n19, 2020\r\n5 min read\r\nThis story originally appeared on Business InsiderWith earnings season officially underway, executives are weighing in on the stimulus stalemate that's gripped the US e\u2026 [+5048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Flybe seen flying again in 2021 after administrators agree to sale - Reuters UK",
+            "description": "Regional airline Flybe will be sold to a firm affiliated with investment adviser Cyrus Capital and may start flying again from 2021, its joint administrators said on Monday, months after the British firm became one of the first pandemic casualties.",
+            "url": "https://www.reuters.com/article/uk-flybe-administration-idUKKBN2740YN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538003612&r=LYNXMPEG9I0ME&w=800",
+            "publishedAt": "2020-10-19T08:47:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Flybe plane takes off from Manchester Airport in Manchester, Britain January 13, 2020. REUTERS/Phil Noble\r\n(Reuters) - Regional airline Flybe will be sold to a firm af\u2026 [+390 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Flybe seen flying again in 2021 after administrators agree to sale - Reuters UK",
+            "description": "Regional airline Flybe will be sold to a firm affiliated with investment adviser Cyrus Capital and may start flying again from 2021, its joint administrators said on Monday, months after the British firm became one of the first pandemic casualties.",
+            "url": "https://uk.reuters.com/article/uk-flybe-administration-idUKKBN2740YN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538003612&r=LYNXMPEG9I0ME&w=800",
+            "publishedAt": "2020-10-19T08:47:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Flybe plane takes off from Manchester Airport in Manchester, Britain January 13, 2020. REUTERS/Phil Noble\r\n(Reuters) - Regional airline Flybe will be sold to a firm af\u2026 [+390 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eric Rosenberg",
+            "title": "American Express Gold card review: If you eat out and shop at US supermarkets, this card's rewards and benefits are hard to beat",
+            "description": "Summary List PlacementAmerican Express\u00ae Gold Card\u00a0Table of Contents: Masthead Sticky\nReview: Is the Amex Gold card right for you?\nWhile its big brother, the Platinum Card\u00ae from American Express\r\n, often gets all the hype for premium travel rewards, and the Am\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/amex-gold-card-review",
+            "urlToImage": "https://i.insider.com/5e22032024306a71f5672b26?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T20:10:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+7268 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Cathay Pacific to operate less than 50% of pre-pandemic capacity in 2021 - Reuters",
+            "description": "Hong Kong's Cathay Pacific Airways Ltd said on Monday it expects to operate less than 50% of its pre-pandemic passenger flight capacity in 2021 as it nears completion of a strategic review that could lead to major job losses.",
+            "url": "https://www.reuters.com/article/cathay-pacific-outlook-idUSL4N2H90MS",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-19T04:18:00Z",
+            "content": "By Reuters Staff\r\nSYDNEY, Oct 19 (Reuters) - Hong Kongs Cathay Pacific Airways Ltd said on Monday it expects to operate less than 50% of its pre-pandemic passenger flight capacity in 2021 as it nears\u2026 [+471 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "New BA boss seeks green light for transatlantic testing pilot - Reuters",
+            "description": "British Airways' <ICAG.L> new chief executive appealed to the British and U.S. governments on Monday to back a pre-flight COVID-19 testing programme to restart transatlantic flights.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-airlines-idUSKBN274145",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538009213&r=LYNXMPEG9I0PO&w=800",
+            "publishedAt": "2020-10-19T09:45:00Z",
+            "content": "By Reuters Staff\r\nPARIS (Reuters) - British Airways' ICAG.L new chief executive appealed to the British and U.S. governments on Monday to back a pre-flight COVID-19 testing programme to restart trans\u2026 [+467 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "CDC issues 'strong recommendation' for mask mandate on all U.S. airplanes, trains - Reuters",
+            "description": "The Centers for Disease Control and Prevention on Monday issued a \"strong recommendation\" that all passengers and employees on airplanes, trains, subways, buses, taxis and ride-share vehicles should wear masks to prevent the spread of COVID-19.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-transit-idUSKBN2742V7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538087483&r=LYNXMPEG9I1RY&w=800",
+            "publishedAt": "2020-10-19T21:46:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A worker wears a mask at the Boeing Renton Factory, where 737 MAX airliners are manufactured, as commercial airplane production resumes following a suspension of operati\u2026 [+797 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Brazil's Bolsonaro announces trade facilitation agreements with U.S. - Reuters UK",
+            "description": "Brazilian President Jair Bolsonaro said on Monday Brazil's relations with the United States are at their best moment ever and announced three trade facilitation agreements to ensure good business practices and to stop corruption.",
+            "url": "https://uk.reuters.com/article/us-usa-brazil-idUKKBN2741PH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538033472&r=LYNXMPEG9I13B&w=800",
+            "publishedAt": "2020-10-19T13:01:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Brazil's President Jair Bolsonaro gestures during the launching ceremony of the Voo Simples program, which are a set of measures to modernize rules and reduce costs in t\u2026 [+611 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Brazil's Bolsonaro announces trade facilitation agreements with U.S. - Reuters.com",
+            "description": "Brazilian President Jair Bolsonaro said on Monday Brazil's relations with the United States are at their best moment ever and announced three trade facilitation agreements to ensure good business practices and to stop corruption.",
+            "url": "https://in.reuters.com/article/us-usa-brazil-idUSKBN2741PH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538033472&r=LYNXMPEG9I13B&w=800",
+            "publishedAt": "2020-10-19T13:00:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Brazil's President Jair Bolsonaro gestures during the launching ceremony of the Voo Simples program, which are a set of measures to modernize rules and reduce costs in t\u2026 [+611 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Israeli tourism, media representatives to visit UAE - Reuters",
+            "description": "Israeli tourism, travel and media representatives will visit the United Arab Emirates this week on the invitation of state carrier Etihad Airways and Abu Dhabi's tourism industry.",
+            "url": "https://www.reuters.com/article/israel-gulf-emirates-etihad-airways-int-idUSKBN2740KZ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-19T06:35:00Z",
+            "content": "By Reuters Staff\r\nDUBAI/JERUSALEM (Reuters) - Israeli tourism, travel and media representatives will visit the United Arab Emirates this week on the invitation of state carrier Etihad Airways and Abu\u2026 [+889 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Holly Johnson",
+            "title": "Citi Prestige review: A great travel card for earning points, with a unique benefit for saving money on hotel stays",
+            "description": "Summary List PlacementCiti Prestige\u00ae Card\u00a0Table of Contents: Masthead Sticky\nReview: Is the Citi Prestige the best card for you?\nWhen it comes to luxury travel credit cards, the Citi Prestige\u00ae Card\r\n is the major travel card option from Citi and the Citi Than\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/citi-prestige-card-review",
+            "urlToImage": "https://i.insider.com/5f80c0e6ea74820019ca6566?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T16:50:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+11117 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Airline Points in a Pandemic",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-10-19/airline-points-in-a-pandemic-video",
+            "urlToImage": null,
+            "publishedAt": "2020-10-19T08:42:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Douglas Busvine",
+            "title": "High flier: Deutsche Telekom tests mobile antenna in the stratosphere - Reuters",
+            "description": "Deutsche Telekom <DTEGn.DE> said on Monday it had successfully tested an aerial base station in the earth's stratosphere, an innovation it hopes will bring mobile coverage to remote areas that are hard for ground-based networks to reach.",
+            "url": "https://www.reuters.com/article/tech-deutsche-telekom-int-idUSKBN2740PX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1537995226&r=LYNXMPEG9I0HC&w=800",
+            "publishedAt": "2020-10-19T07:00:00Z",
+            "content": "BERLIN (Reuters) - Deutsche Telekom DTEGn.DE said on Monday it had successfully tested an aerial base station in the earth's stratosphere, an innovation it hopes will bring mobile coverage to remote \u2026 [+2735 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sin\u00e9ad Carew",
+            "title": "Wall Street closes lower as stimulus deadline nears without deal - Reuters UK",
+            "description": "Wall Street's main indexes closed lower on Monday as Washington lawmakers still appeared to struggle to reach an agreement on coronavirus stimulus ahead of a Tuesday deadline that would make a relief package possible ahead of the the Nov. 3 elections.",
+            "url": "https://uk.reuters.com/article/usa-stocks-idUKL1N2HA1JU",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-19T20:01:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.) (Updates prices to close, adds commentary)\r\nNEW YORK, Oct 19 (Reuters) - Wall Streets mai\u2026 [+3382 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Marwa Rashad",
+            "title": "Saudi retail chains join growing informal boycott of Turkish products - Reuters UK",
+            "description": "Saudi Arabia's biggest supermarket chains this week joined a growing boycott of Turkish imports proposed by business leaders and Saudis on social media, as political tensions spilled into trade between the two regional powers.",
+            "url": "https://uk.reuters.com/article/us-saudi-turkey-trade-idUKKBN2741XF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538043679&r=LYNXMPEG9I17P&w=800",
+            "publishedAt": "2020-10-19T14:26:00Z",
+            "content": "RIYADH (Reuters) - Saudi Arabias biggest supermarket chains this week joined a growing boycott of Turkish imports proposed by business leaders and Saudis on social media, as political tensions spille\u2026 [+3336 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Marwa Rashad",
+            "title": "Saudi retail chains join growing informal boycott of Turkish products - Reuters",
+            "description": "Saudi Arabia's biggest supermarket chains this week joined a growing boycott of Turkish imports proposed by business leaders and Saudis on social media, as political tensions spilled into trade between the two regional powers.",
+            "url": "https://www.reuters.com/article/us-saudi-turkey-trade-idUSKBN2741XF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538043679&r=LYNXMPEG9I17P&w=800",
+            "publishedAt": "2020-10-19T14:25:00Z",
+            "content": "RIYADH (Reuters) - Saudi Arabias biggest supermarket chains this week joined a growing boycott of Turkish imports proposed by business leaders and Saudis on social media, as political tensions spille\u2026 [+3336 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "IATA Working With WHO and Civil Aviation Body on Testing Regime",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-19/iata-working-with-who-and-civil-aviation-body-on-testing-regime",
+            "urlToImage": null,
+            "publishedAt": "2020-10-19T03:15:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Joseph Zeballos-Roig",
+            "title": "Republicans and Democrats are clashing over another stimulus package. Here are 7 areas of disagreement holding up $1,200 checks and coronavirus relief.",
+            "description": "Summary List Placement\n\nNegotiations over another coronavirus relief package between the White House and Democrats continue to crawl along with few signs of a breakthrough.\nWhile both sides agree on another round of $1,200 stimulus checks for taxpayers, as we\u2026",
+            "url": "https://www.businessinsider.com/republicans-democrats-stimulus-disagreements-pelosi-trump-mcconnell-aid-bill-differences-2020-10",
+            "urlToImage": "https://i.insider.com/5ef710365af6cc4809561c23?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T18:25:06Z",
+            "content": "Negotiations over another coronavirus relief package between the White House and Democrats continue to crawl along with few signs of a breakthrough.\r\nWhile both sides agree on another round of $1,200\u2026 [+4583 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Laurence Frost",
+            "title": "'Bad math': Airlines' COVID safety analysis challenged by expert - Reuters",
+            "description": "<ol><li>'Bad math': Airlines' COVID safety analysis challenged by expert\u00a0\u00a0Reuters\r\n</li><li>Coronavirus numbers in Quebec rise with province reporting 1,094 new cases, six more deaths\u00a0\u00a0CTV News Montreal\r\n</li><li>Coronavirus: COVID-19 infection rates increase\u2026",
+            "url": "https://www.reuters.com/article/health-coronavirus-airlines-risks-idUSKBN27411O",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538007263&r=LYNXMPEG9I0OG&w=800",
+            "publishedAt": "2020-10-19T09:25:00Z",
+            "content": "PARIS (Reuters) - A campaign by coronavirus-stricken aviation giants to persuade the world its safe to fly has been questioned by one of the scientists whose research it draws upon.\r\nFILE PHOTO: Pass\u2026 [+5680 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "U.S. CDC issues 'strong recommendation' for mask mandate on airplanes, trains - Reuters",
+            "description": "<ol><li>U.S. CDC issues 'strong recommendation' for mask mandate on airplanes, trains\u00a0\u00a0Reuters\r\n</li><li>CDC to passengers and workers: Wear a mask when you are on a plane, train, bus or other public transit\u00a0\u00a0The Washington Post\r\n</li><li>CDC advises booting \u2026",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-transit-idUKKBN2742V7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538089130&r=LYNXMPEG9I1RY&w=800",
+            "publishedAt": "2020-10-19T21:47:00Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Centers for Disease Control and Prevention on Monday issued a strong recommendation that all passengers and employees on airplanes, trains, subways, buses, taxis and r\u2026 [+2566 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "CDC issues 'strong recommendation' for mask mandate on all U.S. airplanes, trains - Reuters",
+            "description": "<ol><li>CDC issues 'strong recommendation' for mask mandate on all U.S. airplanes, trains\u00a0\u00a0Reuters\r\n</li><li>CDC to passengers and workers: Wear a mask when you are on a plane, train, bus or other public transit\u00a0\u00a0The Washington Post\r\n</li><li>U.S. CDC issues \u2026",
+            "url": "https://ca.reuters.com/article/us-health-coronavirus-usa-transit-idUSKBN2742V7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538089130&r=LYNXMPEG9I1RY&w=800",
+            "publishedAt": "2020-10-19T21:46:00Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Centers for Disease Control and Prevention on Monday issued a strong recommendation that all passengers and employees on airplanes, trains, subways, buses, taxis and r\u2026 [+2566 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Jennifer Yellin",
+            "title": "Earn a highest-ever 60,000 bonus points with this American Express Gold credit card offer",
+            "description": "The American Express Gold card is designed for food lovers, and the 60,000 bonus points are sure to whet your appetite.",
+            "url": "https://www.cnn.com/2020/10/19/cnn-underscored/american-express-gold-bonus-offer/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200220162950-underscored-american-express-gold-card-on-background-super-169.jpg",
+            "publishedAt": "2020-10-19T19:58:23Z",
+            "content": "CNN Underscored reviews financial products such as credit cards and bank accounts based on their overall value. We may receive a commission through The Points Guy affiliate network if you apply and a\u2026 [+7061 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Benjamin Fearnow",
+            "title": "Maskless Woman on Plane Deliberately Coughs on Passengers: 'Everybody Dies'",
+            "description": "An irate, maskless woman began spitting on fellow airline passengers and screaming \"everybody dies\" during an EasyJet flight Sunday.",
+            "url": "https://www.newsweek.com/maskless-woman-plane-deliberately-coughs-passengers-everybody-dies-1540291",
+            "urlToImage": "https://d.newsweek.com/en/full/1655153/easyjet-passenger-mask-spitting-rant.jpg",
+            "publishedAt": "2020-10-19T14:48:20Z",
+            "content": "An irate, maskless woman began spitting on fellow airline passengers and screaming \"everybody dies\" during a Sunday flight between Ireland and Scotland.\r\nEasyJet confirmed that police were called to \u2026 [+2521 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Allana Akhtar",
+            "title": "Aeroflot Airlines crew members helped smuggle $50 million worth of stolen iPads, iPhones, and more into Russia, a government investigation has found (AAPL)",
+            "description": "Summary List Placement\n\nA US investigation found current and former Aeroflot Airlines employees helped to smuggle $50 million in stolen electronic devices to Russia.\nThe investigation, conducted by the FBI, Customs and Border Protection, the New York City Pol\u2026",
+            "url": "https://www.businessinsider.com/aeroflot-airlines-employees-50-million-smuggling-scheme-apple-iphone-ipad-2020-10",
+            "urlToImage": "https://i.insider.com/5f8dddd2c21cfb0019468d84?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T19:16:21Z",
+            "content": "A US investigation found current and former Aeroflot Airlines employees helped to smuggle $50 million in stolen electronic devices to Russia.\r\nThe investigation, conducted by the FBI, Customs and Bor\u2026 [+1438 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "JetBlue just revealed its newest jet, the Airbus A220 that will replace some of its oldest aircraft \u2013 take a look",
+            "description": "JetBlue will only the second US airline to the fly the Airbus A220, which has been a fan favorite for travelers and will give flyers a much-needed upgrade.",
+            "url": "https://www.businessinsider.com/jetblue-unveils-airbus-a220-aircraft-built-in-alabama-photos-details-2020-10",
+            "urlToImage": "https://i.insider.com/5f8db035c21cfb0019468c62?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T16:34:32Z",
+            "content": "JetBlue Airways' first Airbus A220 just rolled out of the paint shop in Mobile, Alabama in advance of its December delivery as the airline embarks on a much-needed fleet renewal for its short-haul fl\u2026 [+3356 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Airlines are trying to develop an alternative to the 14-day quarantine",
+            "description": "'What we\u2019ve seen so far is if there\u2019s a 14-day quarantine, it\u2019s the same as closing your borders.'",
+            "url": "https://fortune.com/2020/10/19/airlines-who-covid-test-14-day-quarantine-alternative/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/10/GettyImages-1228338961.jpg?resize=1200,600",
+            "publishedAt": "2020-10-19T05:19:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Reuters",
+            "title": "Doctors probe whether COVID-19 is causing diabetes - Financial Post",
+            "description": "<ol><li>Doctors probe whether COVID-19 is causing diabetes\u00a0\u00a0Financial Post\r\n</li><li>Coronavirus numbers in Quebec rise with province reporting 1,094 new cases, six more deaths\u00a0\u00a0CTV News Montreal\r\n</li><li>Hospitalised COVID-19 patients can have ongoing sympt\u2026",
+            "url": "https://financialpost.com/pmn/business-pmn/doctors-probe-whether-covid-19-is-causing-diabetes",
+            "urlToImage": null,
+            "publishedAt": "2020-10-19T11:03:26Z",
+            "content": "In the United States, Childrens Hospital Los Angeles said the percentage of newly diagnosed type 2 patients who arrived in diabetic ketoacidosis, a potentially fatal buildup of acid in the blood, has\u2026 [+1728 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tlevin@businessinsider.com (Tim Levin)",
+            "title": "US exceeds 1 million daily air travelers for the first time since March",
+            "description": "US air travel remains at a fraction of pre-pandemic levels, but airlines had their best day yet on Sunday.",
+            "url": "https://www.businessinsider.com/us-exceeds-million-daily-air-travelers-airlines-2020-10",
+            "urlToImage": "https://i.insider.com/5f8daf899e9fe4001900a15e?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T16:03:25Z",
+            "content": "When the COVID-19 pandemic hit the US in March, it brought air travel to a near standstill. But US air travel hit an important milestone on Sunday, the Transportation Security Administration announce\u2026 [+1453 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shalini Nagarajan",
+            "title": "The biggest British business groups urge the UK and EU to reach a deal on post-Brexit trade",
+            "description": "Summary List Placement\n\n<ul>\n<li>Over 70 British business groups have attempted to persuade Britain and the European Union to reach a trade deal agreement.</li>\n<li>Organizations spanning multiple industries came together, urging both sides to strike a deal b\u2026",
+            "url": "https://www.businessinsider.com/british-business-groups-urge-uk-eu-post-brexit-trade-deal-2020-10",
+            "urlToImage": "https://i.insider.com/5f8d8fbec21cfb0019468b2f?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T15:44:27Z",
+            "content": "Over 70 British business groups have made a last-ditch effort to urge Britain and the EU to reach a compromise trade deal, according to a statement from the Confederation of British Industry.\r\nThe gr\u2026 [+2280 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Chris Wilson",
+            "title": "How Does Your COVID-19 Risk Tolerance Compare to Others? Take Our Quiz to Find Out",
+            "description": "Take TIME's COVID-19 risk tolerance quiz to see if you're being more or less cautious than others in the pandemic.",
+            "url": "https://time.com/5900782/covid-19-risk-tolerance-quiz/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/10/covid-19-risk-tolerance.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2020-10-19T13:55:32Z",
+            "content": "After a long spring and summer of shuttered restaurants, grounded flights and empty theaters, most states have gradually allowed at least some establishments to reopen, usually in limited capacity al\u2026 [+4401 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Sam Mintz",
+            "title": "House Transportation leader in the race of his life",
+            "description": "Stimulus talks keep rolling \u2014 737 MAX in line to fly again by end of year",
+            "url": "https://www.politico.com/newsletters/weekly-transportation/2020/10/19/house-transportation-leader-in-the-race-of-his-life-791039",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-19T14:00:06Z",
+            "content": "With help from Tanya Snyder\r\nWeekly Transportation is a weekly version of POLITICO Pros daily Transportation policy newsletter, Morning Transportation. POLITICO Pro is a policy intelligence platform \u2026 [+8213 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "United Airlines just announced 8 new leisure routes in another shift away from business travel following heavy losses \u2013 here's the full list",
+            "description": "United CEO Scott Kirby said during a recent earnings call that business travel won't likely recover until 2024, opening up new leisure opportunities.",
+            "url": "https://www.businessinsider.com/united-airlines-adds-8-lesiure-routes-to-latin-america-caribbean-2020-10",
+            "urlToImage": "https://i.insider.com/5f8dd1b69e9fe4001900a263?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T20:48:00Z",
+            "content": "United Airlines is further expanding its leisure route map this winter with a focus on Latin America and the Caribbean as demand shifts south of the border to the few countries welcoming Americans. T\u2026 [+4390 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "The pandemic has changed how the wealthy buy planes amid a boom of first-time buyers. Here's how sales firms are closing deals amid a global crisis.",
+            "description": "The pandemic has turned the private aircraft market into a buyer's market but travel restrictions have made it harder to purchase an aircraft.",
+            "url": "https://www.businessinsider.com/how-aircraft-sales-firms-are-closing-deals-amid-pandemic-2020-10",
+            "urlToImage": "https://i.insider.com/5f5a97787ed0ee001e25eac9?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T12:29:00Z",
+            "content": "The coronavirus pandemic has emptied the airline terminals only to fill the private terminals as the wealthy shift their travel habits around health and safety. Private aircraft operators are rejoici\u2026 [+6598 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jake Sherman and Anna Palmer",
+            "title": "Can Pelosi and Washington\u2019s Most Eager Man get it done?",
+            "description": "And Sen. John Cornyn (R-Texas) tries to distance himself from the president.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/10/19/can-pelosi-and-washingtons-most-eager-man-get-it-done-490638",
+            "urlToImage": "https://static.politico.com/fe/c1/22200ac14ac1b7e972511ce9a33a/gettyimages-1279176699.jpg",
+            "publishedAt": "2020-10-19T10:03:40Z",
+            "content": "Reaching a deal by Tuesday seems unlikely, although its certainly not impossible. | Tasos Katopodis/Getty Images\r\nDRIVING THE DAY\r\nSPEAKER NANCY PELOSI and Washingtons Most Eager Man, Treasury Secret\u2026 [+19097 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Laurence Frost",
+            "title": "'Bad math': Airlines' COVID safety analysis challenged by expert",
+            "description": "A campaign by coronavirus-stricken aviation giants to persuade the world it's safe to fly has been questioned by one of the scientists whose research it draws upon.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-airlines-risks-idUKKBN27411M",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538007031&r=LYNXMPEG9I0OD&w=800",
+            "publishedAt": "2020-10-19T09:19:02Z",
+            "content": "PARIS (Reuters) - A campaign by coronavirus-stricken aviation giants to persuade the world its safe to fly has been questioned by one of the scientists whose research it draws upon.\r\nFILE PHOTO: Pass\u2026 [+5415 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Silbert",
+            "title": "Blue, Gold, Platinum, or Reserve: We break down which Delta Amex credit card gets flyers the most value",
+            "description": "Summary List Placement\nThe best Delta credit cards:\n<ul>\n<li>If you don't want to pay an annual fee (See Rates)\r\n: Delta SkyMiles\u00ae Blue American Express Card\r\n</li>\n<li>Best for occasional Delta flyers: Delta SkyMiles\u00ae Gold American Express Card\r\n</li>\n<li>Be\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/delta-amex-credit-card-comparison",
+            "urlToImage": "https://i.insider.com/5e39de685bc79c33cb0288c4?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T20:27:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+7580 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Elizabeth Aldrich",
+            "title": "3 times my emergency fund saved my life, and 2 I wished I had one but didn't",
+            "description": "Summary List Placement\u00a0<ul>\n<li>In my early 20s, I took low-paying jobs outside my field without even negotiating; my lack of savings made me feel like I had to take what I could get.</li>\n<li>When I totaled my car just days after quitting my job, I vowed to \u2026",
+            "url": "https://www.businessinsider.com/personal-finance/times-wished-had-emergency-fund-didnt-2020-10",
+            "urlToImage": "https://i.insider.com/5f8dfc48c21cfb0019468e52?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T21:37:04Z",
+            "content": "Personal Finance Insider writes about products, strategies, and tips to help you make smart decisions with your money. We may receive a small commission from our partners, like American Express, but \u2026 [+6840 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "CDC issues 'strong recommendation' for mask mandate on all U.S. airplanes, trains",
+            "description": "The U.S. Centers for Disease Control and Prevention on Monday issued a \"strong recommendation\" that all passengers and employees on airplanes, trains, subways, buses, taxis and ride-share vehicles should wear masks to prevent the spread of COVID-19.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-usa-transit-idUKKBN2742V7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538089130&r=LYNXMPEG9I1RY&w=800",
+            "publishedAt": "2020-10-19T21:57:11Z",
+            "content": "FILE PHOTO: A worker wears a mask at the Boeing Renton Factory, where 737 MAX airliners are manufactured, as commercial airplane production resumes following a suspension of operations last month in \u2026 [+1853 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "Eleven U.S. states urge EPA to toughen planned airplane emissions rules",
+            "description": "A group of 11 states and the District of Columbia on Monday urged the U.S. Environmental Protection Agency (EPA) to strengthen the first-ever proposed standards regulating greenhouse gas emissions from airplanes and other aircraft.",
+            "url": "https://uk.reuters.com/article/us-usa-airlines-emissions-idUKKBN2742QI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538084224&r=LYNXMPEG9I1P5&w=800",
+            "publishedAt": "2020-10-19T20:54:19Z",
+            "content": "WASHINGTON (Reuters) - A group of 11 states and the District of Columbia on Monday urged the U.S. Environmental Protection Agency (EPA) to strengthen the first-ever proposed standards regulating gree\u2026 [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "New BA boss urges transatlantic testing and corridors",
+            "description": "British Airways' <ICAG.L> new boss appealed to Britain and the United States on Monday to back pre-flight COVID-19 testing with quarantine-free transatlantic travel corridors.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-britain-airlines-idUKKBN27414F",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538009516&r=LYNXMPEG9I0Q0&w=800",
+            "publishedAt": "2020-10-19T10:55:05Z",
+            "content": "By Reuters Staff\r\nPARIS (Reuters) - British Airways' ICAG.L new boss appealed to Britain and the United States on Monday to back pre-flight COVID-19 testing with quarantine-free transatlantic travel \u2026 [+1140 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU set to gain WTO clearance for U.S. tariffs next week",
+            "description": "The European Union should gain formal clearance next week to impose tariffs on $4 billion of annual U.S. imports in a dispute over aircraft subsidies, a World Trade Organization document showed on Monday.",
+            "url": "https://www.reuters.com/article/wto-aircraft-idUSKBN2740ZO",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538004901&r=LYNXMPEG9I0N5&w=800",
+            "publishedAt": "2020-10-19T08:54:12Z",
+            "content": "By Reuters Staff\r\nA logo is pictured in front of the World Trade Organization (WTO) in Geneva, Switzerland, July 22, 2020. REUTERS/Denis Balibouse/Files\r\nBRUSSELS (Reuters) - The European Union shoul\u2026 [+1221 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU set to gain WTO clearance for U.S. tariffs next week",
+            "description": "The European Union should gain formal clearance next week to impose tariffs on $4 billion of annual U.S. imports in a dispute over aircraft subsidies, a World Trade Organization document showed on Monday.",
+            "url": "https://uk.reuters.com/article/uk-wto-aircraft-idUKKBN2740ZR",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538005721&r=LYNXMPEG9I0NA&w=800",
+            "publishedAt": "2020-10-19T08:54:12Z",
+            "content": "By Reuters Staff\r\nBRUSSELS (Reuters) - The European Union should gain formal clearance next week to impose tariffs on $4 billion of annual U.S. imports in a dispute over aircraft subsidies, a World T\u2026 [+1085 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Dubai wealth fund readies bonds, COVID-19 may hit revenue",
+            "description": "Investment Corporation of Dubai (ICD), the Dubai government's main investment arm, is planning an issue of U.S. dollar-denominated bonds amid expectations of lower revenues from its assets due to the coronavirus crisis.",
+            "url": "https://www.reuters.com/article/emirates-icd-bonds-int-idUSKBN2740G5",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-19T08:57:24Z",
+            "content": "By Reuters Staff\r\nDUBAI (Reuters) - Investment Corporation of Dubai (ICD), the Dubai governments main investment arm, is planning an issue of U.S. dollar-denominated bonds amid expectations of lower \u2026 [+1549 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 2-Dubai wealth fund readies bonds, COVID-19 may hit revenue",
+            "description": "Investment Corporation of Dubai (ICD), the Dubai government's main investment arm, is planning an issue of U.S. dollar-denominated bonds amid expectations of lower revenues from its assets due to the coronavirus crisis.",
+            "url": "https://uk.reuters.com/article/emirates-icd-bonds-idUKL8N2HA0K8",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-19T08:54:22Z",
+            "content": "By Reuters Staff\r\n(Adds details)\r\nDUBAI, Oct 19 (Reuters) - Investment Corporation of Dubai (ICD), the Dubai governments main investment arm, is planning an issue of U.S. dollar-denominated bonds ami\u2026 [+1694 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Brazil's Bolsonaro announces trade facilitation agreements with U.S.",
+            "description": "Brazilian President Jair Bolsonaro said on Monday Brazil's relations with the United States are at their best moment ever and announced three trade facilitation agreements to ensure good business practices and to stop corruption.",
+            "url": "https://www.reuters.com/article/us-usa-brazil-idUSKBN2741PH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538033472&r=LYNXMPEG9I13B&w=800",
+            "publishedAt": "2020-10-19T13:00:03Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Brazil's President Jair Bolsonaro gestures during the launching ceremony of the Voo Simples program, which are a set of measures to modernize rules and reduce costs in t\u2026 [+611 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Theodoric Meyer",
+            "title": "Hollywood production companies turn to K Street for help",
+            "description": "Etsy, Pinterest adds lobbyists \u2014 Cannabis lobby could lose an ally",
+            "url": "https://www.politico.com/newsletters/politico-influence/2020/10/19/hollywood-production-companies-turn-to-k-street-for-help-490645",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-19T18:48:44Z",
+            "content": "Presented by Count Every Hero\r\nWith Daniel Lippman\r\nNEW BUSINESS: Lobbying firms are filing a flurry of registrations and terminations ahead of Tuesdays quarterly filing deadline. Here are a few fili\u2026 [+14112 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Bernie Becker",
+            "title": "Gaming out extenders",
+            "description": "&nbsp;Latest on Covid negotiations \u2014&nbsp;Latest on OECD",
+            "url": "https://www.politico.com/newsletters/weekly-tax/2020/10/19/gaming-out-extenders-791052",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-19T14:00:01Z",
+            "content": "Weekly Tax is a weekly version of POLITICO Pros daily Tax policy newsletter, Morning Tax. POLITICO Pro is a policy intelligence platform that combines the news you need with tools you can use to take\u2026 [+9689 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jeremy B. White, Carla Marinucci, Graph Massara and Mackenzie Hawkins",
+            "title": "PADILLA, BECERRA on CAGOP ballot box changes \u2014 TRUMP reverses on WILDFIRE aid \u2014 NARAL turns on FEINSTEIN \u2014 NUNES drops MCCLATCHY suit",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/10/19/padilla-becerra-on-cagop-ballot-box-changes-trump-reverses-on-wildfire-aid-naral-turns-on-feinstein-nunes-drops-mcclatchy-suit-490637",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-19T13:18:09Z",
+            "content": "Presented by Noom\r\nTHE BUZZ It was a vertiginous week of reversals in California politics-land.\r\nFrom mail voting to online speech to wildfire aid, we saw official announcements spur partisan backlas\u2026 [+19884 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Douglas Busvine",
+            "title": "High flier: Deutsche Telekom tests mobile antenna in the stratosphere",
+            "description": "Deutsche Telekom <DTEGn.DE> said on Monday it had successfully tested an aerial base station in the earth's stratosphere, an innovation it hopes will bring mobile coverage to remote areas that are hard for ground-based networks to reach.",
+            "url": "https://uk.reuters.com/article/us-tech-deutsche-telekom-idUKKBN2740OP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1537994025&r=LYNXMPEG9I0GX&w=800",
+            "publishedAt": "2020-10-19T07:00:00Z",
+            "content": "BERLIN (Reuters) - Deutsche Telekom DTEGn.DE said on Monday it had successfully tested an aerial base station in the earth's stratosphere, an innovation it hopes will bring mobile coverage to remote \u2026 [+2728 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Douglas Busvine",
+            "title": "High flier: Deutsche Telekom tests mobile antenna in the stratosphere",
+            "description": "Deutsche Telekom <DTEGn.DE> said on Monday it had successfully tested an aerial base station in the earth's stratosphere, an innovation it hopes will bring mobile coverage to remote areas that are hard for ground-based networks to reach.",
+            "url": "https://ca.reuters.com/article/us-tech-deutsche-telekom-idCAKBN2740OP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1537994025&r=LYNXMPEG9I0GX&w=800",
+            "publishedAt": "2020-10-19T07:03:34Z",
+            "content": "By Douglas Busvine\r\nBERLIN (Reuters) - Deutsche Telekom DTEGn.DE said on Monday it had successfully tested an aerial base station in the earth's stratosphere, an innovation it hopes will bring mobile\u2026 [+2748 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Erin Durkin, Anna Gronewold and Jonathan Custodio",
+            "title": "State plans for vaccine distribution \u2014 Movie theaters outside NYC cleared to open \u2014 Plastic bag ban enforcement to begin",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/new-york-playbook/2020/10/19/state-plans-for-vaccine-distribution-movie-theaters-outside-nyc-cleared-to-open-plastic-bag-ban-enforcement-to-begin-490639",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-19T11:40:55Z",
+            "content": "Presented by Noom\r\nIf New Yorks coronavirus nightmare ever comes to an end, it will likely depend on the development and distribution of a vaccine against the disease. Though its unclear when such a \u2026 [+23667 chars]"
+        }
+    ]
+}

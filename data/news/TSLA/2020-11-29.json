@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Berber Jin",
+            "title": "Unicorn investor Keith Rabois says tech talent is fleeing Silicon Valley and successful startups will now be built elsewhere",
+            "description": "Summary List PlacementKeith Rabois has wanted to leave San Francisco for a long time. He pays taxes he believes are egregiously high with, he feels, only a failing public school system, rampant crime, and terrible commutes to show for it, he told Business Ins\u2026",
+            "url": "https://www.businessinsider.com/keith-rabois-says-silicon-valley-is-atrophying-as-talent-flees-2020-11",
+            "urlToImage": "https://i.insider.com/5fbd596250e71a001155727f?width=1200&format=jpeg",
+            "publishedAt": "2020-11-29T13:35:00Z",
+            "content": "Keith Rabois has wanted to leave San Francisco for a long time. He pays taxes he believes are egregiously high with, he feels, only a failing public school system, rampant crime, and terrible commute\u2026 [+5785 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "The Supreme Court will hear its first big CFAA case",
+            "description": "The Supreme Court will hear arguments on Monday in a case that could lead to sweeping changes to America\u2019s controversial computer hacking laws \u2014 and affecting how millions use their computers and access online services. The Computer Fraud and Abuse Act was si\u2026",
+            "url": "http://techcrunch.com/2020/11/29/supreme-court-van-buren-hacking/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-959323052.jpg?w=645",
+            "publishedAt": "2020-11-29T14:00:04Z",
+            "content": "The Supreme Court will hear arguments on Monday in a case that could lead to sweeping changes to America\u2019s controversial computer hacking laws and affecting how millions use their computers and acces\u2026 [+4287 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew DeBord",
+            "title": "The inside story of how Henrik Fisker pulled off a $3 billion deal to fuel his electric car comeback (FSR)",
+            "description": "Summary List PlacementHenrik Fisker is a study in resiliency.\u00a0\nThe demise of his first company, Fisker Automotive, in 2013 was a major setback, but it didn't prevent the Danish-born designer and entrepreneur from staging a second act in the auto industry. In \u2026",
+            "url": "https://www.businessinsider.com/inside-story-of-the-3-billion-fisker-apollo-spac-deal-2020-11",
+            "urlToImage": "https://i.insider.com/5f849e5dc255d800190b95e1?width=1200&format=jpeg",
+            "publishedAt": "2020-11-29T13:26:00Z",
+            "content": "Henrik Fisker is a study in resiliency.\u00a0\r\nThe demise of his first company, Fisker Automotive, in 2013 was a major setback, but it didn't prevent the Danish-born designer and entrepreneur from staging\u2026 [+8589 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Akin Oyedele",
+            "title": "'Equity markets have devolved into casinos': A former Wall Street chief strategist unloads on the toxic narratives fueling a speculative bubble \u2014 and implores investors to heed the warnings of 1999 and 2007",
+            "description": "Summary List PlacementThe belief that housing prices never go down did not seem wild to many people until the Great Financial Crisis began in 2008.\u00a0\nThese days, baby boomers are not the only ones driving seemingly sanguine narratives that may not end well. Mi\u2026",
+            "url": "https://www.businessinsider.com/stock-market-crash-strategist-warns-dotcom-housing-bubble-speculation-cecchini-2020-11",
+            "urlToImage": "https://i.insider.com/5fc116d050e71a0011557a45?width=1200&format=jpeg",
+            "publishedAt": "2020-11-29T11:05:00Z",
+            "content": "The belief that housing prices never go down did not seem wild to many people until the Great Financial Crisis began in 2008.\u00a0\r\nThese days, baby boomers are not the only ones driving seemingly sangui\u2026 [+3965 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "The Supreme Court will hear its first big CFAA case",
+            "description": "The Supreme Court will hear arguments on Monday in a case that could lead to sweeping changes to America's controversial computer hacking laws \u2014 and...",
+            "url": "https://techcrunch.com/2020/11/29/supreme-court-van-buren-hacking/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pkmQsRN9ISVdEoxnUDPToQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjQw/https://s.yimg.com/uu/api/res/1.2/9353iWUn8v.oKi67HXGW8A--~B/aD0yMjQ0O3c9MzYyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/44431ad401cb5a1228424d88206d6c3a",
+            "publishedAt": "2020-11-29T14:00:04Z",
+            "content": "The Supreme Court will hear arguments on Monday in a case that could lead to sweeping changes to America's controversial computer hacking laws and affecting how millions use their computers and acces\u2026 [+4287 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Volkswagen may release a small EV for as little as $24,000",
+            "description": "In the future, Volkswagen may have a pretty affordable electric vehicle offering in its lineup.  According to Reuters, the automaker is working on a pure electric car around the size of a Polo under a project that the company calls \u201cSmall BEV (Battery Electri\u2026",
+            "url": "https://www.engadget.com/volkswagen-battery-electric-vehicle-205040665.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F02cbc180-9ab4-11ea-bf3c-9dfbc3da96df&client=amp-blogside-v2&signature=fa2bf03c7bd94bb9d8ba28ae91c396d57a399cce",
+            "publishedAt": "2020-11-29T20:50:40Z",
+            "content": "In the future, Volkswagen may have a pretty affordable electric vehicle offering in its lineup. According to Reuters, the automaker is working on a pure electric car around the size of a Polo under a\u2026 [+873 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "Here\u2019s how the US economy could transform under Biden after his appointment of Janet Yellen as Treasury Secretary \u2014 starting with sizable stimulus",
+            "description": "The former Federal Reserve chair is set to be the first person to lead the Treasury, Fed, and White House Council of Economic Advisers.",
+            "url": "https://www.businessinsider.com/janet-yellen-treasury-secretary-impact-on-economy-policy-biden-stimulus-2020-11",
+            "urlToImage": "https://i.insider.com/5fbff22b037cbd0018612811?width=1200&format=jpeg",
+            "publishedAt": "2020-11-29T13:10:00Z",
+            "content": "Janet Yellen's decades of policymaking experience hint at how she will lead the Treasury Department through the US economic recovery.\r\nPresident-elect Joe Biden is reportedly set to nominate Yellen t\u2026 [+8304 chars]"
+        }
+    ]
+}

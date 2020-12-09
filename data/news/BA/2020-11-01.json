@@ -1,0 +1,188 @@
+{
+    "status": "ok",
+    "totalResults": 14,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Reuters and Ben Westcott",
+            "title": "Super typhoon Goni makes two landfalls in the Philippines after mass evacuations",
+            "description": "A super typhoon has barreled into the southern part of the Philippines' main island of Luzon on Sunday, bringing \"catastrophic\" violent winds and intense rain with two landfalls so far, the country's weather bureau said.",
+            "url": "https://www.cnn.com/2020/11/01/asia/philippines-super-typhoon-goni-landfall-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201101123630-02-typhoon-goni-0111-super-tease.jpg",
+            "publishedAt": "2020-11-01T05:24:47Z",
+            "content": "A super typhoon has barreled into the southern part of the Philippines' main island of Luzon on Sunday, bringing \"catastrophic\" violent winds and intense rain with two landfalls so far, the country's\u2026 [+2570 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Super typhoon Goni slams into Philippines, makes two landfalls - Reuters",
+            "description": "A super typhoon barrelled into the southern part of the Philippines' main island of Luzon on Sunday, bringing \"catastrophic\" violent winds and intense rains with two landfalls so far, the weather bureau said.",
+            "url": "https://www.reuters.com/article/us-asia-storm-philippines-idUSKBN27H0YY",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201101&t=2&i=1539551458&r=LYNXMPEGA00PR&w=800",
+            "publishedAt": "2020-11-01T01:47:00Z",
+            "content": "By Reuters Staff\r\nMANILA (Reuters) - A super typhoon barrelled into the southern part of the Philippines main island of Luzon on Sunday, bringing catastrophic violent winds and intense rains with two\u2026 [+1913 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "JIM GOMEZ and JOEAL CALUPITAN / AP",
+            "title": "Powerful Typhoon Lashes Philippines, Killing At Least 10",
+            "description": "A super typhoon blew into the eastern Philippines with disastrous force Sunday, killing at least 10 people and triggering volcanic mudflows.",
+            "url": "https://time.com/5906284/powerful-typhoon-lashes-philippines-killing-numerous-people/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/11/Typhoon.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2020-11-01T16:23:38Z",
+            "content": "MANILA, Philippines \u2014 A super typhoon blew into the eastern Philippines with disastrous force Sunday, killing at least 10 people and triggering volcanic mudflows that engulfed about 150 houses before\u2026 [+3672 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "These Are the Airlines Teetering on the Brink of Covid Ruin",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-01/these-are-the-airlines-teetering-on-the-brink-as-covid-drags-on",
+            "urlToImage": null,
+            "publishedAt": "2020-11-01T21:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "These Are the Airlines Teetering on the Brink of Covid Ruin - Bloomberg",
+            "description": "These Are the Airlines Teetering on the Brink of Covid Ruin\u00a0\u00a0BloombergView Full Coverage on Google News",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ebbe98b0-1ce4-11eb-a6d1-8d4058276a73&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMS0wMS90aGVzZS1hcmUtdGhlLWFpcmxpbmVzLXRlZXRlcmluZy1vbi10aGUtYnJpbmstYXMtY292aWQtZHJhZ3Mtb24=",
+            "urlToImage": null,
+            "publishedAt": "2020-11-01T21:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "One of the largest private jet firms in the US is upgrading its entire fleet as more wealthy flyers turn to private aviation \u2013 take a look inside one of the luxurious jets",
+            "description": "XOJET Aviation began upgrading its fleet a month before the pandemic's peak with a brand-new paint job and interior overhaul for its largest aircraft.",
+            "url": "https://www.businessinsider.com/inside-a-newly-refurbished-xojet-aviation-private-jet-2020-11",
+            "urlToImage": "https://i.insider.com/5f998b726f5b310011723d7a?width=1200&format=jpeg",
+            "publishedAt": "2020-11-01T13:07:00Z",
+            "content": "Private aviation firm XOJET Aviation is one of the many aircraft operators riding a wave of expansion as more wealthy turn to private jets for travel in the wake of the pandemic.\u00a0\r\nLike most private \u2026 [+1176 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Allison Lampert, David Shepardson",
+            "title": "Guidelines for COVID-19 tests for airline passengers could set global bar for reliability, sources say",
+            "description": "A global aviation manual now under review by a UN body suggests global guidelines calling for the use of highly reliable tests when screening passengers to detect the novel coronavirus ahead of flights, three sources familiar with the matter said.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-aviation-testing-idUSKBN27H1KT",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201101&t=2&i=1539590245&r=LYNXMPEGA016P&w=800",
+            "publishedAt": "2020-11-01T16:55:19Z",
+            "content": "MONTREAL/WASHINGTON (Reuters) - A global aviation manual now under review by a UN body suggests global guidelines calling for the use of highly reliable tests when screening passengers to detect the \u2026 [+2789 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Grace Dean)",
+            "title": "Futuristic architecture, entertainment hubs and kinetic solar panels: This is what spaceports could look like if commercial space flights become a reality",
+            "description": "Spaceport City's design is based around space travel, but also features a terrestrial transport network with self-driving cars and autonomous trains",
+            "url": "https://www.businessinsider.com/this-spaceport-design-could-be-future-of-commercial-space-flight-2020-10",
+            "urlToImage": "https://i.insider.com/5f9abb9669331a0011bc5fc6?width=1200&format=jpeg",
+            "publishedAt": "2020-11-01T12:02:00Z",
+            "content": "Commercial space flights are still shaping up to be a booming business, despite the impact of the Covid-19 pandemic. Globally, the space industry is expected to more than double in value by 2030 to a\u2026 [+4207 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Allison Lampert, David Shepardson",
+            "title": "Guidelines for COVID-19 tests for airline passengers could set global bar for reliability, sources say",
+            "description": "A global aviation manual now under review by a UN body suggests global guidelines calling for the use of highly reliable tests when screening passengers to detect the novel coronavirus ahead of flights, three sources familiar with the matter said.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-aviation-testing-idUKKBN27H1KT",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201101&t=2&i=1539590245&r=LYNXMPEGA016P&w=800",
+            "publishedAt": "2020-11-01T16:55:19Z",
+            "content": "MONTREAL/WASHINGTON (Reuters) - A global aviation manual now under review by a UN body suggests global guidelines calling for the use of highly reliable tests when screening passengers to detect the \u2026 [+2789 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Allison Lampert, David Shepardson",
+            "title": "Guidelines for COVID-19 tests for airline passengers could set global bar for reliability, sources say",
+            "description": "A global aviation manual now under review by a UN body suggests global guidelines calling for the use of highly reliable tests when screening passengers to detect the novel coronavirus ahead of flights, three sources familiar with the matter said.",
+            "url": "https://ca.reuters.com/article/us-health-coronavirus-aviation-testing-idCAKBN27H1KT",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201101&t=2&i=1539590245&r=LYNXMPEGA016P&w=800",
+            "publishedAt": "2020-11-01T16:55:19Z",
+            "content": "By Allison Lampert, David Shepardson\r\nMONTREAL/WASHINGTON (Reuters) - A global aviation manual now under review by a UN body suggests global guidelines calling for the use of highly reliable tests wh\u2026 [+2827 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Joseph Zeballos-Roig",
+            "title": "Congress hasn't approved a coronavirus relief bill, putting the US at risk of repeating a critical mistake from Obama's 2009 stimulus. Democrats want to avoid it.",
+            "description": "Summary List Placement\n\nCongress pumped more than $3 trillion in emergency federal spending into the economy this spring, as the pandemic caused millions of layoffs and small business bankruptcies. The largest portion came from the $2 trillion CARES Act passe\u2026",
+            "url": "https://www.businessinsider.com/us-risks-repeating-obama-stimulus-mistake-democrats-want-to-avoid-2020-10",
+            "urlToImage": "https://i.insider.com/5ee24d8c3f737022ba2f9355?width=1200&format=jpeg",
+            "publishedAt": "2020-11-01T14:15:00Z",
+            "content": "Congress pumped more than $3 trillion in emergency federal spending into the economy this spring, as the pandemic caused millions of layoffs and small business bankruptcies. The largest portion came \u2026 [+7249 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Enrico Dela Cruz",
+            "title": "Typhoon Goni weakens as it crosses Philippines, four dead",
+            "description": "A super typhoon weakened after barrelling through the southern part of the Philippines' main island of Luzon on Sunday, with officials reporting at least four deaths, power supply outages, infrastructure damage and flash floods.",
+            "url": "https://uk.reuters.com/article/us-asia-storm-philippines-idUKKBN27H0YY",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201101&t=2&i=1539551458&r=LYNXMPEGA00PR&w=800",
+            "publishedAt": "2020-11-01T05:50:52Z",
+            "content": "MANILA (Reuters) - A super typhoon weakened after barrelling through the southern part of the Philippines main island of Luzon on Sunday, with officials reporting at least four deaths, power supply o\u2026 [+2332 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Super typhoon Goni slams into Philippines, makes two landfalls",
+            "description": "A super typhoon barrelled into the southern part of the Philippines' main island of Luzon on Sunday, bringing \"catastrophic\" violent winds and intense rains with two landfalls so far, the weather bureau said.",
+            "url": "https://uk.reuters.com/article/uk-asia-storm-philippines-idUKKBN27H0YW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201101&t=2&i=1539551761&r=LYNXMPEGA00PQ&w=800",
+            "publishedAt": "2020-11-01T01:56:26Z",
+            "content": "By Reuters Staff\r\nMANILA (Reuters) - A super typhoon barrelled into the southern part of the Philippines main island of Luzon on Sunday, bringing catastrophic violent winds and intense rains with two\u2026 [+1900 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "After 20 years of service, the Space Station flies into an uncertain future",
+            "description": "After 20 years of service, the Space Station flies into an uncertain futurearstechnica.com",
+            "url": "https://arstechnica.com/science/2020/11/after-20-years-of-service-the-space-station-flies-into-an-uncertain-future/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/International_Space_Station_after_undocking_of_STS-132-760x380.jpg",
+            "publishedAt": "2020-11-01T14:06:00Z",
+            "content": "Enlarge/ The essentially complete International Space Station in 2010, as seen by space shuttle Atlantis.\r\n1 with 1 posters participating\r\nThe Cold War had been concluded for less than a decade when \u2026 [+8631 chars]"
+        }
+    ]
+}

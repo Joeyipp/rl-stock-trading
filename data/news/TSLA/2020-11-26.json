@@ -1,0 +1,292 @@
+{
+    "status": "ok",
+    "totalResults": 22,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Matousek and Alex Nicoll",
+            "title": "REVEALED: How much Tesla, Rivian, and Nikola pay their employees, from engineers to managers (TSLA)",
+            "description": "Summary List PlacementA new generation of electric-vehicle startups is competing with Tesla for talent, in some cases recruiting employees away from the electric-car maker.\nThe US Office of Foreign Labor Certification requires companies to disclose compensati\u2026",
+            "url": "https://www.businessinsider.com/tesla-rivian-nikola-canoo-employees-make-pay-salary-2020-11",
+            "urlToImage": "https://i.insider.com/5f465ddf89aff80028ab7f82?width=1200&format=jpeg",
+            "publishedAt": "2020-11-26T15:25:00Z",
+            "content": "A new generation of electric-vehicle startups is competing with Tesla for talent, in some cases recruiting employees away from the electric-car maker.\r\nThe US Office of Foreign Labor Certification re\u2026 [+864 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX to press ahead with Starlink tests, delays commercial service - Reuters India",
+            "description": "SpaceX will continue beta testing its satellite-based broadband service Starlink into next year, the company said late Tuesday, indicating commercial service would not likely be offered in 2020 as previously planned.",
+            "url": "https://in.reuters.com/article/space-exploration-spacex-idINKBN28606Y",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201126&t=2&i=1542496171&r=LYNXMPEGAP02X&w=800",
+            "publishedAt": "2020-11-26T02:40:00Z",
+            "content": "FILE PHOTO: An exterior of the SpaceX headquarters in Hawthorne, California May 29, 2014.. REUTERS/Mario Anzuoni/File Photo\r\nWASHINGTON (Reuters) - SpaceX will continue beta testing its satellite-bas\u2026 [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla raises prices for Model S across Europe - Reuters",
+            "description": "Tesla Inc has increased prices for its Model S sedan across Europe, with rates varying in different countries, according to the electric automaker's website.",
+            "url": "https://www.reuters.com/article/us-tesla-model-s-idUSKBN2853F2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201126&t=2&i=1542485077&r=LYNXMPEGAP000&w=800",
+            "publishedAt": "2020-11-26T00:01:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Tesla Model S steering wheel is on display at the Canadian International AutoShow in Toronto, Ontario, Canada, February 13, 2019. REUTERS/Mark Blinch\r\n(Reuters) - Tesl\u2026 [+720 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "Tesla plans to produce electric car chargers in China - Reuters India",
+            "description": "Tesla Inc said on Thursday it planned to start making electric vehicle (EV) chargers in China in 2021, part of the U.S. carmaker's push to boost sales in the world's biggest car market.",
+            "url": "https://in.reuters.com/article/tesla-electric-china-idINKBN286178",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201126&t=2&i=1542542269&r=LYNXMPEGAP0LO&w=800",
+            "publishedAt": "2020-11-26T11:50:00Z",
+            "content": "BEIJING (Reuters) - Tesla Inc said on Thursday it planned to start making electric vehicle (EV) chargers in China in 2021, part of the U.S. carmakers push to boost sales in the worlds biggest car mar\u2026 [+1431 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joyce Lee",
+            "title": "South Korea's LG says will separate affiliates into new conglomerate - Reuters India",
+            "description": "South Korea's LG Corp said on Thursday its board had decided to restructure its conglomerate LG Group by separating some of its affiliates such as display chip maker Silicon Works Co Ltd to form a new conglomerate next year.",
+            "url": "https://in.reuters.com/article/us-lg-corp-restructuring-idINKBN2860NX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201126&t=2&i=1542523184&r=LYNXMPEGAP0B7&w=800",
+            "publishedAt": "2020-11-26T08:20:00Z",
+            "content": "FILE PHOTO: A man walks past an LG logo at the Mobile World Congress in Barcelona, Spain, February 27, 2018. REUTERS/Sergio Perez\r\nSEOUL (Reuters) - South Koreas LG Corp said on Thursday its board ha\u2026 [+1437 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joyce Lee",
+            "title": "South Korea's LG says will separate affiliates into new conglomerate - Reuters India",
+            "description": "South Korea's LG Corp said on Thursday its board had decided to restructure its conglomerate LG Group by separating some of its affiliates such as display chip maker Silicon Works Co Ltd to form a new conglomerate next year.",
+            "url": "https://www.reuters.com/article/us-lg-corp-restructuring-idINKBN2860NX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201126&t=2&i=1542523184&r=LYNXMPEGAP0B7&w=800",
+            "publishedAt": "2020-11-26T08:20:00Z",
+            "content": "FILE PHOTO: A man walks past an LG logo at the Mobile World Congress in Barcelona, Spain, February 27, 2018. REUTERS/Sergio Perez\r\nSEOUL (Reuters) - South Koreas LG Corp said on Thursday its board ha\u2026 [+1437 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joyce Lee",
+            "title": "South Korea's LG says will separate affiliates into new conglomerate - Reuters India",
+            "description": "South Korea's LG Corp said on Thursday its board had decided to restructure its conglomerate LG Group by separating some of its affiliates such as display chip maker Silicon Works Co Ltd to form a new conglomerate next year.",
+            "url": "https://in.reuters.com/article/lg-corp-restructuring-idINKBN2860O4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201126&t=2&i=1542527169&r=LYNXMPEGAP0CT&w=800",
+            "publishedAt": "2020-11-26T09:16:00Z",
+            "content": "FILE PHOTO: A man walks past an LG logo at the Mobile World Congress in Barcelona, Spain, February 27, 2018. REUTERS/Sergio Perez/File photo\r\nSEOUL (Reuters) - South Koreas LG Corp said on Thursday i\u2026 [+1448 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joyce Lee",
+            "title": "South Korea's LG says will separate affiliates into new conglomerate - Reuters UK",
+            "description": "South Korea's LG Corp said on Thursday its board had decided to restructure its conglomerate LG Group by separating some of its affiliates such as display chip maker Silicon Works Co Ltd to form a new conglomerate next year.",
+            "url": "https://uk.reuters.com/article/uk-lg-corp-restructuring-idUKKBN2860W8",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201126&t=2&i=1542530497&r=LYNXMPEGAP0ET&w=800",
+            "publishedAt": "2020-11-26T09:53:00Z",
+            "content": "FILE PHOTO: A man walks past an LG logo at the Mobile World Congress in Barcelona, Spain, February 27, 2018. REUTERS/Sergio Perez\r\nSEOUL (Reuters) - South Koreas LG Corp said on Thursday its board ha\u2026 [+1437 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shalini Nagarajan",
+            "title": "Airlines can expect to bleed up to $157 billion in losses until people fly normally again, making 2020 the worst year in aviation history, industry body IATA says",
+            "description": "Summary List Placement<ul>\n<li>Airlines will rack up losses up to $157 billion until borders reopen safely and a vaccine rolls out, the International Air Transport Association predicted.</li>\n<li>The loss will be five times the deficit racked up during the 20\u2026",
+            "url": "https://www.businessinsider.com/airline-industry-losses-157-billion-covid-19-passengers-aviation-iata-2020-11",
+            "urlToImage": "https://i.insider.com/5fbfa3a950e71a00115578ab?width=1200&format=jpeg",
+            "publishedAt": "2020-11-26T13:57:37Z",
+            "content": "Airlines will keep racking up losses into next year, as the industry expects the distribution of vaccines to take a while before flying returns to normal.\r\nThe International Air Transport Association\u2026 [+1862 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dow Jones Hits High Amid Coronavirus News As Tesla, Nio, Boeing Rally; Salesforce-Slack Deal Near? - Investor's Business Daily",
+            "description": "<ol><li>Dow Jones Hits High Amid Coronavirus News As Tesla, Nio, Boeing Rally; Salesforce-Slack Deal Near?\u00a0\u00a0Investor's Business Daily\r\n</li><li>Salesforce is in talks to buy Slack, deal could be announced next week\u00a0\u00a0CNBC\r\n</li><li>Salesforce in talks to acqui\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy9kb3ctam9uZXMtaGl0cy1oaWdoLWNvcm9uYXZpcnVzLW5ld3MtdGVzbGEtbmlvLWJvZWluZy1zYWxlc2ZvcmNlLXNsYWNrLWRlYWwv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-26T17:09:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theo Golden",
+            "title": "Lazard's top ESG stock-picker outlines the 3-part strategy he's used to beat 75% of his peers and smash his benchmark without paying Tesla-like prices",
+            "description": "Summary List PlacementOver the past few years, \"ESG\" has gone from a buzzword to becoming an indispensable part of the risk assessment process in many major firms.\nBut indispensable doesn't necessarily mean affordable. Some of the world's most famous stocks t\u2026",
+            "url": "https://www.businessinsider.com/investing-strategy-esg-beating-benchmark-tesla-lazard-2020-11",
+            "urlToImage": "https://i.insider.com/5fbe400832f2170011f71190?width=1200&format=jpeg",
+            "publishedAt": "2020-11-26T08:00:00Z",
+            "content": "Over the past few years, \"ESG\" has gone from a buzzword to becoming an indispensable part of the risk assessment process in many major firms.\r\nBut indispensable doesn't necessarily mean affordable. S\u2026 [+7727 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "podcast@cnet.com (CNET.com), CNET",
+            "title": "Tesla class action, Santa Zoom calls",
+            "description": "In today's top stories, Tesla is facing a new class action lawsuit, Santa is now providing Zoom calls and the Grammy Awards make history with all nominees in the Best Rock Performance category being women or woman-fronted bands.",
+            "url": "http://feedproxy.google.com/~r/allcnetvideopodcasts/~3/RI6RMYXRLKw/TT201126_559147_740.mp4",
+            "urlToImage": null,
+            "publishedAt": "2020-11-26T11:00:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "Goldman Sachs has been employing drones to get a close peek at potential bids before sealing billion-dollar deals during the pandemic",
+            "description": "The shift to remote work forced investment bankers to conduct virtual tours of potential bids for their clients.",
+            "url": "https://www.businessinsider.com/goldman-sachs-drones-potential-billion-dollar-deals-2020-11",
+            "urlToImage": "https://i.insider.com/5fbf755050e71a0011557874?width=1200&format=jpeg",
+            "publishedAt": "2020-11-26T10:36:46Z",
+            "content": "Goldman Sachs has been using drone technology to get a closer look at potential targets for clients before securing billion-dollar deals, the bank's global co-head of mergers and acquisitions told CN\u2026 [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "klee@businessinsider.com (Kristen Lee)",
+            "title": "REVIEW: The $144,000 Taycan 4S is Porsche's first EV that pairs cosmic speed with eerie electric silence",
+            "description": "A fun game to play when driving a Taycan is seeing how long you can glue your passengers to their seatbacks with the car's relentless acceleration.",
+            "url": "https://www.businessinsider.com/porsche-taycan-4s-review-0-60-price-range-ev-electric-2020-11",
+            "urlToImage": "https://i.insider.com/5fbd521050e71a0011557252?width=1200&format=jpeg",
+            "publishedAt": "2020-11-26T13:45:00Z",
+            "content": "The luxury electric car space is saturated with the likes of Tesla, Lucid, Polestar, Audi, and Jaguar. But one of the biggest names to recently enter is the Taycan sport sedan, which is, quite litera\u2026 [+13153 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "Bitcoin tumbles by more than $2,000 as cryptocurrency bulls cash in on this month's stellar run",
+            "description": "\"It feels more and more like we're hitting a Bitcoin tipping point,\" one crypto trader said. \"In fact, a cool-down is to be expected.\"",
+            "url": "https://www.businessinsider.com/bitcoin-price-tumbles-crypto-bulls-profit-stellar-rally-ethereum-ripple-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5f3f9a8c89aff80028ab70e0?format=jpeg",
+            "publishedAt": "2020-11-26T09:32:00Z",
+            "content": "Reuters/Lucas Jackson\r\nBitcoin slid by more than $2,000 on Thursday in its biggest one-day drop in nearly three months.\r\nThe price of the world's largest cryptocurrency fell 11%, to $16,725, as of 8:\u2026 [+2753 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "avcooper@businessinsider.com (Amanda Cooper)",
+            "title": "European shares hover around nine-month highs, while gold gets a boost from a weaker dollar and cryptocurrencies slide",
+            "description": "\"There is an argument that the current bullish outlook means any short-term economic weakness is being largely overlooked in any case,\" IG said.",
+            "url": "https://www.businessinsider.com/stock-markets-europe-shares-dollar-gold-bitcoin-cryptocurrencies-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbf7fa3037cbd001861277a?format=jpeg",
+            "publishedAt": "2020-11-26T10:43:06Z",
+            "content": "Bull and Bear sculptures outside the Frankfurt Stock Exchange in Frankfurt.\r\nXinhua/Getty Images\r\nEuropean shares held mostly steady around nine-month highs on Thursday, with German blue-chips outper\u2026 [+3425 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "Warren Buffett joked he would be 'eating Thanksgiving dinner at McDonald's' if the US government didn't bail out the banks in 2008",
+            "description": "The billionaire investor wouldn't mind too much as he grabs breakfast there on his way to work and has a McDonald's gold card.",
+            "url": "https://www.businessinsider.com/warren-buffett-joked-thanksgiving-mcdonalds-without-2008-government-bank-bailout-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbf8ba5037cbd0018612788?format=jpeg",
+            "publishedAt": "2020-11-26T11:31:48Z",
+            "content": "Warren Buffett loves McDonald's.\r\n\"Becoming Warren Buffett\"/HBO\r\n<ul><li>Warren Buffett faced a fast-food Thanksgiving in 2008 if US authorities didn't save the financial system, he joked in a CNBC i\u2026 [+3288 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "10 things you need to know in markets today",
+            "description": "This is what traders are talking about.",
+            "url": "https://www.businessinsider.com/10-things-you-need-to-know-markets-november-26-2020-11",
+            "urlToImage": "https://i.insider.com/5fbf8a5e50e71a0011557893?width=1200&format=jpeg",
+            "publishedAt": "2020-11-26T12:05:43Z",
+            "content": "Welcome to 10 Things Before the Opening Bell. Sign up here to get this email in your inbox every morning.\r\nFor the biggest stories in politics,\u00a0sign up here for 10 Things in Politics You Need to Know\u2026 [+1808 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla raises prices for Model S across Europe",
+            "description": "Tesla Inc has increased prices for its Model S sedan across Europe, with rates varying in different countries, according to the electric automaker's website.",
+            "url": "https://ca.reuters.com/article/us-tesla-model-s-idCAKBN2853F2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201126&t=2&i=1542485077&r=LYNXMPEGAP000&w=800",
+            "publishedAt": "2020-11-26T00:00:27Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Tesla Model S steering wheel is on display at the Canadian International AutoShow in Toronto, Ontario, Canada, February 13, 2019. REUTERS/Mark Blinch\r\n(Reuters) - Tesl\u2026 [+720 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joyce Lee",
+            "title": "South Korea's LG says will separate affiliates into new conglomerate",
+            "description": "South Korea's LG Corp said on Thursday its board had decided to restructure its conglomerate LG Group by separating some of its affiliates such as display chip maker Silicon Works Co Ltd to form a new conglomerate next year.",
+            "url": "https://ca.reuters.com/article/ctech-us-lg-corp-restructuring-idCAKBN2860NX-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201126&t=2&i=1542523389&r=LYNXMPEGAP0B7-OCATC&w=800",
+            "publishedAt": "2020-11-26T08:18:25Z",
+            "content": "FILE PHOTO: A man walks past an LG logo at the Mobile World Congress in Barcelona, Spain, February 27, 2018. REUTERS/Sergio Perez\r\nSEOUL (Reuters) - South Koreas LG Corp said on Thursday its board ha\u2026 [+1437 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Victor Ferreira",
+            "title": "This millennial doctor pulled in $40K one recent month, but his wild spending ways may catch up to him",
+            "description": "Up until recently, a 32-year-old emergency room doctor we\u2019ll call Michael didn\u2019t even know how much he was earning after tax. For the past three years, it didn\u2019t really matter. \n \n \n \n \n \n On average, Michael works about 11 shifts in a Toronto hospital and is\u2026",
+            "url": "https://financialpost.com/personal-finance/young-money/this-millennial-doctor-pulled-in-40k-one-recent-month-but-his-wild-spending-ways-may-catch-up-to-him",
+            "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/10/spent-column-18-11272020-WEB.jpg",
+            "publishedAt": "2020-11-26T14:54:09Z",
+            "content": "Grouni is cutting back Michaels food and drink spending to $1,253, his entertainment spending to $181, his shopping budget to $388 and his spending at spas to $256. That frees up an additional $2,078\u2026 [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "David Rosenberg",
+            "title": "David Rosenberg: Two long-standing investor rules are fighting it out in the markets",
+            "description": "Those who have followed me over the years know what a profound influence Wall Street veteran Bob Farrell has had on my career. He has 10 commandments for successful investing. Rule No. 1 posits that \u201cmarkets tend to return to the mean over time,\u201d while Rule N\u2026",
+            "url": "https://financialpost.com/investing/investing-pro/david-rosenberg-two-long-standing-investor-rules-are-fighting-it-out-in-the-markets",
+            "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/11/bulls1126.jpg",
+            "publishedAt": "2020-11-26T18:37:48Z",
+            "content": "3. The third scarce resource is safety: what is safe in your asset mix? I always get guffaws when I mention the necessity of having a substantial portion of the portfolio in long-duration, high-quali\u2026 [+1774 chars]"
+        }
+    ]
+}

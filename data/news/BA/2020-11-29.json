@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Aditi Shah, Rajendra Jadhav",
+            "title": "From small businesses to farmers, middle India is driving demand - Reuters",
+            "description": "Manish Mehra, owner of Washex Hospitality, an industrial laundry service, recently flew from Delhi to Jodhpur, a city in north-western India, to win a contract to service a large, government-run hospital - a move essential to kickstarting his business.",
+            "url": "https://www.reuters.com/article/india-economy-demand-idUSKBN28903O",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201129&t=2&i=1542780421&r=LYNXMPEGAS01Y&w=800",
+            "publishedAt": "2020-11-29T03:10:00Z",
+            "content": "NEW DELHI/MUMBAI (Reuters) - Manish Mehra, owner of Washex Hospitality, an industrial laundry service, recently flew from Delhi to Jodhpur, a city in north-western India, to win a contract to service\u2026 [+4730 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Airlines Face 'Mission of the Century' in Distributing Vaccines",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-29/airlines-face-mission-of-the-century-in-distributing-vaccines",
+            "urlToImage": null,
+            "publishedAt": "2020-11-29T21:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU pitches new post-Trump alliance with USA in face of China challenge...",
+            "description": "The European Union is seeking to forge a new alliance with the United States to bury the tensions of the Trump era and meet the challenges posed by China, the Financial Times reported on Sunday, citing a draft plan.",
+            "url": "https://www.reuters.com/article/us-eu-usa-trade-idUSKBN2890VH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201129&t=2&i=1542829026&r=LYNXMPEGAS0L7&w=800",
+            "publishedAt": "2020-11-29T21:04:37Z",
+            "content": "By Reuters Staff\r\nU.S. and European Union flags are pictured during the visit of Vice President Mike Pence to the European Commission headquarters in Brussels, Belgium February 20, 2017. REUTERS/Fran\u2026 [+1429 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Matt Cannon",
+            "title": "Pfizer COVID Vaccine Flown Into U.S. Ahead of Planned Nationwide Rollout in December",
+            "description": "Chartered United Airlines flights have begun landing in the United States with officials planning to distribute millions of doses if it is given approval by regulators, the Food and Drug Administration (FDA).",
+            "url": "https://www.newsweek.com/pfizer-covid-vaccine-flown-u-s-planned-rollout-december-1550977",
+            "urlToImage": "https://d.newsweek.com/en/full/1678179/united-airlines-flight-san-francisco.jpg",
+            "publishedAt": "2020-11-29T12:57:07Z",
+            "content": "Planes carrying doses of a potential COVID vaccine are being flown into the United States, as regulators hope to give approval for a mass rollout imminently.\r\nChartered United Airlines flights report\u2026 [+2626 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "I visited airport lounges of the 3 major US airlines and saw how the pandemic has changed the once-extravagant experience \u2013 here's what it's like to lounge during the pandemic",
+            "description": "Airlines are approaching their lounges differently but passengers who choose to arrive late and go straight to the gate aren't missing out on much.",
+            "url": "https://www.businessinsider.com/visiting-airport-lounges-during-pandemic-american-united-delta-2020-11",
+            "urlToImage": "https://i.insider.com/5f90555c212113001873fe82?width=1200&format=jpeg",
+            "publishedAt": "2020-11-29T13:00:00Z",
+            "content": "Access to airport lounges is a top perk for frequent flyers and those who pay top dollar to sit in the premium cabins of an airliner.\u00a0\r\nThe exclusive spaces not only offer a reprieve from a terminal'\u2026 [+1271 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Christina Zhao",
+            "title": "Trump Claims He 'Came Up With Vaccines' As Biden Injured Playing With Dog",
+            "description": "Trump continued to push unverified claims of a stolen election in his first TV interview since the election on Sunday as Biden's transition team revealed that the Democrat will visit a doctor after twisting his ankle.",
+            "url": "https://www.newsweek.com/trump-claims-he-came-vaccines-biden-injured-playing-dog-1551037",
+            "urlToImage": "https://d.newsweek.com/en/full/1678238/biden-trump.jpg",
+            "publishedAt": "2020-11-29T23:31:09Z",
+            "content": "President Donald Trump on Sunday claimed that he \"came up with vaccines that people didn't think we've have for five years\" during his first TV interview since the 2020 election as President-elect Jo\u2026 [+3053 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Covid Vaccines: Airlines Face Key Mission - Bloomberg",
+            "description": "Covid Vaccines: Airlines Face Key Mission\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-11-29/airlines-face-mission-of-the-century-in-distributing-vaccines?srnd=prognosis",
+            "urlToImage": null,
+            "publishedAt": "2020-11-29T21:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tsonnemaker@businessinsider.com (Tyler Sonnemaker)",
+            "title": "Amazon is expanding its logistics empire like never before to prepare for this holiday season\u00a0\u2014 and it still may not be enough",
+            "description": "Amazon hired 420,000 employees to brace for the surge in online holiday shopping amid the pandemic. But it will still be pushed to its limits.",
+            "url": "https://www.businessinsider.com/amazon-logistics-empire-faces-toughest-challenge-black-friday-pandemic-holiday-2020-11",
+            "urlToImage": "https://i.insider.com/5fc188a150e71a0011557c5f?width=1200&format=jpeg",
+            "publishedAt": "2020-11-29T01:25:00Z",
+            "content": "As \r\n Black Friday kicks off the holiday shopping season in the US, few companies have had to prepare quite like e-commerce and logistics giant Amazon.\r\nAn Amazon spokesperson told Business Insider t\u2026 [+8276 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Grace Dean)",
+            "title": "COVID-19 vaccine success is cause for optimism but the rollout may take years in poorer countries. Here are the major challenges they face.",
+            "description": "Every American could have access to a COVID-19 vaccine by the end of April. For low-income countries, widespread access could come as late as 2024.",
+            "url": "https://www.businessinsider.com/poor-countries-may-wait-years-covid-19-vaccines-2020-11",
+            "urlToImage": "https://i.insider.com/5fc3897150e71a0011557d5f?width=1200&format=jpeg",
+            "publishedAt": "2020-11-29T14:00:00Z",
+            "content": "Every American could have access to a COVID-19 vaccine by the end of April. This is not the case, however, for the majority of people in low-income countries, who may have to wait years longer.\r\nAs d\u2026 [+10630 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jeff Elder and Aaron Holmes",
+            "title": "Meet the 50 CEOs, investors, and hackers who helped lead the cybersecurity industry through an unprecedented and tumultuous year (MSFT, NET, OKTA, CRWD, ZS)",
+            "description": "Summary List PlacementIn February, San Francisco hosted the cybersecurity industry's longtime conference RSA, and it ended up being the last big tech trade show before COVID-19 wiped the schedule of in-person events. Not one event on the agenda was about remo\u2026",
+            "url": "https://www.businessinsider.com/50-cybersecurity-leaders-startups-investors-cloudflare-okta-microsoft-2020-11",
+            "urlToImage": "https://i.insider.com/5fb2d8ef402d49001924f381?width=1200&format=jpeg",
+            "publishedAt": "2020-11-29T15:45:00Z",
+            "content": "In February, San Francisco hosted the cybersecurity industry's longtime conference RSA, and it ended up being the last big tech trade show before COVID-19 wiped the schedule of in-person events. Not \u2026 [+1036 chars]"
+        }
+    ]
+}

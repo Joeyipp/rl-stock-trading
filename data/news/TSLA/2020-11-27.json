@@ -1,0 +1,253 @@
+{
+    "status": "ok",
+    "totalResults": 19,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. agency opens probe into 115,000 Tesla vehicles over suspension issue - Reuters",
+            "description": "The U.S. National Highway Traffic Safety Administration (NHTSA) on Friday said it had opened an investigation into about 115,0000 Tesla vehicles over front suspension safety issues.",
+            "url": "https://www.reuters.com/article/us-tesla-safety-investigation-idUSKBN287172",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201127&t=2&i=1542649401&r=LYNXMPEGAQ0LB&w=800",
+            "publishedAt": "2020-11-27T11:13:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The company logo is pictured on a Tesla Model X electric car in Berlin, Germany, November 13, 2019. REUTERS/Fabrizio Bensch/File Photo\r\nWASHINGTON (Reuters) - The U.S. N\u2026 [+533 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "Alibaba vies for a piece of China\u2019s booming EV market",
+            "description": "There\u2019s no lack of news these days on China\u2019s tech giants teaming up with traditional carmakers. Companies from Alibaba to Huawei are striving to become relevant in the trillion-dollar auto industry, which itself is seeking an electric transition and intellig\u2026",
+            "url": "http://techcrunch.com/2020/11/26/alibaba-saic-ev-brand/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-27-at-11.31.01-AM.png?w=750",
+            "publishedAt": "2020-11-27T03:56:44Z",
+            "content": "There\u2019s no lack of news these days on China\u2019s tech giants teaming up with traditional carmakers. Companies from Alibaba to Huawei are striving to become relevant in the trillion-dollar auto industry,\u2026 [+2017 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Katrina Hamlin",
+            "title": "Breakingviews - Beware Chinese used-car dealer\u2019s sticker price - Reuters India",
+            "description": "It always pays to be cautious when it comes to used-car dealers. Kaixin Auto, which sells second-hand vehicles online in China, is no exception. The company, whose name translates as \u201chappy\u201d, has experienced a 2,300% surge in its stock price over the last two\u2026",
+            "url": "https://in.reuters.com/article/us-kaixin-auto-hldg-stock-breakingviews-idINKBN28706T",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201127&t=2&i=1542611374&r=LYNXMPEGAQ02O&w=800",
+            "publishedAt": "2020-11-27T02:51:00Z",
+            "content": "A charging cable is seen hooked to a car at a State Grid Corporation of China charging point for electric vehicles in Beijing, China March 3, 2018. Picture taken March 3, 2018. REUTERS/Stringer \r\nHON\u2026 [+2354 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Isobel Asher Hamilton",
+            "title": "SpaceX's giant Starship rocket will have its first big high-altitude test next week, says Elon Musk",
+            "description": "Summary List PlacementNext week, Elon Musk's space-exploration company SpaceX will take a big step forward in its quest to fly people to Mars.\nMusk tweeted on Tuesday that SpaceX's enormous Starship spacecraft \u2013 which the company eventually wants to use to ge\u2026",
+            "url": "https://www.businessinsider.com/spacex-elon-musk-starship-first-high-altitude-test-scheduled-2020-11",
+            "urlToImage": "https://i.insider.com/5fc0cd72037cbd00186128ae?width=1200&format=jpeg",
+            "publishedAt": "2020-11-27T10:59:13Z",
+            "content": "Next week, Elon Musk's space-exploration company SpaceX will take a big step forward in its quest to fly people to Mars.\r\nMusk tweeted on Tuesday that SpaceX's enormous Starship spacecraft \u2013 which th\u2026 [+1469 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shona Ghosh",
+            "title": "10 things in tech you need to know today",
+            "description": "Summary List PlacementGood morning! This is the tech news you need to know this Friday. Sign up here to get this email in your inbox every morning.\nHave an Amazon Alexa device? Listen to this update by searching \"Business Insider\" in your flash briefing setti\u2026",
+            "url": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-november-27-2020-11",
+            "urlToImage": "https://i.insider.com/5f6e19500f4d550011032569?width=1200&format=jpeg",
+            "publishedAt": "2020-11-27T07:58:06Z",
+            "content": "Good morning! This is the tech news you need to know this Friday. Sign up here to get this email in your inbox every morning.\r\nHave an Amazon Alexa device? Listen to this update by searching \"Busines\u2026 [+1969 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla Suspension Problems Prompt NHTSA Probe of 115,000 Cars",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-27/tesla-suspension-problems-prompt-nhtsa-probe-of-115-000-cars",
+            "urlToImage": null,
+            "publishedAt": "2020-11-27T17:23:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "U.S. agency opens probe into 115,000 Tesla vehicles over suspension issue - Reuters India",
+            "description": "<ol><li>U.S. agency opens probe into 115,000 Tesla vehicles over suspension issue\u00a0\u00a0Reuters India\r\n</li><li>Tesla is now under NHTSA scrutiny over Model S/X suspension after disputing recall in China\u00a0\u00a0Electrek\r\n</li><li>US agency investigating Tesla front susp\u2026",
+            "url": "https://in.reuters.com/article/tesla-safety-investigation-idINKBN2871ES",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201127&t=2&i=1542657814&r=LYNXMPEGAQ0PG&w=800",
+            "publishedAt": "2020-11-27T12:31:00Z",
+            "content": "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration (NHTSA) on Friday said it had opened an investigation into around 115,0000 Tesla vehicles over a front suspension safety\u2026 [+2387 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "U.S. agency opens probe into 115,000 Tesla vehicles over suspension issue - Reuters UK",
+            "description": "<ol><li>U.S. agency opens probe into 115,000 Tesla vehicles over suspension issue\u00a0\u00a0Reuters UK\r\n</li><li>Tesla is now under NHTSA scrutiny over Model S/X suspension after disputing recall in China\u00a0\u00a0Electrek\r\n</li><li>Tesla in crosshairs after NHTSA opens inves\u2026",
+            "url": "https://uk.reuters.com/article/uk-tesla-safety-investigation-idUKKBN28717D",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201127&t=2&i=1542649833&r=LYNXMPEGAQ0LG&w=800",
+            "publishedAt": "2020-11-27T11:16:00Z",
+            "content": "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration (NHTSA) on Friday said it had opened an investigation into around 115,0000 Tesla vehicles over a front suspension safety\u2026 [+2376 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "Elon Musk's Tesla Facing Probe Over Alleged Suspension Issue That Could Impact 115,000 Cars",
+            "description": "The National Highway Traffic Safety Administration confirmed it is investigating the electric car company after receiving dozens of complaints about Model X and Model S vehicles.",
+            "url": "https://www.newsweek.com/elon-musk-tesla-nhtsa-investigation-alleged-suspension-defect-model-s-model-x-cars-1550802",
+            "urlToImage": "https://d.newsweek.com/en/full/1677943/tesla.jpg",
+            "publishedAt": "2020-11-27T16:10:50Z",
+            "content": "The National Highway Traffic Safety Administration (NHTSA) is launching an investigation into a suspected front suspension issue with multiple Tesla vehicles that could involve up to 115,0000 electri\u2026 [+3138 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Drake Baer",
+            "title": "Legendary Harvard psychologist Dan Gilbert outlines 8 money principles will bring you the most happiness for your dollar",
+            "description": "Summary List PlacementMoney can't buy happiness.\n\"This sentiment is lovely, popular, and almost certainly wrong,\" says Harvard psychologist Daniel Gilbert in a paper he coauthored.\u00a0\nMoney provides an \"opportunity for happiness,\" the authors say, since moneyed\u2026",
+            "url": "https://www.businessinsider.com/harvard-dan-gilbert-money-happiness-principles-2014-10",
+            "urlToImage": "https://i.insider.com/544aaf086bb3f79b11608acb?width=1200&format=jpeg",
+            "publishedAt": "2020-11-27T17:26:48Z",
+            "content": "Money can't buy happiness.\r\n\"This sentiment is lovely, popular, and almost certainly wrong,\" says Harvard psychologist Daniel Gilbert in a paper he coauthored.\u00a0\r\nMoney provides an \"opportunity for ha\u2026 [+5973 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Culp",
+            "title": "US STOCKS-Nasdaq hits record high as holiday shopping begins - Reuters",
+            "description": "<ol><li>US STOCKS-Nasdaq hits record high as holiday shopping begins\u00a0\u00a0Reuters\r\n</li><li>S&P 500 closes at another record Friday, gains 2% on week\u00a0\u00a0CNBC\r\n</li><li>Dow Jones Today, Stocks Climb Into Short Session After AstraZeneca Vaccine Bump\u00a0\u00a0Investor's Busin\u2026",
+            "url": "https://uk.reuters.com/article/usa-stocks-idINL1N2ID1A8",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-27T18:02:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.) (Updates to market close, changes dateline, byline)\r\nNEW YORK, Nov 27 (Reuters) - Wall St\u2026 [+2637 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Black Friday 2020, Deals for Tesla Model X, S, 3, Y Accessories",
+            "description": "Customers can enjoy Black Friday promotions on some Tesla accessories and wheels packages.",
+            "url": "https://www.newsweek.com/black-friday-2020-deals-tesla-accessories-model-s-3-x-y-used-cars-1550567",
+            "urlToImage": "https://d.newsweek.com/en/full/1677471/tesla-dealer-pleasanton-california-2018.jpg",
+            "publishedAt": "2020-11-27T05:01:02Z",
+            "content": "Tesla, the electric car manufacturer, doesn't have an official Black Friday sale. However, some companies are offering Black Friday deals on Tesla car accessories and other promotions, while used Tes\u2026 [+4188 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "Alibaba vies for a piece of China's booming EV market",
+            "description": "Companies from Alibaba to Huawei are striving to become relevant in the trillion-dollar auto industry, which itself is seeking an electric transition and...",
+            "url": "https://techcrunch.com/2020/11/26/alibaba-saic-ev-brand/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fWOkQcJ7RwTFQUISFfwCCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMDY3/https://s.yimg.com/uu/api/res/1.2/tMuSAPrzaoiH5hNedqi5Mg--~B/aD0xMzI2O3c9MjQ4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/c0a3643f4152e62508c491fee9e07cb7",
+            "publishedAt": "2020-11-27T03:56:44Z",
+            "content": "There's no lack of news these days on China's tech giants teaming up with traditional carmakers. Companies from Alibaba to Huawei are striving to become relevant in the trillion-dollar auto industry,\u2026 [+2017 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Matousek",
+            "title": "Uber and Lyft driver pay revealed: which app offers more in NYC, LA, Chicago, and 13 other major American cities (UBER, LYFT)",
+            "description": "Summary List Placement\n\nRide-hail demand is slowly returning in some parts of the US, and with it, the question of whether Uber or Lyft is more lucrative for drivers.\nUsing 2020 data from Gridwise, which makes an app that tracks pay and passenger demand for r\u2026",
+            "url": "https://www.businessinsider.com/does-uber-or-lyft-pay-more-new-york-los-angeles-2020-11",
+            "urlToImage": "https://i.insider.com/5fbd401f32f2170011f70ed4?width=1200&format=jpeg",
+            "publishedAt": "2020-11-27T14:08:00Z",
+            "content": "Ride-hail demand is slowly returning in some parts of the US, and with it, the question of whether Uber or Lyft is more lucrative for drivers.\r\nUsing 2020 data from Gridwise, which makes an app that \u2026 [+433 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "10 things you need to know before the opening bell",
+            "description": "This is what traders are talking about.",
+            "url": "https://www.businessinsider.com/opening-bell-november-27-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5f59f169e6ff30001d4e7eec?format=jpeg",
+            "publishedAt": "2020-11-27T11:40:34Z",
+            "content": "Brendan McDermid/Reuters\r\nWelcome to 10 Things Before the Opening Bell. Sign up here to get this email in your inbox every morning.\r\nFor the biggest stories in politics,\u00a0sign up here for 10 Things in\u2026 [+1572 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "\u30a2\u30ea\u30d0\u30d0\u3068\u30d5\u30a1\u30fc\u30a6\u30a7\u30a4\u304c\u6025\u6210\u9577\u306e\u4e2d\u56fd\u5de8\u5927EV\u5e02\u5834\u306b\u53c2\u5165",
+            "description": "<ol>\r\n \t<li>\u8fd1\u9803\u306f\u3001\u4e2d\u56fd\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u5927\u624b\u304c\u65e2\u5b58\u306e\u81ea\u52d5\u8eca\u30e1\u30fc\u30ab\u30fc\u3068\u7d44\u3080\u3068\u3044\u3046\u30cb\u30e5\u30fc\u30b9\u304c\u306a\u3044\u65e5\u306f\u306a\u3044\u3002Alibaba\uff08\u30a2\u30ea\u30d0\u30d0\uff09\u3084Huawei\uff08\u30d5\u30a1\u30fc\u30a6\u30a7\u30a4\uff09\u306a\u3069\u3055\u307e\u3056\u307e\u306a\u4f01\u696d\u306f\u6570\u5146\u30c9\u30eb\uff08\u6570\u767e\u5146\u5186\uff09\u3068\u3044\u308f\u308c\u308b\u4e2d\u56fd\u306e\u81ea\u52d5\u8eca\u5e02\u5834\u306b\u95a2\u9023\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u3002\u81ea\u52d5\u8eca\u7523\u696d\u306f\u30015G\u304c\u6210\u719f\u3059\u308b\u306b\u3064\u308c\u3001\u96fb\u52d5\u5316\u3078\u306e\u79fb\u884c\u3068\u30a4\u30f3\u30c6\u30ea\u30b8\u30a7\u30f3\u30c8\u306a\u30a2\u30c3\u30d7\u30b0\u30ec\u30fc\u30c9\u306e\u9053\u3092\u63a2\u3063\u3066\u3044\u308b\u3002</li>\r\n</ol>\r\n\u4e2d\u56fd\u5927\u624b\u306e1\u3064\u3001\u56fd\u6709\u306e\u81ea\u52d5\u8eca\u88fd\u9020\u4f01\u696dSAIC Motor\u306f\u4eca\u9031\u3001Alibaba\u3068\u4e0a\u6d77\u306e\u653f\u5e9c\u652f\u63f4\u4f01\u696d\u304c\u5c11\u6570\u682a\u4e3b\u3068\u306a\u3063\u3066\u3044\u308bZhiji\u2026",
+            "url": "https://jp.techcrunch.com/2020/11/28/2020-11-26-alibaba-saic-ev-brand/",
+            "urlToImage": "https://jp.techcrunch.com/wp-content/uploads/2020/11/ali0.jpg?w=730",
+            "publishedAt": "2020-11-27T23:30:04Z",
+            "content": "<ol><li>AlibabaHuawei5G</li></ol>1SAIC MotorAlibabaZhijiSAIC MotorXpengNioEVTesla\r\nAlibabaSAIC2015160001665000ReuterBanma ZebraAlibabaBanmaeAlipay\r\nAlibabaSAICBMWBusiness WireAudiBusiness Wire\r\nSAICE\u2026 [+86 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. agency opens probe into 115,000 Tesla vehicles over suspension issue",
+            "description": "The U.S. National Highway Traffic Safety Administration (NHTSA) on Friday said it had opened an investigation into about 115,0000 Tesla vehicles over front suspension safety issues.",
+            "url": "https://ca.reuters.com/article/us-tesla-safety-investigation-idCAKBN287172",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201127&t=2&i=1542649401&r=LYNXMPEGAQ0LB&w=800",
+            "publishedAt": "2020-11-27T11:12:49Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The company logo is pictured on a Tesla Model X electric car in Berlin, Germany, November 13, 2019. REUTERS/Fabrizio Bensch/File Photo\r\nWASHINGTON (Reuters) - The U.S. N\u2026 [+533 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Katrina Hamlin",
+            "title": "Breakingviews - Beware Chinese used-car dealer's sticker price",
+            "description": "It always pays to be cautious when it comes to used-car dealers. Kaixin Auto, which sells second-hand vehicles online in China, is no exception. The company, whose name translates as \u201chappy\u201d, has experienced a 2,300% surge in its stock price over the last two\u2026",
+            "url": "https://uk.reuters.com/article/us-kaixin-auto-hldg-stock-breakingviews-idUKKBN28706T",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201127&t=2&i=1542611374&r=LYNXMPEGAQ02O&w=800",
+            "publishedAt": "2020-11-27T02:46:48Z",
+            "content": "A charging cable is seen hooked to a car at a State Grid Corporation of China charging point for electric vehicles in Beijing, China March 3, 2018. Picture taken March 3, 2018. REUTERS/Stringer \r\nHON\u2026 [+2354 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Katrina Hamlin",
+            "title": "Breakingviews - Beware Chinese used-car dealer's sticker price",
+            "description": "It always pays to be cautious when it comes to used-car dealers. Kaixin Auto, which sells second-hand vehicles online in China, is no exception. The company, whose name translates as \u201chappy\u201d, has experienced a 2,300% surge in its stock price over the last two\u2026",
+            "url": "https://www.reuters.com/article/us-kaixin-auto-hldg-stock-breakingviews-idUSKBN28706T",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201127&t=2&i=1542611374&r=LYNXMPEGAQ02O&w=800",
+            "publishedAt": "2020-11-27T02:46:48Z",
+            "content": "A charging cable is seen hooked to a car at a State Grid Corporation of China charging point for electric vehicles in Beijing, China March 3, 2018. Picture taken March 3, 2018. REUTERS/Stringer \r\nHON\u2026 [+2354 chars]"
+        }
+    ]
+}

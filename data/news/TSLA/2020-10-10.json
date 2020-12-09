@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew DeBord",
+            "title": "The coronavirus pandemic is the best thing that has ever happened to Tesla's business (TSLA)",
+            "description": "Summary List Placement\n\nThe big question about Tesla has always been, \"How would the company handle a major crisis?\" The 17-year-old startup dodged bankruptcy during the financial crisis, but from about 2012 on, it grew rapidly. In 2020, its stock went on a t\u2026",
+            "url": "https://www.businessinsider.com/the-coronavirus-pandemic-is-the-best-thing-for-teslas-business-2020-10",
+            "urlToImage": "https://i.insider.com/5f57eb43e6ff30001d4e79c4?width=1200&format=jpeg",
+            "publishedAt": "2020-10-10T12:56:00Z",
+            "content": "The big question about Tesla has always been, \"How would the company handle a major crisis?\" The 17-year-old startup dodged bankruptcy during the financial crisis, but from about 2012 on, it grew rap\u2026 [+6704 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier",
+            "title": "An auto-manufacturing expert says Tesla has come a long way \u2014\u00a0but doubts Elon Musk will be able to make a compelling $25,000 car anytime soon (TSLA)",
+            "description": "Summary List Placement\n\nElon Musk had plenty of innovations to show off at Tesla's Battery Day in September.\nAdvancements in battery design, chemistry, and even manufacturing processes should help the company bring down costs while producing more total power \u2026",
+            "url": "https://www.businessinsider.com/tesla-to-struggle-make-compelling-25000-car-sandy-munro-predicts-2020-10",
+            "urlToImage": "https://i.insider.com/5f80c462ea74820019ca65a2?width=1200&format=jpeg",
+            "publishedAt": "2020-10-10T11:58:00Z",
+            "content": "Elon Musk had plenty of innovations to show off at Tesla's Battery Day in September.\r\nAdvancements in battery design, chemistry, and even manufacturing processes should help the company bring down co\u2026 [+2055 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Matousek",
+            "title": "Meet the 8 electric-car CEOs battling to become the next Elon Musk",
+            "description": "Summary List Placement\n\nRunning Tesla has helped turn Elon Musk into one of the world's richest people. As of Friday, he was fifth on Forbes' ranking of the world's billionaires, ahead of Warren Buffett and just behind Mark Zuckerberg.\nA handful of startup fo\u2026",
+            "url": "https://www.businessinsider.com/electric-car-ceos-next-elon-musk-tesla-rivian-rj-scaringe-2020-10",
+            "urlToImage": "https://i.insider.com/5f465ddf89aff80028ab7f82?width=1200&format=jpeg",
+            "publishedAt": "2020-10-10T12:13:00Z",
+            "content": "Running Tesla has helped turn Elon Musk into one of the world's richest people. As of Friday, he was fifth on Forbes' ranking of the world's billionaires, ahead of Warren Buffett and just behind Mark\u2026 [+681 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Christopher Groux",
+            "title": "'Clash of Clans' Super Valkyrie & More Revealed in October Update Sneak Peek",
+            "description": "\"Clash of Clans\" has a big update coming this October, and it's got a new Super Troop called the Super Valkyrie. Learn more about it here.",
+            "url": "https://www.newsweek.com/clash-clans-super-valkyrie-reveal-october-halloween-update-sneak-peek-1538054",
+            "urlToImage": "https://d.newsweek.com/en/full/1649184/clash-clans-super-valkyrie-sneak-peek.jpg",
+            "publishedAt": "2020-10-10T14:03:11Z",
+            "content": "Clash of Clans October Update details keep coming, with the latest Sneak Peek revealing a new Super Troop headed to the mobile game. Outfit your army with the Super Valkyrie, and you'll experience th\u2026 [+2879 chars]"
+        }
+    ]
+}

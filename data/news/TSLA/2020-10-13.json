@@ -1,0 +1,279 @@
+{
+    "status": "ok",
+    "totalResults": 21,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "HBO is making a limited series about Elon Musk and the founding of SpaceX",
+            "description": "HBO is in the process of developing a six-episode limited series about the founding days of SpaceX and Elon Musk, Variety reports. The show will be based on Ashlee Vance\u2019s biography of the Tesla CEO and SpaceX founder, but billionaire entrepreneur himself is \u2026",
+            "url": "http://techcrunch.com/2020/10/13/hbo-is-making-a-limited-series-about-elon-musk-and-the-founding-of-spacex/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/08/147a18361.jpg?w=600",
+            "publishedAt": "2020-10-13T15:09:59Z",
+            "content": "HBO is in the process of developing a six-episode limited series about the founding days of SpaceX and Elon Musk, Variety reports. The show will be based on Ashlee Vance\u2019s biography of the Tesla CEO \u2026 [+1117 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla cuts prices of Model S variant in United States, China - Reuters Canada",
+            "description": "Tesla Inc <TSLA.O> said on Tuesday it has cut the price of its Model S \"Long Range\" sedan by 4% in the United States, days after the electric-car maker reported record quarterly deliveries.",
+            "url": "https://ca.reuters.com/article/us-tesla-model-s-idCAKBN26Y1CL",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537254273&r=LYNXMPEG9C0S6&w=800",
+            "publishedAt": "2020-10-13T10:29:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Tesla Model S electric vehicle drives along a row of occupied superchargers at Tesla's primary vehicle factory after CEO Elon Musk announced he was defying local offic\u2026 [+995 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "BHP delays sulphate output until first-half 2020, pushes green battery supply chain - Reuters",
+            "description": "BHP Group <BHP.AX> will begin production of nickel sulphate by the middle of next year as it focuses on improving the green credentials of operations that will supply battery materials to the automotive industry, an executive said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-bhp-nickel-idUSKBN26Y17W",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537247895&r=LYNXMPEG9C0ND&w=800",
+            "publishedAt": "2020-10-13T09:50:00Z",
+            "content": "By Reuters Staff\r\nMELBOURNE (Reuters) - BHP Group BHP.AX will begin production of nickel sulphate by the middle of next year as it focuses on improving the green credentials of operations that will s\u2026 [+2142 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla cuts prices of Model S variant in United States, China - Reuters",
+            "description": "Tesla Inc said on Tuesday it has cut the price of its Model S \"Long Range\" sedan by 4% in the United States, days after the electric-car maker reported record quarterly deliveries.",
+            "url": "https://www.reuters.com/article/tesla-model-s-idUSKBN26Y1CF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537252779&r=LYNXMPEG9C0RD&w=800",
+            "publishedAt": "2020-10-13T10:28:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Tesla Inc said on Tuesday it has cut the price of its Model S Long Range sedan by 4% in the United States, days after the electric-car maker reported record quarterly de\u2026 [+656 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "China auto sales jump 13% in 'Golden September' as shoppers return to showrooms - Reuters",
+            "description": "China auto sales jump 13% in 'Golden September' as shoppers return to showrooms\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-china-autos-idUSKBN26Y0SL",
+            "urlToImage": null,
+            "publishedAt": "2020-10-13T07:12:00Z",
+            "content": "Autos\r\nYilei Sun\r\nBrenda Goh\r\nBEIJING (Reuters) - Automobile sales in China rose 12.8% in September from the same month a year earlier, marking the sixth consecutive month of gain, as the worlds bigg\u2026 [+2505 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "China auto sales jump 13% in 'Golden September' as shoppers return to showrooms - Reuters UK",
+            "description": "China auto sales marked a sixth straight month of gain, rebounding a solid 12.8% in September as the world's biggest vehicle market comes off lows hit during the coronavirus lockdown.",
+            "url": "https://uk.reuters.com/article/uk-china-autos-idUKKBN26Y1CZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537253432&r=LYNXMPEG9C0S1&w=800",
+            "publishedAt": "2020-10-13T10:34:00Z",
+            "content": "BEIJING/SHANGHAI (Reuters) - China auto sales marked a sixth straight month of gain, rebounding a solid 12.8% in September as the worlds biggest vehicle market comes off lows hit during the coronavir\u2026 [+2271 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "China auto sales jump 13% in 'Golden September' as shoppers return to showrooms - Reuters India",
+            "description": "Automobile sales in China rose 12.8% in September from the same month a year earlier, marking the sixth consecutive month of gain, as the world's biggest vehicle market comes off lows hit during the coronavirus lockdown.",
+            "url": "https://in.reuters.com/article/us-china-autos-idINKBN26Y0SL",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537232578&r=LYNXMPEG9C0FD&w=800",
+            "publishedAt": "2020-10-13T07:13:00Z",
+            "content": "BEIJING (Reuters) - Automobile sales in China rose 12.8% in September from the same month a year earlier, marking the sixth consecutive month of gain, as the worlds biggest vehicle market comes off l\u2026 [+1852 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Brittany Chang",
+            "title": "The most popular used EV in the 25 states with significant sales is either the Nissan Leaf or the Tesla Model S",
+            "description": "Summary List Placement\n\nThe Nissan Leaf is the most popular used electric car in the 25 states with the highest used electric vehicle sales according to a study by car search engine and automotive research firm iSeeCars.\niSeeCars analyzed over 54,000 used ele\u2026",
+            "url": "https://www.businessinsider.com/most-popular-used-evs-in-every-state-2020-10",
+            "urlToImage": "https://i.insider.com/5f84b08191aa9e001880b195?width=1200&format=jpeg",
+            "publishedAt": "2020-10-13T18:13:40Z",
+            "content": "The Nissan Leaf is the most popular used electric car in the 25 states with the highest used electric vehicle sales according to a study by car search engine and automotive research firm iSeeCars.\r\ni\u2026 [+3225 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Audi to launch new electric vehicle venture with China's FAW - Reuters",
+            "description": "German premium automaker Audi AG <NSUG.DE> said on Tuesday it had signed a memorandum of understanding with China's state-owned FAW Group to launch a venture to make premium electric vehicles (EVs).",
+            "url": "https://www.reuters.com/article/us-audi-electric-faw-group-idUSKBN26Y171",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537247391&r=LYNXMPEG9C0MW&w=800",
+            "publishedAt": "2020-10-13T09:42:00Z",
+            "content": "By Reuters Staff\r\nBEIJING (Reuters) - German premium automaker Audi AG NSUG.DE said on Tuesday it had signed a memorandum of understanding with China's state-owned FAW Group to launch a venture to ma\u2026 [+1004 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Audi to launch new electric vehicle venture with China's FAW - Reuters India",
+            "description": "German premium automaker Audi AG said on Tuesday it had signed a memorandum of understanding with China's state-owned FAW Group to launch a venture to make premium electric vehicles (EVs).",
+            "url": "https://in.reuters.com/article/audi-electric-faw-group-idINKBN26Y163",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537246613&r=LYNXMPEG9C0MI&w=800",
+            "publishedAt": "2020-10-13T09:33:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Audi is seen during the first press day of the Paris auto show, in Paris, France, October 2, 2018. REUTERS/Regis Duvignau/File photo\r\nBEIJING (Reuters) - Ger\u2026 [+1122 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Audi to launch new electric vehicle venture with China's FAW - Reuters Canada",
+            "description": "German premium automaker Audi AG <NSUG.DE> said on Tuesday it had signed a memorandum of understanding with China's state-owned FAW Group to launch a venture to make premium electric vehicles (EVs).",
+            "url": "https://ca.reuters.com/article/us-audi-electric-faw-group-idCAKBN26Y171",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537247391&r=LYNXMPEG9C0MW&w=800",
+            "publishedAt": "2020-10-13T09:44:00Z",
+            "content": "By Reuters Staff\r\nBEIJING (Reuters) - German premium automaker Audi AG NSUG.DE said on Tuesday it had signed a memorandum of understanding with China's state-owned FAW Group to launch a venture to ma\u2026 [+1004 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sonali Paul",
+            "title": "Australian firm tiptoes into battery making with country's first plant - Reuters",
+            "description": "An Australian company is looking to build the country's first lithium-ion battery factory by mid-2021, starting small after scaling back earlier plans and switching its proposed location.",
+            "url": "https://www.reuters.com/article/australia-batteries-renaissance-int-idUSKBN26Y0HK",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-13T05:00:00Z",
+            "content": "MELBOURNE (Reuters) - An Australian company is looking to build the countrys first lithium-ion battery factory by mid-2021, starting small after scaling back earlier plans and switching its proposed \u2026 [+1886 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "Woman Says Tesla Model 3 Saved Her Life After 'Head-On' Collision With Truck Going 70 Mph",
+            "description": "Elon Musk personally responded on Twitter after the Tesla Columbus Ohio Owners account released multiple images from the scene of the incident.",
+            "url": "https://www.newsweek.com/elon-musk-columbus-ohio-truck-crash-tesla-model-3-saved-life-1538563",
+            "urlToImage": "https://d.newsweek.com/en/full/1650257/tesla-model-3.jpg",
+            "publishedAt": "2020-10-13T11:18:50Z",
+            "content": "Tesla boss Elon Musk has responded after an Ohio woman credited a Model 3 electric car with saving her life during a crash last Sunday.\r\nImages from the scene of the collision were published to Twitt\u2026 [+3561 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier and Reuters",
+            "title": "Tesla cuts Model S price in US and China by $3,000 (TSLA)",
+            "description": "Summary List Placement\n\nTesla on Tuesday cut the price of two Model S sedan options by 4% in the United States, days after the electric-car maker reported record quarterly deliveries.\nThe company, which is expected to report third-quarter results on Oct. 21, \u2026",
+            "url": "https://www.businessinsider.com/tesla-cuts-prices-of-model-s-variant-in-united-states-china-2020-10",
+            "urlToImage": "https://i.insider.com/5f85a69891aa9e001880b37b?width=1200&format=jpeg",
+            "publishedAt": "2020-10-13T13:12:00Z",
+            "content": "Tesla on Tuesday cut the price of two Model S sedan options by 4% in the United States, days after the electric-car maker reported record quarterly deliveries.\r\nThe company, which is expected to repo\u2026 [+1502 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Avery Hartmans",
+            "title": "HBO and Channing Tatum are teaming up to develop a new series about Elon Musk and the rise of SpaceX",
+            "description": "Summary List Placement\n\nHBO is developing a new series on Elon Musk and the rise of SpaceX.\u00a0\nAccording to Variety, the six-episode limited series, called \"SpaceX,\" will follow Musk's ambition to colonize Mars and is based on Ashlee Vance's biography, \"Elon Mu\u2026",
+            "url": "https://www.businessinsider.com/elon-musk-spacex-show-coming-from-hbo-channing-tatum-2020-10",
+            "urlToImage": "https://i.insider.com/5f85a9d5c255d800190b9882?width=1200&format=jpeg",
+            "publishedAt": "2020-10-13T14:54:52Z",
+            "content": "HBO is developing a new series on Elon Musk and the rise of SpaceX.\u00a0\r\nAccording to Variety, the six-episode limited series, called \"SpaceX,\" will follow Musk's ambition to colonize Mars and is based \u2026 [+1723 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Emma Nolan",
+            "title": "What Kanye West Has Said About Going On Joe Rogan as Rapper Ramps Up Presidential Campaign",
+            "description": "The rapper had planned to go on the podcast last year but it never happened, now the long-shot presidential hopeful is ramping up his bid for the White House and wants Joe Rogan's hit podcast to help.",
+            "url": "https://www.newsweek.com/kanye-west-joe-rogan-presidential-campaign-podcast-1538559",
+            "urlToImage": "https://d.newsweek.com/en/full/1650230/kanye-west.jpg",
+            "publishedAt": "2020-10-13T09:28:19Z",
+            "content": "Kanye West wants his turn on the \"Joe Rogan Experience\" as the rapper steps up his presidential campaign with less than a month to go to election day.\r\nThe rapper had planned to go on the podcast las\u2026 [+2752 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "A group is offering TikTok users up to $20,000 to post 'takedowns' of Amazon, Tesla, Facebook, and Palantir",
+            "description": "MSCHF says it will pay TikTok users between $10 and $20,000 for videos attacking big brands, including Amazon, Tesla, Palantir, and Facebook.",
+            "url": "https://www.businessinsider.com/tiktok-users-offered-thousands-takedowns-amazon-tesla-facebook-others-2020-10",
+            "urlToImage": "https://i.insider.com/5f857e16c255d800190b982d?width=1200&format=jpeg",
+            "publishedAt": "2020-10-13T11:46:48Z",
+            "content": "A company called\u00a0MSCHF\u00a0is offering TikTok users thousands of dollars to post videos attacking big businesses it perceives as evil, such as Tesla, Amazon, Facebook, and Palantir.\r\nMSCHF, an internet g\u2026 [+1918 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shalini Nagarajan",
+            "title": "The head of SoftBank's $100 billion Vision Fund is preparing to launch the group's own SPAC",
+            "description": "Summary List Placement\n\n<ul>\n<li>Rajeev Misra, the CEO of SoftBank's Vision Fund, plans to launch Vision Fund 2's own special-acquisition company. He said he would outline details in the next two weeks.</li>\n<li>The blank-check company will be operated by the\u2026",
+            "url": "https://www.businessinsider.com/softbank-vision-fund-2-plans-launch-own-spac-rajeev-misra-2020-10",
+            "urlToImage": "https://i.insider.com/5f8566f791aa9e001880b2fd?format=jpeg",
+            "publishedAt": "2020-10-13T10:02:46Z",
+            "content": "Michael Kovac/Getty Images\r\n<ul><li>Rajeev Misra, the CEO of SoftBank's Vision Fund, plans to launch Vision Fund 2's own special-acquisition company. He said he would outline details in the next two \u2026 [+2386 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Newt Gingrich",
+            "title": "The Two Million Lives President Trump has Saved from COVID-19 | Opinion",
+            "description": "President Trump has been working non-stop to defeat the virus and bring America back from the brink of medical and economic ruin while Biden and Harris have done nothing but criticize, deflect and insult.",
+            "url": "https://www.newsweek.com/two-million-lives-president-trump-has-saved-covid-19-opinion-1538738",
+            "urlToImage": "https://d.newsweek.com/en/full/1650675/donald-trump.jpg",
+            "publishedAt": "2020-10-13T17:25:41Z",
+            "content": "In the first two debates of the 2020 presidential contest, former vice president Joe Biden and Sen. Kamala Harris claimed that President Donald Trump is personally responsible for the more than 214,0\u2026 [+6438 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Max Jungreis",
+            "title": "How a 21-year-old CEO turned helping his mother's struggling business into a startup that landed a $3.5 million seed round",
+            "description": "Summary List Placement\n\nProfitboss CEO Adama Guild is young, but that's not a demerit. In fact, the 21-year-old's boundless energy is one reason investors decided to pour millions into his retail tech startup.\nHis company Profitboss, which he founded at 18, r\u2026",
+            "url": "https://www.businessinsider.com/how-a-21-year-old-ceo-turned-helping-his-mother-2020-10",
+            "urlToImage": "https://i.insider.com/5f84bcb0c255d800190b9703?width=1200&format=jpeg",
+            "publishedAt": "2020-10-13T12:00:00Z",
+            "content": "Profitboss CEO Adama Guild is young, but that's not a demerit. In fact, the 21-year-old's boundless energy is one reason investors decided to pour millions into his retail tech startup.\r\nHis company \u2026 [+4149 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Theodoric Meyer",
+            "title": "Waters aide heads to K Street",
+            "description": "How K Street sees the odds of a relief package \u2014 Comcast adds a lobbying firm",
+            "url": "https://www.politico.com/newsletters/politico-influence/2020/10/13/waters-aide-heads-to-k-street-790950",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-13T18:51:33Z",
+            "content": "With Daniel Lippman and Zachary Warmbrodt\r\nWATERS AIDE HEADS TO K STREET: Lisa Peto, who served as the House Financial Services Committees chief counsel under Rep. Maxine Waters (D-Calif.), the commi\u2026 [+9853 chars]"
+        }
+    ]
+}

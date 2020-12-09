@@ -1,0 +1,760 @@
+{
+    "status": "ok",
+    "totalResults": 58,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Tesla is a chain of startups, Elon Musk explains",
+            "description": "Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: \u201cTesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t\u2026",
+            "url": "http://techcrunch.com/2020/10/21/tesla-is-a-chain-of-startups-elon-musk-explains/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/tesla-model-s.png?w=764",
+            "publishedAt": "2020-10-21T22:27:07Z",
+            "content": "Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: \u201cTesla should really be thought of as roughly a dozen technology \u2026 [+1484 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jonathan Shieber",
+            "title": "Tesla wows on latest numbers",
+            "description": "Tesla\u2019s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street\u2019s expectations for deliveries earlier thi\u2026",
+            "url": "http://techcrunch.com/2020/10/21/tesla-wows-on-latest-numbers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/tesla-glitch2.jpg?w=712",
+            "publishedAt": "2020-10-21T20:24:34Z",
+            "content": "Tesla\u2019s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter.\r\nWith the report that Tesla had already\u2026 [+3099 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Tesla produced and delivered a record number of cars this quarter",
+            "description": "Elon Musk had plenty to crow about during Tesla\u2019s Q3 2020 earnings call on Wednesday. \u201cQ3 was our best quarter in history!\u201d Musk exclaimed. The company recently announced that it had produced a record 145,036 vehicles this quarter, delivering 139,300 of them.\u2026",
+            "url": "https://www.engadget.com/tesla-q-3-2020-earnings-report-214835427.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fb40249b0-13d6-11eb-b55f-eaa5fc7372dd&client=amp-blogside-v2&signature=28efd5ef747b7888d0aba35536e5759b21cdeb24",
+            "publishedAt": "2020-10-21T21:48:35Z",
+            "content": "\u201cWhile achieving this goal has become more difficult,\u201d the company wrote in its earnings statement, \u201cdelivering half a million vehicles in 2020 remains our target. Achieving this target depends prima\u2026 [+1608 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tina Bellon, Akanksha Rana",
+            "title": "Can Tesla hit 2020 delivery goal? Investors watch for Musk steer - Reuters",
+            "description": "When Tesla Inc <TSLA.O> reports results for the third quarter after the bell on Wednesday, it will be the next three months, and whether Chief Executive Elon Musk can achieve the company's ambitious year-end goal, that analysts will be interested in.",
+            "url": "https://www.reuters.com/article/tesla-results-preview-idUSKBN2760F0",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538259487&r=LYNXMPEG9K09F&w=800",
+            "publishedAt": "2020-10-21T04:43:00Z",
+            "content": "(Reuters) - When Tesla Inc TSLA.O reports results for the third quarter after the bell on Wednesday, it will be the next three months, and whether Chief Executive Elon Musk can achieve the company's \u2026 [+2473 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Edward Taylor",
+            "title": "Explainer: Tesla's self-driving ambitions get a reboot - Reuters",
+            "description": "Tesla Inc <TSLA.O> Chief Executive Elon Musk on Tuesday evening tweeted that the electric car maker will be rolling out a new version of its Full Self Driving software, the latest attempt by the California-based company to tout autonomous driving.",
+            "url": "https://www.reuters.com/article/us-tesla-results-selfdriving-explainer-idUSKBN2762M5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538345648&r=LYNXMPEG9K1M2&w=800",
+            "publishedAt": "2020-10-21T16:58:00Z",
+            "content": "FRANKFURT (Reuters) - Tesla Inc TSLA.O Chief Executive Elon Musk on Tuesday evening tweeted that the electric car maker will be rolling out a new version of its Full Self Driving software, the latest\u2026 [+3682 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "Tesla made $331 million profit in Q3 2020",
+            "description": "Tesla says revenue grew 39 percent year-on-year despite pandemic.",
+            "url": "https://arstechnica.com/cars/2020/10/tesla-made-331-million-profit-in-q3-2020/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/tesla-earnings-july2020-760x380.jpg",
+            "publishedAt": "2020-10-21T21:03:51Z",
+            "content": "14 with 12 posters participating\r\nOn Wednesday, Tesla published its financial results for the third quarter of 2020. The company says it ended Q3 2020 with a GAAP profit of $331 million, the fifth pr\u2026 [+1682 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Akanksha Rana, Tina Bellon",
+            "title": "Tesla beats quarterly revenue estimates, shares take off - Reuters India",
+            "description": "Tesla Inc on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sales of environmental regulatory credits to other automakers.",
+            "url": "https://in.reuters.com/article/us-tesla-results-idINKBN27631E",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538366695&r=LYNXMPEG9K1V8&w=800",
+            "publishedAt": "2020-10-21T20:23:00Z",
+            "content": "(Reuters) - Tesla Inc on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sales of environmental regulatory \u2026 [+2745 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Akanksha Rana, Tina Bellon",
+            "title": "Tesla beats quarterly revenue estimates, shares take off - Reuters Canada",
+            "description": "Tesla Inc on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sales of environmental regulatory credits to other automakers.",
+            "url": "https://ca.reuters.com/article/us-tesla-results-idCAKBN27631E",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538366695&r=LYNXMPEG9K1V8&w=800",
+            "publishedAt": "2020-10-21T20:16:00Z",
+            "content": "By Akanksha Rana, Tina Bellon\r\n(Reuters) - Tesla Inc on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sal\u2026 [+2005 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "GMC reveals the Hummer EV: 1,000 HP, 350 mile range, and 0-60 in \u201caround 3 seconds\u201d",
+            "description": "General Motors today revealed the GMC Hummer EV, its first electric pickup. The vehicle has a 350 range, 1,000 HP, and up to 11,500 pound feet of torque (through fuzzy math). Yes, it sort of looks like the Tesla Cybertruck. Several key stats stick above the r\u2026",
+            "url": "http://techcrunch.com/2020/10/20/gmc-reveals-the-hummer-ev-1000-hp-350-mile-range-and-0-60-in-around-3-seconds/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/2022-GMC-HUMMER-EV-001.jpg?w=687",
+            "publishedAt": "2020-10-21T00:30:23Z",
+            "content": "General Motors today revealed the GMC Hummer EV, its first electric pickup. The vehicle has a 350 range, 1,000 HP, and up to 11,500 pound feet of torque (through fuzzy math). And with a starting pric\u2026 [+10289 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Watch GM unveil the $80,000 GMC Hummer EV right here",
+            "description": "GM just took the wraps off the Hummer EV and it looks great. The vehicle is coming to dealers in 2022, with pre-orders starting in 2021. You can watch the unveiling here. The vehicle is detailed here. With 1,000 HP, 350 mile range, and autonomous drive modes,\u2026",
+            "url": "http://techcrunch.com/2020/10/20/watch-gm-unveil-the-80000-gmc-hummer-ev-right-here/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/2022-GMC-HUMMER-EV-012.jpg?w=600",
+            "publishedAt": "2020-10-21T01:08:48Z",
+            "content": "GM just took the wraps off the Hummer EV and it looks great. The vehicle is coming to dealers in 2022, with pre-orders starting in 2021. You can watch the unveiling here.\r\nThe vehicle is detailed her\u2026 [+250 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh, CNN Business",
+            "title": "Tesla's China factory is about to play an even bigger role in its global ambitions",
+            "description": "Tesla began making cars in China about a year ago to bolster its presence in the world's largest auto market. Now the country is about to become an even more critical part of its global strategy.",
+            "url": "https://www.cnn.com/2020/10/21/business/tesla-model-3-china-europe-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201020091402-tesla-model-3-china-1019-restricted-super-tease.jpg",
+            "publishedAt": "2020-10-21T08:52:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Tesla sets revenue record - Reuters",
+            "description": "Tesla on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sales of environmental regulatory credits to other automakers.",
+            "url": "https://www.reuters.com/video/watch/idPTpd?now=true",
+            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/5f90b238e4b04f7ff7c2b80f-1603318328788?location=LANDSCAPE",
+            "publishedAt": "2020-10-21T22:50:51Z",
+            "content": "Posted \r\nTesla on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sales of environmental regulatory credits\u2026 [+20 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla beats quarterly revenue estimates - Reuters UK",
+            "description": "Tesla Inc on Wednesday beat analysts' estimates for third-quarter revenue as it made record vehicle deliveries, overcoming disruptions caused by the COVID-19 pandemic.",
+            "url": "https://uk.reuters.com/article/us-tesla-results-idUKKBN27631E",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538366083&r=LYNXMPEG9K1V8&w=800",
+            "publishedAt": "2020-10-21T20:14:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The company logo is pictured on a\u00a0Tesla\u00a0Model X electric vehicle in this picture illustration taken in Moscow, Russia July 23, 2020. Picture taken July 23, 2020. REUTERS\u2026 [+363 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Evan Sully",
+            "title": "Experts say Tesla's unique data-tracking abilities give it an advantage as Elon Musk looks to build a 'major insurance company' for Tesla owners (TSLA)",
+            "description": "Summary List Placement\n\nElon Musk has made a name for himself as a data-savvy innovator, and he's seeking to further that label with an ambitious goal: scaling up and expanding Tesla's car insurance product across the US.\u00a0\nIndustry analysts say that Tesla mig\u2026",
+            "url": "https://www.businessinsider.com/tesla-vehicle-data-advantage-car-insurance-ambitions-elon-musk-analysts-2020-10",
+            "urlToImage": "https://i.insider.com/5f9066732e0e6f0018dd7b9c?width=1200&format=jpeg",
+            "publishedAt": "2020-10-21T17:05:18Z",
+            "content": "Elon Musk has made a name for himself as a data-savvy innovator, and he's seeking to further that label with an ambitious goal: scaling up and expanding Tesla's car insurance product across the US.\u00a0\r\u2026 [+5418 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sasha Lekach",
+            "title": "Why GMC's new electric Hummer is a bigger deal than Tesla's Cybertruck",
+            "description": "There were no broken windows, like the \"bulletproof\" ones at Tesla's Cybertruck event last year that promptly shattered under pressure, but the GMC Hummer EV reveal Tuesday night was one of the biggest moments for electric vehicles yet.\u00a0\nLet's back up. Last y\u2026",
+            "url": "https://mashable.com/article/electric-hummer-ev-tesla-cybertruck/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F21%252F68%252F57404ef9b8594fb29cc8f32b5c2892a2.6df47.jpg%252F1200x630.jpg?signature=aMi7IoZA1bBxX3EARep6t8wt0ko=",
+            "publishedAt": "2020-10-21T19:11:26Z",
+            "content": "There were no broken windows, like the \"bulletproof\" ones at Tesla's Cybertruck event last year that promptly shattered under pressure, but the GMC Hummer EV reveal Tuesday night was one of the bigge\u2026 [+5257 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Tesla supplier LG Chem sees rising battery profit after record earnings - Reuters India",
+            "description": "LG Chem, an electric battery supplier for Tesla and Volkswagen, on Wednesday forecast a further rise in its battery sales and profit in the fourth quarter thanks to growing demand for EV batteries.",
+            "url": "https://in.reuters.com/article/lg-chem-results-idINL4N2HC1UK",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-21T07:04:00Z",
+            "content": "By Reuters Staff\r\n(Adds)\r\nSEOUL, Oct 21 (Reuters) - LG Chem, an electric battery supplier for Tesla and Volkswagen, on Wednesday forecast a further rise in its battery sales and profit in the fourth \u2026 [+1002 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla supplier LG Chem sees rising battery profit after record earnings - Reuters India",
+            "description": "LG Chem, an electric battery supplier for Tesla and Volkswagen, on Wednesday forecast a further rise in its battery sales and profit in the fourth quarter thanks to growing EV batteries demand.",
+            "url": "https://in.reuters.com/article/lg-chem-results-idINKBN2760WH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538276705&r=LYNXMPEG9K0JF&w=800",
+            "publishedAt": "2020-10-21T07:55:00Z",
+            "content": "By Reuters Staff\r\nThe logo of LG Chem is seen at its office building in Seoul, South Korea, October 16, 2020. REUTERS/Kim Hong-Ji/Files\r\nSEOUL (Reuters) - LG Chem, an electric battery supplier for Te\u2026 [+276 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla supplier LG Chem sees rising battery profit after record earnings - Reuters",
+            "description": "LG Chem <051910.KS>, an electric battery supplier for Tesla <TSLA.O> and Volkswagen <VOWG_p.DE>, on Wednesday forecast a further rise in its battery sales and profit in the fourth quarter thanks to growing EV batteries demand.",
+            "url": "https://www.reuters.com/article/us-lg-chem-results-idUSKBN2760PT",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538270649&r=LYNXMPEG9K0FN&w=800",
+            "publishedAt": "2020-10-21T06:53:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of LG Chem is seen at its office building in Seoul, South Korea, October 16, 2020. REUTERS/Kim Hong-Ji\r\nSEOUL (Reuters) - LG Chem 051910.KS, an electric battery\u2026 [+311 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Stocks fall as stimulus progress stalls - Reuters",
+            "description": "Investors combed through quarterly results from Tesla, Chipotle, Snap Inc. and Netflix as Wall Street failed to hear of any progress on economic stimulus talks in Washington.  Conway G. Gittens reports.",
+            "url": "https://www.reuters.com/video/watch/idPTpE?now=true",
+            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/5f90ae34e4b04f7ff7c2b809-1603317300769?location=LANDSCAPE",
+            "publishedAt": "2020-10-21T22:13:12Z",
+            "content": "Posted \r\nInvestors combed through quarterly results from Tesla, Chipotle, Snap Inc. and Netflix as Wall Street failed to hear of any progress on economic stimulus talks in Washington. Conway G. Gitte\u2026 [+10 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Breakingviews TV: Bubblicious | Reuters Video - Reuters India",
+            "description": "Tesla, the $400 bln electric vehicle giant, has seen its share price surge this year. Its valuation will remain tough to justify regardless of its upcoming third-quarter results. Yet an EV bubble might have long-term positive effects by spurring innovation, s\u2026",
+            "url": "https://in.reuters.com/video/watch/idRCV008VSU",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20201021&i=RCV008VSU&r=RCV008VSU&t=2",
+            "publishedAt": "2020-10-21T19:35:53Z",
+            "content": "Posted \r\nTesla, the $400 bln electric vehicle giant, has seen its share price surge this year. Its valuation will remain tough to justify regardless of its upcoming third-quarter results. Yet an EV b\u2026 [+87 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph White",
+            "title": "GM sells out first year of electric Hummer production - Reuters",
+            "description": "General Motors Co said it has sold out the first year's worth of its hulking GMC Hummer EV electric pickup truck after a splashy video reveal on Tuesday.",
+            "url": "https://www.reuters.com/article/us-autos-electric-hummer-idUSKBN27639J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538378208&r=LYNXMPEG9K20S&w=800",
+            "publishedAt": "2020-10-21T22:16:00Z",
+            "content": "DETROIT (Reuters) - General Motors Co said it has sold out the first years worth of its hulking GMC Hummer EV electric pickup truck after a splashy video reveal on Tuesday.\r\nFILE PHOTO: A logo of Gen\u2026 [+1979 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Aj Caldwell",
+            "title": "How Tesla's Cybertruck stacks up against the Hummer EV",
+            "description": "Summary List PlacementThe following is a transcript of the video.\nNarrator: GMC just unveiled its electric Hummer, the company's first all-electric car. And it's packed with features, which shouldn't be surprising since the Hummer EV is massive. But how does \u2026",
+            "url": "https://www.businessinsider.com/teslas-cybertruck-stacks-up-against-gmc-hummer-ev-2020-10",
+            "urlToImage": "https://i.insider.com/5f907eac212113001873ff87?width=1200&format=jpeg",
+            "publishedAt": "2020-10-21T21:35:00Z",
+            "content": "The following is a transcript of the video.\r\nNarrator: GMC just unveiled its electric Hummer, the company's first all-electric car. And it's packed with features, which shouldn't be surprising since \u2026 [+2279 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sin\u00e9ad Carew",
+            "title": "US STOCKS-S&P ends choppy session lower as U.S. stimulus talks drag on - Reuters India",
+            "description": "Wall Street's three major averages closed lower on Wednesday after a volatile trading session, as investors worried whether difficult negotiations in Washington would produce a deal for a fresh U.S. coronavirus stimulus package.",
+            "url": "https://in.reuters.com/article/us-usa-stocks-idINKBN2761D5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538318985&r=LYNXMPEG9K0VL&w=800",
+            "publishedAt": "2020-10-21T20:30:00Z",
+            "content": "(Reuters) - Wall Streets three major averages closed lower on Wednesday after a volatile trading session, as investors worried whether difficult negotiations in Washington would produce a deal for a \u2026 [+3573 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Tesla is a chain of startups, Elon Musk explains",
+            "description": "Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: \"Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t\u2026",
+            "url": "https://techcrunch.com/2020/10/21/tesla-is-a-chain-of-startups-elon-musk-explains/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aabZfzzijrKpAUNPP4qW2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD01NTUuNzMzMzMzMzMzMzMzMw--/https://s.yimg.com/uu/api/res/1.2/Xu6a8l0v_c.L95gom5XAXw--~B/aD05MjA7dz0yMTIwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/837f3208a0540860a70d80e406efc1fb",
+            "publishedAt": "2020-10-21T22:27:07Z",
+            "content": "Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: \"Tesla should really be thought of as roughly a dozen technology \u2026 [+1484 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Medha Singh",
+            "title": "US STOCKS-Futures tick higher on stimulus optimism - Reuters.com",
+            "description": "* Futures up: Dow 0.01%, S&P 0.08%, Nasdaq 0.01% (Adds comment, details; Updates prices)",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSL4N2HC389",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-21T12:56:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window)\r\n* Netflix falls on slowing subscriber growth\r\n* Snap Inc surges on jump in user growth\r\n*\u2026 [+2808 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jonathan Shieber",
+            "title": "Tesla wows on latest numbers",
+            "description": "Tesla's latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street's expectations for deliveries earlier thi\u2026",
+            "url": "https://techcrunch.com/2020/10/21/tesla-wows-on-latest-numbers/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/kCdybMtEORrpnCUA9wbX.Q--~B/aD04OTk7dz0xNjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/5a1a824baaa5b508bdc448c8de58e394",
+            "publishedAt": "2020-10-21T20:24:34Z",
+            "content": "Tesla's latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter.\r\nWith the report that Tesla had already\u2026 [+3307 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "REUTERS NEWS SCHEDULE AT 10 p.m. GMT/ 6 a.m. SGT - Reuters",
+            "description": "Here are the top stories and upcoming coverage plans for Reuters text service as of 10 p.m. GMT/ 6 a.m. SGT. For a full schedule of news and events, go to our editorial calendar on Reuters Connect https://www.reutersconnect.com/planning.",
+            "url": "https://www.reuters.com/article/reuters-schedule-idUSL4N2HC4S5",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-21T21:57:00Z",
+            "content": "By Reuters Staff\r\nHere are the top stories and upcoming coverage plans for Reuters text service as of 10 p.m. GMT/ 6 a.m. SGT. For a full schedule of news and events, go to our editorial calendar on \u2026 [+13884 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "dzanemorris",
+            "title": "Tesla beats the Street again as profits, deliveries, and margins surge",
+            "description": "CEO Elon Musk continues to outpace analyst predictions, with Q3 2020 revenue and profits that exceeded Wall Street expectations.",
+            "url": "https://fortune.com/2020/10/21/tesla-q3-2020-earnings-beat-the-street-profits-margins/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/10/GettyImages-1228336765-1.jpg?resize=1200,600",
+            "publishedAt": "2020-10-21T21:28:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla Beats on Profit, Reaffirms Goal of 500,000 Deliveries",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-21/tesla-posts-fifth-quarter-of-profit-reaffims-2020-delivery-goal",
+            "urlToImage": null,
+            "publishedAt": "2020-10-21T20:34:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sin\u00e9ad Carew",
+            "title": "S&P edges higher in choppy session as stimulus talks drag on - Reuters India",
+            "description": "* Dow off 0.14%, S&P up 0.06%, Nasdaq up 0.07% (Updates to early afternoon, adds commentary, NEW YORK dateline, changes byline)",
+            "url": "https://www.reuters.com/article/usa-stocks-idINL1N2HC1VV",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-21T18:30:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window)\r\n* Stimulus in focus as Pelosi, Mnuchin are set to talk\r\n* Netflix falls on slowing subscr\u2026 [+3891 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla and Heinz Hit Brexit Snag When Customs Capacity Runs Out",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-21/tesla-and-heinz-hit-brexit-snag-as-customs-capacity-runs-out",
+            "urlToImage": null,
+            "publishedAt": "2020-10-21T11:23:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "GMC reveals the Hummer EV: 1,000 HP, 350 mile range, and 0-60 in \"around 3 seconds\"",
+            "description": "General Motors today revealed the GMC Hummer EV, its first electric pickup. Yes, it sort of looks like the Tesla Cybertruck. The Hummer EV appears to have the longest battery of any GM vehicle with an electric powertrain.",
+            "url": "https://techcrunch.com/2020/10/20/gmc-reveals-the-hummer-ev-1000-hp-350-mile-range-and-0-60-in-around-3-seconds/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sGNDhbvVZ7ztKjxkZUc6PA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03NDQuNTMzMzMzMzMzMzMzMw--/https://s.yimg.com/uu/api/res/1.2/zpKfcFROxbAQRpifFG1aUg--~B/aD0zMzE3O3c9NTcwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/1d8aee3a03b80efda8cad852bba9ba6e",
+            "publishedAt": "2020-10-21T00:30:23Z",
+            "content": "General Motors today revealed the GMC Hummer EV, its first electric pickup. The vehicle has a 350 range, 1,000 HP, and up to 11,500 pound feet of torque (through fuzzy math). Yes, it sort of looks li\u2026 [+9238 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Isabella Jibilian",
+            "title": "Tesla owner says a 'safety issue' on his Model Y roof was discovered after the company scheduled an inspection days after a California family reported their roof blew off on the highway (TSLA)",
+            "description": "Summary List Placement\n\nA second Tesla Model Y owner has reported an issue with the vehicle's glass roof, telling Business Insider the company reached out for an engineering quality \"inspection\" and discovered it wasn't properly attached.\nEarlier this month, \u2026",
+            "url": "https://www.businessinsider.com/second-tesla-model-y-owner-reports-roof-issue-glass-adhesion-2020-10",
+            "urlToImage": "https://i.insider.com/5f90710dabcd0c0018d68d8f?width=1200&format=jpeg",
+            "publishedAt": "2020-10-21T18:19:32Z",
+            "content": "A second Tesla Model Y owner has reported an issue with the vehicle's glass roof, telling Business Insider the company reached out for an engineering quality \"inspection\" and discovered it wasn't pro\u2026 [+2600 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "PCMag",
+            "title": "Report: Tesla reduces used-car warranty",
+            "description": "Tesla has reduced the length of its used-car warranty to one year or 10,000 miles.\nAs Electrek reports, Tesla previously offered two warranty plans depending on how old and how many miles were on the used electric car when people took ownership of them: 4 yea\u2026",
+            "url": "https://mashable.com/article/tesla-used-car-warranty-slashed/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F21%252Ff3%252Fe8c30520b2934b0f99252375da59bbe4.d6f61.jpg%252F1200x630.jpg?signature=0XESG2qidUVa9hORfllOCiWhwew=",
+            "publishedAt": "2020-10-21T20:43:11Z",
+            "content": "Tesla has reduced the length of its used-car warranty to one year or 10,000 miles.\r\nAs Electrek reports, Tesla previously offered two warranty plans depending on how old and how many miles were on th\u2026 [+790 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Isobel Asher Hamilton",
+            "title": "A huge fake-nude Telegram operation shows the big threat posed by deepfakes is revenge porn, not disinformation",
+            "description": "Summary List Placement\n\nA chilling investigation into a bot service that generates fake nudes has highlighted that the most urgent danger internet \"deepfakes\" pose isn't disinformation \u2014 it's revenge porn.\nDeepfake-monitoring firm Sensity, previously Deeptrac\u2026",
+            "url": "https://www.businessinsider.com/deepfake-nude-revenge-porn-telegram-bot-2020-10",
+            "urlToImage": "https://i.insider.com/5f900e95dace450018a3e5eb?width=1200&format=jpeg",
+            "publishedAt": "2020-10-21T11:58:09Z",
+            "content": "A chilling investigation into a bot service that generates fake nudes has highlighted that the most urgent danger internet \"deepfakes\" pose isn't disinformation \u2014 it's revenge porn.\r\nDeepfake-monitor\u2026 [+7177 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "\u7d04840\u4e07\u5186\u306e\u30d5\u30ebEV\u4ed5\u69d8Hummer EV\u306e\u30c6\u30a3\u30fc\u30b6\u30fc\u52d5\u753b\u516c\u958b",
+            "description": "GM\uff08\u30bc\u30cd\u30e9\u30eb\u30fb\u30e2\u30fc\u30bf\u30fc\u30ba\uff09\u306fGMC Hummer EV\u3092\u516c\u958b\u3057\u305f\u304c\u3001\u305d\u308c\u306f\u7d20\u6674\u3089\u3057\u3044\u51fa\u6765\u306b\u898b\u3048\u308b\u3002\u8eca\u4e21\u306f2022\u5e74\u306b\u30c7\u30a3\u30fc\u30e9\u30fc\u3067\u8ca9\u58f2\u3055\u308c\u30012021\u5e74\u306b\u4e88\u7d04\u6ce8\u6587\u304c\u958b\u59cb\u3055\u308c\u308b\u3002\u307e\u305f\u540c\u6642\u306b\u30c6\u30a3\u30fc\u30b6\u30fc\u52d5\u753b\u3082\u516c\u958b\u3055\u308c\u305f\u3002\r\n\r\n\u8eca\u4e21\u30b9\u30da\u30c3\u30af\u306f<a target=\"_blank\" href=\"https://techcrunch.com/2020/10/20/gmc-reveals-the-hummer-ev-1000-hp-350-mile-range-and-0-60-in-around-3-seconds/\" rel\u2026",
+            "url": "https://jp.techcrunch.com/2020/10/21/2020-10-20-watch-gm-unveil-the-80000-gmc-hummer-ev-right-here/",
+            "urlToImage": "https://techcrunchjp.files.wordpress.com/2020/10/2022-gmc-hummer-ev-012-1.jpg?w=1024",
+            "publishedAt": "2020-10-21T13:45:40Z",
+            "content": "GMGMC Hummer EV20222021\r\n1000350560kmHummer EVTeslaCybertruck\r\nGMCEVGMC Hummer EV\r\nGMC"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "Tesla says it's finally releasing 'full self-driving' software after it had to 'rewrite everything' \u2014\u00a0but no one's sure what it can actually do",
+            "description": "Tesla has bucked every trend when it comes to autonomy, sometimes with deadly results. This release is being done \"extremely slow & cautious.\"",
+            "url": "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10",
+            "urlToImage": "https://i.insider.com/5f9069752e0e6f0018dd7bb0?width=1200&format=jpeg",
+            "publishedAt": "2020-10-21T17:03:17Z",
+            "content": "Tesla has begun releasing a beta version of its long-awaited \"full self-driving\" software, CEO Elon Musk said Wednesday, while providing little clarity about its functionality.\r\n\"FSD beta rollout hap\u2026 [+2142 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "Tesla posts record profit and maintains ambitious sales target",
+            "description": "Tesla reported by far its best quarterly profit Wednesday and said it still hopes to hit its target of half a million car sales this year.",
+            "url": "https://www.cnn.com/2020/10/21/tech/tesla-earnings/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201021152338-tesla-vehicles-california-0924-restricted-super-tease.jpg",
+            "publishedAt": "2020-10-21T20:32:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "'Starman' crosses Mars on its rapidly declining Tesla Roadster - The Queens County Citizen",
+            "description": "<ol><li>'Starman' crosses Mars on its rapidly declining Tesla Roadster\u00a0\u00a0The Queens County Citizen\r\n</li><li>'Starman' just zipped past Mars in his rapidly-decaying Tesla Roadster\u00a0\u00a0Live Science\r\n</li><li>View Full coverage on Google News</li></ol>",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vcXVlZW5zY2l0aXplbi5jYS8yMDIwLzEwLzIxL3N0YXJtYW4tY3Jvc3Nlcy1tYXJzLW9uLWl0cy1yYXBpZGx5LWRlY2xpbmluZy10ZXNsYS1yb2Fkc3Rlci_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-21T18:04:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Melkorka Licea",
+            "title": "Nxivm survivor India Oxenberg says cult leader Keith Raniere used 'multilevel marketing' tactics to lure members who eventually became branded 'slaves'",
+            "description": "Summary List PlacementWhen India Oxenberg dropped out of college at 19, she had dreams of starting her own catering company in Los Angeles.\u00a0\nBut despite her passion for the culinary arts, she felt she was lacking a kind of business acumen.\u00a0\n\"I felt like I was\u2026",
+            "url": "https://www.businessinsider.com/nxivm-survivor-india-oxenberg-on-keith-raniere-mlm-style-tactics-2020-10",
+            "urlToImage": "https://i.insider.com/5f89c0e09e9fe40019009c62?width=1200&format=jpeg",
+            "publishedAt": "2020-10-21T13:31:02Z",
+            "content": "When India Oxenberg dropped out of college at 19, she had dreams of starting her own catering company in Los Angeles.\u00a0\r\nBut despite her passion for the culinary arts, she felt she was lacking a kind \u2026 [+14731 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Tesla racks up another profitable quarter with boost from regulatory credits",
+            "description": "Tesla had its fifth straight profitable quarter, a record for the company. The carmaker said it earned $331 million in net income in the third quarter of 2020, thanks to a record number of vehicle deliveries and $397 million in regulatory credits.",
+            "url": "https://www.theverge.com/2020/10/21/21525006/tesla-q3-2020-earnings-profit-revenue-elon-musk",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/DfrBCvbn2RE3gi3KUPOZbr2ER7M=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19398931/tesla.jpg",
+            "publishedAt": "2020-10-21T20:24:35Z",
+            "content": "Tesla earned a profit of $331 million in the third quarter of 2020\r\nIllustration by Alex Castro / The Verge\r\nTesla made a profit of $331 million in the third quarter of 2020, its fifth straight profi\u2026 [+1595 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "Tesla posts another profit as it blows past analyst estimates and trucks toward its first-ever profitable year",
+            "description": "Elon Musk's electric automaker posted an impressive rebound in the third-quarter from coronavirus shutdowns.",
+            "url": "https://www.businessinsider.com/tesla-earnings-q3-2020-third-quarter-profit-2020-10",
+            "urlToImage": "https://i.insider.com/5f908ebd2121130018740005?width=1200&format=jpeg",
+            "publishedAt": "2020-10-21T20:16:19Z",
+            "content": "Tesla on Wednesday posted its fifth consecutive profitable quarter, putting the electric automaker on track to turn its first-ever annual profit this year.\r\nThe company said it earned $0.76 per share\u2026 [+2096 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "US stocks climb as investors await signs of stimulus progress",
+            "description": "House Speaker Nancy Pelosi told reporters on Tuesday she remains hopeful a stimulus compromise can be reached before the weekend.",
+            "url": "https://www.businessinsider.com/stock-market-news-today-spx-dow-stimulus-negotiations-earnings-results-2020-10",
+            "urlToImage": "https://i.insider.com/527a4a64eab8ea7a0a9ab773?format=jpeg",
+            "publishedAt": "2020-10-21T13:55:28Z",
+            "content": "REUTERS/Brendan McDermid\r\n<ul><li>US stocks climbed on Wednesday as investors waited for news on stimulus talks.</li><li>House Speaker Nancy Pelosi and Treasury Secretary Steven Mnuchin failed to rea\u2026 [+3570 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Tesla\u2019s \u2018Full Self-Driving\u2019 software is starting to roll out to select customers",
+            "description": "A beta version of Tesla\u2019s \u201cFull Self-Driving\u201d software is rolling out to a select group of customers for testing, CEO Elon Musk said. The software allows drivers to enable Autopilot in city environments.",
+            "url": "https://www.theverge.com/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/wEmS6qeSqPoyWcc1aVYbTgsWqPY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11423501/acastro_180524_1777_tesla_0003.jpg",
+            "publishedAt": "2020-10-21T22:47:25Z",
+            "content": "A beta version of Teslas partially automated driver assist system is available, but not to everyone\r\nIllustration by Alex Castro / The Verge\r\nTesla sent out the first Full Self-Driving beta software \u2026 [+3577 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "egraffeo@businessinsider.com (Emily Graffeo)",
+            "title": "'Much to be excited about': Here's what 4 analysts are saying about Tesla ahead of its 3rd-quarter earnings report",
+            "description": "The electric vehicle company already announced record third-quarter production numbers and beat expectations for its deliveries in the quarter.",
+            "url": "https://www.businessinsider.com/tesla-q3-earnings-preview-elon-musk-deliveries-analysis-stock-goldman-2020-10",
+            "urlToImage": "https://i.insider.com/5f43c53389aff80028ab7707?format=jpeg",
+            "publishedAt": "2020-10-21T12:15:00Z",
+            "content": "Reuters\r\n<ul><li>Tesla will release its third quarter earnings report after markets close on Wednesday.\u00a0\u00a0</li><li>The electric vehicle company already announced record third-quarter production number\u2026 [+4496 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "All eyes are on Tesla to see if it can keep its profit streak alive \u2014 here's what to expect from its earnings today",
+            "description": "The electric automaker's stock has been on a searing rally this year, but the expectations from here are just as lofty.",
+            "url": "https://www.businessinsider.com/tesla-earnings-report-what-wall-street-analysts-expect-third-quarter-2020-10",
+            "urlToImage": "https://i.insider.com/5f72325674fe5b0018a8dcf1?width=1200&format=jpeg",
+            "publishedAt": "2020-10-21T11:05:00Z",
+            "content": "Tesla is set to disclose its third-quarter financials on Wednesday afternoon, in what Wall Street analysts expect could be the electric automaker's most lucrative quarter ever.\r\nThe company's already\u2026 [+2340 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Matthew DeBord)",
+            "title": "Tesla is reporting earnings this week \u2014 here's why analysts predict the automaker will close in on its first-ever annual profit",
+            "description": "Analysts are likely to concentrate on Tesla's prospects China, the world's largest car market and a major growth opportunity.",
+            "url": "https://www.businessinsider.com/tesla-q3-earnings-preview-analysis-2020-10",
+            "urlToImage": "https://i.insider.com/5e286b13b6d52d7ecc258ac2?width=1200&format=jpeg",
+            "publishedAt": "2020-10-21T12:05:00Z",
+            "content": "Here's a year-over-year doozy for you: when Tesla reported its third-quarter earnings in 2019, it was coming off a significant second-quarter loss and had something to prove. But it posted a profit, \u2026 [+3593 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tlevin@businessinsider.com (Tim Levin)",
+            "title": "GMC just revealed the all-new Hummer EV, a 1,000-horsepower electric pickup to take on the Tesla Cybertruck \u2014 take a closer look",
+            "description": "GMC just showed off its new electric pickup that'll take on Tesla's Cybertruck, Rivian's R1T, and Ford's battery-powered F-150.",
+            "url": "https://www.businessinsider.com/gmc-hummer-ev-electric-pickup-truck-photos-features-specs-2020-10",
+            "urlToImage": "https://i.insider.com/5f8f8012dace450018a3e58b?width=1200&format=jpeg",
+            "publishedAt": "2020-10-21T00:53:41Z",
+            "content": "General Motors shut down the Hummer brand back in 2010, but now the nameplate \u2014 which calls to mind excessively large, gas-gulping, CO2-spewing SUVs \u2014 is back for an unexpected second go.\u00a0\r\nGMC unvei\u2026 [+1026 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "AT&T's WarnerMedia is streaming 'free' TV to millions of connected cars",
+            "description": "You don\u2019t need to buy a Tesla to stream shows through your car\u2019s internet access, although it will come with catches. AT&amp;T has unveiled a previously rumored WarnerMedia Ride service that streams shows from Cartoon Network, CNN, TBS and other chan...",
+            "url": "https://www.engadget.com/warnermedia-ride-streaming-tv-connected-cars-152259337.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbef77de0-13ae-11eb-8ffe-07b61d2d5061&client=amp-blogside-v2&signature=e2e144e25fa503fe172c714e0109fcfe87892e2a",
+            "publishedAt": "2020-10-21T15:22:59Z",
+            "content": "You don\u2019t need to buy a Tesla to stream shows through your car\u2019s internet access, although it will come with catches. AT&amp;T has unveiled a previously rumored WarnerMedia Ride service that streams \u2026 [+534 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "10 things you need to know before the opening bell",
+            "description": "10 things you need to know before the opening bell",
+            "url": "https://www.businessinsider.com/opening-bell-october-21-2020-10",
+            "urlToImage": "https://i.insider.com/5f8fffa0b0526700185cc87d?format=jpeg",
+            "publishedAt": "2020-10-21T10:42:48Z",
+            "content": "Reuters/John Gress\r\nWelcome to 10 Things Before the Opening Bell. Sign up here to get this email in your inbox every morning.\r\nRegister here for Business Insider's live election webinar TODAY, featur\u2026 [+1850 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Edward Taylor",
+            "title": "Explainer: Tesla's self-driving ambitions get a reboot",
+            "description": "Tesla Inc Chief Executive Elon Musk on Tuesday evening tweeted that the electric car maker will be rolling out a new version of its Full Self Driving software, the latest attempt by the California-based company to tout autonomous driving.",
+            "url": "https://www.reuters.com/article/tesla-results-selfdriving-idUSKBN2762PU",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538353118&r=LYNXMPEG9K1OW&w=800",
+            "publishedAt": "2020-10-21T17:56:27Z",
+            "content": "FRANKFURT (Reuters) - Tesla Inc Chief Executive Elon Musk on Tuesday evening tweeted that the electric car maker will be rolling out a new version of its Full Self Driving software, the latest attemp\u2026 [+3573 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "US stocks climb as investors await signs of stimulus progress",
+            "description": "House Speaker Nancy Pelosi told reporters on Tuesday she remains hopeful a stimulus compromise can be reached before the weekend.",
+            "url": "https://www.businessinsider.com/stock-market-news-today-spx-dow-stimulus-negotiations-earnings-results-2020-10",
+            "urlToImage": "https://i.insider.com/527a4a64eab8ea7a0a9ab773?format=jpeg",
+            "publishedAt": "2020-10-21T13:55:28Z",
+            "content": "REUTERS/Brendan McDermid\r\n<ul><li>US stocks climbed on Wednesday as investors waited for news on stimulus talks.</li><li>House Speaker Nancy Pelosi and Treasury Secretary Steven Mnuchin failed to rea\u2026 [+3570 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Akanksha Rana, Tina Bellon",
+            "title": "Tesla sets revenue record, makes profit thanks to pollution credit sales to rivals",
+            "description": "Tesla Inc <TSLA.O> on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sales of environmental regulatory credits to other automakers.",
+            "url": "https://uk.reuters.com/article/uk-tesla-results-idUKKBN27631G",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538368085&r=LYNXMPEG9K1VF&w=800",
+            "publishedAt": "2020-10-21T20:58:25Z",
+            "content": "(Reuters) - Tesla Inc TSLA.O on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sales of environmental regu\u2026 [+4609 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Akanksha Rana, Tina Bellon",
+            "title": "Tesla sets revenue record, makes profit thanks to pollution credit sales to rivals",
+            "description": "Tesla Inc on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sales of environmental regulatory credits to other automakers.",
+            "url": "https://www.reuters.com/article/tesla-results-int-idUSKBN27631C",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201021&t=2&i=1538366039&r=LYNXMPEG9K1V6&w=800",
+            "publishedAt": "2020-10-21T20:58:25Z",
+            "content": "(Reuters) - Tesla Inc on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sales of environmental regulatory \u2026 [+4595 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "US stocks edge lower as investors mull odds of stimulus deal by end of week",
+            "description": "Senate Democrats blocked Republicans' $500 billion \"skinny bill,\" leaving both parties stuck in a stimulus deadlock as negotiations drag on.",
+            "url": "https://www.businessinsider.com/stock-market-news-today-sp500-dow-slide-netflix-earnings-stimulus-2020-10",
+            "urlToImage": "https://i.insider.com/5f3fc1f042f43f001ddfe3d7?format=jpeg",
+            "publishedAt": "2020-10-21T20:10:25Z",
+            "content": "Brendan McDermid/Reuters\r\n<ul><li>US stocks declined slightly on Wednesday as investors weighed the latest developments in reaching a stimulus agreement.</li><li>House Speaker Nancy Pelosi and Treasu\u2026 [+4911 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Ex-Tesla CIO\u2019s Auto Retail Startup Turns Unicorn in New Funding - Bloomberg",
+            "description": "Ex-Tesla CIO\u2019s Auto Retail Startup Turns Unicorn in New Funding\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-21/ex-tesla-cio-s-auto-retail-startup-turns-unicorn-in-new-funding",
+            "urlToImage": null,
+            "publishedAt": "2020-10-21T12:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "The Hummer is back as a 350-mile range \u2018electric supertruck\u2019 that can drive diagonally",
+            "description": "The Hummer, a symbol of pre-recession gas-guzzling excess, is being resurrected as an all-electric pickup truck. It will get 350 miles of range, 1,000 horsepower, and 11,500 pound-feet of torque. The truck, which will be sold under General Motors\u2019 GMC brand, \u2026",
+            "url": "https://www.theverge.com/2020/10/20/21525290/hummer-ev-electric-truck-gmc-price-specs-range",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/plT4X73GF1S1uLwnn3taruEtrRs=/0x24:1200x652/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21975910/EkzzEHNXEAYJ3cw.jpeg",
+            "publishedAt": "2020-10-21T00:00:00Z",
+            "content": "A $112,000 version will be available in late 2022 The Hummer \u2014 symbol of pre-2008-recession, gas-guzzling excess \u2014 has been resurrected as a 350-mile range \u201celectric supertruck\u201d with three electric m\u2026 [+9570 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Theodoric Meyer",
+            "title": "Lobbying revenue stays strong despite pandemic, election",
+            "description": "What the numbers mean \u2014 Broidy pleads guilty in FARA case",
+            "url": "https://www.politico.com/newsletters/politico-influence/2020/10/21/lobbying-revenue-stays-strong-despite-pandemic-election-791112",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-21T18:55:36Z",
+            "content": "Presented by Count Every Hero\r\nWith Daniel Lippman\r\nHere are your Lobbying Disclosure Act revenue rankings for the third quarter of 2020.\r\n<ol><li>Brownstein Hyatt Farber Schreck: $12.5 million (vers\u2026 [+31684 chars]"
+        }
+    ]
+}

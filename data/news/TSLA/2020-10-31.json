@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dave Mosher",
+            "title": "SpaceX's plans for Microsoft's mobile data centers should spook Amazon \u2014 and may give a boost to YouTube, Netflix, and Hulu (MSFT, NFLX, AMZN, GOOG)",
+            "description": "Summary List Placement\n\nSpaceX and Microsoft have teamed up to take a bite out of Amazon's cloud-based lunch, and the effort stands to benefit streaming-video platforms.\u00a0\nIn a recently announced deal, SpaceX will use its rapidly growing Starlink satellite-int\u2026",
+            "url": "https://www.businessinsider.com/spacex-starlink-satellite-internet-microsoft-azure-datacenters-amazon-hulu-netflix-2020-10",
+            "urlToImage": "https://i.insider.com/5f98dece6f5b310011723c5c?width=1200&format=jpeg",
+            "publishedAt": "2020-10-31T12:42:00Z",
+            "content": "SpaceX and Microsoft have teamed up to take a bite out of Amazon's cloud-based lunch, and the effort stands to benefit streaming-video platforms.\u00a0\r\nIn a recently announced deal, SpaceX will use its r\u2026 [+8603 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Tesla's updated Full Self-Driving beta needs fewer human interventions",
+            "description": "Tesla\u2019s Full Self-Driving beta is already making some significant (and arguably needed) strides forward. Electrek says the automaker has rolled out an update that, according to Elon Musk, should reduce the need for human intervention by about a third...",
+            "url": "https://www.engadget.com/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fba1d7570-1bb7-11eb-b13c-b010545fb6c4&client=amp-blogside-v2&signature=13886810fd338b3eba8dc40fa94a9e16fca6e213",
+            "publishedAt": "2020-10-31T20:55:24Z",
+            "content": "Tesla\u2019s Full Self-Driving beta is already making some significant (and arguably needed) strides forward. Electreksays the automaker has rolled out an update that, according to Elon Musk, should reduc\u2026 [+437 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "BioRevolution Could Reach $4 Trillion Per Year in the 2030s",
+            "description": "McKinsey forecasts a biotech revolution will improve human health and transform agriculture and food, consumer products and services, and materials and energy production. Advances in biological...\n\n[[ This is a content summary only. Visit my website for full \u2026",
+            "url": "https://www.nextbigfuture.com/2020/10/biorevolution-could-reach-4-trillion-per-year-in-the-2030s.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-31-at-8.37.59-AM-1024x416.jpg",
+            "publishedAt": "2020-10-31T16:35:44Z",
+            "content": "McKinsey forecasts a biotech revolution will improve human health and transform agriculture and food, consumer products and services, and materials and energy production. Advances in biological scien\u2026 [+3825 chars]"
+        }
+    ]
+}

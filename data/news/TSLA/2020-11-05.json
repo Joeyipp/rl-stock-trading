@@ -1,0 +1,292 @@
+{
+    "status": "ok",
+    "totalResults": 22,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Elon Musk\u2019s Tesla tequila will run you $250 a bottle",
+            "description": "Teslaquila, the Tesla -branded liquor, that co-starred in CEO Elon Musk\u2019s controversial April Fool\u2019s Day joke about the automaker filing for bankruptcy, has arrived. The automaker now lists Tesla Tequila (a bit different from the original Teslaquila branding)\u2026",
+            "url": "http://techcrunch.com/2020/11/05/elon-musks-tesla-tequila-will-run-you-250-a-bottle/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-05-at-4.24.25-PM.jpg?w=511",
+            "publishedAt": "2020-11-05T23:58:23Z",
+            "content": "Teslaquila, the Tesla -branded liquor, that co-starred in CEO Elon Musk\u2019s controversial April Fool\u2019s Day joke about the automaker filing for bankruptcy, has arrived.\r\nThe automaker now lists Tesla Te\u2026 [+1016 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla's Musk in Berlin to interview engineers for new gigafactory - Reuters India",
+            "description": "Tesla Inc Chief Executive Elon Musk has travelled to Germany and plans to interview engineers for the U.S. electric carmaker's new gigafactory in Berlin in person on Friday.",
+            "url": "https://www.reuters.com/article/tesla-musk-germany-idINKBN27L16Z",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540096432&r=LYNXMPEGA40PW&w=800",
+            "publishedAt": "2020-11-05T10:12:00Z",
+            "content": "By Reuters Staff\r\nSpaceX owner and Tesla CEO Elon Musk arrives on the red carpet for the automobile awards \"Das Goldene Lenkrad\" given by a German newspaper in Berlin, Germany, November 12, 2019. REU\u2026 [+733 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla's Musk in Berlin to interview engineers for new gigafactory - Reuters UK",
+            "description": "Tesla Inc <TSLA.O> Chief Executive Elon Musk has travelled to Germany and plans to interview engineers for the U.S. electric carmaker's new gigafactory in Berlin in person on Friday.",
+            "url": "https://uk.reuters.com/article/uk-tesla-musk-germany-idUKKBN27L17L",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540096625&r=LYNXMPEGA40Q6&w=800",
+            "publishedAt": "2020-11-05T10:14:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Tesla Inc CEO Elon Musk speaks onstage during a delivery event for Tesla China-made Model 3 cars at its factory in Shanghai, China January 7, 2020. REUTERS/Aly Song\r\nBER\u2026 [+703 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Jack Morse",
+            "title": "'Individual X' stole $1 billion in crypto from Silk Road. U.S. officials just seized it.",
+            "description": "The U.S. government is trying to seize what \"Individual X\" had already stolen. Specifically, that would be a gargantuan amount of cryptocurrency.\u00a0\nIn a surprise reveal to a mystery that's bedeviled the cryptocurrency community for years, the Department of Jus\u2026",
+            "url": "https://mashable.com/article/hacker-stole-billion-cryptocurrency-silk-road-seized-us-government/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F05%252F78%252F13ff2cff204c4c35a7eb521ada5908db.29c15.jpg%252F1200x630.jpg?signature=kaXbXXJn3D1YQeYhgTdhZjUbjAo=",
+            "publishedAt": "2020-11-05T20:17:33Z",
+            "content": "The U.S. government is trying to seize what \"Individual X\" had already stolen. Specifically, that would be a gargantuan amount of cryptocurrency.\u00a0\r\nIn a surprise reveal to a mystery that's bedeviled \u2026 [+2570 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Autonomous drone startup Skydio taps Tesla, Samsara veterans in enterprise push",
+            "description": "Autonomous drone company Skydio has hired three executives in product and engineering following its recent $100 million Series C funding round as part of the company\u2019s strategy to expand beyond consumer applications and into the enterprise and public sector m\u2026",
+            "url": "http://techcrunch.com/2020/11/05/autonomous-drone-startup-skydio-taps-tesla-samsara-veterans-in-enterprise-push/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/skydio-x2_1400x.png?w=764",
+            "publishedAt": "2020-11-05T18:52:17Z",
+            "content": "Autonomous drone company Skydio has hired three executives in product and engineering following its recent $100 million Series C funding round as part of the company\u2019s strategy to expand beyond consu\u2026 [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "SpaceX successfully launches GPS III space vehicle for the U.S. Space Force",
+            "description": "Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June, and was the third overall GPS III put in orbit by SpaceX . \u2026",
+            "url": "http://techcrunch.com/2020/11/05/spacex-successfully-launches-gps-iii-space-vehicle-for-the-u-s-space-force/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/spacex-gps-III-4.gif?w=719",
+            "publishedAt": "2020-11-05T23:46:27Z",
+            "content": "Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June,\u2026 [+1438 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Watch SpaceX launch a GPS satellite for the U.S. Space Force live",
+            "description": "SpaceX is set to launch the U.S. Space Force\u2019s GPS III Space Vehicle 04 today from Cape Canaveral Air Force Station in Florida. This launch was all set to take off back at the beginning of October, but was scrubbed in the final seconds. Today\u2019s launch window \u2026",
+            "url": "http://techcrunch.com/2020/11/05/watch-spacex-launch-a-gps-satellite-for-the-u-s-space-force-live-2/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GPSIII4_vertday_DSC_2655.jpg?w=756",
+            "publishedAt": "2020-11-05T13:39:27Z",
+            "content": "SpaceX is set to launch the U.S. Space Force\u2019s GPS III Space Vehicle 04 today from Cape Canaveral Air Force Station in Florida. This launch was all set to take off back at the beginning of October, b\u2026 [+1371 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Australia power grid services deal boosts Neoen plan for 'Big Battery' - Reuters",
+            "description": "France's Neoen SA <NEOEN.PA> has won a contract to help stabilise the power grid in the Australian state of Victoria, supporting Neoen's plan to build the country's biggest battery, due to be switched on by the end of 2021.",
+            "url": "https://www.reuters.com/article/australia-neoen-battery-int-idUSKBN27L0DZ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-05T03:34:00Z",
+            "content": "By Reuters Staff\r\nMELBOURNE (Reuters) - France's Neoen SA NEOEN.PA has won a contract to help stabilise the power grid in the Australian state of Victoria, supporting Neoen's plan to build the countr\u2026 [+1291 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dave Mosher",
+            "title": "Rocket Lab will soon run its first test of a SpaceX-like rocket booster recovery system that could save it millions per flight",
+            "description": "Summary List PlacementRocket Lab is about to attempt its first-ever recovery of a rocket booster that has flown a payload to space and is falling back to Earth.\u00a0\nThe mission, dubbed \"Return to Sender\" and scheduled for November 15, marks the New Zealand start\u2026",
+            "url": "https://www.businessinsider.com/rocket-lab-reusable-rockets-parachute-recovery-test-return-sender-mission-2020-11",
+            "urlToImage": "https://i.insider.com/5fa43189f7d1cb0019e3a008?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T20:33:48Z",
+            "content": "Rocket Lab is about to attempt its first-ever recovery of a rocket booster that has flown a payload to space and is falling back to Earth.\u00a0\r\nThe mission, dubbed \"Return to Sender\" and scheduled for N\u2026 [+5968 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "William Edwards",
+            "title": "An advisor at the world\u2019s largest wealth manager breaks down why a Biden win and a split congress is the best long-term outcome for markets \u2014 and says investors should look to these 4 sub-sectors for ongoing gains",
+            "description": "Summary List Placement\n\nHeading into election day, a popular worst-case-scenario narrative on Wall Street was a Biden win and a split Congress because the deadlock between Republicans and Democrats on another stimulus agreement would likely continue.\nWednesda\u2026",
+            "url": "https://www.businessinsider.com/election-investing-advice-4-market-sub-sectors-for-split-government-2020-11",
+            "urlToImage": "https://i.insider.com/5fa2fdc369331a0011bc74ee?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T13:05:00Z",
+            "content": "Heading into election day, a popular worst-case-scenario narrative on Wall Street was a Biden win and a split Congress because the deadlock between Republicans and Democrats on another stimulus agree\u2026 [+3446 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "Elon Musk Tells YouTube Co-Founder to 'Stop Being a Chad' in Twitter Clash",
+            "description": "\"The axis of ego is pretty quiet tonight,\" tweeted Chad Hurley, tagging the Twitter accounts of Musk, President Donald Trump and rapper Kanye West. Musk responded with some internet slang.",
+            "url": "https://www.newsweek.com/elon-musk-chad-hurley-twitter-ego-donald-trump-kanye-west-1545150",
+            "urlToImage": "https://d.newsweek.com/en/full/1665020/elon-musk.jpg",
+            "publishedAt": "2020-11-05T15:49:45Z",
+            "content": "Tesla boss Elon Musk was quick to respond after being criticized by the co-founder of YouTube this week, hitting back with internet slang.\r\nChad Hurley, who co-founded the platform before selling it \u2026 [+3406 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "Elon Musk said Tesla is ready for 'in person' engineer interviews at its German Gigafactory, despite the country's COVID-19 lockdown",
+            "description": "Musk said he wants \"ace engineers\" for the factory, based just outside of Berlin. The company is interviewing on-site, despite a COVID-19 lockdown.",
+            "url": "https://www.businessinsider.com/elon-musk-tesla-interviews-berlin-germany-gigafactory-engineers-in-person-2020-11",
+            "urlToImage": "https://i.insider.com/5fa3e8951df1d50018218ffd?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T13:05:03Z",
+            "content": "Elon Musk said that Tesla will on Friday interview engineers \"in person\" at its massive under-construction Gigafactory in Germany.\r\nThe country is currently in a coronavirus lockdown until November 3\u2026 [+1672 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "SpaceX successfully launches GPS III space vehicle for the U.S. Space Force",
+            "description": "Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June, and was the third overall GPS III put in orbit by SpaceX . \u2026",
+            "url": "https://techcrunch.com/2020/11/05/spacex-successfully-launches-gps-iii-space-vehicle-for-the-u-s-space-force/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/c8XGrztAFKtSUKNj8uVb1g--~B/aD01NTY7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/f0044bf16e66b96afd84e6c61cd29e1c",
+            "publishedAt": "2020-11-05T23:46:27Z",
+            "content": "Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June,\u2026 [+1438 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Watch SpaceX launch a GPS satellite for the U.S. Space Force live",
+            "description": "SpaceX is set to launch the U.S. Space Force's GPS III Space Vehicle 04 today from Cape Canaveral Air Force Station in Florida. The launch today will use a Falcon 9 first-stage that hasn't flown previously, and SpaceX will be attempting to recover it with a l\u2026",
+            "url": "https://techcrunch.com/2020/11/05/watch-spacex-launch-a-gps-satellite-for-the-u-s-space-force-live-2/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hHvb5d5iQWLuL3WCnZulaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMDU4/https://s.yimg.com/uu/api/res/1.2/fCg6APCaq576ePXS6XJ62w--~B/aD0xNTg3O3c9MzAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/313b81179b80b31dcd6921513988ac1d",
+            "publishedAt": "2020-11-05T13:39:27Z",
+            "content": "SpaceX is set to launch the U.S. Space Force's GPS III Space Vehicle 04 today from Cape Canaveral Air Force Station in Florida. This launch was all set to take off back at the beginning of October, b\u2026 [+1371 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "Why Florida residents may soon be seeing jet-powered 'flying taxis'",
+            "description": "Florida is renowned for its strange news stories. Lilium Aviation, a five-year-old, Munich, Germany-based startup that designs and makes electric vertical take-off and landing jets, is reportedly seeking tax incentives from the city to build a 56,000-square-f\u2026",
+            "url": "https://techcrunch.com/2020/11/05/why-florida-residents-may-soon-be-seeing-jet-powered-flying-taxis/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/H.BT1kqPfzzdqrZyHfVCrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD05Njc-/https://s.yimg.com/uu/api/res/1.2/6mgG_Wy20gvjzHZ3X.wKcA--~B/aD0xMjY0O3c9MjYxNDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/c81b96da0f2eb8137d5c19b04ad45df3",
+            "publishedAt": "2020-11-05T22:36:20Z",
+            "content": "Florida is renowned for its strange news stories. In recent weeks alone, one resident reported an alligator in her garage that turned out to be a pool floatie; another discovered a python in her wash\u2026 [+2099 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Australia plans to strengthen its power grid with another giant battery",
+            "description": "Renewable energy company Neoen announced a contract to build a giant lithium-ion battery to help stabilize the grid in Victoria, Australia. It will use Tesla technology for the project that\u2019s slated to be finished next year.",
+            "url": "https://www.theverge.com/21551342/australia-power-grid-victorian-big-battery",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/GF0JOSfiK5UlLNfkAB2bGWplIX8=/0x263:5502x3144/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10157027/855492016.jpg.jpg",
+            "publishedAt": "2020-11-05T19:39:46Z",
+            "content": "Once built, it will be one of the largest in the world \r\nCars arrive to Tesla Powerpack Launch Event at Hornsdale Wind Farm on September 29th, 2017, in Adelaide, Australia.\u00a0The Hornsdale battery was \u2026 [+3065 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Catherine LeClair",
+            "title": "On the 'All Consuming' podcast, two hosts try out the DTC brands advertised to them on Instagram, and give listeners an insider perspective on marketing and modern consumerism",
+            "description": "Summary List Placement\n\nIf you have an expendable income and an Instagram account, you've likely had the experience of opening the app with the intention to peruse your friends' latest photo updates, only to blackout and regain sentience while entering your c\u2026",
+            "url": "https://www.businessinsider.com/all-consuming-podcast-hosts-question-consumerism-and-test-dtc-brands-2020-11",
+            "urlToImage": "https://i.insider.com/5fa30a2869331a0011bc7547?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T16:26:31Z",
+            "content": "If you have an expendable income and an Instagram account, you've likely had the experience of opening the app with the intention to peruse your friends' latest photo updates, only to blackout and re\u2026 [+6603 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Nio joins Tesla in the ranks of electric-vehicle makers worth more than General Motors as Wall Street sees major upside",
+            "description": "Nio has cumulatively sold 63,343 cars of its current model line up of electric vehicles, while General Motors sold 2.9 million cars in 2019 alone.",
+            "url": "https://www.businessinsider.com/nio-stock-more-valuable-general-motors-wall-street-sees-upside-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fa458cb1df1d500182191f2?format=jpeg",
+            "publishedAt": "2020-11-05T20:58:00Z",
+            "content": "NIO ES8 electric SUVs are seen displayed at the second media day for the Shanghai auto show in Shanghai\r\nReuters\r\n<ul><li>Nio has surpassed General Motors in market value, as investors continue to be\u2026 [+2483 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "Jeff Bezos cashed out over $3 billion in Amazon stock but still made a massive gain off the post-election limbo for the markets",
+            "description": "The Amazon CEO's net worth expanded by $10.5 billion on Wednesday alone, in one of the largest single-day increases.",
+            "url": "https://www.businessinsider.com/jeff-bezos-sells-amazon-shares-gains-most-after-election-limbo-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fa3c034f7d1cb0019e39e92?format=jpeg",
+            "publishedAt": "2020-11-05T10:34:32Z",
+            "content": "Jeff Bezos.\r\nIsaiah Downing/Reuters\r\nAmazon CEO Jeff Bezos sold over $3 billion worth of the company's stock right before he made a massive gain off the US election rally across the financial markets\u2026 [+2007 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla Project to Install Another Giant Battery in Australia - Bloomberg",
+            "description": "Tesla Project to Install Another Giant Battery in Australia\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-11-05/tesla-project-will-install-another-giant-battery-in-australia",
+            "urlToImage": null,
+            "publishedAt": "2020-11-05T03:06:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sasha Lekach",
+            "title": "Every Bentley will be totally electric by 2030",
+            "description": "Every Bentley will be totally electric by 2030mashable.com",
+            "url": "https://mashable.com/article/bentley-electric-vehicles-by-2030/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F05%252F48%252F7949785ddc934ba1ad9f78a927d51cce.40a92.jpg%252F1200x630.jpg?signature=q1qyMxSqT89rgPtcBB43VWKZsbg=",
+            "publishedAt": "2020-11-05T19:55:27Z",
+            "content": "Ultra luxury car brand Bentley plans to go 100 percent electric.\r\nBy 2030, the century-old British motor company will only produce batter-powered cars, Bentley CEO Adrian Hallmark said Thursday. What\u2026 [+1119 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "Why Florida residents may soon be seeing jet-powered \u2018flying taxis\u2019 \u2013 TechCrunch",
+            "description": "Florida is renowned for its strange news stories. In recent weeks alone, one resident reported an alligator in her garage that turned out to be a pool floatie; another discovered a python in her washing machine; and a horse needed to be pulled out of a septic\u2026",
+            "url": "http://techcrunch.com/2020/11/05/why-florida-residents-may-soon-be-seeing-jet-powered-flying-taxis/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-05-at-2.33.52-PM.png?w=764",
+            "publishedAt": "2020-11-05T22:36:28Z",
+            "content": "Florida is renowned for its strange news stories. In recent weeks alone, one resident reported an alligator in her garage that turned out to be a pool floatie; another discovered a python in her wash\u2026 [+2011 chars]"
+        }
+    ]
+}

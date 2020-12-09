@@ -1,0 +1,448 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "Tesla reportedly stops offering its seven-day return policy",
+            "description": "Tesla has stopped offering its seven-day, no questions asked return policy, according to Electrek. The company reportedly put an end to the offer last night. Visiting the webpage the automaker had dedicated to the policy now redirects to Tesla\u2019s homepage. Can\u2026",
+            "url": "https://www.engadget.com/tesla-seven-day-return-policy-200222287.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fa6f5bf70-0fe6-11eb-bfb7-92e38290b660&client=amp-blogside-v2&signature=7a789e0c714facad78d6833dca8eb0f74d265bdd",
+            "publishedAt": "2020-10-16T20:02:22Z",
+            "content": "Tesla has stopped offering its seven-day, no questions asked return policy, according to Electrek. The company reportedly put an end to the offer last night. Visiting the webpage the automaker had de\u2026 [+679 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Elon Musk\u2019s Vegas loop won\u2019t transport as many people as promised",
+            "description": "Elon Musk\u2019s Boring Company\u2019s system of tunnels to shuttle people under the Las Vegas Convention Center (LVCC) may not be able to move as many people as originally promised, according to documents obtained by TechCrunch. That\u2019s not just disappointing \u2014\u00a0it may \u2026",
+            "url": "https://www.theverge.com/2020/10/16/21519692/elon-musk-boring-company-vegas-loop-less-impressive-promised",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/KjitFzEFYzPu24lrMpGxLPOmfXM=/0x430:5421x3268/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13637529/Boring_tunnel__6.jpg",
+            "publishedAt": "2020-10-16T19:01:08Z",
+            "content": "The choke point isnt technology \u00a0its fire regulations\r\nImage: The Boring Company\r\nElon Musks Boring Companys system of tunnels to shuttle people under the Las Vegas Convention Center (LVCC) may not b\u2026 [+2013 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sasha Lekach",
+            "title": "Tesla Model 3 update gives drivers more range for the same price",
+            "description": "Tesla's upcoming 2021 Model 3 got some subtle but important updates this week.\nThe company bumped up the range for all three versions of its electric sedan.\u00a0\n<ul>\n<li>Long Range Dual Motor (starts at $46,990): Its range is now 353 miles, a 30-mile increase.\u00a0\r\u2026",
+            "url": "https://mashable.com/article/tesla-model-3-2021-range-updates/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F16%252F39%252Fc1c83f60241c47fe8b1ac8c0a3e50a18.27386.jpg%252F1200x630.jpg?signature=8XO60ixwz75Ke_NfXnpUwXs_lWM=",
+            "publishedAt": "2020-10-16T15:58:57Z",
+            "content": "Tesla's upcoming 2021 Model 3 got some subtle but important updates this week.\r\nThe company bumped up the range for all three versions of its electric sedan.\u00a0\r\n<ul><li>Long Range Dual Motor (starts a\u2026 [+1138 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Helen Reid, Tanisha Heiberg",
+            "title": "Glencore in talks with carmakers and battery makers about nickel, CEO says - Reuters",
+            "description": "Glencore CEO Ivan Glasenberg said on Friday that the company is talking with carmakers and battery makers about nickel - a key component in electric vehicle batteries which Tesla CEO Elon Musk has asked miners to produce more of.",
+            "url": "https://www.reuters.com/article/mining-summit-glencore-idUSKBN2711QF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537732224&r=LYNXMPEG9F10T&w=800",
+            "publishedAt": "2020-10-16T11:55:00Z",
+            "content": "JOHANNESBURG (Reuters) - Glencore CEO Ivan Glasenberg said on Friday that the company is talking with carmakers and battery makers about nickel - a key component in electric vehicle batteries which T\u2026 [+1790 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Glencore talking with carmakers and battery makers about nickel, CEO says - Reuters UK",
+            "description": "Glencore <GLEN.L> CEO Ivan Glasenberg said on Friday that the company is talking with carmakers and battery makers about nickel - a key component in electric vehicle batteries which Tesla CEO Elon Musk has asked miners to produce more of.",
+            "url": "https://www.reuters.com/article/uk-mining-summit-glencore-idUKKBN271172",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537712417&r=LYNXMPEG9F0OW&w=800",
+            "publishedAt": "2020-10-16T09:09:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of commodities trader Glencore is pictured in front of the company's headquarters in Baar, Switzerland, November 20, 2012. REUTERS/Arnd Wiegmann\r\nJOHANNESBURG (\u2026 [+1401 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Steve Dent",
+            "title": "Tesla Model 3 2021 refresh offers more range and other improvements",
+            "description": "Tesla\u2019s 2021 Model 3 and Model Y EV configurators are now online, and they show substantial improvement in range for both models, along with some other improvements (via Electrek). The $46,990 Long Range Model 3 can now go 353 miles, an impressive gain of 30 \u2026",
+            "url": "https://www.engadget.com/tesla-model-3-2021-refresh-offers-more-range-and-other-improvements-114539380.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Faa0b1130-0fa3-11eb-b5d1-a24f7c4a0d55&client=amp-blogside-v2&signature=fa2bc31d1261592518986240e61fdd3a3ed8923a",
+            "publishedAt": "2020-10-16T11:45:39Z",
+            "content": "Tesla\u2019s 2021 Model 3 and Model Y EV configurators are now online, and they show substantial improvement in range for both models, along with some other improvements (via Electrek). The $46,990 Long R\u2026 [+745 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyunjoo Jin, Heekyong Yang",
+            "title": "Top EV battery maker LG Chem in JV talks with automakers: CEO - Reuters UK",
+            "description": "LG Chem <051910.KS>, the world's top electric vehicle (EV) battery maker, is in talks with a \"couple\" of automakers to create joint ventures to produce automotive batteries, Chief Executive Officer Hak Cheol Shin told Reuters on Friday.",
+            "url": "https://uk.reuters.com/article/uk-lg-chem-ceo-idUKKBN2710ZF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537703120&r=LYNXMPEG9F0KT&w=800",
+            "publishedAt": "2020-10-16T07:50:00Z",
+            "content": "SEOUL (Reuters) - LG Chem 051910.KS, the world's top electric vehicle (EV) battery maker, is in talks with a \"couple\" of automakers to create joint ventures to produce automotive batteries, Chief Exe\u2026 [+967 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyunjoo Jin, Heekyong Yang",
+            "title": "Top EV battery maker LG Chem in JV talks with automakers: CEO - Reuters",
+            "description": "LG Chem, the world's top electric vehicle (EV) battery maker, is in talks with a \"couple\" of automakers to create joint ventures to produce automotive batteries, Chief Executive Officer Hak Cheol Shin told Reuters on Friday.",
+            "url": "https://www.reuters.com/article/us-lg-chem-ceo-idUSKBN2710PG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537693245&r=LYNXMPEG9F0E8&w=800",
+            "publishedAt": "2020-10-16T05:55:00Z",
+            "content": "SEOUL (Reuters) - LG Chem, the worlds top electric vehicle (EV) battery maker, is in talks with a couple of automakers to create joint ventures to produce automotive batteries, Chief Executive Office\u2026 [+939 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyunjoo Jin, Heekyong Yang",
+            "title": "Top EV battery maker LG Chem in JV talks with automakers: CEO - Reuters Canada",
+            "description": "LG Chem, the world's top electric vehicle (EV) battery maker, is in talks with a \"couple\" of automakers to create joint ventures to produce automotive batteries, Chief Executive Officer Hak Cheol Shin told Reuters on Friday.",
+            "url": "https://ca.reuters.com/article/ctech-us-lg-chem-ceo-idCAKBN2710PG-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537693715&r=LYNXMPEG9F0E8-OCATC&w=800",
+            "publishedAt": "2020-10-16T05:58:00Z",
+            "content": "By Hyunjoo Jin, Heekyong Yang\r\nThe logo of LG Chem is seen at its office building in Seoul, South Korea, October 16, 2020. REUTERS/Kim Hong-Ji\r\nSEOUL (Reuters) - LG Chem, the worlds top electric vehi\u2026 [+1083 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyunjoo Jin, Heekyong Yang",
+            "title": "Top EV battery maker LG Chem in JV talks with automakers: CEO - Reuters India",
+            "description": "LG Chem, the world's top electric vehicle (EV) battery maker, is in talks with a \"couple\" of automakers to create joint ventures to produce automotive batteries, Chief Executive Officer Hak Cheol Shin told Reuters on Friday.",
+            "url": "https://in.reuters.com/article/us-lg-chem-ceo-idINKBN2710PG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537693245&r=LYNXMPEG9F0E8&w=800",
+            "publishedAt": "2020-10-16T05:58:00Z",
+            "content": "SEOUL (Reuters) - LG Chem, the worlds top electric vehicle (EV) battery maker, is in talks with a couple of automakers to create joint ventures to produce automotive batteries, Chief Executive Office\u2026 [+939 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyunjoo Jin, Heekyong Yang",
+            "title": "CEO of top battery maker LG Chem discloses JV talks, defends split-off - Reuters India",
+            "description": "LG Chem <051910.KS>, the world's top electric vehicle (EV) battery maker, is in talks with a \"couple\" of automakers to create joint ventures to produce automotive batteries, Chief Executive Officer Hak Cheol Shin told Reuters on Friday.",
+            "url": "https://in.reuters.com/article/lg-chem-ceo-idINKBN27114R",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537709444&r=LYNXMPEG9F0NG&w=800",
+            "publishedAt": "2020-10-16T08:47:00Z",
+            "content": "SEOUL (Reuters) - LG Chem 051910.KS, the world's top electric vehicle (EV) battery maker, is in talks with a \"couple\" of automakers to create joint ventures to produce automotive batteries, Chief Exe\u2026 [+2617 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyunjoo Jin, Heekyong Yang",
+            "title": "CEO of top battery maker LG Chem discloses JV talks, defends split-off - Reuters India",
+            "description": "LG Chem <051910.KS>, the world's top electric vehicle (EV) battery maker, is in talks with a \"couple\" of automakers to create joint ventures to produce automotive batteries, Chief Executive Officer Hak Cheol Shin told Reuters on Friday.",
+            "url": "https://www.reuters.com/article/lg-chem-ceo-idUSKBN27114R",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537709444&r=LYNXMPEG9F0NG&w=800",
+            "publishedAt": "2020-10-16T08:45:00Z",
+            "content": "SEOUL (Reuters) - LG Chem 051910.KS, the world's top electric vehicle (EV) battery maker, is in talks with a \"couple\" of automakers to create joint ventures to produce automotive batteries, Chief Exe\u2026 [+2617 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sasha Lekach",
+            "title": "Tesla Model 3 update gives drivers more range for the same price",
+            "description": "Tesla's upcoming 2021 Model 3 got some subtle but important updates this week.\nThe company bumped up the range for all three versions of its electric sedan.\u00a0\n<ul>\n<li>Long Range Dual Motor (starts at $46,990): Its range is now 353 miles, a 30-mile increase.\u00a0\r\u2026",
+            "url": "https://mashable.com/article/tesla-model-3-2021-range-updates/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F16%252F39%252Fc1c83f60241c47fe8b1ac8c0a3e50a18.27386.jpg%252F1200x630.jpg?signature=8XO60ixwz75Ke_NfXnpUwXs_lWM=",
+            "publishedAt": "2020-10-16T15:58:57Z",
+            "content": "Tesla's upcoming 2021 Model 3 got some subtle but important updates this week.\r\nThe company bumped up the range for all three versions of its electric sedan.\u00a0\r\n<ul><li>Long Range Dual Motor (starts a\u2026 [+1138 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mark Harris",
+            "title": "Elon Musk's Las Vegas Loop might only carry a fraction of the passengers it promised",
+            "description": "To help absorb at least some of the congestion, the Las Vegas Convention Center (LVCC) last year planned a people-mover to serve an expanded campus. The LVCC wanted transit that could move up to 4,400 attendees every hour between exhibition halls and parking \u2026",
+            "url": "https://techcrunch.com/2020/10/16/elon-musks-las-vegas-loop-might-only-carry-a-fraction-of-the-passengers-it-promised/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6FqHdSPbLVend0HWOhbtaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02NTY-/https://s.yimg.com/uu/api/res/1.2/U8wukr_kobwAzznmLdrUNA--~B/aD0zMjQ2O3c9NjMzODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/6dd16061afb4498d014856e5e04b104b",
+            "publishedAt": "2020-10-16T16:04:10Z",
+            "content": "In pandemic-free years, Americas biggest trade show, CES, attracts more than 170,000 attendees, bringing traffic that jams surrounding roads day and night.\u00a0To help absorb at least some of the congest\u2026 [+7643 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John McCrank",
+            "title": "Wall Street Week Ahead: Big tech nervousness prompts calls to diversify - Reuters UK",
+            "description": "As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and that new regulation might be coming have some investors diversifying beyond the rally leaders.",
+            "url": "https://uk.reuters.com/article/uk-usa-stocks-weekahead-idUKKBN2712S3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537786507&r=LYNXMPEG9F1PJ&w=800",
+            "publishedAt": "2020-10-16T18:11:00Z",
+            "content": "NEW YORK (Reuters) - As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and that new regulation might be comin\u2026 [+4014 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John McCrank",
+            "title": "Wall Street Week ahead: Big tech nervousness prompts calls to diversify - Reuters",
+            "description": "As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and that new regulation might be coming have some investors diversifying beyond the rally leaders.",
+            "url": "https://www.reuters.com/article/usa-stocks-weekahead-idUSKBN2712P3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537780737&r=LYNXMPEG9F1N9&w=800",
+            "publishedAt": "2020-10-16T17:26:00Z",
+            "content": "NEW YORK (Reuters) - As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and that new regulation might be comin\u2026 [+4239 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John McCrank",
+            "title": "Wall Street Week Ahead: Big tech nervousness prompts calls to diversify - Reuters",
+            "description": "As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and that new regulation might be coming have some investors diversifying beyond the rally leaders.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-weekahead-idUSKBN2712PB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537781525&r=LYNXMPEG9F1NI&w=800",
+            "publishedAt": "2020-10-16T17:26:00Z",
+            "content": "NEW YORK (Reuters) - As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and that new regulation might be comin\u2026 [+4014 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Musk Sees 'Fighting Chance' for Starship Mission to Mars in 2024",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-16/musk-sees-fighting-chance-for-starship-mission-to-mars-in-2024",
+            "urlToImage": null,
+            "publishedAt": "2020-10-16T23:45:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Musk Sees \u2018Fighting Chance\u2019 for Starship Mission to Mars in 2024 - Bloomberg",
+            "description": "<ol><li>Musk Sees \u2018Fighting Chance\u2019 for Starship Mission to Mars in 2024\u00a0\u00a0Bloomberg\r\n</li><li>Elon Musk says SpaceX's 1st Starship trip to Mars could fly in 4 years\u00a0\u00a0Space.com\r\n</li><li>Elon Musk reveals SpaceX Starship Launch Plan to Mars\u00a0\u00a0CNET Highlights\r\n<\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=98ed83d0-109b-11eb-b741-8da87f23133a&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMC0xNi9tdXNrLXNlZXMtZmlnaHRpbmctY2hhbmNlLWZvci1zdGFyc2hpcC1taXNzaW9uLXRvLW1hcnMtaW4tMjAyNA==",
+            "urlToImage": null,
+            "publishedAt": "2020-10-16T23:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Levin",
+            "title": "Tesla just quietly updated the Model 3's range, performance, and styling \u2014 here's what's new",
+            "description": "Summary List Placement\n\nTesla just updated the Model 3, giving it increased range and performance along with some new features and styling touches.\u00a0\nAccording to Tesla's online configurator, Model 3 sedans now boast higher range estimates across all three var\u2026",
+            "url": "https://www.businessinsider.com/tesla-quietly-updated-refreshed-model-3-range-performance-styling-specs-2020-10",
+            "urlToImage": "https://i.insider.com/5f89fe1a9e9fe40019009e2d?width=1200&format=jpeg",
+            "publishedAt": "2020-10-16T20:42:00Z",
+            "content": "Tesla just updated the Model 3, giving it increased range and performance along with some new features and styling touches.\u00a0\r\nAccording to Tesla's online configurator, Model 3 sedans now boast higher\u2026 [+1450 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Yoonji Han",
+            "title": "These are 8 of the hottest Silicon Valley law firms to work at if you want to enter the booming tech market",
+            "description": "Summary List Placement\n\nThe \"wild West\" days of Silicon Valley are no longer, and law firms have increasingly been turning their attention westward, seeking to establish a presence in the Bay Area amid the tech and life sciences boom.\nFreshfields announced in\u2026",
+            "url": "https://www.businessinsider.com/8-silicon-valley-law-firms-leading-tech-life-sciences-practices-2020-10",
+            "urlToImage": "https://i.insider.com/5f8987ca9e9fe40019009b2d?width=1200&format=jpeg",
+            "publishedAt": "2020-10-16T11:47:00Z",
+            "content": "The \"wild West\" days of Silicon Valley are no longer, and law firms have increasingly been turning their attention westward, seeking to establish a presence in the Bay Area amid the tech and life sci\u2026 [+8091 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Martin Coulter",
+            "title": "10 things in tech you need to know today",
+            "description": "Summary List Placement\n\nGood morning! This is the tech news you need to know this Friday. Sign up here to get this email in your inbox every morning. Have an Amazon Alexa device? Listen to this update by searching \"Business Insider\" in your flash briefing set\u2026",
+            "url": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-october-16-2020-10",
+            "urlToImage": "https://i.insider.com/5f85513791aa9e001880b2e4?width=1200&format=jpeg",
+            "publishedAt": "2020-10-16T06:59:43Z",
+            "content": "Good morning! This is the tech news you need to know this Friday. Sign up here to get this email in your inbox every morning. Have an Amazon Alexa device? Listen to this update by searching \"Business\u2026 [+1818 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "adavies@businessinsider.com (Alex Davies)",
+            "title": "Insider Transportation: United's not worried about cash burn, Uber's self-driving troubles, a breakdown of Tesla salaries, and more",
+            "description": "Plus: Tesla promises the Model Y by the end of the year and we look at the electric-car CEOs vying to be the next Elon Musk.",
+            "url": "https://www.businessinsider.com/insider-transportation-newsletter-united-ceo-cash-burn-rate-uber-tesla-2020-10",
+            "urlToImage": "https://i.insider.com/5f88c9a6d260780019341bd0?width=1200&format=jpeg",
+            "publishedAt": "2020-10-16T15:43:25Z",
+            "content": "Ever since the COVID-19 pandemic began its implacable spread across the United States this spring and decimated demand for air travel, the country's airlines have been racing to cut costs. With minim\u2026 [+3691 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles, CNN Business",
+            "title": "Why we don't know exactly what happened during a near-collision in space",
+            "description": "Space traffic experts tracked two pieces of orbital garbage that appeared to be careening toward each other on Thursday night: a defunct Soviet satellite and a discarded Chinese rocket booster. Ultimately, the two objects narrowly missed each other, according\u2026",
+            "url": "https://www.cnn.com/2020/10/16/tech/space-junk-tracking-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201016175357-space-debris-near-collision-super-tease.jpg",
+            "publishedAt": "2020-10-16T22:04:08Z",
+            "content": "New York (CNN Business)Space traffic experts tracked two pieces of orbital garbage that appeared to be careening toward each other on Thursday night: a defunct Soviet satellite and a discarded Chines\u2026 [+5278 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Daily Crunch: Twitter walks back New York Post decision",
+            "description": "A New York Post story forces social platforms to make (and in Twitter's case, reverse) some difficult choices, Sony announces a new 3D display and fitness startup Future raises $24 million. A recent New York Post story about a cache of emails and other data s\u2026",
+            "url": "https://techcrunch.com/2020/10/16/daily-crunch-twitter-new-york-post/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3dlrUTswiLAXtjq45CquOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04MTQuOTMzMzMzMzMzMzMzMw--/https://s.yimg.com/uu/api/res/1.2/kD88OJDsajpZN4JUa2pCGw--~B/aD0yODMyO3c9NDQ0NjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/e7e5567f4f3a62ec1797c8837bfea017",
+            "publishedAt": "2020-10-16T22:13:41Z",
+            "content": "A New York Post story forces social platforms to make (and in Twitter's case, reverse) some difficult choices, Sony announces a new 3D display and fitness startup Future raises $24 million. This is y\u2026 [+3299 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Levin",
+            "title": "The 10 most popular EVs to buy used according to a new study",
+            "description": "Summary List Placement\n\nTesla may dominate the US market when it comes to new electric vehicles \u2014 the brand's Model 3 sedan pretty much blows every other EV out of the water \u2014 but the electric-car maker faces stiff competition in the secondhand market, accord\u2026",
+            "url": "https://www.businessinsider.com/10-best-most-popular-used-electric-cars-vehicles-tesla-2020-10",
+            "urlToImage": "https://i.insider.com/5f85ea5591aa9e001880b5a8?width=1200&format=jpeg",
+            "publishedAt": "2020-10-16T12:47:00Z",
+            "content": "Tesla may dominate the US market when it comes to new electric vehicles \u2014 the brand's Model 3 sedan pretty much blows every other EV out of the water \u2014 but the electric-car maker faces stiff competit\u2026 [+627 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nick Statt",
+            "title": "Tesla\u2019s seven-day return policy has been quietly removed",
+            "description": "Tesla has reportedly canceled an audacious return policy in which new buyers of its electric vehicles could return them for a full refund within seven days. The news, reported on Friday by Electrek, marks an end to one of CEO Elon Musk\u2019s flashier marketing st\u2026",
+            "url": "https://www.theverge.com/2020/10/16/21520086/tesla-full-refund-seven-day-return-policy-removed",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/wEmS6qeSqPoyWcc1aVYbTgsWqPY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11423501/acastro_180524_1777_tesla_0003.jpg",
+            "publishedAt": "2020-10-16T21:08:13Z",
+            "content": "The no questions asked return policy is no more\r\nIllustration by Alex Castro / The Verge\r\nTesla has reportedly canceled an audacious return policy in which new buyers of its electric vehicles could r\u2026 [+1382 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Daily Crunch: Twitter walks back New York Post decision",
+            "description": "A New York Post story forces social platforms to make (and in Twitter\u2019s case, reverse) some difficult choices, Sony announces a new 3D display and fitness startup Future raises $24 million. This is your Daily Crunch for October 16, 2020. The big story: Twitte\u2026",
+            "url": "http://techcrunch.com/2020/10/16/daily-crunch-twitter-new-york-post/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/01/twitter-CES-2020-06.jpg?w=628",
+            "publishedAt": "2020-10-16T22:13:41Z",
+            "content": "A New York Post story forces social platforms to make (and in Twitter\u2019s case, reverse) some difficult choices, Sony announces a new 3D display and fitness startup Future raises $24 million. This is y\u2026 [+3299 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "A Tesla solar panel customer accused the company of a 'bait and switch' tactic that hurt his credit score with a loan he never applied for",
+            "description": "Olivier Chaine signed an agreement to buy electricity from Tesla's solar panels installed on his roof. Instead, he says that was reported as a loan.",
+            "url": "https://www.businessinsider.com/tesla-solar-buyer-alleges-bait-and-switch-loan-credit-score-2020-10",
+            "urlToImage": "https://i.insider.com/5f89d47f9e9fe40019009cda?width=1200&format=jpeg",
+            "publishedAt": "2020-10-16T17:46:19Z",
+            "content": "When Olivier Chaine bought solar panels from Tesla in 2017, he didn't expect the investment to hurt his credit score.\r\nBut that's exactly what happened, he said in a lawsuit filed against the company\u2026 [+1372 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mmcfalljohnsen@businessinsider.com (Morgan McFall-Johnsen)",
+            "title": "About 3% of SpaceX's Starlink satellites may have failed. That's not too bad, but across a 42,000-spacecraft constellation it could spark a crisis.",
+            "description": "At this rate, SpaceX may leave more than 1,200 dead satellites in orbit, where they can crash into other spacecraft and spread dangerous space debris.",
+            "url": "https://www.businessinsider.com/spacex-starlink-internet-satellites-percent-failure-rate-space-debris-risk-2020-10",
+            "urlToImage": "https://i.insider.com/5d810d532e22af51fe3cdf03?width=1200&format=jpeg",
+            "publishedAt": "2020-10-16T11:50:00Z",
+            "content": "SpaceX is launching satellites into space by the dozens to realize Starlink, a globe-encircling constellation of spacecraft that beam affordable, high-speed internet across Earth.\r\nSo far, the scheme\u2026 [+9006 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mark Harris",
+            "title": "Elon Musk\u2019s Las Vegas Loop might only carry a fraction of the passengers it promised \u2013 TechCrunch",
+            "description": "If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.",
+            "url": "http://techcrunch.com/2020/10/16/elon-musks-las-vegas-loop-might-only-carry-a-fraction-of-the-passengers-it-promised/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-565252875.jpg?w=764",
+            "publishedAt": "2020-10-16T16:04:20Z",
+            "content": "In pandemic-free years, Americas biggest trade show, CES, attracts more than 170,000 attendees, bringing traffic that jams surrounding roads day and night.\u00a0To help absorb at least some of the congest\u2026 [+7638 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyunjoo Jin, Heekyong Yang",
+            "title": "Top EV battery maker LG Chem in JV talks with automakers: CEO",
+            "description": "LG Chem, the world's top electric vehicle (EV) battery maker, is in talks with a \"couple\" of automakers to create joint ventures to produce automotive batteries, Chief Executive Officer Hak Cheol Shin told Reuters on Friday.",
+            "url": "https://uk.reuters.com/article/us-lg-chem-ceo-idUKKBN2710PG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537693245&r=LYNXMPEG9F0E8&w=800",
+            "publishedAt": "2020-10-16T05:54:08Z",
+            "content": "SEOUL (Reuters) - LG Chem, the worlds top electric vehicle (EV) battery maker, is in talks with a couple of automakers to create joint ventures to produce automotive batteries, Chief Executive Office\u2026 [+939 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John McCrank",
+            "title": "Wall Street Week Ahead: Big tech nervousness prompts calls to diversify",
+            "description": "As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and that new regulation might be coming have some investors diversifying beyond the rally leaders.",
+            "url": "https://ca.reuters.com/article/us-usa-stocks-weekahead-idCAKBN2712PB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537781525&r=LYNXMPEG9F1NI&w=800",
+            "publishedAt": "2020-10-16T17:30:06Z",
+            "content": "By John McCrank\r\nNEW YORK (Reuters) - As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and that new regulati\u2026 [+4031 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eliza Relman, Dave Levinthal, Tom LoBianco, Kayla Epstein, Elvina Nawaguna and Angela Wang",
+            "title": "How QAnon infiltrated the GOP",
+            "description": "Summary List PlacementMIDDLETOWN, Pennsylvania \u2014\u00a0At first glance, John Sabal doesn't fit the profile of a typical Republican foot soldier. He's not a fan of Big Business, and before 2016 he'd never voted for a Republican president.\nThe 30-year-old salesman an\u2026",
+            "url": "https://www.businessinsider.com/how-qanon-infiltrated-the-gop-2020-10",
+            "urlToImage": "https://i.insider.com/5f89dcf19e9fe40019009d2a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-16T18:27:38Z",
+            "content": "MIDDLETOWN, Pennsylvania \u2014\u00a0At first glance, John Sabal doesn't fit the profile of a typical Republican foot soldier. He's not a fan of Big Business, and before 2016 he'd never voted for a Republican \u2026 [+29914 chars]"
+        }
+    ]
+}

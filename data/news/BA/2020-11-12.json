@@ -1,0 +1,825 @@
+{
+    "status": "ok",
+    "totalResults": 63,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Boeing raises 20-yr forecast for China aircraft demand despite pandemic - Reuters UK",
+            "description": "UPDATE 1-Boeing raises 20-yr forecast for China aircraft demand despite pandemic\u00a0\u00a0Reuters UK",
+            "url": "https://uk.reuters.com/article/china-aviation-boeing-idUKL1N2HY07P",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T04:28:00Z",
+            "content": "By Reuters Staff\r\n* China expected to buy 8,600 new planes worth $1.4 trln by 2039\r\n* Previous estimate was for China to buy 8,090 planes by 2038\r\n* Growth contrasts with cut to Boeings global demand\u2026 [+2398 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Emirates posts $3.4 billion half-year loss as COVID-19 hits flights - Reuters UK",
+            "description": "Emirates lost $3.4 billion in the first six months of the year, tipping the Dubai state-owned airline's holding company into its first half-year loss in more than thirty years.",
+            "url": "https://uk.reuters.com/article/us-emirates-airline-results-idUKKBN27S0TI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540937648&r=LYNXMPEGAB0G5&w=800",
+            "publishedAt": "2020-11-12T07:35:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Emirates Airline Boeing 777-300ER planes are seen at Dubai International Airport in Dubai, United Arab Emirates February 15, 2019. REUTERS/Christopher Pike\r\nDUBAI (Reute\u2026 [+750 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Rolls-Royce sells 94% of new shares in 2 billion pound rights issue - Reuters Canada",
+            "description": "British engineering company Rolls-Royce <RR.L> said shareholders signed up for 94% of new shares it issued as part of a 2 billion pound ($2.64 billion) rights issue aimed at bolstering its pandemic-hit finances.",
+            "url": "https://ca.reuters.com/article/us-rolls-royce-hldg-finances-idCAKBN27S0WD",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540940120&r=LYNXMPEGAB0HH&w=800",
+            "publishedAt": "2020-11-12T07:46:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Workers apply a Rolls Royce decal to the engine of a Bombardier Global 6500 business jet at the Bombardier booth at the National Business Aviation Association (NBAA) exh\u2026 [+1670 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Pandemic sends Emirates to half-year loss for first time over 30 years - Reuters",
+            "description": "Pandemic sends Emirates to half-year loss for first time over 30 years\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-emirates-airline-results-idUSKBN27S0TI",
+            "urlToImage": null,
+            "publishedAt": "2020-11-12T07:22:00Z",
+            "content": "FILE PHOTO: Emirates Airline Boeing 777-300ER planes are seen at Dubai International Airport in Dubai, United Arab Emirates February 15, 2019. REUTERS/Christopher Pike\r\nAutos\r\nReuters Staff\r\nDUBAI (R\u2026 [+923 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China will need 8,600 new aircraft over next 20 years: Boeing - Reuters UK",
+            "description": "Chinese airlines will need 8,600 new airplanes worth $1.4 trillion over the next 20 years, Boeing Co <BA.N> said on Thursday.",
+            "url": "https://uk.reuters.com/article/us-china-aviation-boeing-idUKKBN27S0DG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540921034&r=LYNXMPEGAB07N&w=800",
+            "publishedAt": "2020-11-12T03:23:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Boeing logo is displayed on a screen, at the New York Stock Exchange (NYSE) in New York, U.S., August 7, 2019. REUTERS/Brendan McDermid\r\nBEIJING (Reuters) - Chinese \u2026 [+406 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China will need 8,600 new aircraft over next 20 years: Boeing - Reuters",
+            "description": "Chinese airlines will need 8,600 new airplanes worth $1.4 trillion over the next 20 years, Boeing Co <BA.N> said on Thursday.",
+            "url": "https://www.reuters.com/article/us-china-aviation-boeing-idUSKBN27S0DG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540921034&r=LYNXMPEGAB07N&w=800",
+            "publishedAt": "2020-11-12T03:20:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Boeing logo is displayed on a screen, at the New York Stock Exchange (NYSE) in New York, U.S., August 7, 2019. REUTERS/Brendan McDermid\r\nBEIJING (Reuters) - Chinese \u2026 [+406 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Rolls-Royce sells 94% of new shares in 2 billion pound rights issue - Reuters",
+            "description": "Rolls-Royce sells 94% of new shares in 2 billion pound rights issue\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-rolls-royce-hldg-finances-idUSKBN27S0WD",
+            "urlToImage": null,
+            "publishedAt": "2020-11-12T07:45:00Z",
+            "content": "FILE PHOTO: Workers apply a Rolls Royce decal to the engine of a Bombardier Global 6500 business jet at the Bombardier booth at the National Business Aviation Association (NBAA) exhibition in Las Veg\u2026 [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski, David Shepardson",
+            "title": "UPDATE 1-U.S. airlines caution on winter challenges as COVID-19 cases rise - Reuters India",
+            "description": "Delta Air Lines and Southwest Airlines on Thursday cautioned that the recent surge in COVID-19 cases may have a negative impact on travel over the winter holidays, a period the sector had hoped would see improved bookings.",
+            "url": "https://in.reuters.com/article/health-coronavirus-usa-airlines-idINL1N2HY2A3",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T19:15:00Z",
+            "content": "(Adds U.S. statistics, Congress talks ongoing, quotes from American Airlines)\r\nNov 12 (Reuters) - Delta Air Lines and Southwest Airlines on Thursday cautioned that the recent surge in COVID-19 cases \u2026 [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa reaches crisis deal with union to cut costs - Reuters India",
+            "description": "German airline Lufthansa <LHAG.DE> said on Wednesday it had reached a new deal with trade union Verdi to cut 200 million euros (\u00a3178 million) in costs in return for making no compulsory redundancies in 2021.",
+            "url": "https://in.reuters.com/article/lufthansa-jobs-idINKBN27S08U",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540916908&r=LYNXMPEGAB04W&w=800",
+            "publishedAt": "2020-11-12T02:18:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - German airline Lufthansa LHAG.DE said on Wednesday it had reached a new deal with trade union Verdi to cut 200 million euros (\u00a3178 million) in costs in return for\u2026 [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa reaches crisis deal with union to cut costs - Reuters",
+            "description": "German airline Lufthansa <LHAG.DE> said on Wednesday it had reached a new deal with trade union Verdi to cut 200 million euros (\u00a3178 million) in costs in return for making no compulsory redundancies in 2021.",
+            "url": "https://www.reuters.com/article/lufthansa-jobs-idUSKBN27S08U",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540916908&r=LYNXMPEGAB04W&w=800",
+            "publishedAt": "2020-11-12T02:22:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - German airline Lufthansa LHAG.DE said on Wednesday it had reached a new deal with trade union Verdi to cut 200 million euros (\u00a3178 million) in costs in return for\u2026 [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed",
+            "title": "Singapore-Hong Kong travel bubble sparks surge in bookings, hopes for broader re-opening - Reuters",
+            "description": "The opening of Asia's first \"travel bubble\" allowing tourism without quarantines since the pandemic hit has sparked a surge in searches and bookings for travel between Singapore and Hong Kong, stirring hopes the model could be rolled out more broadly.",
+            "url": "https://www.reuters.com/article/health-coronavirus-hong-kong-singapore-idUSKBN27S0GX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540925788&r=LYNXMPEGAB09X&w=800",
+            "publishedAt": "2020-11-12T04:33:00Z",
+            "content": "SYDNEY (Reuters) - The opening of Asias first travel bubble allowing tourism without quarantines since the pandemic hit has sparked a surge in searches and bookings for travel between Singapore and H\u2026 [+2021 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "As public investors reprice edtech bets, what\u2019s ahead for the hot startup sector?",
+            "description": "Reports on November 9 that a COVID-19 vaccine looks incredibly effective moved the market. Software stocks sold off\u00a0and long-suffering industries hammered by the pandemic saw their fortunes rise. It was odd to see airlines soaring and 2020 high-fliers like Zo\u2026",
+            "url": "http://techcrunch.com/2020/11/12/as-public-investors-reprice-edtech-bets-whats-ahead-for-the-hot-startup-sector/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/bulb-on-off1.gif?w=711",
+            "publishedAt": "2020-11-12T20:51:12Z",
+            "content": "Reports on November 9 that a COVID-19 vaccine looks incredibly effective moved the market. Software stocks sold off\u00a0and long-suffering industries hammered by the pandemic saw their fortunes rise. It \u2026 [+1948 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Factbox: How Ethiopia's Tigray conflict imperils region - Reuters UK",
+            "description": "Ethiopa's Prime Minister Abiy Ahmed, who won the 2019 Nobel Peace Prize, has sent troops into northern Tigray state whose leaders he accuses of treason, triggering a conflict with implications around the Horn of Africa.",
+            "url": "https://www.reuters.com/article/uk-ethiopia-conflict-impact-factbox-idUKKBN27S1US",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540975060&r=LYNXMPEGAB12Q&w=800",
+            "publishedAt": "2020-11-12T13:14:00Z",
+            "content": "By Reuters Staff\r\nADDIS ABABA (Reuters) - Ethiopas Prime Minister Abiy Ahmed, who won the 2019 Nobel Peace Prize, has sent troops into northern Tigray state whose leaders he accuses of treason, trigg\u2026 [+3653 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Factbox: How Ethiopia's Tigray conflict imperils region - Reuters",
+            "description": "Ethiopa's Prime Minister Abiy Ahmed, who won the 2019 Nobel Peace Prize, has sent troops into northern Tigray state whose leaders he accuses of treason, triggering a conflict with implications around the Horn of Africa.",
+            "url": "https://www.reuters.com/article/us-ethiopia-conflict-impact-factbox-idUSKBN27S23J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540984440&r=LYNXMPEGAB19L&w=800",
+            "publishedAt": "2020-11-12T14:27:00Z",
+            "content": "By Reuters Staff\r\nADDIS ABABA (Reuters) - Ethiopas Prime Minister Abiy Ahmed, who won the 2019 Nobel Peace Prize, has sent troops into northern Tigray state whose leaders he accuses of treason, trigg\u2026 [+3670 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Factbox: How Ethiopia's Tigray conflict imperils region - Reuters UK",
+            "description": "Ethiopa's Prime Minister Abiy Ahmed, who won the 2019 Nobel Peace Prize, has sent troops into northern Tigray state whose leaders he accuses of treason, triggering a conflict with implications around the Horn of Africa.",
+            "url": "https://uk.reuters.com/article/uk-ethiopia-conflict-impact-factbox-idUKKBN27S1US",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540975060&r=LYNXMPEGAB12Q&w=800",
+            "publishedAt": "2020-11-12T13:14:00Z",
+            "content": "By Reuters Staff\r\nADDIS ABABA (Reuters) - Ethiopas Prime Minister Abiy Ahmed, who won the 2019 Nobel Peace Prize, has sent troops into northern Tigray state whose leaders he accuses of treason, trigg\u2026 [+3653 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "FACTBOX-How Ethiopia's Tigray conflict imperils region - Reuters India",
+            "description": "Ethiopa's Prime Minister Abiy Ahmed, who won the 2019 Nobel Peace Prize, has sent troops into northern Tigray state whose leaders he accuses of treason, triggering a conflict with implications around the Horn of Africa.",
+            "url": "https://www.reuters.com/article/ethiopia-conflict-impact-idINL1N2HY0SS",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T12:49:00Z",
+            "content": "By Reuters Staff\r\nADDIS ABABA, Nov 12 (Reuters) - Ethiopas Prime Minister Abiy Ahmed, who won the 2019 Nobel Peace Prize, has sent troops into northern Tigray state whose leaders he accuses of treaso\u2026 [+3481 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "FACTBOX-How Ethiopia's Tigray conflict imperils region - Reuters India",
+            "description": "Ethiopa's Prime Minister Abiy Ahmed, who won the 2019 Nobel Peace Prize, has sent troops into northern Tigray state whose leaders he accuses of treason, triggering a conflict with implications around the Horn of Africa.",
+            "url": "https://in.reuters.com/article/ethiopia-conflict-impact-idINL1N2HY0SS",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T12:49:00Z",
+            "content": "By Reuters Staff\r\nADDIS ABABA, Nov 12 (Reuters) - Ethiopas Prime Minister Abiy Ahmed, who won the 2019 Nobel Peace Prize, has sent troops into northern Tigray state whose leaders he accuses of treaso\u2026 [+3481 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Armenia says its airspace is open for civil aircraft - Reuters India",
+            "description": "Armenia's airspace remains open for civil aircraft, the country's Civil Aviation Committee head said on Thursday.",
+            "url": "https://in.reuters.com/article/armenia-airspace-idINKBN27S2CW",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T16:19:00Z",
+            "content": "By Reuters Staff\r\nYEREVAN (Reuters) - Armenias airspace remains open for civil aircraft, the countrys Civil Aviation Committee head said on Thursday.\r\nTatevik Revazyan denied an earlier report by Rus\u2026 [+200 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Dow, S&P futures drop as COVID-19 cases surge; tech stocks inch higher - Reuters",
+            "description": "Dow, S&P futures drop as COVID-19 cases surge; tech stocks inch higher\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-usa-stocks-idUSKBN27S21Q",
+            "urlToImage": null,
+            "publishedAt": "2020-11-12T14:07:00Z",
+            "content": "The U.S. flag covers the front facade of the New York Stock Exchange (NYSE) in New York City, New York, U.S., November 9, 2020. REUTERS/Brendan McDermid\r\nBusiness News\r\nMedha Singh\r\nShivani Kumaresan\u2026 [+2394 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "American Airlines to offer app detailing pandemic-related travel requirements - Reuters.com",
+            "description": "American Airlines to offer app detailing pandemic-related travel requirements\u00a0\u00a0Reuters.com",
+            "url": "https://www.reuters.com/article/us-american-airline-app-idUSKBN27S3EN",
+            "urlToImage": null,
+            "publishedAt": "2020-11-12T23:52:00Z",
+            "content": "FILE PHOTO: A lone customer seeks assistance at an American Airlines check-in counter at Washington's Reagan National airport as the novel coronavirus (COVID-19) pandemic continues, in Washington, U.\u2026 [+1034 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Southwest Airlines says revenue improvement loses steam - Reuters India",
+            "description": "Southwest Airlines Co said on Thursday an improvement in revenue seen in the past few months was losing steam in recent weeks amid surging COVID-19 cases in the United States, sending the U.S. budget carrier's shares down 2% in premarket trade.",
+            "url": "https://www.reuters.com/article/southwest-outlook-idINKBN27S226",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540984187&r=LYNXMPEGAB199&w=800",
+            "publishedAt": "2020-11-12T14:25:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Southwest Airlines planes are seen at LAX airport in Los Angeles, California, United States, October 22, 2015. REUTERS/Lucy Nicholson/File Photo\r\n(Reuters) - Southwest A\u2026 [+1410 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Southwest Airlines says revenue improvement loses steam - Reuters",
+            "description": "Southwest Airlines Co said on Thursday an improvement in revenue seen in the past few months was losing steam in recent weeks amid surging COVID-19 cases in the United States, sending the U.S. budget carrier's shares down 2% in premarket trade.",
+            "url": "https://www.reuters.com/article/southwest-outlook-idUSKBN27S226",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540984187&r=LYNXMPEGAB199&w=800",
+            "publishedAt": "2020-11-12T14:28:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Southwest Airlines planes are seen at LAX airport in Los Angeles, California, United States, October 22, 2015. REUTERS/Lucy Nicholson/File Photo\r\n(Reuters) - Southwest A\u2026 [+1410 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Medha Singh, Shivani Kumaresan",
+            "title": "US STOCKS-Dow, S&P 500 fall as COVID-19 pandemic rages on - Reuters India",
+            "description": "The S&P 500 and the Dow slipped on Thursday as U.S. coronavirus infections surged and investors weighed the timeline of the mass roll-out of an effective vaccine.",
+            "url": "https://in.reuters.com/article/usa-stocks-idINKBN27S25B",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540986216&r=LYNXMPEGAB1AG&w=800",
+            "publishedAt": "2020-11-12T16:54:00Z",
+            "content": "(Reuters) - The S&amp;P 500 and the Dow slipped on Thursday as U.S. coronavirus infections surged and investors weighed the timeline of the mass roll-out of an effective vaccine.\r\nFILE PHOTO: A stree\u2026 [+3185 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Medha Singh, Shivani Kumaresan",
+            "title": "US STOCKS-Dow, S&P 500 fall as COVID-19 cases spiral - Reuters UK",
+            "description": "The S&P 500 and the Dow fell on Thursday as U.S. coronavirus infections surged and investors weighed the timeline of the mass roll-out of an effective vaccine.",
+            "url": "https://uk.reuters.com/article/us-usa-stocks-idUKKBN27S21Q",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540985411&r=LYNXMPEGAB1AN&w=800",
+            "publishedAt": "2020-11-12T15:24:00Z",
+            "content": "(Reuters) - The S&amp;P 500 and the Dow fell on Thursday as U.S. coronavirus infections surged and investors weighed the timeline of the mass roll-out of an effective vaccine.\r\nFILE PHOTO: Numbers sh\u2026 [+2923 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "Wall Street ends sharply lower as pandemic fears resurge - Reuters Canada",
+            "description": "Wall Street ended sharply lower on Thursday as U.S. coronavirus infections surged and investors weighed the timeline for the mass rollout of an effective vaccine.",
+            "url": "https://ca.reuters.com/article/us-usa-stocks-idCAKBN27S21Q",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1541030555&r=LYNXMPEGAB1AN&w=800",
+            "publishedAt": "2020-11-12T21:16:00Z",
+            "content": "By Noel Randewich\r\n(Reuters) - Wall Street ended sharply lower on Thursday as U.S. coronavirus infections surged and investors weighed the timeline for the mass rollout of an effective vaccine.\r\nNew \u2026 [+2234 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Norway views Norwegian Air debt as key obstacle to aid - Reuters",
+            "description": "Norwegian Air's debts of more than $5 billion and a \"confusing\" ownership structure are the main obstacles to any extra state aid, Norway's transport minister said after the government this week rejected a cash injection plea.",
+            "url": "https://www.reuters.com/article/norwegianair-government-idUSL1N2HY0PX",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T09:52:00Z",
+            "content": "By Reuters Staff\r\nOSLO, Nov 12 (Reuters) - Norwegian Airs debts of more than $5 billion and a confusing ownership structure are the main obstacles to any extra state aid, Norways transport minister s\u2026 [+2217 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Norway views Norwegian Air debt as key obstacle to aid - Reuters India",
+            "description": "Norwegian Air's debts of more than $5 billion and a \"confusing\" ownership structure are the main obstacles to any extra state aid, Norway's transport minister said after the government this week rejected a cash injection plea.",
+            "url": "https://www.reuters.com/article/norwegianair-government-idINL1N2HY0PX",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T09:49:00Z",
+            "content": "By Reuters Staff\r\nOSLO, Nov 12 (Reuters) - Norwegian Airs debts of more than $5 billion and a confusing ownership structure are the main obstacles to any extra state aid, Norways transport minister s\u2026 [+2217 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Colombia's Avianca to pursue restructuring without government loan - Reuters",
+            "description": "Avianca Holdings said on Thursday it has won the support of a large number of institutional investors and existing lenders, meaning it will no longer need the Colombian government's participation as part of its restructuring process.",
+            "url": "https://www.reuters.com/article/avianca-restructuring-idUSL1N2HY28D",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T17:32:00Z",
+            "content": "By Reuters Staff\r\nBOGOTA, Nov 12 (Reuters) - Avianca Holdings said on Thursday it has won the support of a large number of institutional investors and existing lenders, meaning it will no longer need\u2026 [+1204 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. airlines caution on winter challenges as COVID-19 cases rise - Reuters",
+            "description": "Delta Air Lines <DAL.N> and Southwest Airlines <LUV.N> on Thursday cautioned that the recent surge in COVID-19 cases may have a negative impact on travel over the winter holidays, a period the sector had hoped would see improved bookings.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-airlines-idUSKBN27S2DT",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540994324&r=LYNXMPEGAB1GD&w=800",
+            "publishedAt": "2020-11-12T15:50:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Delta Air Lines DAL.N and Southwest Airlines LUV.N on Thursday cautioned that the recent surge in COVID-19 cases may have a negative impact on travel over the winter hol\u2026 [+1097 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Southwest Airlines says revenue improvement slowed in recent weeks - Reuters UK",
+            "description": "Southwest Airlines Co said on Thursday it has seen a slowdown in revenue improvement in recent weeks for the months of November and December, at a time when COVID-19 cases are rising in the United States.",
+            "url": "https://www.reuters.com/article/southwest-outlook-idUKL4N2HY3FV",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T11:48:00Z",
+            "content": "By Reuters Staff\r\nNov 12 (Reuters) - Southwest Airlines Co said on Thursday it has seen a slowdown in revenue improvement in recent weeks for the months of November and December, at a time when COVID\u2026 [+317 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Southwest Airlines says revenue improvement slowed in recent weeks - Reuters India",
+            "description": "Southwest Airlines Co said on Thursday it has seen a slowdown in revenue improvement in recent weeks for the months of November and December, at a time when COVID-19 cases are rising in the United States.",
+            "url": "https://www.reuters.com/article/southwest-outlook-idINL4N2HY3FV",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T11:44:00Z",
+            "content": "By Reuters Staff\r\nNov 12 (Reuters) - Southwest Airlines Co said on Thursday it has seen a slowdown in revenue improvement in recent weeks for the months of November and December, at a time when COVID\u2026 [+317 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "American Airlines to offer app detailing pandemic-related travel requirements - Reuters Canada",
+            "description": "American Airlines Group Inc said on Thursday it would offer its customers a mobile app from Nov. 18 to show COVID-19 testing and documentation requirements for their destination.",
+            "url": "https://ca.reuters.com/article/ctech-us-american-airline-app-idCAKBN27S3EN-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1541046110&r=LYNXMPEGAB22X-OCATC&w=800",
+            "publishedAt": "2020-11-12T23:51:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A lone customer seeks assistance at an American Airlines check-in counter at Washington's Reagan National airport as the novel coronavirus (COVID-19) pandemic continues,\u2026 [+858 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "American Airlines to offer app detailing pandemic-related travel requirements - Reuters India",
+            "description": "American Airlines Group Inc said on Thursday it would offer its customers a mobile app from Nov. 18 to show COVID-19 testing and documentation requirements for their destination.",
+            "url": "https://www.reuters.com/article/american-airline-app-idUSL4N2HY5I2",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T23:09:19Z",
+            "content": "By Reuters Staff\r\nNov 12 (Reuters) - American Airlines Group Inc said on Thursday it would offer its customers a mobile app from Nov. 18 to show COVID-19 testing and documentation requirements for th\u2026 [+683 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "JetBlue says will phase out seat blocks by early 2021 - Reuters",
+            "description": "JetBlue Airways <JBLU.O> is gradually removing seat blocks set up on its flights early in the pandemic, with all available seats up for sale after the holiday travel season, the budget carrier said on Thursday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-jetblue-airways-idUSKBN27S32Q",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1541025812&r=LYNXMPEGAB1WK&w=800",
+            "publishedAt": "2020-11-12T20:20:00Z",
+            "content": "FILE PHOTO: JetBlue Airways logo is displayed on a monitor in Terminal 5 at John F. Kennedy International Airport during a terminal test in New York August 23, 2008. REUTERS/Joshua Lott (UNITED STATE\u2026 [+1368 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "JetBlue says will phase out seat blocks by early 2021 - Reuters UK",
+            "description": "JetBlue Airways <JBLU.O> is gradually removing seat blocks set up on its flights early in the pandemic, with all available seats up for sale after the holiday travel season, the budget carrier said on Thursday.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-jetblue-airways-idUKKBN27S32Q",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1541025812&r=LYNXMPEGAB1WK&w=800",
+            "publishedAt": "2020-11-12T20:19:00Z",
+            "content": "FILE PHOTO: JetBlue Airways logo is displayed on a monitor in Terminal 5 at John F. Kennedy International Airport during a terminal test in New York August 23, 2008. REUTERS/Joshua Lott (UNITED STATE\u2026 [+1368 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Medha Singh",
+            "title": "US STOCKS-S&P futures muted as COVID-19 cases surge; tech stocks shine - Reuters",
+            "description": "Futures tracking the S&P 500 were little changed on Thursday as U.S. coronavirus infections surged and investors weighed the timeline of the roll-out of an effective vaccine, while technology stocks headed higher for the second straight day.",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSL4N2HY3CY",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T11:52:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window)\r\n* Futures: Dow down 0.3%, S&amp;P flat, Nasdaq up 0.4%\r\nNov 12 (Reuters) - Futures tracki\u2026 [+1653 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Most Gulf markets retreat; Dubai leads declines - Reuters",
+            "description": "Most Gulf markets retreat; Dubai leads declines\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/mideast-stocks-int-idUSKBN27S10V",
+            "urlToImage": null,
+            "publishedAt": "2020-11-12T08:23:00Z",
+            "content": "FILE PHOTO: Traders monitor stock information at Dubai Financial Market, in Dubai, United Arab Emirates, November 9, 2016. REUTERS/Stringer\r\nMiddle East &amp; Africa\r\nReuters Staff\r\n(Reuters) - Most \u2026 [+1927 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shruti Sonal",
+            "title": "Australian shares trade flat as vaccine winners catch breath - Reuters",
+            "description": "Australia's benchmark share index paused on Thursday, after a five-day rally, as losses in energy, financial and travel-related stocks offset a strong showing by tech firms.",
+            "url": "https://www.reuters.com/article/australia-stocks-midday-idUSL4N2HX4SW",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T01:11:00Z",
+            "content": "* Energy stocks on track for best week ever\r\n* Telecom firm Telstra soars on shake-up plans\r\n* NZ shares eye eighth straight session of gains\r\nNov 12 (Reuters) - Australias benchmark share index paus\u2026 [+1588 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Nikkei closes near 29-1/2-year high; vaccine caution weighs - Reuters",
+            "description": "Japan's Nikkei share average closed near a 29-1/2-year high on Thursday as technology shares tracked their U.S. peers higher, although gains were checked by profit-booking following a rally fuelled by optimism over COVID-19 vaccine-related developments.",
+            "url": "https://www.reuters.com/article/japan-stocks-idUSL1N2HY0DZ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T07:01:00Z",
+            "content": "By Reuters Staff\r\nTOKYO, Nov 12 (Reuters) - Japans Nikkei share average closed near a 29-1/2-year high on Thursday as technology shares tracked their U.S. peers higher, although gains were checked by\u2026 [+1734 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Swiss leader suggests how to revive stalled treaty to EU's von der Leyen - Reuters",
+            "description": "Swiss leader suggests how to revive stalled treaty to EU's von der Leyen\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-swiss-eu-idUSKBN27S1S5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-12T12:31:00Z",
+            "content": "FILE PHOTO: Swiss President Simonetta Sommaruga speaks during a news conference with Swiss Interior Minister Alain Berset (not pictured) and Swiss Economic Minister Guy Parmelin (not pictured), as th\u2026 [+2081 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Typhoon Vamco lashes main Philippine island, kills one - Reuters",
+            "description": "Typhoon Vamco soaked and lashed provinces in the Philippines' main Luzon island overnight, killing one person while three more are missing, the local disaster agency said on Thursday.",
+            "url": "https://www.reuters.com/article/us-asia-storm-philippines-idUSKBN27S011",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540908996&r=LYNXMPEGAB00Y&w=800",
+            "publishedAt": "2020-11-12T00:20:00Z",
+            "content": "By Reuters Staff\r\nMANILA (Reuters) - Typhoon Vamco soaked and lashed provinces in the Philippines main Luzon island overnight, killing one person while three more are missing, the local disaster agen\u2026 [+1983 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kate Duguid",
+            "title": "PIMCO's Ivascyn says vaccine boosts outlook for some pandemic-hit junk bonds - Reuters",
+            "description": "Positive data on an experimental COVID-19 vaccine has improved the outlook for high-yield credit, especially for companies slammed by the coronavirus pandemic, said Dan Ivascyn, chief investment officer at bond giant Pacific Investment Management Co (PIMCO).",
+            "url": "https://www.reuters.com/article/us-usa-fund-pimco-idUSKBN27S0M1",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540931227&r=LYNXMPEGAB0C3&w=800",
+            "publishedAt": "2020-11-12T06:08:00Z",
+            "content": "NEW YORK (Reuters) - Positive data on an experimental COVID-19 vaccine has improved the outlook for high-yield credit, especially for companies slammed by the coronavirus pandemic, said Dan Ivascyn, \u2026 [+2327 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kate Duguid",
+            "title": "PIMCO's Ivascyn says vaccine boosts outlook for some pandemic-hit junk bonds - Reuters Canada",
+            "description": "Positive data on an experimental COVID-19 vaccine has improved the outlook for high-yield credit, especially for companies slammed by the coronavirus pandemic, said Dan Ivascyn, chief investment officer at bond giant Pacific Investment Management Co (PIMCO).",
+            "url": "https://ca.reuters.com/article/us-usa-fund-pimco-idCAKBN27S0M1",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540931227&r=LYNXMPEGAB0C3&w=800",
+            "publishedAt": "2020-11-12T06:11:00Z",
+            "content": "NEW YORK (Reuters) - Positive data on an experimental COVID-19 vaccine has improved the outlook for high-yield credit, especially for companies slammed by the coronavirus pandemic, said Dan Ivascyn, \u2026 [+2327 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Douglas Busvine",
+            "title": "Deutsche Telekom chief says market undervalues its growth story - Reuters UK",
+            "description": "Deutsche Telekom <DTEGn.DE> raised its full-year guidance on Thursday after forecast-beating results that CEO Tim Hoettges said demonstrated that the market is undervaluing the growth story at the transatlantic telecoms group.",
+            "url": "https://uk.reuters.com/article/uk-deutsche-telekom-results-stocks-idUKKBN27S1QA",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540970218&r=LYNXMPEGAB0ZR&w=800",
+            "publishedAt": "2020-11-12T12:16:00Z",
+            "content": "BERLIN (Reuters) - Deutsche Telekom DTEGn.DE raised its full-year guidance on Thursday after forecast-beating results that CEO Tim Hoettges said demonstrated that the market is undervaluing the growt\u2026 [+2764 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "The Indian Airline on a $10 Billion Pandemic Shopping Spree",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-12/indigo-sees-opportunity-to-grow-as-covid-crushes-airlines",
+            "urlToImage": null,
+            "publishedAt": "2020-11-12T17:01:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Airlines Say It's Safe to Fly Again. Is It?",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-12/is-it-safe-yet-to-fly-during-the-pandemic",
+            "urlToImage": null,
+            "publishedAt": "2020-11-12T08:03:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Jacqueline Feldscher",
+            "title": "Will Biden make Air Force One blue again?",
+            "description": "While the move is expected, it's not yet clear whether Biden will actually go through with it.",
+            "url": "https://www.politico.com/news/2020/11/12/biden-air-force-one-blue-436328",
+            "urlToImage": "https://static.politico.com/e5/e4/40613de6481c8acb98bbdc496808/ap19172007235733-1.jpg",
+            "publishedAt": "2020-11-12T20:24:50Z",
+            "content": "\"When Trump changed it, it was clearly just to resemble his own aircraft,\" Aboulafia said. \"New coats of paint are very easily applied.\"\r\nWhile the move is expected, it's not yet clear whether Biden \u2026 [+2585 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "Boeing issues surprisingly upbeat outlook for Chinese aircraft demand",
+            "description": "Global demand for new aircraft is likely to be hurt for decades because of the Covid-19 pandemic. Yet Boeing just increased its industrywide Chinese sales forecast for the next 20 years -- above where that estimate stood in pre-pandemic times.",
+            "url": "https://www.cnn.com/2020/11/12/business/boeing-china-aircraft-sales-outlook/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201112090804-boeing-777-china-eastern-airlines-1015-restricted-super-tease.jpg",
+            "publishedAt": "2020-11-12T16:48:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "US STOCKS-Wall St drops as pandemic fears return - Reuters",
+            "description": "<ol><li>US STOCKS-Wall St drops as pandemic fears return\u00a0\u00a0Reuters\r\n</li><li>Huge Price Gaps To Fill on DJIA, and RUT for November 13 by FX Empire\u00a0\u00a0FX Empire\r\n</li><li>Dow falls 180 points as COVID worries eclipse vaccine rally\u00a0\u00a0Aljazeera.com\r\n</li><li>Wall St\u2026",
+            "url": "https://ca.reuters.com/article/usa-stocks-idUKL1N2HY2R4",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-12T19:49:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window)\r\n* Airlines, cruise line operators drop as virus cases spiral\r\n* Moderna climbs as it clos\u2026 [+3016 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Morgan McFall-Johnsen, Susie Neilson and Dave Mosher",
+            "title": "SpaceX is about to launch its longest and most ambitious NASA mission to date. Here's what to expect from liftoff to landing.",
+            "description": "Summary List Placement\n\nSpaceX is about to launch its most important NASA mission yet: On Saturday, Elon Musk's rocket company is slated to send four astronauts to the International Space Station on its Crew Dragon spaceship.\nCrew-1, as the flight is called, \u2026",
+            "url": "https://www.businessinsider.com/spacex-crew-1-mission-timeline-nasa-astronaut-launch-2020-11",
+            "urlToImage": "https://i.insider.com/5fac51bd144744001858141b?width=1200&format=jpeg",
+            "publishedAt": "2020-11-12T23:10:00Z",
+            "content": "SpaceX is about to launch its most important NASA mission yet: On Saturday, Elon Musk's rocket company is slated to send four astronauts to the International Space Station on its Crew Dragon spaceshi\u2026 [+1347 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "Here's how to book holiday travel with no risk of losing money and a full refund if you have to cancel",
+            "description": "Some airlines are touting the elimination of change and cancel fees but that's not enough to get a refund if the pandemic worsens this holiday season.",
+            "url": "https://www.businessinsider.com/how-book-holiday-travel-with-no-risk-losing-money-refund-2020-10",
+            "urlToImage": "https://i.insider.com/5f99b2db6f5b310011723ee5?width=1200&format=jpeg",
+            "publishedAt": "2020-11-12T18:50:34Z",
+            "content": "The onset of the pandemic in March saw thousands of travelers rush to cancel flights as the global outbreak decimated the ability to travel. Non-essential travel was discouraged and outright banned i\u2026 [+6126 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Lindsay Tigar",
+            "title": "What you should buy to stay safe during holiday travel",
+            "description": "The holidays are nearly here, and if you're planning on visiting family, there's a few things you should know. Unfortunately, the pandemic isn't over yet, so we've talked to doctors to find the best products to help you stay safe when you travel.",
+            "url": "https://www.cnn.com/2020/11/12/cnn-underscored/stay-safe-when-flying-covid-19/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201111121907-holiday-travel-coronavirus-covid-19-safety-lead-super-169.jpg",
+            "publishedAt": "2020-11-12T19:58:48Z",
+            "content": "Earlier in the pandemic, when my partner and I decided to spend six weeks in his hometown of Copenhagen, we knew the flight would be the most stressful part of the experience. Because Denmark was all\u2026 [+10003 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jasmin Baron",
+            "title": "The Amex Platinum just launched an increased welcome bonus of 75,000 points, plus a unique twist that can earn you up to 150,000 more in the first six months",
+            "description": "Summary List Placement\n\u00a0\n<ul>\n<li>The Platinum Card\u00ae from American Express\r\n is out with a new increased offer to earn 60,000 points after you spend at least $5,000 in your first 3 months of account opening\r\n.</li>\n<li>You'll also earn 10x American Express Me\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/amex-platinum-current-offer",
+            "urlToImage": "https://i.insider.com/5fab11cff24e720018a2ab9b?width=1200&format=jpeg",
+            "publishedAt": "2020-11-12T22:18:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+10292 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Natalie Colarossi",
+            "title": "What Biden's Potential Treasury Secretaries Have Said About a Second Stimulus",
+            "description": "Lael Brainard, Elizabeth Warren and Janet Yellen are tipped to be Biden's Treasury Secretary. Here's what they've said about a second stimulus deal.",
+            "url": "https://www.newsweek.com/what-bidens-potential-treasury-secretaries-have-said-about-second-stimulus-1546970",
+            "urlToImage": "https://d.newsweek.com/en/full/1669308/joe-biden.jpg",
+            "publishedAt": "2020-11-12T18:30:41Z",
+            "content": "Three women have been touted for the position of treasury secretary in Joe Biden's administration, a role which will help determine the status of another coronavirus stimulus plan.\r\nAmong the contend\u2026 [+4390 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Stocks in these 11 industries are set to rocket higher once a COVID-19 vaccine is approved, UBS says",
+            "description": "Construction workers build a new Centex home on Tuesday, June 23, 2020, in Houston. David J. Phillip/AP  Industries that have been most impacted...",
+            "url": "https://www.businessinsider.com/stock-market-outlook-industries-value-higher-approved-covid19-vaccine-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fad609ddf90d0001837815f?format=jpeg",
+            "publishedAt": "2020-11-12T17:06:00Z",
+            "content": "Construction workers build a new Centex home on Tuesday, June 23, 2020, in Houston.\r\nDavid J. Phillip/AP\r\n<ul><li>Industries that have been most impacted by the COVID-19 pandemic are set to gain the \u2026 [+3931 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "Orlando just unveiled plans for the first US flying taxi airport. Passengers will be able to book the vehicles via an app and zoom over the highway at 186 mph \u2014 take a look.",
+            "description": "Lilium's 186 mph vertical-takeoff taxis will run from the proposed \"Lake Nona Vertiport,\" expected to complete in 2025.",
+            "url": "https://www.businessinsider.com/flying-taxi-vertiport-orlando-lilium-airport-uber-flying-car-2020-11",
+            "urlToImage": "https://i.insider.com/5fad2a037f8f4200182a6749?width=1200&format=jpeg",
+            "publishedAt": "2020-11-12T16:34:13Z",
+            "content": "The City of Orlando unveiled plans Wednesday to build the US's first flying-taxi hub.\r\nGerman aviation company Lilium, which makes the taxis, property firm Tavistock Development Company, and the city\u2026 [+508 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Geoffrey Morgan",
+            "title": "Now you can pay an extra 2 cents per litre at Shell gas stations to offset your carbon emissions",
+            "description": "CALGARY \u2013 Canadian drivers will now have the option of paying more per litre of gasoline to offset the emissions from their tailpipes as Shell Canada Ltd. debuts a program across the country that has become popular in Europe. \n \n \n \n \n \n Shell announced Thurs\u2026",
+            "url": "https://financialpost.com/commodities/now-you-can-pay-an-extra-2-cents-per-litre-at-shell-gas-stations-to-offset-your-carbon-emissions",
+            "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2019/04/gas-pump-1.jpg",
+            "publishedAt": "2020-11-12T22:00:32Z",
+            "content": "In many countries and in specific carbon tax regimes in Canada, carbon offsets or carbon credits can be purchased from projects that capture or reduce CO2 and other greenhouse gas emissions. Shell sa\u2026 [+1433 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "The pandemic's dangerous transition - POLITICO - Politico",
+            "description": "The pandemic's dangerous transition - POLITICO\u00a0\u00a0Politico",
+            "url": "https://www.politico.com/newsletters/politico-nightly/2020/11/11/the-pandemics-dangerous-transition-490873",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-11-12T01:00:00Z",
+            "content": "Presented by The Bouqs Co.\r\nWith help from Myah Ward and Tyler Weyant\r\nFAUCI AND BIDEN CAN'T TALK YET Joe Biden wants Anthony Fauci to play a leading role in his administrations response to the coron\u2026 [+16738 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Pandemic sends Emirates to half-year loss for first time over 30 years",
+            "description": "Emirates airline said on Thursday it lost $3.4 billion in the first half of the year due to the coronavirus crisis, handing its holding company a half-year loss for the first time in over thirty years.",
+            "url": "https://ca.reuters.com/article/us-emirates-airline-results-idCAKBN27S0TI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540937648&r=LYNXMPEGAB0G5&w=800",
+            "publishedAt": "2020-11-12T07:21:14Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Emirates Airline Boeing 777-300ER planes are seen at Dubai International Airport in Dubai, United Arab Emirates February 15, 2019. REUTERS/Christopher Pike\r\nDUBAI (Reute\u2026 [+750 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Benjamin Brimelow)",
+            "title": "A short history of US fighter aircraft \u2014 from biplanes to stealth jets",
+            "description": "The surest way to secure the skies over a battlefield is with fighter aircraft, and nobody knows that better than the US Air Force.",
+            "url": "https://www.businessinsider.com/the-fighter-planes-and-jets-the-us-military-has-used-2020-11",
+            "urlToImage": "https://i.insider.com/5faaed4b1df1d50018219fcc?width=1200&format=jpeg",
+            "publishedAt": "2020-11-12T00:15:45Z",
+            "content": "The surest way to secure the skies over a battlefield is with fighter aircraft, and nobody knows that better than the US Air Force.\r\nThough America's aerial-warfare beginnings were humble, the Air Fo\u2026 [+7293 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Norway views Norwegian Air debt as key obstacle to aid",
+            "description": "Norwegian Air's <NORR.OL> debts of more than $5 billion (3.7 billion pounds) and a \"confusing\" ownership structure are the main obstacles to any extra state aid, Norway's transport minister said after the government this week rejected a cash injection plea.",
+            "url": "https://uk.reuters.com/article/uk-norwegianair-government-idUKKBN27S1AN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540955385&r=LYNXMPEGAB0P6&w=800",
+            "publishedAt": "2020-11-12T09:59:17Z",
+            "content": "By Reuters Staff\r\nOSLO (Reuters) - Norwegian Air's NORR.OL debts of more than $5 billion (3.7 billion pounds) and a \"confusing\" ownership structure are the main obstacles to any extra state aid, Norw\u2026 [+2211 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Swiss leader suggests how to revive stalled treaty to EU's von der Leyen",
+            "description": "Swiss President Simonetta Sommaruga called European Commission President Ursula von der Leyen on Thursday to outline Bern's proposal to unblock a stalled bilateral treaty, von der Leyen said in a tweet.",
+            "url": "https://ca.reuters.com/article/us-swiss-eu-idCAKBN27S1S5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540972377&r=LYNXMPEGAB10W&w=800",
+            "publishedAt": "2020-11-12T12:30:03Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Swiss President Simonetta Sommaruga speaks during a news conference with Swiss Interior Minister Alain Berset (not pictured) and Swiss Economic Minister Guy Parmelin (no\u2026 [+1877 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "NASA is finally about to send its first Black astronaut to live in space",
+            "description": "\"My heart is low, my head is level, and my faith is high.\"",
+            "url": "https://arstechnica.com/science/2020/11/nasa-is-finally-about-to-send-its-first-black-astronaut-to-live-in-space/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/NHQ201808030008_large-760x380.jpg",
+            "publishedAt": "2020-11-12T21:56:31Z",
+            "content": "Enlarge/ NASA announced in August 2018 that Victor Glover would be flying aboard the first operational Crew Dragon mission to the International Space Station.\r\n2 with 2 posters participating\r\nVictor \u2026 [+5101 chars]"
+        }
+    ]
+}

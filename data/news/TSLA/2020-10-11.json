@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Richard Branson's Virgin Orbit seeks $1 billion valuation in funding round: WSJ - Reuters Africa",
+            "description": "Richard Branson's satellite-launch business Virgin Orbit is looking to raise up to $200 million in a funding round that could value it at around $1 billion, The Wall Street Journal reported on Sunday, citing people familiar with the matter.",
+            "url": "https://www.reuters.com/article/us-virginorbit-funding-idUSKBN26W0DB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201011&t=2&i=1537017274&r=LYNXMPEG9A07S&w=800",
+            "publishedAt": "2020-10-11T09:29:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Richard Branson's Virgin Orbit, with a rocket underneath the wing of a modified Boeing 747 jetliner, prior to its takeoff on a key drop test of its high-altitude launch \u2026 [+884 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Keerthi Vedantam",
+            "title": "How to impress an Adobe recruiter, as the $241 billion firm continues to hire for hundreds of positions (ADBE)",
+            "description": "Summary List Placement\n\nMark Lipscomb had an unconventional start to HR. He served two tours in the Middle East right out of college as a naval officer, had a short stint as a lacrosse coach at Stanford University, and stumbled his way into HR by complaining \u2026",
+            "url": "https://www.businessinsider.com/mark-lipscomb-how-to-get-hired-at-adobe-humble-2020-10",
+            "urlToImage": "https://i.insider.com/5f80d9eb642e9400180b523c?width=1200&format=jpeg",
+            "publishedAt": "2020-10-11T13:00:00Z",
+            "content": "Mark Lipscomb had an unconventional start to HR. He served two tours in the Middle East right out of college as a naval officer, had a short stint as a lacrosse coach at Stanford University, and stum\u2026 [+3422 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Peter Roff",
+            "title": "What to Do About Columbus Day | Opinion",
+            "description": "Rather than abolish Columbus Day, let us add to its meaning. Let's make it the holiday that celebrates the accomplishments immigrants have made and continue to make for America and the world.",
+            "url": "https://www.newsweek.com/what-do-about-columbus-day-opinion-1537907",
+            "urlToImage": "https://d.newsweek.com/en/full/1649022/columbus-statue.jpg",
+            "publishedAt": "2020-10-11T10:00:01Z",
+            "content": "America is a divided country. Some believe in its exceptionalism and that it has been and remains a force for global good. Others think a political and cultural overhaul that rejects our founding pri\u2026 [+4567 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Shawn Tully",
+            "title": "The next President will hold a lot of sway over Tesla\u2019s biggest profit center",
+            "description": "But even an environmentalist in the White House will only buy Tesla some time, rather than preserve its current flood of profits.",
+            "url": "https://fortune.com/2020/10/11/tesla-stock-tsla-profits-2020-election-next-president-trump-biden-emission-credits/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/10/7blue_article.png?resize=1200,600",
+            "publishedAt": "2020-10-11T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg",
+            "title": "Split-Second \u2018Phantom\u2019 Images Can Fool Tesla\u2019s Autopilot",
+            "description": "Researchers found they could stop a Tesla by flashing a few frames of a stop sign for less than half a second on an internet-connected billboard.",
+            "url": "https://www.wired.com/story/tesla-model-x-autopilot-phantom-images/",
+            "urlToImage": "https://media.wired.com/photos/5f80c99a114b38fa1f8339ba/191:100/w_1280,c_limit/Sec_Tesla_628733174.jpg",
+            "publishedAt": "2020-10-11T20:00:00Z",
+            "content": "Safety concerns over automated driver-assistance systems like Tesla's usually focus on what the car can't see, like the white side of a truck that one Tesla confused with a bright sky in 2016, leadin\u2026 [+4485 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emily Canal and Madison Hoff",
+            "title": "The 25 US cities that are best for launching and growing a business, where capital flows and talent abounds",
+            "description": "Summary List PlacementBefore the pandemic, entrepreneurs were already leaving expensive cities like San Francisco and New York for cheaper ecosystems like those in Boise and Salt Lake City. But the coronavirus crisis added fuel to that trend.\u00a0\nNearly one-thir\u2026",
+            "url": "https://www.businessinsider.com/best-cities-to-start-a-business-startup-2020-10",
+            "urlToImage": "https://i.insider.com/5f8068ddea74820019ca6261?width=1200&format=jpeg",
+            "publishedAt": "2020-10-11T11:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Richard Branson's Virgin Orbit seeks $1 billion valuation in funding round: WSJ",
+            "description": "Richard Branson's satellite-launch business Virgin Orbit is looking to raise up to $200 million in a funding round that could value it at around $1 billion, The Wall Street Journal reported on Sunday, citing people familiar with the matter.",
+            "url": "https://ca.reuters.com/article/us-virginorbit-funding-idCAKBN26W0DB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201011&t=2&i=1537017274&r=LYNXMPEG9A07S&w=800",
+            "publishedAt": "2020-10-11T09:28:49Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Richard Branson's Virgin Orbit, with a rocket underneath the wing of a modified Boeing 747 jetliner, prior to its takeoff on a key drop test of its high-altitude launch \u2026 [+884 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "LG Chem says second-quarter operating profit likely jumped 159%",
+            "description": "LG Chem Ltd <051910.KS>, an electric vehicle (EV) battery supplier for Tesla <TSLA.O> and Volkswagen <VOWG_p.DE>, said on Monday that its third-quarter operating profit likely jumped 159%, beating analysts estimates.",
+            "url": "https://uk.reuters.com/article/us-lg-chem-results-idUKKBN26W101",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-11T23:48:36Z",
+            "content": "By Reuters Staff\r\nSEOUL (Reuters) - LG Chem Ltd 051910.KS, an electric vehicle (EV) battery supplier for Tesla TSLA.O and Volkswagen VOWG_p.DE, said on Monday that its third-quarter operating profit \u2026 [+437 chars]"
+        }
+    ]
+}

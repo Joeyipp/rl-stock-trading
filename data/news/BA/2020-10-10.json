@@ -1,0 +1,370 @@
+{
+    "status": "ok",
+    "totalResults": 28,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Malaysia Airlines boss says will have to shut down if restructuring plan fails -report - Reuters",
+            "description": "Malaysia Airlines will have to shut down if its lessors decide not to back its latest restructuring plan, the airlines' group chief executive was quoted as saying on Saturday.",
+            "url": "https://www.reuters.com/article/malaysia-airlines-restructuring-ceo-idUSL4N2H105V",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-10T09:14:00Z",
+            "content": "By Reuters Staff\r\n(Adds details from interview)\r\nKUALA LUMPUR, Oct 10 (Reuters) - Malaysia Airlines will have to shut down if its lessors decide not to back its latest restructuring plan, the airline\u2026 [+2015 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Anshuman Daga, Tim Hepher",
+            "title": "Lessors oppose Malaysia Airlines restructuring plan - letter - Reuters India",
+            "description": "A group of leasing companies has rejected a restructuring plan put forward by Malaysia Airlines, bringing the state carrier closer to a showdown over its future.",
+            "url": "https://in.reuters.com/article/malaysia-airlines-restructuring-idINKBN26V075",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536931739&r=LYNXMPEG9903R&w=800",
+            "publishedAt": "2020-10-10T04:17:00Z",
+            "content": "SINGAPORE/PARIS (Reuters) - A group of leasing companies has rejected a restructuring plan put forward by Malaysia Airlines, bringing the state carrier closer to a showdown over its future.\r\nMalaysia\u2026 [+2048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Anshuman Daga, Tim Hepher",
+            "title": "UPDATE 1-Lessors oppose Malaysia Airlines restructuring plan -letter - Reuters",
+            "description": "A group of leasing companies has rejected a restructuring plan put forward by Malaysia Airlines, bringing the state carrier closer to a showdown over its future.",
+            "url": "https://www.reuters.com/article/malaysia-airlines-restructuring-idUSKBN26V075",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536931739&r=LYNXMPEG9903R&w=800",
+            "publishedAt": "2020-10-10T04:06:00Z",
+            "content": "SINGAPORE/PARIS (Reuters) - A group of leasing companies has rejected a restructuring plan put forward by Malaysia Airlines, bringing the state carrier closer to a showdown over its future.\r\nMalaysia\u2026 [+2048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Air Canada lowers Transat buyout price to reflect COVID-19 hit - Reuters",
+            "description": "Air Canada <AC.TO> has lowered its price to buy Canadian tour operator Transat A.T. Inc <TRZ.TO> with the deal now worth about C$188.7 million ($143.86 million), down from C$720 million previously, reflecting the post-COVID-19 reduction in airline values, the\u2026",
+            "url": "https://www.reuters.com/article/us-transat-at-m-a-air-canada-idUSKBN26V0SH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536971241&r=LYNXMPEG990GD&w=800",
+            "publishedAt": "2020-10-10T17:15:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Air Canada AC.TO has lowered its price to buy Canadian tour operator Transat A.T. Inc TRZ.TO with the deal now worth about C$188.7 million ($143.86 million), down from C\u2026 [+1779 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia Airlines boss says may have to shut down if restructuring plan fails - report - Reuters",
+            "description": "Malaysia Airlines may have to fold if its lessors decide not to back its latest restructuring plan, the airlines' group chief executive was quoted as saying in a report on Saturday.",
+            "url": "https://www.reuters.com/article/malaysia-airlines-restructuring-ceo-idUSKBN26V0CM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536943473&r=LYNXMPEG9906R&w=800",
+            "publishedAt": "2020-10-10T08:44:00Z",
+            "content": "By Reuters Staff\r\nMalaysia Airlines planes are seen parked at Kuala Lumpur International Airport, amid the coronavirus disease (COVID-19) outbreak in Sepang, Malaysia October 6, 2020. REUTERS/Lim Hue\u2026 [+625 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia Airlines boss says may have to shut down if restructuring plan fails -report - Reuters",
+            "description": "Malaysia Airlines may have to fold if its lessors decide not to back its latest restructuring plan, the airlines' group chief executive was quoted as saying in a report on Saturday.",
+            "url": "https://www.reuters.com/article/malaysia-airlines-restructuring-ceo-idUSL4N2H105K",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-10T08:16:00Z",
+            "content": "By Reuters Staff\r\nKUALA LUMPUR, Oct 10 (Reuters) - Malaysia Airlines may have to fold if its lessors decide not to back its latest restructuring plan, the airlines group chief executive was quoted as\u2026 [+438 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia Airlines boss says may have to shut down if restructuring plan fails - report - Reuters India",
+            "description": "Malaysia Airlines may have to fold if its lessors decide not to back its latest restructuring plan, the airlines' group chief executive was quoted as saying in a report on Saturday.",
+            "url": "https://www.reuters.com/article/malaysia-airlines-restructuring-ceo-idINKBN26V0CM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536943473&r=LYNXMPEG9906R&w=800",
+            "publishedAt": "2020-10-10T08:43:00Z",
+            "content": "By Reuters Staff\r\nMalaysia Airlines planes are seen parked at Kuala Lumpur International Airport, amid the coronavirus disease (COVID-19) outbreak in Sepang, Malaysia October 6, 2020. REUTERS/Lim Hue\u2026 [+625 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Italy creates new company to press ahead with Alitalia nationalisation plan - Reuters India",
+            "description": "Italy has approved the creation of a new company to house the assets of troubled airline Alitalia as the government presses ahead with a plan to nationalise the company.",
+            "url": "https://in.reuters.com/article/airlines-italy-alitalia-idINL8N2H05FA",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-10T07:33:00Z",
+            "content": "By Reuters Staff\r\nMILAN, Oct 10 (Reuters) - Italy has approved the creation of a new company to house the assets of troubled airline Alitalia as the government presses ahead with a plan to nationalis\u2026 [+639 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Italy creates new company to press ahead with Alitalia nationalisation plan - Reuters UK",
+            "description": "Italy has approved the creation of a new company to house the assets of troubled airline Alitalia as the government presses ahead with a plan to nationalise the company.",
+            "url": "https://in.reuters.com/article/uk-airlines-italy-alitalia-idUKKBN26V0AM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536940420&r=LYNXMPEG9905I&w=800",
+            "publishedAt": "2020-10-10T07:35:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Alitalia planes pictured at Leonardo da Vinci-Fiumicino Airport in Rome, Italy, March 30, 2019. REUTERS/Alberto Lingria\r\nMILAN (Reuters) - Italy has approved the creatio\u2026 [+668 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Italy creates new company to press ahead with Alitalia nationalisation plan - Reuters India",
+            "description": "Italy has approved the creation of a new company to house the assets of troubled airline Alitalia as the government presses ahead with a plan to nationalise the company.",
+            "url": "https://in.reuters.com/article/airlines-italy-alitalia-idINKBN26V0E4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536943708&r=LYNXMPEG9906Z&w=800",
+            "publishedAt": "2020-10-10T08:48:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Alitalia planes pictured at Leonardo da Vinci-Fiumicino Airport in Rome, Italy, March 30, 2019. REUTERS/Alberto Lingria/File Photo\r\nMILAN (Reuters) - Italy has approved \u2026 [+679 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Italy creates new company to press ahead with Alitalia nationalisation plan - Reuters India",
+            "description": "Italy has approved the creation of a new company to house the assets of troubled airline Alitalia as the government presses ahead with a plan to nationalise the company.",
+            "url": "https://www.reuters.com/article/airlines-italy-alitalia-idINKBN26V0E4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536943708&r=LYNXMPEG9906Z&w=800",
+            "publishedAt": "2020-10-10T08:48:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Alitalia planes pictured at Leonardo da Vinci-Fiumicino Airport in Rome, Italy, March 30, 2019. REUTERS/Alberto Lingria/File Photo\r\nMILAN (Reuters) - Italy has approved \u2026 [+679 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Italy creates new company to press ahead with Alitalia nationalisation plan - Reuters India",
+            "description": "Italy has approved the creation of a new company to house the assets of troubled airline Alitalia as the government presses ahead with a plan to nationalise the company.",
+            "url": "https://www.reuters.com/article/airlines-italy-alitalia-idINL8N2H05FA",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-10T07:33:00Z",
+            "content": "By Reuters Staff\r\nMILAN, Oct 10 (Reuters) - Italy has approved the creation of a new company to house the assets of troubled airline Alitalia as the government presses ahead with a plan to nationalis\u2026 [+639 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Britain, EU agree to pursue mini-deals if talks fail next week: The Times - Reuters.com",
+            "description": "Britain, EU agree to pursue mini-deals if talks fail next week: The Times\u00a0\u00a0Reuters.com",
+            "url": "https://www.reuters.com/article/us-britain-eu-talks-idUSKBN26V001",
+            "urlToImage": null,
+            "publishedAt": "2020-10-10T00:09:00Z",
+            "content": "FILE PHOTO: Puzzle with printed EU and UK flags is seen in this illustration taken November 13, 2019. REUTERS/Dado Ruvic/Illustration\r\nBusiness News\r\nReuters Staff\r\n(Reuters) - Britain and the Europe\u2026 [+1007 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Morgan, Jan Wolfe",
+            "title": "Trump's stimulus proposal draws opposition from congressional Democrats and Republicans - Reuters",
+            "description": "A new $1.8 trillion economic stimulus proposal from the Trump administration drew criticism from congressional Democrats and Republicans on Saturday, diminishing hopes for a coronavirus relief deal before the Nov. 3 election.",
+            "url": "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSL1N2H109M",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-10T19:26:00Z",
+            "content": "(Changes headline, adds Senate Republican reaction to Trump proposal)\r\nWASHINGTON, Oct 10 (Reuters) - A new $1.8 trillion economic stimulus proposal from the Trump administration drew criticism from \u2026 [+1919 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jan Wolfe",
+            "title": "Pelosi says Trump stimulus proposal is 'one step forward, two steps back' - Reuters India",
+            "description": "U.S. House of Representatives Speaker Nancy Pelosi on Saturday said a new $1.8 trillion economic stimulus proposal from the Trump administration \"amounted to one step forward, two steps back\" and would need changes to get support from congressional Democrats.",
+            "url": "https://in.reuters.com/article/health-coronavirus-usa-congress-idINKBN26V0SV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536972096&r=LYNXMPEG990GJ&w=800",
+            "publishedAt": "2020-10-10T17:23:00Z",
+            "content": "WASHINGTON (Reuters) - U.S. House of Representatives Speaker Nancy Pelosi on Saturday said a new $1.8 trillion economic stimulus proposal from the Trump administration amounted to one step forward, t\u2026 [+2068 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jan Wolfe",
+            "title": "Pelosi says Trump stimulus proposal is 'one step forward, two steps back' - Reuters",
+            "description": "U.S. House of Representatives Speaker Nancy Pelosi on Saturday said a new $1.8 trillion economic stimulus proposal from the Trump administration \"amounted to one step forward, two steps back\" and would need changes to get support from congressional Democrats.",
+            "url": "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN26V0SX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536972127&r=LYNXMPEG990GK&w=800",
+            "publishedAt": "2020-10-10T17:18:00Z",
+            "content": "WASHINGTON (Reuters) - U.S. House of Representatives Speaker Nancy Pelosi on Saturday said a new $1.8 trillion economic stimulus proposal from the Trump administration amounted to one step forward, t\u2026 [+2068 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jan Wolfe",
+            "title": "Pelosi says Trump stimulus proposal is 'one step forward, two steps back' - Reuters",
+            "description": "U.S. House of Representatives Speaker Nancy Pelosi on Saturday said a new $1.8 trillion economic stimulus proposal from the Trump administration \"amounted to one step forward, two steps back\" and would need changes to get support from congressional Democrats.",
+            "url": "https://www.reuters.com/article/health-coronavirus-usa-congress-idUSKBN26V0SV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536972096&r=LYNXMPEG990GJ&w=800",
+            "publishedAt": "2020-10-10T17:18:00Z",
+            "content": "WASHINGTON (Reuters) - U.S. House of Representatives Speaker Nancy Pelosi on Saturday said a new $1.8 trillion economic stimulus proposal from the Trump administration amounted to one step forward, t\u2026 [+2068 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jan Wolfe",
+            "title": "Pelosi says Trump stimulus proposal is 'one step forward, two steps back' - Reuters",
+            "description": "U.S. House of Representatives Speaker Nancy Pelosi on Saturday said a new $1.8 trillion economic stimulus proposal from the Trump administration \"amounted to one step forward, two steps back\" and would need changes to get support from congressional Democrats.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN26V0SR",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536972022&r=LYNXMPEG990GI&w=800",
+            "publishedAt": "2020-10-10T17:18:00Z",
+            "content": "WASHINGTON (Reuters) - U.S. House of Representatives Speaker Nancy Pelosi on Saturday said a new $1.8 trillion economic stimulus proposal from the Trump administration amounted to one step forward, t\u2026 [+2068 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sophia Ankel",
+            "title": "Nancy Pelosi says Trump's coronavirus medication has him in 'altered state' as she threatens legislation to remove him from office",
+            "description": "Summary List Placement\n\nSpeaker of the House Nancy Pelosi said she believes Trump's coronavirus medication has put him in an \"altered state\" as she announced plans to possibly strip the president of his powers under the 25th Amendment.\nSpeaking to reporters o\u2026",
+            "url": "https://www.businessinsider.com/nancy-pelosi-trumps-covid-19-medication-has-him-altered-state-2020-10",
+            "urlToImage": "https://i.insider.com/5f817fa1642e9400180b527e?width=1200&format=jpeg",
+            "publishedAt": "2020-10-10T11:40:22Z",
+            "content": "Speaker of the House Nancy Pelosi said she believes Trump's coronavirus medication has put him in an \"altered state\" as she announced plans to possibly strip the president of his powers under the 25t\u2026 [+2391 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Saloni Sardana)",
+            "title": "The S&P 500 could gain 25% by year-end regardless of whether there is a red, or blue wave, as a strong majority will approve stimulus more easily, TradingView says",
+            "description": "The S&P 500 could gain 25% by year-end regardless of whether there is a red, or blue wave, as a strong majority will approve stimulus more easily, TradingView says",
+            "url": "https://www.businessinsider.com/stock-market-forecast-sp500-rally-blue-wave-red-stimulus-2020-10",
+            "urlToImage": "https://i.insider.com/5f7f276d282c500018c79553?format=jpeg",
+            "publishedAt": "2020-10-10T10:00:00Z",
+            "content": "A compilation of pictures including President Donald Trump (R) and Nancy Pelosi (L)\r\nGetty Imags\r\n<ul><li>The S&amp;P 500 could surge up to 25% by year end regardless of who wins the November electio\u2026 [+3521 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thomas Colson",
+            "title": "A Joe Biden presidency would repair most of the damage Trump has done to America's historic alliance with Europe",
+            "description": "Summary List Placement\n\nUnder Trump, relations between the United States and its longstanding European allies have hit a historic low.\nTrump's attacks on European leaders, his withdrawal from multilateral treaties and his wider 'America First' policy have res\u2026",
+            "url": "https://www.businessinsider.com/joe-biden-donald-trump-us-europe-alliances-merkel-china-2020-10",
+            "urlToImage": "https://i.insider.com/5f808bdd4c3b2e0019bba2cd?width=1200&format=jpeg",
+            "publishedAt": "2020-10-10T10:45:00Z",
+            "content": "Business Insider\r\nUnder Trump, relations between the United States and its longstanding European allies have hit a historic low.\r\nTrump's attacks on European leaders, his withdrawal from multilateral\u2026 [+4664 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Winter Is Coming for the World\u2019s Airlines - Bloomberg",
+            "description": "Winter Is Coming for the World\u2019s Airlines\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-10-10/winter-is-coming-for-world-s-airlines-as-covid-deepens-relief-dries-up",
+            "urlToImage": null,
+            "publishedAt": "2020-10-10T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Air Canada lowers Transat buyout price to reflect COVID-19 hit",
+            "description": "Air Canada <AC.TO> has lowered its price to buy Canadian tour operator Transat A.T. Inc <TRZ.TO> with the deal now worth about C$188.7 million ($143.86 million), down from C$720 million previously, reflecting the post-COVID-19 reduction in airline values, the\u2026",
+            "url": "https://ca.reuters.com/article/us-transat-at-m-a-air-canada-idCAKBN26V0SH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536971241&r=LYNXMPEG990GD&w=800",
+            "publishedAt": "2020-10-10T17:05:45Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Air Canada AC.TO has lowered its price to buy Canadian tour operator Transat A.T. Inc TRZ.TO with the deal now worth about C$188.7 million ($143.86 million), down from C\u2026 [+1779 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Italy creates new company to press ahead with Alitalia nationalisation plan",
+            "description": "Italy has approved the creation of a new company to house the assets of troubled airline Alitalia as the government presses ahead with a plan to nationalise the company.",
+            "url": "https://uk.reuters.com/article/uk-airlines-italy-alitalia-idUKKBN26V0AM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536940420&r=LYNXMPEG9905I&w=800",
+            "publishedAt": "2020-10-10T07:30:28Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Alitalia planes pictured at Leonardo da Vinci-Fiumicino Airport in Rome, Italy, March 30, 2019. REUTERS/Alberto Lingria\r\nMILAN (Reuters) - Italy has approved the creatio\u2026 [+668 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Italy creates new company to press ahead with Alitalia nationalisation plan",
+            "description": "Italy has approved the creation of a new company to house the assets of troubled airline Alitalia as the government presses ahead with a plan to nationalise the company.",
+            "url": "https://www.reuters.com/article/airlines-italy-alitalia-idUSKBN26V0E4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536943708&r=LYNXMPEG9906Z&w=800",
+            "publishedAt": "2020-10-10T08:46:21Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Alitalia planes pictured at Leonardo da Vinci-Fiumicino Airport in Rome, Italy, March 30, 2019. REUTERS/Alberto Lingria/File Photo\r\nMILAN (Reuters) - Italy has approved \u2026 [+679 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Oilers sign D Barrie to one-year, $3.75M contract",
+            "description": "The Edmonton Oilers agreed to terms Saturday with free agent defenseman Tyson Barrie on a one-year, $3.75 million contract.",
+            "url": "https://ca.reuters.com/article/csports-us-icehockey-nhl-edm-barrie-idCAKBN26V0VM-OCASP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536977945&r=LYNXMPEG990IJ-OCASP&w=800",
+            "publishedAt": "2020-10-10T18:59:21Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Jan 29, 2020; Dallas, Texas, USA; Toronto Maple Leafs defenseman Tyson Barrie (94) in action during the game between the Stars and the Maple Leafs at the American Airlin\u2026 [+801 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Oilers sign D Barrie to one-year, $3.75M contract",
+            "description": "The Edmonton Oilers agreed to terms Saturday with free agent defenseman Tyson Barrie on a one-year, $3.75 million contract.",
+            "url": "https://www.reuters.com/article/us-icehockey-nhl-edm-barrie-idUSKBN26V0VM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536977948&r=LYNXMPEG990IJ&w=800",
+            "publishedAt": "2020-10-10T18:59:21Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Jan 29, 2020; Dallas, Texas, USA; Toronto Maple Leafs defenseman Tyson Barrie (94) in action during the game between the Stars and the Maple Leafs at the American Airlin\u2026 [+801 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Scottie Andrew, CNN",
+            "title": "Monica Roberts, a Black trans journalist who covered the killings of trans women before national media did, dies at 58",
+            "description": "Through her work with the award-winning blog TransGriot, Roberts provided a blueprint for the national media on how to report about trans people with sensitivity and empathy. \" name=\"twitter:description",
+            "url": "https://www.cnn.com/2020/10/10/us/monica-roberts-trans-journalist-death-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201009155030-monica-roberts-2016-super-tease.jpg",
+            "publishedAt": "2020-10-10T07:57:56Z",
+            "content": "(CNN)Monica Roberts had no predecessor. Before her groundbreaking blog, there were few news sites for Black transgender women like her. \r\nAnd before Monica Roberts, no journalist had painstakingly re\u2026 [+5130 chars]"
+        }
+    ]
+}

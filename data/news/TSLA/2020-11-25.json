@@ -1,0 +1,474 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "SpaceX targeting next week for Starship\u2019s first high-altitude test flight",
+            "description": "SpaceX looks ready to proceed to the next crucial phase of its Starship spacecraft development program: A 15km (50,000 feet) test flight. This would far exceed the max height that any prior Starship prototype has achieved so far, since the current record-sett\u2026",
+            "url": "http://techcrunch.com/2020/11/24/spacex-targeting-next-week-for-starships-first-high-altitude-test-flight/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/Starship-Mk1-Day.jpg?w=600",
+            "publishedAt": "2020-11-25T00:13:53Z",
+            "content": "SpaceX looks ready to proceed to the next crucial phase of its Starship spacecraft development program: A 15km (50,000 feet) test flight. This would far exceed the max height that any prior Starship \u2026 [+1608 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "Tesla's upcoming S&P 500 debut fuels 'crazy' trading volume - Reuters India",
+            "description": "If you traded a stock in the past week, there's a fair chance it was Tesla.",
+            "url": "https://in.reuters.com/article/uk-usa-stocks-tesla-idINKBN28530W",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542465158&r=LYNXMPEGAO1ME&w=800",
+            "publishedAt": "2020-11-25T20:20:00Z",
+            "content": "(Reuters) - If you traded a stock in the past week, theres a fair chance it was Tesla.\r\nFILE PHOTO: The company logo is pictured on a Tesla Model X electric car in Berlin, Germany, November 13, 2019.\u2026 [+2195 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "Tesla's upcoming S&P 500 debut fuels 'crazy' trading volume - Reuters",
+            "description": "If you traded a stock in the past week, there's a fair chance it was Tesla.",
+            "url": "https://www.reuters.com/article/usa-stocks-tesla-idUSL1N2IB27G",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-25T19:52:00Z",
+            "content": "Nov 25 (Reuters) - If you traded a stock in the past week, theres a fair chance it was Tesla.\r\nShares in the electric car maker led by CEO Elon Musk rose almost 3% on Wednesday and have now surged 40\u2026 [+2012 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Horowitz, CNN Business",
+            "title": "Dow 30,000: How the market rally defied a pandemic",
+            "description": "Markets have reached a new milestone in the middle of a bruising pandemic, another sign that investors have been more than willing to look past short-term pain toward better days ahead.",
+            "url": "https://www.cnn.com/2020/11/25/investing/premarket-stocks-trading/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201125071907-new-york-stock-exchange-1124-super-tease.jpg",
+            "publishedAt": "2020-11-25T13:07:52Z",
+            "content": "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.\r\nLondon (CNN Business)Markets have reached a new milestone in the mid\u2026 [+6226 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX to press ahead with Starlink tests, delays commercial service - Reuters Canada",
+            "description": "SpaceX will continue beta testing its satellite-based broadband service Starlink into next year, the company said late Tuesday, indicating commercial service would not likely be offered in 2020 as previously planned.",
+            "url": "https://ca.reuters.com/article/us-space-exploration-spacex-idCAKBN2852WM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542457188&r=LYNXMPEGAO1JZ&w=800",
+            "publishedAt": "2020-11-25T18:56:00Z",
+            "content": "By Joey Roulette\r\nFILE PHOTO: An exterior of the SpaceX headquarters in Hawthorne, California May 29, 2014.. REUTERS/Mario Anzuoni/File Photo\r\nWASHINGTON (Reuters) - SpaceX will continue beta testing\u2026 [+1602 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX to press ahead with Starlink tests, delays commercial service - Reuters India",
+            "description": "SpaceX will continue beta testing its satellite-based broadband service Starlink into next year, the company said late Tuesday, indicating commercial service would not likely be offered in 2020 as previously planned.",
+            "url": "https://in.reuters.com/article/us-space-exploration-spacex-idINKBN2852WM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542457188&r=LYNXMPEGAO1JZ&w=800",
+            "publishedAt": "2020-11-25T18:55:00Z",
+            "content": "FILE PHOTO: An exterior of the SpaceX headquarters in Hawthorne, California May 29, 2014.. REUTERS/Mario Anzuoni/File Photo\r\nWASHINGTON (Reuters) - SpaceX will continue beta testing its satellite-bas\u2026 [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "Tesla plans to produce electric car chargers in China, document shows - Reuters India",
+            "description": "Tesla Inc plans to start manufacturing electric vehicle (EV) chargers in China in 2021, according to a document submitted to the Shanghai authorities by the U.S. firm which is seeking to expand sales in the world's biggest car market.",
+            "url": "https://in.reuters.com/article/tesla-electric-china-idINKBN2852CH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542436907&r=LYNXMPEGAO1AR&w=800",
+            "publishedAt": "2020-11-25T16:20:00Z",
+            "content": "FILE PHOTO: A Tesla logo is seen at a groundbreaking ceremony of Tesla Shanghai Gigafactory in Shanghai, China January 7, 2019. REUTERS/Aly Song/File Photo\r\nBEIJING (Reuters) - Tesla Inc plans to sta\u2026 [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "Tesla plans to produce electric car chargers in China, document shows - Reuters UK",
+            "description": "Tesla Inc plans to start manufacturing electric vehicle (EV) chargers in China in 2021, according to a document submitted to the Shanghai authorities by the U.S. firm which is seeking to expand sales in the world's biggest car market.",
+            "url": "https://uk.reuters.com/article/us-tesla-electric-china-idUKKBN28525W",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542426866&r=LYNXMPEGAO15Y&w=800",
+            "publishedAt": "2020-11-25T14:47:00Z",
+            "content": "FILE PHOTO: A Tesla logo is seen at a groundbreaking ceremony of Tesla Shanghai Gigafactory in Shanghai, China January 7, 2019. REUTERS/Aly Song/File Photo\r\nBEIJING (Reuters) - Tesla Inc plans to sta\u2026 [+1460 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "Tesla plans to produce electric car chargers in China, document shows - Reuters",
+            "description": "Tesla Inc plans to start manufacturing electric vehicle (EV) chargers in China in 2021, according to a document submitted to the Shanghai authorities by the U.S. firm which is seeking to expand sales in the world's biggest car market.",
+            "url": "https://www.reuters.com/article/us-tesla-electric-china-idUSKBN28525W",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542426866&r=LYNXMPEGAO15Y&w=800",
+            "publishedAt": "2020-11-25T14:48:00Z",
+            "content": "FILE PHOTO: A Tesla logo is seen at a groundbreaking ceremony of Tesla Shanghai Gigafactory in Shanghai, China January 7, 2019. REUTERS/Aly Song/File Photo\r\nBEIJING (Reuters) - Tesla Inc plans to sta\u2026 [+1460 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "Tesla plans to produce electric car chargers in China, document shows - Reuters India",
+            "description": "Tesla Inc plans to start manufacturing electric vehicle (EV) chargers in China in 2021, according to a document submitted to the Shanghai authorities by the U.S. firm which is seeking to expand sales in the world's biggest car market.",
+            "url": "https://in.reuters.com/article/us-tesla-electric-china-idINKBN28525W",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542426866&r=LYNXMPEGAO15Y&w=800",
+            "publishedAt": "2020-11-25T14:49:00Z",
+            "content": "FILE PHOTO: A Tesla logo is seen at a groundbreaking ceremony of Tesla Shanghai Gigafactory in Shanghai, China January 7, 2019. REUTERS/Aly Song/File Photo\r\nBEIJING (Reuters) - Tesla Inc plans to sta\u2026 [+1460 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "The Volkswagen ID.4 electric crossover gets its EPA range certification",
+            "description": "Deliveries of the ID.4 should begin in the next few weeks.",
+            "url": "https://arstechnica.com/cars/2020/11/the-volkswagen-id-4-electric-crossover-gets-its-epa-range-certification/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/Volkswagen_ID.4-Large-12448-760x380.jpg",
+            "publishedAt": "2020-11-25T20:43:43Z",
+            "content": "Enlarge/ The ID electric vehicles are the future for Volkswagen.\r\n0 with 0 posters participating\r\nOn Wednesday, Volkswagen announced that its forthcoming electric vehicle now has an official range. T\u2026 [+953 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "US STOCKS-S&P 500, Dow retreat from record highs after bleak jobless data - Reuters UK",
+            "description": "US STOCKS-S&P 500, Dow retreat from record highs after bleak jobless data\u00a0\u00a0Reuters UK",
+            "url": "https://uk.reuters.com/article/usa-stocks-idUKL1N2IB275",
+            "urlToImage": null,
+            "publishedAt": "2020-11-25T19:18:00Z",
+            "content": "U.S. Regulatory News\r\nStephen Culp\r\n(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* U.S. weekly jobless claims unexpectedly rise\r\n* Te\u2026 [+3311 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Culp",
+            "title": "US STOCKS-S&P 500, Dow retreat from record highs after bleak jobless data - Reuters UK",
+            "description": "* Indexes: Dow down 0.66%, S&P off 0.34%, Nasdaq up 0.25% (Updates to afternoon, changes dateline, byline)",
+            "url": "https://www.reuters.com/article/usa-stocks-idUKL1N2IB275",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-25T19:18:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* U.S. weekly jobless claims unexpectedly rise\r\n* Tesla extends rally despite recall\r\n* \u2026 [+3183 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shriya Ramakrishnan, Shivani Kumaresan",
+            "title": "US STOCKS-S&P 500, Dow dip as labor market recovery slows - Reuters UK",
+            "description": "The S&P 500 and the Dow retreated on Wednesday as a surprise rise in weekly jobless claims added to signs the recovery of the labor market was stalling amid a surge in COVID-19 infections.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-idUKKBN2851NU",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542423475&r=LYNXMPEGAO13B&w=800",
+            "publishedAt": "2020-11-25T15:43:00Z",
+            "content": "(Reuters) - The S&amp;P 500 and the Dow retreated on Wednesday as a surprise rise in weekly jobless claims added to signs the recovery of the labor market was stalling amid a surge in COVID-19 infect\u2026 [+2470 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kate Duffy",
+            "title": "SpaceX just launched a Falcon 9 rocket for the 100th time, delivering 60 Starlink internet satellites into orbit",
+            "description": "Summary List PlacementSpaceX successfully launched one of its Falcon 9 rockets on Tuesday night for a record-breaking seventh time, delivering 60 satellites to orbit for its Starlink satellite-internet service.\nThe launch marked SpaceX's 100th flight of a Fal\u2026",
+            "url": "https://www.businessinsider.com/spacex-falcon-9-rocket-launch-starlink-internet-satellite-elon-musk-2020-11",
+            "urlToImage": "https://i.insider.com/5fbe366d50e71a001155749e?width=1200&format=jpeg",
+            "publishedAt": "2020-11-25T11:43:03Z",
+            "content": "SpaceX successfully launched one of its Falcon 9 rockets on Tuesday night for a record-breaking seventh time, delivering 60 satellites to orbit for its Starlink satellite-internet service.\r\nThe launc\u2026 [+2176 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "SpaceX Ultra Heavy Starship Version 2 Could Launch Satellite Version of Project Orion",
+            "description": "Last year, Elon Musk tweeted that Starship Version 2.0 will be 18 meters in diameter instead of 9 meters. Nextbigfuture wrote about this conceptual plan last year. The upgraded for the Ultra Heavy...\n\n[[ This is a content summary only. Visit my website for fu\u2026",
+            "url": "https://www.nextbigfuture.com/2020/11/spacex-ultra-heavy-starship-version-2-could-launch-satellite-version-of-project-orion.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2020/11/projectOrionsizes-1024x718.jpg",
+            "publishedAt": "2020-11-25T08:33:34Z",
+            "content": "Last year, Elon Musk tweeted that Starship Version 2.0 will be 18 meters in diameter instead of 9 meters. Nextbigfuture wrote about this conceptual plan last year. The upgraded for the Ultra Heavy St\u2026 [+1964 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "SpaceX targeting next week for Starship's first high-altitude test flight",
+            "description": "SpaceX  looks ready to proceed to the next crucial phase of its Starship spacecraft development program: A 15km (50,000 feet) test flight.  Elon Musk says...",
+            "url": "https://techcrunch.com/2020/11/24/spacex-targeting-next-week-for-starships-first-high-altitude-test-flight/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qcpgqrtsVrahYUmFDRU2jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/vIEi58MZ4q..48fEBUMbCA--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/488b2235970fd65d30a1b818fa79da4c",
+            "publishedAt": "2020-11-25T00:13:53Z",
+            "content": "In a report on current market conditions and the strategic view going forward JPMorgans Marko Kolanovic sees plenty of reasons for optimism. Kolanovic sees that risk has eased in the last few weeks, \u2026 [+7889 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Morgan McFall-Johnsen",
+            "title": "Elon Musk promoted coronavirus misinformation for months. Then his own infection kept him out of SpaceX's astronaut launch.",
+            "description": "Summary List PlacementElon Musk's rocket company launched its first full crew\u00a0into space earlier this month, but he wasn't allowed to be there in person.\nAs SpaceX sent the four astronauts careening towards the International Space Station, Musk was feeling fa\u2026",
+            "url": "https://www.businessinsider.com/elon-musk-promoted-coronavirus-misinformation-then-tested-positive-2020-11",
+            "urlToImage": "https://i.insider.com/5faea7b64652d4001974438f?width=1200&format=jpeg",
+            "publishedAt": "2020-11-25T21:03:21Z",
+            "content": "Elon Musk's rocket company launched its first full crew\u00a0into space earlier this month, but he wasn't allowed to be there in person.\r\nAs SpaceX sent the four astronauts careening towards the Internati\u2026 [+8184 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier",
+            "title": "Tesla is recalling more than 9,000 Model X cars over a cosmetic adhesive that could fly off (TSLA)",
+            "description": "Summary List Placement\n\nTesla on Wednesday filed to recall an estimated 9,136 Model X vehicles due to issues with a cosmetic adhesive that could come loose, fly off, and create a safety hazard.\nAccording to the National Highway Traffic Safety Administration, \u2026",
+            "url": "https://www.businessinsider.com/tesla-model-x-recall-cosmetic-adhesive-applique-issue-nhtsa-2020-11",
+            "urlToImage": "https://i.insider.com/5fbe66be32f2170011f711cc?width=1200&format=jpeg",
+            "publishedAt": "2020-11-25T14:45:32Z",
+            "content": "Tesla on Wednesday filed to recall an estimated 9,136 Model X vehicles due to issues with a cosmetic adhesive that could come loose, fly off, and create a safety hazard.\r\nAccording to the National Hi\u2026 [+1730 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ian Carlos Campbell",
+            "title": "Tesla recalls more than 9,500 Model X and Y\u00a0vehicles due to manufacturing issues",
+            "description": "Tesla is recalling around 9,500 cars due to manufacturing issues. The National Highway Traffic Safety Administration says 9,136 Model Xs from 2016 have cosmetic trim that can fall off due to weak adhesive. Meanwhile, 401 Model Ys from 2020 have loose bolts th\u2026",
+            "url": "https://www.theverge.com/2020/11/25/21719586/tesla-recall-2016-cars-model-x-y-manufacturing-issues",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/DYF8r82yEquQGwKqJNLgTszZ0f0=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8176605/akrales_170310_1493_A_0426.0.jpg",
+            "publishedAt": "2020-11-25T20:53:51Z",
+            "content": "The cars have problems with weak adhesives and loose bolts\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nTesla has issued recall orders for 9,537 of its vehicles in the US, including 9,136 Model Xs f\u2026 [+1918 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Richard Lawler",
+            "title": "SpaceX prepares Starship SN8 prototype for high-altitude test flight",
+            "description": "In September 2019 Elon Musk said he hoped SpaceX would be able to perform an orbital test of its Starship vehicle within six months, and while that didn\u2019t happen the company is apparently ready to perform a high-altitude flight test. In a tweet, the...",
+            "url": "https://www.engadget.com/spacex-starship-test-flight-022801900.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F3832f230-2ec5-11eb-bfdb-77bf4717cc60&client=amp-blogside-v2&signature=3fa213369006091ae6025fcb4eb94955735880c5",
+            "publishedAt": "2020-11-25T02:28:01Z",
+            "content": "In September 2019 Elon Musk said he hoped SpaceX would be able to perform an orbital test of its Starship vehicle within six months, and while that didn\u2019t happen the company is apparently ready to pe\u2026 [+789 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dave Mosher",
+            "title": "SpaceX may spend billions to outsource Starlink satellite dish production, an industry insider says (STM)",
+            "description": "Summary List PlacementSpaceX is outsourcing a key element of its Starlink satellite-internet network with a manufacturing deal worth billions of dollars, an industry insider tells Business Insider.\nJob postings and statements by SpaceX officials \u2014 including f\u2026",
+            "url": "https://www.businessinsider.com/spacex-starlink-satellite-dish-user-terminal-cost-stmelectronics-outsource-manufacturer-2020-11",
+            "urlToImage": "https://i.insider.com/5fbe66ef50e71a00115574e7?width=1200&format=jpeg",
+            "publishedAt": "2020-11-25T16:06:07Z",
+            "content": "SpaceX is outsourcing a key element of its Starlink satellite-internet network with a manufacturing deal worth billions of dollars, an industry insider tells Business Insider.\r\nJob postings and state\u2026 [+6690 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "cburroughs@businessinsider.com (Callum Burroughs)",
+            "title": "10 things in tech you need to know today",
+            "description": "Musk is world's second richest person. Trump spreads Facebook misinformation. Facebook whitelists politicians.",
+            "url": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-november-25-2020-11",
+            "urlToImage": "https://i.insider.com/5f4e481a60bf1f0028079a22?width=1200&format=jpeg",
+            "publishedAt": "2020-11-25T07:54:02Z",
+            "content": "Good morning! This is the tech news you need to know this Wednesday. Sign up here to get this email in your inbox every morning.\r\nHave an Amazon Alexa device? Listen to this update by searching \"Busi\u2026 [+2278 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "Tesla has surged past $525 billion in market value and could soon overtake Warren Buffett's Berkshire Hathaway. Here's why that's astounding",
+            "description": "Buffett's company earned 10 times Tesla's revenues last year, and had enough cash to buy Musk's company outright in March.",
+            "url": "https://www.businessinsider.com/elon-musk-tesla-market-capitalization-warren-buffett-berkshire-hathaway-2020-11",
+            "urlToImage": "https://i.insider.com/5cd302a2f06717708c0f9e97?width=1200&format=jpeg",
+            "publishedAt": "2020-11-25T09:34:07Z",
+            "content": "<ul><li>Tesla's market capitalization soared past $525 billion on Tuesday, leaving it within striking distance of the $549 billion market cap of Warren Buffett's Berkshire Hathaway.</li><li>Shares in\u2026 [+3560 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "podcast@cnet.com (CNET.com), CNET",
+            "title": "Facebook changed algorithm post-election, Twitter revamps verification",
+            "description": "In today's top stories, Facebook reportedly changed its algorithm to prioritise authoritative news sources after the US elections in November, Twitter is calling for help on revamping its verification rules and Elon Musk becomes the second richest person in t\u2026",
+            "url": "http://feedproxy.google.com/~r/allcnetvideopodcasts/~3/p_xAW_L-hic/TechToday_251120_SB_558302_740.mp4",
+            "urlToImage": null,
+            "publishedAt": "2020-11-25T12:00:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shalini Nagarajan",
+            "title": "US tech firms like Uber, Lyft, and DoorDash could pay gig workers up to 15% of their compensation in stock under new proposal",
+            "description": "Summary List Placement\n\n<ul>\n<li>US tech firms including Uber, Lyft, and DoorDash could offer independent contractors up to 15% of their compensation in stock under a new regulatory proposal.</li>\n<li>The proposal addresses heated debate in favor of allowing \u2026",
+            "url": "https://www.businessinsider.com/uber-lyft-doordash-gig-workers-could-get-stock-compensation-proposal-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbe109f50e71a0011557479?format=jpeg",
+            "publishedAt": "2020-11-25T09:17:27Z",
+            "content": "Pablo Cuadra/Getty Images\r\nUS app-based technology firms like Uber, Lyft, and DoorDash could offer equity compensation to their gig workers under a new SEC proposal announced Tuesday.\r\nThe regulator \u2026 [+1612 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "StackCommerce",
+            "title": "Nine top Black Friday eLearning deals",
+            "description": "Growth is fundamental to our personal and professional lives. It challenges us to become better people and make the most of every day. The idea of developing new soft and hard skills, although overwhelming at first, is much more manageable and achiev...",
+            "url": "https://www.engadget.com/black-friday-elearning-deals-185527592.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fc4b05710-2ea3-11eb-bfff-91650b0f82ec&client=amp-blogside-v2&signature=974ba0c5d7c6fba6bf8b3cc08842eefa2d077a79",
+            "publishedAt": "2020-11-25T18:55:27Z",
+            "content": "1. Whizlabs Online Certifications: Lifetime Membership\r\nMSRP: $4,499 | Discount: 97% | Sale price w/ CODE BFSAVE70: $39\r\nWhizlabs provides online certificate training in various disciplines, includin\u2026 [+4983 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "Tesla's upcoming S&P 500 debut fuels 'crazy' trading volume",
+            "description": "If you traded a stock in the past week, there's a fair chance it was Tesla.",
+            "url": "https://uk.reuters.com/article/uk-usa-stocks-tesla-idUKKBN28530W",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542465158&r=LYNXMPEGAO1ME&w=800",
+            "publishedAt": "2020-11-25T19:57:09Z",
+            "content": "(Reuters) - If you traded a stock in the past week, theres a fair chance it was Tesla.\r\nFILE PHOTO: The company logo is pictured on a Tesla Model X electric car in Berlin, Germany, November 13, 2019.\u2026 [+2195 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "Tesla's upcoming S&P 500 debut fuels 'crazy' trading volume",
+            "description": "If you traded a stock in the past week, there's a fair chance it was Tesla.",
+            "url": "https://uk.reuters.com/article/us-usa-stocks-tesla-idUKKBN28530L",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542464805&r=LYNXMPEGAO1MA&w=800",
+            "publishedAt": "2020-11-25T19:59:39Z",
+            "content": "(Reuters) - If you traded a stock in the past week, theres a fair chance it was Tesla.\r\nFILE PHOTO: The company logo is pictured on a Tesla Model X electric car in Berlin, Germany, November 13, 2019.\u2026 [+2195 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "Tesla's upcoming S&P 500 debut fuels 'crazy' trading volume",
+            "description": "If you traded a stock in the past week, there's a fair chance it was Tesla.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-tesla-idUSKBN28530L",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542463392&r=LYNXMPEGAO1MA&w=800",
+            "publishedAt": "2020-11-25T19:57:09Z",
+            "content": "(Reuters) - If you traded a stock in the past week, theres a fair chance it was Tesla.\r\nFILE PHOTO: The company logo is pictured on a Tesla Model X electric car in Berlin, Germany, November 13, 2019.\u2026 [+2195 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "Tesla's upcoming S&P 500 debut fuels 'crazy' trading volume",
+            "description": "If you traded a stock in the past week, there's a fair chance it was Tesla.",
+            "url": "https://ca.reuters.com/article/us-usa-stocks-tesla-idCAKBN28530L",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542464805&r=LYNXMPEGAO1MA&w=800",
+            "publishedAt": "2020-11-25T19:57:09Z",
+            "content": "By Noel Randewich\r\n(Reuters) - If you traded a stock in the past week, theres a fair chance it was Tesla.\r\nFILE PHOTO: The company logo is pictured on a Tesla Model X electric car in Berlin, Germany,\u2026 [+2214 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX to press ahead with Starlink tests, delays commercial service",
+            "description": "SpaceX will continue beta testing its satellite-based broadband service Starlink into next year, the company said late Tuesday, indicating commercial service would not likely be offered in 2020 as previously planned.",
+            "url": "https://uk.reuters.com/article/us-space-exploration-spacex-idUKKBN2852WM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542457188&r=LYNXMPEGAO1JZ&w=800",
+            "publishedAt": "2020-11-25T18:57:53Z",
+            "content": "FILE PHOTO: An exterior of the SpaceX headquarters in Hawthorne, California May 29, 2014.. REUTERS/Mario Anzuoni/File Photo\r\nWASHINGTON (Reuters) - SpaceX will continue beta testing its satellite-bas\u2026 [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX to press ahead with Starlink tests, delays commercial service",
+            "description": "SpaceX will continue beta testing its satellite-based broadband service Starlink into next year, the company said late Tuesday, indicating commercial service would not likely be offered in 2020 as previously planned.",
+            "url": "https://www.reuters.com/article/us-space-exploration-spacex-idUSKBN2852WM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542457188&r=LYNXMPEGAO1JZ&w=800",
+            "publishedAt": "2020-11-25T18:57:53Z",
+            "content": "FILE PHOTO: An exterior of the SpaceX headquarters in Hawthorne, California May 29, 2014.. REUTERS/Mario Anzuoni/File Photo\r\nWASHINGTON (Reuters) - SpaceX will continue beta testing its satellite-bas\u2026 [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sean Czarnecki",
+            "title": "35 public relations pros in the tech industry that every journalist needs to know",
+            "description": "Summary List PlacementTech companies are often in the news, whether it's because of new innovations they're pitching or concerns about their impact on society that have landed many of them in the political hot seat.\nThese companies rely on public relations pr\u2026",
+            "url": "https://www.businessinsider.com/top-public-relations-experts-in-the-technology-industry-2020-11",
+            "urlToImage": "https://i.insider.com/5fbbe53050e71a0011556d24?width=1200&format=jpeg",
+            "publishedAt": "2020-11-25T18:40:29Z",
+            "content": "Tech companies are often in the news, whether it's because of new innovations they're pitching or concerns about their impact on society that have landed many of them in the political hot seat.\r\nThes\u2026 [+701 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla raises prices for Model S across Europe",
+            "description": "Tesla Inc has increased prices for its Model S sedan across Europe, with rates varying in different countries, according to the electric automaker's website.",
+            "url": "https://uk.reuters.com/article/uk-tesla-model-s-idUKKBN2853EZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201126&t=2&i=1542485123&r=LYNXMPEGAP001&w=800",
+            "publishedAt": "2020-11-25T23:55:23Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A visitor sits in the Tesla Model S electric vehicle at the Canadian International Auto Show in Toronto, Ontario, Canada February 18, 2020. REUTERS/Chris Helgren\r\n(Reute\u2026 [+770 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shriya Ramakrishnan, Shivani Kumaresan",
+            "title": "S&P 500, Dow dip as labor market recovery slows",
+            "description": "The S&P 500 and the Dow retreated on Wednesday as a surprise rise in weekly jobless claims added to signs the recovery of the labor market was stalling amid a surge in COVID-19 infections.",
+            "url": "https://uk.reuters.com/article/us-usa-stocks-idUKKBN2851NU",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201125&t=2&i=1542423475&r=LYNXMPEGAO13B&w=800",
+            "publishedAt": "2020-11-25T15:52:58Z",
+            "content": "(Reuters) - The S&amp;P 500 and the Dow retreated on Wednesday as a surprise rise in weekly jobless claims added to signs the recovery of the labor market was stalling amid a surge in COVID-19 infect\u2026 [+2470 chars]"
+        }
+    ]
+}

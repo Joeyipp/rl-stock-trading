@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Melkorka Licea",
+            "title": "How the 31-year-old CEO of a fitness startup valued at $1.2 billion landed investments from star athletes like Kevin Durant and Eli Manning",
+            "description": "Summary List Placement\n\nFive years ago, Will Ahmed was watching a Kia car commercial starring LeBron James on TV when he noticed something unusual.\u00a0\u00a0\n\"LeBron James was wearing a Whoop strap,\" Ahmed told Business Insider. \"And what was amazing about that was t\u2026",
+            "url": "https://www.businessinsider.com/whoop-31-year-old-ceo-kevin-durant-lebron-james-eli-manning-2020-10",
+            "urlToImage": "https://i.insider.com/5f9c745269331a0011bc6791?width=1200&format=jpeg",
+            "publishedAt": "2020-11-01T13:25:00Z",
+            "content": "Five years ago, Will Ahmed was watching a Kia car commercial starring LeBron James on TV when he noticed something unusual.\u00a0\u00a0\r\n\"LeBron James was wearing a Whoop strap,\" Ahmed told Business Insider. \"\u2026 [+8483 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Matthew DeBord)",
+            "title": "GM's revival of the Hummer as an all-electric halo car is a stroke of marketing genius",
+            "description": "GM isn't noted for brilliant marketing moves, but bringing back Hummer as a halo platform is a stroke of genius.",
+            "url": "https://www.businessinsider.com/i-begged-gm-to-keep-hummer-alive-didnt-anticipate-comeback-2020-10",
+            "urlToImage": "https://i.insider.com/5f909f282121130018740070?width=1200&format=jpeg",
+            "publishedAt": "2020-11-01T13:09:00Z",
+            "content": "A decade ago, the Hummer fell victim to the financial crisis and General Motors' 2009 federal bailout and subsequent bankruptcy. \"New GM\" decided that a hulking paramilitary brand that sold fewer tha\u2026 [+5212 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "",
+            "title": "After Math: Premium Pricing",
+            "description": "Netflix is raising the price of standard and premium plans in the US Netflix is yet again getting a little more expensive. The company announced last week that its standard plan will now cost $14, a dollar increase, and its premium plan will rise two dollars \u2026",
+            "url": "https://www.engadget.com/after-math-premium-pricing-163033469.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F18790ba0-1ade-11eb-bef7-5d5da5257e16&client=amp-blogside-v2&signature=84e1d38c705b2cdd88a6b8d01a1ed9f6216de343",
+            "publishedAt": "2020-11-01T16:30:33Z",
+            "content": "Speaking of Jeff Bezos getting even more wealthy, Amazon made an extra $26 billion in sales during Q3 2020 thanks to our shelter in place rules and everybody embracing delivery for, well, everything.\u2026 [+1135 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Matthew DeBord)",
+            "title": "Cadillac might be going electric, but the all-new Escalade SUV proves the brand can still deliver on traditional luxury",
+            "description": "The new Escalade has been hotly anticipated, as Lincoln's revamped Navigator captivated customers when it came to market a few years back.",
+            "url": "https://www.businessinsider.com/review-cadillac-escalade-2021-luxury-suv-photos-and-features-2020-10",
+            "urlToImage": "https://i.insider.com/5f8f2b92b0526700185cc6ae?width=1200&format=jpeg",
+            "publishedAt": "2020-11-01T14:53:00Z",
+            "content": "Cadillac has been on its heels for a few years.\r\nThe 2018 launch of a completely redesigned Lincoln Navigator was a smash for Cadillac's rival in the luxury full-size SUV market. At one point, Lincol\u2026 [+11811 chars]"
+        }
+    ]
+}

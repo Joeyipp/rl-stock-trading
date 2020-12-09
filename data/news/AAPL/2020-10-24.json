@@ -1,0 +1,552 @@
+{
+    "status": "ok",
+    "totalResults": 42,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Engadget",
+            "title": "The Morning After: Apple enters the 5G era with the iPhone 12",
+            "description": "New iPhones have arrived, so as you would expect, while we reviewed the iPhone 12 and iPhone 12 Pro, the team at iFixit pulled out their tools and pried them open. Inside, shockingly, they found phone parts, plus a few new magnets to support the MagSafe charg\u2026",
+            "url": "https://www.engadget.com/iphone-12-teardown-tma-134256608.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F5f402d50-15fe-11eb-9b7f-bd0d3604d2f1&client=amp-blogside-v2&signature=beefea40c57db1eb873f32d91e12657c67e017f6",
+            "publishedAt": "2020-10-24T13:42:56Z",
+            "content": "New iPhones have arrived, so as you would expect, while we reviewed the iPhone 12 and iPhone 12 Pro, the team at iFixit pulled out their tools and pried them open. Inside, shockingly, they found phon\u2026 [+1753 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Richard Lawler",
+            "title": "iPhone 12 teardown reveals how 5G has changed things",
+            "description": "The first two models from Apple\u2019s iPhone 12 have started shipping, and of course the folks at iFixit are busy taking them apart. As of this writing the detailed teardown is still incomplete, but they\u2019ve exposed enough of the details to get a good look under t\u2026",
+            "url": "https://www.engadget.com/iphone-12-12-pro-teardown-034943182.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6b5d0020-15ab-11eb-bfa6-7dca57206077&client=amp-blogside-v2&signature=278ee0b17d77d9c33597f42b665d9ac7ada0e724",
+            "publishedAt": "2020-10-24T03:49:43Z",
+            "content": "The first two models from Apple\u2019s iPhone 12 have started shipping, and of course the folks at iFixit are busy taking them apart. As of this writing the detailed teardown is still incomplete, but they\u2026 [+569 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lisa Eadicicco",
+            "title": "Apple's new MagSafe charger could be the next step toward a wireless future for the iPhone (AAPL)",
+            "description": "Summary List Placement\n\nWhen Apple removed the headphone jack from the iPhone in 2016, it positioned the decision as a forward-looking shift away from antiquated technologies. Apple promised it would make the iPhone more convenient in the long run.\u00a0\n\"It makes\u2026",
+            "url": "https://www.businessinsider.com/apples-iphone-12-magsafe-charger-wireless-iphone-2020-10",
+            "urlToImage": "https://i.insider.com/5f932ab3f21803001222baed?width=1200&format=jpeg",
+            "publishedAt": "2020-10-24T12:00:00Z",
+            "content": "When Apple removed the headphone jack from the iPhone in 2016, it positioned the decision as a forward-looking shift away from antiquated technologies. Apple promised it would make the iPhone more co\u2026 [+4520 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jason Aten",
+            "title": "Google's dominance in search proves that you don't have to be the best, you just have to be the most convenient",
+            "description": "Summary List Placement\n\nIf you've bought a new iPhone in the past few years, you might not think much about the fact that when you open Safari and type in a search the results you get come from Google. Most people use Google to search on the internet anyway \u2014\u2026",
+            "url": "https://www.businessinsider.com/google-search-default-apple-devices-safari-convenience-2020-10",
+            "urlToImage": "https://i.insider.com/5f9329e5f21803001222bae6?width=1200&format=jpeg",
+            "publishedAt": "2020-10-24T12:30:00Z",
+            "content": "If you've bought a new iPhone in the past few years, you might not think much about the fact that when you open Safari and type in a search the results you get come from Google. Most people use Googl\u2026 [+5380 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Redbox's Free Live TV comes to Xbox One consoles",
+            "description": "Want a free TV option on your console for those moments between gaming sessions? You now have another major choice. Redbox\u2019s Free Live TV has arrived on consoles for the first time with an app for Xbox One systems. As before, you don\u2019t have to sign in \u2014the on\u2026",
+            "url": "https://www.engadget.com/redbox-free-live-tv-xbox-one-210018681.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fd5a40d10-1638-11eb-8f5d-7ecf24f81be4&client=amp-blogside-v2&signature=e1799761e736392bd889aaf5f9c0e0466bc60204",
+            "publishedAt": "2020-10-24T21:00:18Z",
+            "content": "Want a free TV option on your console for those moments between gaming sessions? You now have another major choice. Redbox\u2019s Free Live TV has arrived on consoles for the first time with an app for Xb\u2026 [+338 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "U.S. judge denies new government bid to remove China's WeChat from U.S. app stores - Reuters India",
+            "description": "A U.S. judge in San Francisco on Friday rejected a Justice Department request to reverse a decision that allowed Apple Inc and Alphabet Inc's Google to continue to offer Chinese-owned WeChat for download in U.S. app stores.",
+            "url": "https://in.reuters.com/article/usa-wechat-idINKBN27903Y",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201024&t=2&i=1538671146&r=LYNXMPEG9N02P&w=800",
+            "publishedAt": "2020-10-24T03:24:00Z",
+            "content": "(Reuters) - A U.S. judge in San Francisco on Friday rejected a Justice Department request to reverse a decision that allowed Apple Inc and Alphabet Incs Google to continue to offer Chinese-owned WeCh\u2026 [+2126 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Jae Thomas",
+            "title": "Keep your devices ready to go with 25 wireless chargers on sale",
+            "description": "Is your phone always dead? It's probably because you hate carrying around your charger, and who can blame you? Wires are the worst, but thankfully, you don't have to keep living that life.\u00a0\nWe've rounded up 25 wireless chargers on sale as of Oct. 24, with sav\u2026",
+            "url": "https://mashable.com/shopping/oct-24-wireless-chargers/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F24%252Fc8%252F8effcff303914964abe5cfb4a279f28d.6cc65.jpg%252F1200x630.jpg?signature=wy-hO3ULuF-WGkJH7VLNdcZzG8c=",
+            "publishedAt": "2020-10-24T09:00:00Z",
+            "content": "Is your phone always dead? It's probably because you hate carrying around your charger, and who can blame you? Wires are the worst, but thankfully, you don't have to keep living that life.\u00a0\r\nWe've ro\u2026 [+4643 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "5G Brings Immersive Remote Learning",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-10-24/5g-brings-immersive-remote-learning-video",
+            "urlToImage": null,
+            "publishedAt": "2020-10-24T15:59:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "iPhone 12 vs. Pixel 5 camera comparison - CNET",
+            "description": "<ol><li>iPhone 12 vs. Pixel 5 camera comparison\u00a0\u00a0CNET\r\n</li><li>iPhone 12 vs iPhone 12 Pro: What is different and which one to buy?\u00a0\u00a0The Indian Express\r\n</li><li>Apple news: Android's competitor during week of October 23, 2020\u00a0\u00a0Android Authority\r\n</li><li>App\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9M0ZaMmJIbnRXWDjSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-24T17:00:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "You can no longer join any Google Meet session without a Google account",
+            "description": "For more details about security for Google Workspace, go to Meet security and privacy for Google Workspace.\nFor more details about security for G Suite for",
+            "url": "https://support.google.com/meet/answer/9852160?hl=en",
+            "urlToImage": null,
+            "publishedAt": "2020-10-24T09:51:15Z",
+            "content": "For more details about security for Google Workspace,go to Meet security and privacy for Google Workspace.\r\nFor more details about security for G Suite for Education, go to Meet security and privacy \u2026 [+8631 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "IPhone 12 teardowns look at Apple's latest phones - The Queens County Citizen",
+            "description": "<ol><li>IPhone 12 teardowns look at Apple's latest phones\u00a0\u00a0The Queens County Citizen\r\n</li><li>Apple's iPhone 12 and 12 Pro now available in Canada\u00a0\u00a0MobileSyrup\r\n</li><li>Is the camera as good as Apple claims it is? Pro photographer tests the new iPhone 12 Pr\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vcXVlZW5zY2l0aXplbi5jYS8yMDIwLzEwLzIzL2lwaG9uZS0xMi10ZWFyZG93bnMtbG9vay1hdC1hcHBsZXMtbGF0ZXN0LXBob25lcy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-24T02:03:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dolby Vision HDR video sample shot with iPhone 12 Pro - SlashGear",
+            "description": "<ol><li>Dolby Vision HDR video sample shot with iPhone 12 Pro\u00a0\u00a0SlashGear\r\n</li><li>iPhone 12 is so good that long-time Android fans are impressed by it\u00a0\u00a0India Today\r\n</li><li>Download iPhone 12/12 Pro official wallpapers (Full Resolution)\u00a0\u00a0gizmochina\r\n</li><l\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WnZIUjRFTHJCNDjSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-24T03:37:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bchang@businessinsider.com (Brittany Chang)",
+            "title": "Apple is expanding its new 'Express' stores for the iPhone 12 launch and holiday shopping \u2014 see what's it's like to shop at one",
+            "description": "Apple's new \"Express\" stores separate the store employees from customers with plexiglass panels in front of the sales counters and product displays.",
+            "url": "https://www.businessinsider.com/apple-expanding-express-storefronts-2020-10",
+            "urlToImage": "https://i.insider.com/5f932798f21803001222bad5?width=1200&format=jpeg",
+            "publishedAt": "2020-10-24T12:13:00Z",
+            "content": "Apple will be unveiling new \"Express\" storefronts as the holiday shopping season approaches and the company begins to distribute its new iPhone 12 models, Reuters reported.\r\nLike many retailers that \u2026 [+742 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "US judge stands firm in decision to block ban on WeChat",
+            "description": "The judge who blocked the Commerce Department\u2019s order to remove WeChat from US app stores was unmoved by the new evidence the government presented. Last month, US Magistrate Judge Laurel Beeler issued a preliminary injunction blocking the order that...",
+            "url": "https://www.engadget.com/us-judge-stands-firm-block-us-ban-wechat-132927009.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-02%2Fe35b1b20-5125-11ea-ad4f-6c0f312f404b&client=amp-blogside-v2&signature=a06173d122a4f28b6ec225cdeaba7ef0496f03a0",
+            "publishedAt": "2020-10-24T13:29:27Z",
+            "content": "The judge who blocked the Commerce Department\u2019s order to remove WeChat from US app stores was unmoved by the new evidence the government presented. Last month, US Magistrate Judge Laurel Beeler issue\u2026 [+931 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "info@podcastone.com, Adam Carolla",
+            "title": "Carolla Classics: Paul Scheer + Schmoes Know Movie Villains",
+            "description": "Highlights from the history of The Adam Carolla Show:\n1. Anthony Weiner story with guest Paul Scheer (2013)\n2. Heidi Fliess undercover cop reenactment (2015)\n3. Movie villains with Schmoes Know (2012)\n4. Pussy Lips (2013)\n\nHosted by Chris Laxamana and Giovann\u2026",
+            "url": "http://feedproxy.google.com/~r/TheAdamCarollaPodcast/~3/3kx3lpB7gjg/2020-10-24Classics_ls8v_d8f853e4.mp3",
+            "urlToImage": null,
+            "publishedAt": "2020-10-24T07:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "podcast@cnet.com (CNET.com), CNET",
+            "title": "US government sues Google, iPhone 12 reviews are in",
+            "description": "This week's major tech stories include the United States' lawsuit against Google, Quibi shutting down and our iPhone 12 review.",
+            "url": "http://feedproxy.google.com/~r/allcnetvideopodcasts/~3/mWqean9dwFM/TT_102420_542796_740.mp4",
+            "urlToImage": null,
+            "publishedAt": "2020-10-24T11:00:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kim Lyons",
+            "title": "See inside the iPhone 12 and 12 Pro in iFixit\u2019s latest teardown video",
+            "description": "In its latest teardown video, iFixit took apart an iPhone 12 and iPhone 12 Pro, and found that the devices look pretty similar to each other on the inside.",
+            "url": "https://www.theverge.com/2020/10/24/21532190/iphone-12-pro-ifixit-teardown-video",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/1F2dqgY_H9vmcuaKvPg-7D1JoeM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21973505/vpavic_4243_20201018_0121.0.jpg",
+            "publishedAt": "2020-10-24T21:51:04Z",
+            "content": "The devices appear very similar to each other on the inside\r\nPhoto by Vjeran Pavic / The Verge\r\nIn its latest teardown video, iFixit took apart an iPhone 12 and iPhone 12 Pro, and found that the devi\u2026 [+1301 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rob Price, Meghan Morris and Becky Peterson",
+            "title": "The 199 days that doomed Quibi: How $1.75 billion couldn't save the most hyped app of the year from a pandemic and apathetic users",
+            "description": "Summary List Placement\n\nWith just a few weeks to go until one of the biggest product launches in their careers, Jeffrey Katzenberg and Meg Whitman met alone for several hours.\u00a0\nThe two veteran business executives, representing the top echelons of Hollywood an\u2026",
+            "url": "https://www.businessinsider.com/inside-quibis-175-billion-rise-and-six-month-fall-2020-10",
+            "urlToImage": "https://i.insider.com/5f91d1baabcd0c0018d69246?width=1200&format=jpeg",
+            "publishedAt": "2020-10-24T20:42:23Z",
+            "content": "With just a few weeks to go until one of the biggest product launches in their careers, Jeffrey Katzenberg and Meg Whitman met alone for several hours.\u00a0\r\nThe two veteran business executives, represen\u2026 [+17861 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "This Week in Apps: Quibi dies, Snapchat soars, Halide upgrades for iPhone 12",
+            "description": "Welcome back to This Week in\u00a0Apps, the\u00a0TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with\u00a0a record\u00a0204 billion downloads and $120 billion in consume\u2026",
+            "url": "http://techcrunch.com/2020/10/24/this-week-in-apps-quibi-dies-snapchat-soars-halide-upgrades-for-iphone-12/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753",
+            "publishedAt": "2020-10-24T14:45:04Z",
+            "content": "Welcome back to This Week in\u00a0Apps, the\u00a0TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all.\r\nThe app industry is as hot as ever, wi\u2026 [+20383 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ashley Rodriguez",
+            "title": "How Spotify is trying to use its podcasting power to introduce new features into the medium, according to its head of consumer experience (SPOT)",
+            "description": "Summary List Placement\n\nSpotify executive Sten Garmark wants to use the streaming company's new power in the podcasting sector to change how people listen to and create for the medium.\nStockholm-based Spotify has made big strategic bets on podcasting over the\u2026",
+            "url": "https://www.businessinsider.com/spotify-head-of-experience-on-new-podcast-features-pandemic-2020-10",
+            "urlToImage": "https://i.insider.com/5f92e720212113001874068d?width=1200&format=jpeg",
+            "publishedAt": "2020-10-24T13:30:00Z",
+            "content": "Spotify executive Sten Garmark wants to use the streaming company's new power in the podcasting sector to change how people listen to and create for the medium.\r\nStockholm-based Spotify has made big \u2026 [+3842 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Scott Moritz",
+            "title": "Apple 5G iPhones: What Do the Abbreviations Mean? 5G, 5G E, 5G UW and 5G+",
+            "description": "Apple 5G iPhones: What Do the Abbreviations Mean? 5G, 5G E, 5G UW and 5G+bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-24/apple-5g-iphones-arrive-with-an-alphabet-soup-of-abbreviations",
+            "urlToImage": null,
+            "publishedAt": "2020-10-24T15:11:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kim Lyons",
+            "title": "Epic says Apple \u2018has no rights to the fruits of Epic\u2019s labor\u2019 in latest filing",
+            "description": "Epic Games says in a new court filing that it did not \u201csteal\u201d anything that belonged to Apple, in the latest round of the ongoing battle between the two companies.",
+            "url": "https://www.theverge.com/2020/10/24/21531873/epic-apple-fortnite-app-store-lawsuit",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/A3W8qd3B3ujlB4JDGV7FElcz6F0=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21783860/acastro_20200818_1777_epicApple_0004.0.jpg",
+            "publishedAt": "2020-10-24T21:15:00Z",
+            "content": "The game maker is locked in a battle with Apple over App Store fees\r\nIllustration by Alex Castro / The Verge\r\nEpic Games fired back against Apple yet again in a new court filing, saying the iPhone ma\u2026 [+2571 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Alex Hughes",
+            "title": "iPhone 11 deals have come crashing down in price for a pretty obvious reason...",
+            "description": "iPhone 11 deals have come shooting down in price thanks to the brand new iPhone 12",
+            "url": "https://www.techradar.com/uk/news/iphone-11-deals-have-come-crashing-down-in-price-for-a-pretty-obvious-reason",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UNxmdQryNJ9HKSmavapxqg-1200-80.jpg",
+            "publishedAt": "2020-10-24T10:32:19Z",
+            "content": "While all eyes have been on the release of iPhone 12 deals, the possibly more exciting purchase from Apple has been happening behind the scenes as the iPhone 11 comes crashing down in price.\r\nEvery y\u2026 [+1422 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Alex Hughes",
+            "title": "Should you hold off until Black Friday to buy the iPhone 12 series?",
+            "description": "Will the best prices on iPhone 12 deals and the rest of the range be best over the Black Friday period?",
+            "url": "https://www.techradar.com/news/should-you-hold-off-until-black-friday-to-buy-the-iphone-12-series",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/giQvBmQhPmYmXJXAmepdpi-1200-80.jpg",
+            "publishedAt": "2020-10-24T14:30:51Z",
+            "content": "iPhone 12 deals are officially here, flexing Apple's first attempt at 5G, the world's fastest phone processor, unique new magnetic charging features and a host of other incremental new changes.\r\nBut \u2026 [+3122 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Apple Cable Supplier to Start Mass Production in India Soon - Bloomberg",
+            "description": "Apple Cable Supplier to Start Mass Production in India Soon\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-24/apple-cable-supplier-said-to-start-mass-production-in-india-soon",
+            "urlToImage": null,
+            "publishedAt": "2020-10-24T09:44:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Alex Lee, WIRED UK",
+            "title": "The iPhone 12 Finally Gets Magnets Right",
+            "description": "Motorola's Moto Mods failed to pull off a long-lasting smartphone trend. But Apple's MagSafe series looks like it might actually stick.",
+            "url": "https://www.wired.com/story/the-iphone-12-finally-gets-magnets-right/",
+            "urlToImage": "https://media.wired.com/photos/5f933f54ed97b6b30c266133/191:100/w_1280,c_limit/Gear-iPhone-12-Pro-Silicone-Case_coral_MagSafe-Charger.jpg",
+            "publishedAt": "2020-10-24T13:00:00Z",
+            "content": "Avi Greengart, consumer technology analyst at Techsponential says that modular designs appeal to engineers, rather than the typical consumer. You start with a base slab and then you can add things to\u2026 [+3853 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Abbas Jaffar Ali",
+            "title": "The best iPhone 12 chargers and cables for your new iPhone",
+            "description": "The best iPhone 12 charger and charging cables for any kind of iPhone.",
+            "url": "https://www.techradar.com/news/the-best-iphone-12-chargers-and-cables-for-your-new-iphone",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uJ4iifoEPqn3qf2Jqudiu4-1200-80.jpg",
+            "publishedAt": "2020-10-24T05:13:31Z",
+            "content": "With the iPhone 12, Apple is removing the charging brick that has come with every single mobile phone since they were invented. While almost everyone has an extra power brick, there will be some that\u2026 [+7426 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Mark Wilson",
+            "title": "Why the iPhone 12 Pro Max is Apple's first serious attack on mirrorless cameras",
+            "description": "Opinion: For photographers, the iPhone 12 Pro Max is the first Apple phone that really earns its 'Pro' label. And that's bad news for cameras.",
+            "url": "https://www.techradar.com/news/why-the-iphone-12-pro-max-is-apples-first-serious-attack-on-mirrorless-cameras",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sVKy2TkuGPA8kSVoS5rL56-1200-80.jpg",
+            "publishedAt": "2020-10-24T09:00:00Z",
+            "content": "The iPhone 12 Pro Max's name might sound like a brand of washing powder, but for photographers it's the first iPhone that's truly worthy of that 'Pro' moniker.\u00a0\r\nIts predecessors, the iPhone 11 Pro a\u2026 [+11665 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "David Lumb",
+            "title": "5 things we've learned about Samsung S21 this week",
+            "description": "This week has been a flurry of Samsung Galaxy S21 news here's five things we heard.",
+            "url": "https://www.techradar.com/news/5-things-weve-learned-about-samsung-s21-this-week",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7WgngEdkgvKJCwaKTuZM8B-1200-80.jpg",
+            "publishedAt": "2020-10-24T08:00:06Z",
+            "content": "For whatever reason, this week has been rife with Samsung Galaxy S21 rumors and leaks, previewing what we can expect from Samsung's next flagship smartphone in February 2021.\r\nFrom radical design dep\u2026 [+4572 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "David Nield",
+            "title": "Apple and Netflix are among those bidding to stream the new Bond movie",
+            "description": "One industry source says there's a bidding war for streaming rights to the new Bond film, due in cinemas in April.",
+            "url": "https://www.techradar.com/news/apple-and-netflix-are-among-those-bidding-to-stream-the-new-bond-movie",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ezkyC2EqZGMPTammM3VZRg-1200-80.jpg",
+            "publishedAt": "2020-10-24T13:30:13Z",
+            "content": "The latest Bond flick, No Time To Die, \u00a0has been moved around several times in the theater schedule to accommodate the current global pandemic, with April 2, 2021 the latest fixed date for a release.\u2026 [+1746 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Jasmine Gearie",
+            "title": "AFL Grand Final 2020 live stream: how to watch Richmond vs Geelong from anywhere",
+            "description": "It's all on the line between the Tigers and the Cats, here's how to live stream this AFL Grand Final decider.",
+            "url": "https://www.techradar.com/au/news/afl-grand-final-2020-live-stream-how-to-watch-richmond-vs-geelong-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uuk3HPkRKFJc29KLnxJ4Ga-1200-80.jpg",
+            "publishedAt": "2020-10-24T05:04:09Z",
+            "content": "This AFL season decider is set to be a history-making match-up, with Richmond looking to cement its place as a dynasty. Only Geelong poses a serious threat to their chances and you can watch this ent\u2026 [+4291 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Alex Hughes",
+            "title": "This Vodafone SIM only deal gets you 60GB of data for just 11.50 a month",
+            "description": "If you need a strong amount of data for a low price, this SIM only deal from Vodafone looks to be the way to go thanks to a tasty cashback offer.",
+            "url": "https://www.techradar.com/uk/news/this-vodafone-sim-only-deal-gets-you-60gb-of-data-for-just-pound1150-a-month",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NB7idvcPcQMPkzX5VdDmv9-1200-80.jpg",
+            "publishedAt": "2020-10-24T11:07:18Z",
+            "content": "While the SIM only deal market is vast, with offers from both the big name networks and the many MVNOs, there are a few offers that stand out. One of those such eye-catching plans is a cheap Vodafone\u2026 [+1722 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Will Roper",
+            "title": "There's No Turning Back on AI in the Military",
+            "description": "In the digital arms race with China, the only thing worse than fearing AI itself is the fear of not having it at all.",
+            "url": "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/",
+            "urlToImage": "https://media.wired.com/photos/5f876aa8bdbbaee370e7cd80/191:100/w_1280,c_limit/OpEd-AI-Airforce-190304-F-NH566-9002.jpg",
+            "publishedAt": "2020-10-24T13:00:00Z",
+            "content": "For countless Americans, the United States military epitomizes nonpareil technological advantage. Thankfully, in many cases, we live up to it. \r\nBut our present digital reality is quite different, ev\u2026 [+4233 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "James Laird",
+            "title": "Alabama vs Tennessee live stream: how to watch NCAA college football from anywhere",
+            "description": "A historic rivalry is today's SEC Game of the Week, so follow our guide for an Alabama vs Tennessee live stream and watch college football online.",
+            "url": "https://www.techradar.com/news/alabama-vs-tennessee-live-stream-how-to-watch-ncaa-college-football-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/3vCsRx6npwLEznUdNUJerK-1200-80.jpg",
+            "publishedAt": "2020-10-24T17:33:15Z",
+            "content": "It may actually be the fourth Saturday in October, but SEC football fans could be forgiven for feeling stuck in a time machine, as today marks the famous Third Saturday in October game between undefe\u2026 [+4641 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "France vs Wales live stream: how to watch rugby online from anywhere tonight",
+            "description": "Can Wales avenge their Six Nations defeat? Find out by watching a France vs Wales live stream tonight - no matter where you are in the world.",
+            "url": "https://www.techradar.com/news/france-vs-wales-live-stream-how-to-watch-the-rugby-online-from-anywhere-today",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KgTbL4cXp3wFi28gB9HbUR-1200-80.jpg",
+            "publishedAt": "2020-10-24T17:23:10Z",
+            "content": "France and Wales warm up for their final Six Nations fixtures with a good old international friendly at the Stade de France tonight. Fabien Galthie and Wayne Pivac have both picked very strong line-u\u2026 [+5353 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Nebraska vs Ohio State live stream: how to watch Big Ten college football anywhere",
+            "description": "The Big Ten college football season kicks-off this weekend and our guide explains how to watch a Nebraska vs Ohio State live stream wherever you are.",
+            "url": "https://www.techradar.com/news/nebraska-vs-ohio-state-live-stream-how-to-watch-big-ten-college-football-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/thdnfRarirx2kCH7bx7MnW-1200-80.jpg",
+            "publishedAt": "2020-10-24T14:16:15Z",
+            "content": "Nebraska were among the teams pushing for Big Ten football to be played this fall after it was initial postponed due to Covid-19, but with an opening game against no.5 ranked Ohio State, they might n\u2026 [+7003 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Michigan vs Minnesota live stream: how to watch Big Ten college football tonight",
+            "description": "The Big Ten college football season kicks-off this weekend and our guide explains how to watch a Michigan vs Minnesota live stream from anywhere today.",
+            "url": "https://www.techradar.com/news/michigan-vs-minnesota-live-stream-how-to-watch-big-ten-college-football-tonight",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FGi8aHJdWqFqijdAJWBSVV-1200-80.jpg",
+            "publishedAt": "2020-10-24T21:30:40Z",
+            "content": "Big Ten college football is back, and the Michigan Wolverines vs Minnesota Golden Gophers game - one of the oldest rivalries in American college football - is an obvious highlight of the opening week\u2026 [+6306 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Henry St Leger",
+            "title": "Best Powerbeats Pro price ever is here in latest Amazon earbuds deal",
+            "description": "In the US or UK? You can save big on the Powerbeats Pro with these great Beats deals.",
+            "url": "https://www.techradar.com/uk/news/best-powerbeats-pro-price-ever-in-latest-amazon-earbuds-deal",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/xKKTVZfBp9m2tJgAFL9X3F-1200-80.jpg",
+            "publishedAt": "2020-10-24T09:00:29Z",
+            "content": "The Beats Powerbeats Pro are among the best true wireless earbuds to get right now and a new price cut on Amazon has brought down its RRP to a record low in the UK.\r\nInitially retailing for \u00a3219.95, \u2026 [+2548 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Alex Whitelock",
+            "title": "Hurry - There are only a few more hours to grab an early Black Friday laptop deal on a HP Spectre",
+            "description": "Don't miss HP's early Black Friday laptop deals flash sale on its stunning Spectre x360 ultrabooks.",
+            "url": "https://www.techradar.com/news/hurry-there-are-only-a-few-more-hours-to-grab-an-early-black-friday-laptop-deal-on-a-hp-spectre",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AaRnLMw8DzjryRhpVheu2h-1200-80.jpg",
+            "publishedAt": "2020-10-24T16:20:12Z",
+            "content": "One of our favorite laptops ever, the HP Spectre x360, is on sale in an early Black Friday laptop deal from HP right now, although you'll have to dash to catch it - it's only available for a few more\u2026 [+2438 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Megan Rose Dickey",
+            "title": "Human Capital: Court ruling could mean trouble for Uber and Lyft as gig workers may finally become employees \u2013 TechCrunch",
+            "description": "Welcome back to Human Capital! As many of you know, Human Capital is a weekly newsletter where I break down the latest in labor, as well as diversity and inclusion in tech. It\u2019s officially available as a newsletter, so if you want this content when it comes i\u2026",
+            "url": "http://techcrunch.com/2020/10/24/human-capital-court-ruling-could-mean-trouble-for-uber-and-lyft-as-gig-workers-may-finally-become-employees/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1228964683.jpg?w=574",
+            "publishedAt": "2020-10-24T22:01:04Z",
+            "content": "Welcome back to Human Capital! As many of you know, Human Capital is a weekly newsletter where I break down the latest in labor, as well as diversity and inclusion in tech. It\u2019s officially available \u2026 [+8095 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "James Laird",
+            "title": "2020 World Series live stream: how to watch Dodgers vs Rays game 4 from anywhere",
+            "description": "Los Angeles 2-1 up in series after confident game 3 win - here's how to watch the Dodgers vs Rays game 4 and get a World Series live stream tonight.",
+            "url": "https://www.techradar.com/news/2020-world-series-live-stream-how-to-watch-dodgers-vs-rays-game-4-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/n59adVagiWf7UsPiL35FTg-1200-80.jpg",
+            "publishedAt": "2020-10-24T21:45:14Z",
+            "content": "Over the next few days, \u00a0the year's shortened MLB season will come to an end and baseball will crown a new champion - but who will it be? The 2020 World Series is now well under way as the Los Angele\u2026 [+10657 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "guiambros",
+            "title": "Employee #1 - A conversation with Shel Kaphan, Amazon\u2019s first employee (2016)",
+            "description": "Article URL: https://blog.ycombinator.com/employee-1-amazon/\nComments URL: https://news.ycombinator.com/item?id=24876667\nPoints: 3\n# Comments: 0",
+            "url": "https://blog.ycombinator.com/employee-1-amazon/",
+            "urlToImage": "https://ycombinator.wpengine.com/wp-content/uploads/2016/12/YC-logo-1200-1.png",
+            "publishedAt": "2020-10-24T03:17:05Z",
+            "content": "A conversation with Shel Kaphan, Amazons first employee.\r\nEmployee #1 is a series of interviews focused on sharing the often untold stories of early employees at tech companies.\r\nShel Kaphan was the \u2026 [+23410 chars]"
+        }
+    ]
+}

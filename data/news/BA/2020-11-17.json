@@ -1,0 +1,1111 @@
+{
+    "status": "ok",
+    "totalResults": 85,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Asif Shahzad",
+            "title": "Pakistan OKs funding for airline PIA's redundancy scheme - Reuters India",
+            "description": "Pakistan said on Tuesday that it has approved cash funding to support its flagship carrier Pakistan International Airline's planned voluntary retirement scheme that aims to cut roughly one-third of its workforce.",
+            "url": "https://in.reuters.com/article/pakistan-intl-redundancies-idINKBN27X15N",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541479880&r=LYNXMPEGAG0N8&w=800",
+            "publishedAt": "2020-11-17T11:01:00Z",
+            "content": "FILE PHOTO: A Pakistan International Airlines (PIA) passenger plane prepares to take off from the Benazir International airport in Islamabad, Pakistan, February 9, 2016. REUTERS/Faisal Mahmood/File P\u2026 [+1059 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Virgin Australia to position itself as a mid-market airline, new CEO says - Reuters India",
+            "description": "Virgin Australia will position itself as a mid-market airline targeting around a one-third share of the domestic aviation market under the ownership of U.S. private equity firm Bain Capital, the airline's new chief executive said on Wednesday.",
+            "url": "https://in.reuters.com/article/virgin-australia-strategy-idINL4N2I21PL",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T22:47:00Z",
+            "content": "By Reuters Staff\r\nSYDNEY, Nov 18 (Reuters) - Virgin Australia will position itself as a mid-market airline targeting around a one-third share of the domestic aviation market under the ownership of U.\u2026 [+1027 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "U.S. House passes bill to reform plane certification process after two Boeing 737 MAX crashes - Reuters",
+            "description": "The U.S. House of Representatives unanimously approved legislation on Tuesday to reform the Federal Aviation Administration\u2019s aircraft certification process after two fatal Boeing <BA.N> 737 MAX crashes killed 346 people.",
+            "url": "https://www.reuters.com/article/us-boeing-737max-faa-idUSKBN27X330",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541557562&r=LYNXMPEGAG1VK&w=800",
+            "publishedAt": "2020-11-17T23:03:00Z",
+            "content": "FILE PHOTO: Federal Aviation Administration (FAA) Chief Steve Dickson brings a Boeing 737 MAX aircraft to a stop after an evaluation flight at Boeing Field in Seattle, Washington, U.S. September 30, \u2026 [+2127 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Asif Shahzad",
+            "title": "UPDATE 1-Pakistan OKs funding for airline PIA's redundancy scheme - Reuters",
+            "description": "Pakistan said on Tuesday that it has approved cash funding to support its flagship carrier Pakistan International Airline's planned voluntary retirement scheme that aims to cut roughly one-third of its workforce.",
+            "url": "https://www.reuters.com/article/pakistan-intl-redundancies-idUSL1N2I30IS",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T09:57:00Z",
+            "content": "(Adds detail on layoffs, background)\r\nISLAMABAD, Nov 17 (Reuters) - Pakistan said on Tuesday that it has approved cash funding to support its flagship carrier Pakistan International Airlines planned \u2026 [+900 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed",
+            "title": "UPDATE 1-Virgin Australia to position itself as mid-market airline, new CEO says - Reuters",
+            "description": "* Introducing new food purchase options in economy class (Adds details of administration, Qantas CEO comments)",
+            "url": "https://www.reuters.com/article/virgin-australia-strategy-idUSL1N2I32ZK",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T23:23:00Z",
+            "content": "* Targeting around one-third share of domestic market\r\n* Will end decade-long corporate travel arms race\r\n* Introducing new food purchase options in economy class (Adds details of administration, Qan\u2026 [+2087 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Korean Air's parent to limit role of founding family in new deal, state bank says - Reuters",
+            "description": "Hanjin Kal <180640.KS>, owner of Korean Air Lines <003490.KS>, is expected to bar some members of the carrier's founding family from managing some affiliates as it consolidates Korean Air with Asiana Airlines <020560.KS>, a state bank said.",
+            "url": "https://www.reuters.com/article/us-asiana-airlines-m-a-korean-air-manage-idUSKBN27X1BD",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541482759&r=LYNXMPEGAG0PP&w=800",
+            "publishedAt": "2020-11-17T11:28:00Z",
+            "content": "By Reuters Staff\r\nSEOUL (Reuters) - Hanjin Kal 180640.KS, owner of Korean Air Lines 003490.KS, is expected to bar some members of the carrier's founding family from managing some affiliates as it con\u2026 [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "FACTBOX-Key changes to Boeing's 737 MAX after fatal crashes - Reuters",
+            "description": "The U.S. Federal Aviation Administration is expected on Wednesday to detail the changes Boeing Co must make on its 737 MAX jet in order for it to fly again commercially following a 20-month grounding sparked by two fatal crashes.",
+            "url": "https://www.reuters.com/article/boeing-737max-changes-idUSL1N2I22TC",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T23:13:00Z",
+            "content": "Nov 17 (Reuters) - The U.S. Federal Aviation Administration is expected on Wednesday to detail the changes Boeing Co must make on its 737 MAX jet in order for it to fly again commercially following a\u2026 [+1991 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Factbox: Key changes to Boeing's 737 MAX after fatal crashes - Reuters UK",
+            "description": "The U.S. Federal Aviation Administration is expected on Wednesday to detail the changes Boeing Co <BA.N> must make on its 737 MAX jet in order for it to fly again commercially following a 20-month grounding sparked by two fatal crashes.",
+            "url": "https://www.reuters.com/article/uk-boeing-737max-changes-factbox-idUKKBN27X33O",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541559841&r=LYNXMPEGAG1WK&w=800",
+            "publishedAt": "2020-11-17T23:15:00Z",
+            "content": "(Reuters) - The U.S. Federal Aviation Administration is expected on Wednesday to detail the changes Boeing Co BA.N must make on its 737 MAX jet in order for it to fly again commercially following a 2\u2026 [+2234 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa to cut free snacks for economy passengers - Reuters",
+            "description": "German airline Lufthansa <LHAG.DE>, slashing costs as it struggles to cope with the impact of the COVID-19 pandemic, said on Tuesday it will stop offering free snacks to economy class passengers from next spring.",
+            "url": "https://www.reuters.com/article/us-lufthansa-food-idUSKBN27X1DR",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541484971&r=LYNXMPEGAG0R9&w=800",
+            "publishedAt": "2020-11-17T11:47:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A scratched logo of German air carrier Lufthansa is seen at Frankfurt Airport as the spread of the coronavirus disease (COVID-19) continues in Frankfurt, Germany, Novemb\u2026 [+1056 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "IAG to cut Air Europa price tag to 300-400 million euros: El Confidencial - Reuters",
+            "description": "International Consolidated Airlines Group <ICAG.L> has managed to cut the purchase price for Spanish carrier Air Europa to 300-400 million euros ($355-$474 million), news website El Confidencial reported on Tuesday citing unidentified sources.",
+            "url": "https://www.reuters.com/article/us-aireuropa-m-a-iag-idUSKBN27X0OP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541461747&r=LYNXMPEGAG0DV&w=800",
+            "publishedAt": "2020-11-17T07:57:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: An Air Europa Boeing 737-800 airplane takes off at the airport in Palma de Mallorca, Spain, July 28, 2018. REUTERS/Paul Hanna\r\nMADRID (Reuters) - International Consolida\u2026 [+763 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Aviation expert talks about SpaceX Crew-1's historic mission",
+            "description": "CNN's Anderson Cooper and aviation expert Miles O'Brien look ahead to SpaceX's craft docking with the ISS. Watch Anderson Cooper Full Circle next week Monday - Thursday at 6p E.T.",
+            "url": "https://www.cnn.com/videos/tech/2020/11/16/miles-obrien-spacex-iss-docking-acfc-full-episode-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201116192510-dt-acfc-space-x-mission-vpx-super-tease.jpg",
+            "publishedAt": "2020-11-17T01:06:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Britain and U.S. sign aviation deal for post-Brexit flights - Reuters India",
+            "description": "Britain and the U.S. have signed a deal for the continuation of flights between the two countries as the UK prepares for the end of its transition period with the European Union.",
+            "url": "https://in.reuters.com/article/britain-eu-aviation-idINKBN27X1KG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541492958&r=LYNXMPEGAG0VK&w=800",
+            "publishedAt": "2020-11-17T13:01:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A British airways aeroplane tailfin and a Virgin Atlantic areoplane are seen with the control tower at Heathrow airport., London, Britain, May 5, 2020. REUTERS/Toby Melv\u2026 [+1290 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Pakistan approves funding to support flagship carrier PIA's voluntary retirement scheme - Reuters India",
+            "description": "Pakistan said on Tuesday that it has approved cash funding to support its flagship carrier Pakistan International Airline's planned voluntary retirement scheme.",
+            "url": "https://www.reuters.com/article/redundancies-idINL4N2I321G",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T09:01:00Z",
+            "content": "By Reuters Staff\r\nISLAMABAD, Nov 17 (Reuters) - Pakistan said on Tuesday that it has approved cash funding to support its flagship carrier Pakistan International Airlines planned voluntary retirement\u2026 [+182 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Britain and U.S. sign aviation deal for post-Brexit flights - Reuters",
+            "description": "Britain and the U.S. have signed a deal for the continuation of flights between the two countries as the UK prepares for the end of its transition period with the European Union.",
+            "url": "https://www.reuters.com/article/us-britain-eu-aviation-idUSKBN27X1ER",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541486473&r=LYNXMPEGAG0RT&w=800",
+            "publishedAt": "2020-11-17T12:04:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The flags of the United States and the United Kingdom stand after bi-lateral photo between U.S. Secretary of State Rex Tillerson and British Foreign Minister Boris Johns\u2026 [+1381 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "American, British Airways, oneworld to trial COVID-19 tests - Reuters",
+            "description": "American Airlines <AAL.O>, British Airways <ICAG.L>, and the oneworld alliance will launch a coronavirus testing trial this month aimed at convincing the U.S. and UK governments to introduce testing so that transatlantic travel can restart.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-british-airways-idUSKBN27X2OS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541537835&r=LYNXMPEGAG1M5&w=800",
+            "publishedAt": "2020-11-17T19:07:00Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - American Airlines AAL.O, British Airways ICAG.L, and the oneworld alliance will launch a coronavirus testing trial this month aimed at convincing the U.S. and UK \u2026 [+1683 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "American, British Airways, oneworld to trial COVID-19 tests - Reuters",
+            "description": "American Airlines, British Airways, and the oneworld alliance will launch a coronavirus testing trial this month aimed at convincing the U.S. and UK governments to introduce testing so that transatlantic travel can restart.",
+            "url": "https://www.reuters.com/article/health-coronavirus-british-airways-idUSL8N2I32TM",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T19:00:00Z",
+            "content": "By Reuters Staff\r\nLONDON, Nov 17 (Reuters) - American Airlines, British Airways, and the oneworld alliance will launch a coronavirus testing trial this month aimed at convincing the U.S. and UK gover\u2026 [+1657 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia's AirAsia Group reviewing India investment, hints at possible exit - Reuters India",
+            "description": "Malaysia's flagship budget carrier AirAsia Group Bhd has given its strongest indication to date that it could exit India, saying on Tuesday it was reviewing its investment in a joint venture airline there.",
+            "url": "https://www.reuters.com/article/airasia-group-india-idINKBN27X192",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541482031&r=LYNXMPEGAG0OZ&w=800",
+            "publishedAt": "2020-11-17T11:21:00Z",
+            "content": "By Reuters Staff\r\nKUALA LUMPUR (Reuters) - Malaysias flagship budget carrier AirAsia Group Bhd has given its strongest indication to date that it could exit India, saying on Tuesday it was reviewing \u2026 [+1927 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Nikkei flat as profit-taking offsets vaccine optimism - Reuters UK",
+            "description": "Japanese shares were flat on Tuesday as investors booked profits following the recent surge in the benchmark index, even as news of another promising coronavirus vaccine re-ignited hopes of a swift global recovery.",
+            "url": "https://uk.reuters.com/article/japan-stocks-midday-idUKL1N2I305Q",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T03:34:00Z",
+            "content": "By Reuters Staff\r\nTOKYO, Nov 17 (Reuters) - Japanese shares were flat on Tuesday as investors booked profits following the recent surge in the benchmark index, even as news of another promising coron\u2026 [+1605 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sarah Young",
+            "title": "EasyJet says vaccine news boosts bookings after 1 billion sterling pandemic loss - Reuters India",
+            "description": "EasyJet's bookings jumped by 50% on the day there was positive news about a coronavirus vaccine, a brief respite during a pandemic which pushed the British airline to a 1.27 billion pound annual loss, the first in its history.",
+            "url": "https://in.reuters.com/article/easyjet-results-idINKBN27X0P4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541462230&r=LYNXMPEGAG0E3&w=800",
+            "publishedAt": "2020-11-17T08:01:00Z",
+            "content": "LONDON (Reuters) - EasyJets bookings jumped by 50% on the day there was positive news about a coronavirus vaccine, a brief respite during a pandemic which pushed the British airline to a 1.27 billion\u2026 [+2031 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Chelsea Cirruzzo",
+            "title": "How to Reduce (but Not Eliminate) Covid Risk at Gatherings",
+            "description": "With a surge in cases, there is no safe way to travel or gather for Thanksgiving or Christmas. But if you must, here are some ways to lower your risk.",
+            "url": "https://www.wired.com/story/covid-risk-holiday-travel-family-gatherings/",
+            "urlToImage": "https://media.wired.com/photos/5fb2de5789f9934fc0ee4b25/191:100/w_1280,c_limit/Gear-Traveling-1211370380.jpg",
+            "publishedAt": "2020-11-17T14:00:00Z",
+            "content": "Strictly quarantining is a better approach than simply getting a Covid-19 test, as questions remain about the effectiveness of some often-used tests, experts say.\r\nBenjamin says the PCR test, which c\u2026 [+3614 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Nikkei hits 29-year high as vaccine optimism boosts risk appetite - Reuters",
+            "description": "Japan's Nikkei share average closed at a 29-year high on Tuesday as investors cheered news of another potential coronavirus vaccine that re-ignited hopes of a swift global recovery.",
+            "url": "https://www.reuters.com/article/japan-stocks-idUSL1N2I30BQ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T07:12:00Z",
+            "content": "By Reuters Staff\r\nTOKYO, Nov 17 (Reuters) - Japans Nikkei share average closed at a 29-year high on Tuesday as investors cheered news of another potential coronavirus vaccine that re-ignited hopes of\u2026 [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Pandemic pushes EasyJet to annual loss of 1.27 billion pound - Reuters UK",
+            "description": "EasyJet plunged to a 1.27 billion pound loss in the 12 months to the end of September, showing the extent of the impact of the pandemic on the British low-cost airline which had never before made an annual loss in its 25 year history.",
+            "url": "https://uk.reuters.com/article/uk-easyjet-results-idUKKBN27X0L8",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541458238&r=LYNXMPEGAG0CB&w=800",
+            "publishedAt": "2020-11-17T07:15:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: EasyJet aircrafts are seen on the tarmac at Terminal 1, marking the official opening of the new Berlin-Brandenburg Airport (BER) \"Willy Brandt\", in Schoenefeld near Berl\u2026 [+1588 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Pandemic pushes EasyJet to annual loss of 1.27 billion pounds - Reuters UK",
+            "description": "EasyJet plunged to a 1.27 billion pound loss in the 12 months to the end of September, showing the extent of the impact of the pandemic on the British low-cost airline which had never before made an annual loss in its 25 year history.",
+            "url": "https://www.reuters.com/article/uk-easyjet-results-idUKKBN27X0L8",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541458238&r=LYNXMPEGAG0CB&w=800",
+            "publishedAt": "2020-11-17T07:15:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: EasyJet aircrafts are seen on the tarmac at Terminal 1, marking the official opening of the new Berlin-Brandenburg Airport (BER) \"Willy Brandt\", in Schoenefeld near Berl\u2026 [+1588 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Francesco Guarascio",
+            "title": "EU states agonise over rules on rapid COVID tests, document says, in new blow to airlines - Reuters",
+            "description": "Many EU governments oppose common rules on the use of rapid COVID-19 tests, an internal document seen by Reuters says, in a new blow to airlines which are betting on fast-track testing to help bring the travel industry back to life.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-eu-travel-idUSKBN27X1AP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541482448&r=LYNXMPEGAG0PI&w=800",
+            "publishedAt": "2020-11-17T11:27:00Z",
+            "content": "BRUSSELS (Reuters) - Many EU governments oppose common rules on the use of rapid COVID-19 tests, an internal document seen by Reuters says, in a new blow to airlines which are betting on fast-track t\u2026 [+4194 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Air France-KLM in talks on $7 billion cash raise: Le Monde - Reuters",
+            "description": "Air France-KLM is discussing plans to raise another 6 billion euros ($7.1 billion) from its two government shareholders and other investors, French newspaper Le Monde reported on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-air-france-klm-idUSKBN27X2AK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541516492&r=LYNXMPEGAG1BN&w=800",
+            "publishedAt": "2020-11-17T16:31:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Air France flight AF 1235 destined for Paris-Charles de Gaulle takes off as the last flight from Berlin's Tegel airport, which closes permanently following the recent op\u2026 [+1157 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Air France-KLM in talks on $7 billion cash raise: Le Monde - Reuters UK",
+            "description": "Air France-KLM <AIRF.PA> is discussing plans to raise another 6 billion euros (5.38 billion pounds) from its two government shareholders and other investors, French newspaper Le Monde reported on Tuesday.",
+            "url": "https://www.reuters.com/article/uk-health-coronavirus-air-france-klm-idUKKBN27X2AE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541516374&r=LYNXMPEGAG1BM&w=800",
+            "publishedAt": "2020-11-17T16:29:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A KLM commercial passenger jet takes off in Blagnac near Toulouse, France, May 29, 2019. REUTERS/Regis Duvignau/File Photo\r\nPARIS (Reuters) - Air France-KLM AIRF.PA is d\u2026 [+1015 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "David E. Slotnick and Jasmin Baron",
+            "title": "Follow this checklist of things to do when you receive your new Amex Platinum credit card, and get hundreds of dollars in benefits and perks",
+            "description": "Summary List Placement\n\u00a0\n<ul>\n<li>The Platinum Card\u00ae from American Express\r\n is one of the best rewards credit cards because of its benefits, perks, and rewards that can get you a ton of value beyond the substantial welcome offer.</li>\n<li>The card's annual f\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/things-to-do-new-amex-platinum-card",
+            "urlToImage": "https://i.insider.com/5fb3f9231c741f0019aca2ba?width=1200&format=jpeg",
+            "publishedAt": "2020-11-17T18:00:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+10139 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chibuike Oguh",
+            "title": "RPT-GLOBAL MARKETS-Asia stocks gain after vaccine hopes push Wall Street to record highs - Reuters",
+            "description": "Asian stocks opened firmer on Tuesday after the S&P 500 and Dow Jones indexes hit record highs on news of another promising coronavirus vaccine, which supported hopes of a quicker economic recovery.",
+            "url": "https://www.reuters.com/article/global-markets-idUSL1N2I3023",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T00:57:00Z",
+            "content": "(Repeats to additional subscribers. No change to text.)\r\nNEW YORK, Nov 16 (Reuters) - Asian stocks opened firmer on Tuesday after the S&amp;P 500 and Dow Jones indexes hit record highs on news of ano\u2026 [+2469 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "By, Joey, Roulette",
+            "title": "'SpaceX, this is Resilience': Four astronauts begin six-month stay on space station - Reuters UK",
+            "description": "Four astronauts riding a newly-designed spacecraft from Elon Musk's rocket company SpaceX greeted their new crewmates aboard the International Space Station on Tuesday after successfully docking in a landmark achievement for private space travel.",
+            "url": "https://uk.reuters.com/article/uk-space-exploration-spacex-idUKKBN27X0W0",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541469430&r=LYNXMPEGAG0I2&w=800",
+            "publishedAt": "2020-11-17T09:12:00Z",
+            "content": "WASHINGTON (Reuters) - Four astronauts riding a newly-designed spacecraft from Elon Musks rocket company SpaceX greeted their new crewmates aboard the International Space Station on Tuesday after suc\u2026 [+1711 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kate Abnett",
+            "title": "Europe delays launch of next year's carbon market auctions - Reuters UK",
+            "description": "Auctions of carbon permits in the European Union's emissions trading system (ETS) next year will not start until late January or early February, the European Commission said on Tuesday.",
+            "url": "https://uk.reuters.com/article/uk-eu-carbontrading-idUKKBN27X2OE",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T19:00:00Z",
+            "content": "BRUSSELS (Reuters) - Auctions of carbon permits in the European Unions emissions trading system (ETS) next year will not start until late January or early February, the European Commission said on Tu\u2026 [+1212 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chibuike Oguh",
+            "title": "Asia stocks gain after vaccine hopes push Wall Street to record highs - Reuters",
+            "description": "Asian stocks opened firmer on Tuesday after the S&P 500 and Dow Jones indexes hit record highs on news of another promising coronavirus vaccine, which supported hopes of a quicker economic recovery.",
+            "url": "https://www.reuters.com/article/us-global-markets-idUSKBN27X012",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541429103&r=LYNXMPEGAG00O&w=800",
+            "publishedAt": "2020-11-17T00:21:00Z",
+            "content": "NEW YORK (Reuters) - Asian stocks opened firmer on Tuesday after the S&amp;P 500 and Dow Jones indexes hit record highs on news of another promising coronavirus vaccine, which supported hopes of a qu\u2026 [+2652 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chibuike Oguh",
+            "title": "Asia stocks gain after vaccine hopes push Wall Street to record highs - Reuters.com",
+            "description": "Asian stocks opened firmer on Tuesday after the S&P 500 and Dow Jones indexes hit record highs on news of another promising coronavirus vaccine, which supported hopes of a quicker economic recovery.",
+            "url": "https://in.reuters.com/article/us-global-markets-idUSKBN27X012",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541429103&r=LYNXMPEGAG00O&w=800",
+            "publishedAt": "2020-11-17T00:21:00Z",
+            "content": "NEW YORK (Reuters) - Asian stocks opened firmer on Tuesday after the S&amp;P 500 and Dow Jones indexes hit record highs on news of another promising coronavirus vaccine, which supported hopes of a qu\u2026 [+2652 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonathan Barrett",
+            "title": "Solomon Islands to pursue ban on Facebook after government criticism on platform: media - Reuters.com",
+            "description": "The Solomon Islands is planning to ban the use of Facebook for an indeterminate period after inflammatory critique of the government was aired on the social media platform, the Solomon Times reported.",
+            "url": "https://uk.reuters.com/article/us-pacific-solomonislands-facebook-idUSKBN27X07V",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541438402&r=LYNXMPEGAG044&w=800",
+            "publishedAt": "2020-11-17T02:22:00Z",
+            "content": "SYDNEY (Reuters) - The Solomon Islands is planning to ban the use of Facebook for an indeterminate period after inflammatory critique of the government was aired on the social media platform, the Sol\u2026 [+1518 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonathan Barrett",
+            "title": "Solomon Islands to pursue ban on Facebook after government criticism on platform: media - Reuters",
+            "description": "The Solomon Islands is planning to ban the use of Facebook in for an indeterminate period after inflammatory critique of the government was aired on the social media platform, the Solomon Times reported.",
+            "url": "https://www.reuters.com/article/us-pacific-solomonislands-facebook-idUSKBN27X07V",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541438402&r=LYNXMPEGAG044&w=800",
+            "publishedAt": "2020-11-17T02:22:00Z",
+            "content": "FILE PHOTO: Silhouettes of mobile users are seen next to a screen projection of Facebook logo in this picture illustration taken March 28, 2018. REUTERS/Dado Ruvic\r\nSYDNEY (Reuters) - The Solomon Isl\u2026 [+1444 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonathan Barrett",
+            "title": "Solomon Islands to pursue ban on Facebook after government criticism on platform: media - Reuters India",
+            "description": "The Solomon Islands is planning to ban the use of Facebook for an indeterminate period after inflammatory critique of the government was aired on the social media platform, the Solomon Times reported.",
+            "url": "https://in.reuters.com/article/pacific-solomonislands-facebook-idINKBN27X08F",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541438901&r=LYNXMPEGAG04B&w=800",
+            "publishedAt": "2020-11-17T02:21:00Z",
+            "content": "SYDNEY (Reuters) - The Solomon Islands is planning to ban the use of Facebook for an indeterminate period after inflammatory critique of the government was aired on the social media platform, the Sol\u2026 [+1484 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-UK Stocks-Factors to watch on Nov 17 - Reuters UK",
+            "description": "Britain's FTSE 100 index is seen opening 12 points lower at 6,409 on Tuesday, according to financial bookmakers, with futures down 0.3% ahead of cash market open.",
+            "url": "https://uk.reuters.com/article/britain-stocks-factors-idUKL4N2I31MQ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T07:50:00Z",
+            "content": "By Reuters Staff\r\n(Adds company news items, futures)\r\nNov 17 (Reuters) - Britains FTSE 100 index is seen opening 12 points lower at 6,409 on Tuesday, according to financial bookmakers, with futures d\u2026 [+1647 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey, Roulette",
+            "title": "'SpaceX, this is Resilience': Four astronauts begin six-month stay on space station - Reuters",
+            "description": "Four astronauts riding a newly-designed spacecraft from Elon Musk's rocket company SpaceX greeted their new crewmates aboard the International Space Station on Tuesday after successfully docking in a landmark achievement for private space travel.",
+            "url": "https://www.reuters.com/article/us-space-exploration-spacex-idUSKBN27X0W2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541469571&r=LYNXMPEGAG0I8&w=800",
+            "publishedAt": "2020-11-17T09:17:00Z",
+            "content": "FILE PHOTO: A SpaceX Falcon 9 rocket, topped with the Crew Dragon capsule, is launched carrying four astronauts on the first operational NASA commercial crew mission at Kennedy Space Center in Cape C\u2026 [+1974 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Equinor sees oil demand peaking two-three years sooner due to virus - Reuters UK",
+            "description": "Oil firm Equinor <EQNR.OL> expects global oil demand to peak by around 2027-2028, two-free years earlier than the company previously saw, as a result of the COVID-19 pandemic, it said on Tuesday.",
+            "url": "https://uk.reuters.com/article/us-equinor-oil-idUSKBN27X0HW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541453041&r=LYNXMPEGAG0AG&w=800",
+            "publishedAt": "2020-11-17T06:09:00Z",
+            "content": "By Reuters Staff\r\nOSLO (Reuters) - Oil firm Equinor EQNR.OL expects global oil demand to peak by around 2027-2028, two-free years earlier than the company previously saw, as a result of the COVID-19 \u2026 [+2114 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Kemp",
+            "title": "Vaccine trials temper hedge funds' oil pessimism: Kemp - Reuters India",
+            "description": "(John Kemp is a Reuters market analyst. The views expressed are his own)",
+            "url": "https://in.reuters.com/article/us-oil-global-kemp-idINKBN27X1K2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541491500&r=LYNXMPEGAG0V8&w=800",
+            "publishedAt": "2020-11-17T12:47:00Z",
+            "content": "(John Kemp is a Reuters market analyst. The views expressed are his own)\r\nFILE PHOTO: The sun is seen behind a crude oil pump jack in the Permian Basin in Loving County, Texas, U.S., November 22, 201\u2026 [+2091 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Kemp",
+            "title": "Column: Vaccine trials temper hedge funds' oil pessimism - Reuters UK",
+            "description": "Hedge funds raced to buy back short positions in crude and products last week after Pfizer\u2019s announcement of a successful coronavirus vaccine trial prompted hope for a recovery in consumption next year.",
+            "url": "https://uk.reuters.com/article/uk-oil-global-kemp-idUKKBN27X1TL",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541500808&r=LYNXMPEGAG11P&w=800",
+            "publishedAt": "2020-11-17T14:15:00Z",
+            "content": "LONDON (Reuters) - Hedge funds raced to buy back short positions in crude and products last week after Pfizers announcement of a successful coronavirus vaccine trial prompted hope for a recovery in c\u2026 [+2168 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "S.Korea stocks extend rally on vaccine hopes, stricter virus curbs cap gains - Reuters",
+            "description": "* KOSPI rises, foreigners net buyers * Korean won strengthens against U.S. dollar * South Korea benchmark bond yield falls SEOUL, Nov 17 (Reuters) - Round-up of South Korean financial markets: ** South Korean shares rose on Tuesday for a third straight sessio\u2026",
+            "url": "https://www.reuters.com/article/southkorea-markets-midday-idUSL1N2I303H",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T01:57:00Z",
+            "content": "By Reuters Staff\r\n* KOSPI rises, foreigners net buyers\r\n * Korean won strengthens against U.S. dollar\r\n * South Korea benchmark bond yield falls\r\nSEOUL, Nov 17 (Reuters) - Round-up of South Korean fi\u2026 [+1935 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EMERGING MARKETS-Thailand, Indonesia stocks lead modest Asian gains on vaccine news - Reuters",
+            "description": "* Thai baht inches up ahead of central bank meeting * Thailand, Indonesia up over 1% * Top Glove slides 10%, weighs on Malaysian shares Nov 17 (Reuters) - Thailand, Indonesia and Singapore climbed around 1% on Tuesday, leading more muted gains across Asian st\u2026",
+            "url": "https://www.reuters.com/article/emerging-markets-asia-idUSL4N2I31OY",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T07:52:00Z",
+            "content": "By Reuters Staff\r\n* Thai baht inches up ahead of central bank meeting \r\n * Thailand, Indonesia up over 1% \r\n * Top Glove slides 10%, weighs on Malaysian shares\r\nNov 17 (Reuters) - Thailand, Indonesia\u2026 [+2482 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "S.Korea stocks reverse early gains on stricter virus curbs, profit-taking - Reuters",
+            "description": "S.Korea stocks reverse early gains on stricter virus curbs, profit-taking\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/southkorea-markets-close-idUSAZN21TV00",
+            "urlToImage": null,
+            "publishedAt": "2020-11-17T07:07:00Z",
+            "content": "Asian Markets\r\nReuters Staff\r\n* KOSPI falls; Foreigners net buyers for 9th straight session\r\n* Korean won strengthens against U.S. dollar\r\n* South Korea benchmark bond yield falls\r\n* For the midday r\u2026 [+1910 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Spanish stocks - Factors to watch on Nov 17 - Reuters UK",
+            "description": "The following Spanish stocks may be affected by newspaper reports and other factors on Tuesday. Reuters has not verified the newspaper reports, and cannot vouch for their accuracy:",
+            "url": "https://uk.reuters.com/article/spain-stocks-factors-idUKL8N2I30X0",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T07:25:00Z",
+            "content": "By Reuters Staff\r\nNov 17 (Reuters) - The following Spanish stocks may be affected by newspaper reports and other factors on Tuesday. Reuters has not verified the newspaper reports, and cannot vouch f\u2026 [+2063 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Jeremy B. White and Katy Murphy",
+            "title": "Two California lawmakers bought plane tickets for Hawaii conference during pandemic",
+            "description": "The event run by the Independent Voter Project has brought together lobbyists and lawmakers from California, Texas and Washington.",
+            "url": "https://www.politico.com/states/california/story/2020/11/17/two-california-lawmakers-bought-plane-tickets-for-hawaii-conference-during-pandemic-1336713",
+            "urlToImage": "https://static.politico.com/22/af/00100e264b89aba7ece69549457b/ap20289755317200-1.jpg",
+            "publishedAt": "2020-11-17T21:53:40Z",
+            "content": "Umbrellas are closed at an outdoor restaurant on a popular resort in Waikiki, Thursday, Oct. 15, 2020, in Honolulu. | Marco Garcia/AP\r\nSACRAMENTO Two California assemblymembers reported spending camp\u2026 [+2733 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theo Golden",
+            "title": "JPMorgan shares 35 European stocks across 10 sectors that you need to own in the rotation to value \u2014 including one that could see EPS growth of almost 700% next year",
+            "description": "Summary List Placement\n\nOptimism that a vaccine against COVID-19 could be rolled out before the end of the year has sent global equities to record highs this past week. In particular, investors have taken profit on the stocks that profited from the pandemic a\u2026",
+            "url": "https://www.businessinsider.com/stock-picks-europe-rotation-value-investing-jpmorgan-2020-11",
+            "urlToImage": "https://i.insider.com/5fb2a619402d49001924f1e0?width=1200&format=jpeg",
+            "publishedAt": "2020-11-17T08:00:00Z",
+            "content": "Optimism that a vaccine against COVID-19 could be rolled out before the end of the year has sent global equities to record highs this past week. In particular, investors have taken profit on the stoc\u2026 [+2445 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Boeing 737 Max Crash Victim Families Decry Pending Return to Air",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-17/boeing-737-max-crash-victim-families-decry-pending-return-to-air",
+            "urlToImage": null,
+            "publishedAt": "2020-11-17T17:48:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Scott Reeves",
+            "title": "Boeing Reintroduces the 737 MAX After Two Fatal Crashes and 20 Months of Grounding",
+            "description": "All 837 Boeing 737 MAX aircraft tin service were grounded by the FAA on March 18, 2019, after two deadly crashes. It was the longest mass-grounding of an aircraft in U.S. aviation history\u2014some 20 months. Now, Boeing announced this week the 737 MAX may be rece\u2026",
+            "url": "https://www.newsweek.com/boeing-reintroduces-737-max-after-two-fatal-crashes-20-months-grounding-1548161",
+            "urlToImage": "https://d.newsweek.com/en/full/1359909/boeing-stock-price-today-737-max-8-jets-crash.jpg",
+            "publishedAt": "2020-11-17T21:58:10Z",
+            "content": "The 737 MAX was supposed to be the latest star in the Boeing firmament. Then one of them crashed in Indonesia on October 29, 2018\u2014189 people died.\r\nBoeing said it had addressed the problem with the a\u2026 [+8299 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "UN Recruits 40 Airlines to Help Deliver Vaccine to World's Poor",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-17/un-recruits-40-airlines-to-help-deliver-vaccine-to-world-s-poor",
+            "urlToImage": null,
+            "publishedAt": "2020-11-17T14:48:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Richard Quest, as told to Francesca Street, CNN",
+            "title": "A 'Covid-free' flight just landed in London. CNN's Richard Quest was on board",
+            "description": "United Airlines is testing passengers boarding Newark to London flights for Covid-19. Richard Quest was on board to try the experimental service that the airline hopes will help reignite transatlantic travel.",
+            "url": "https://www.cnn.com/travel/article/quest-united-airlines-covid-test-flight/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201117122451-quest-covid-test-flight-2-super-tease.jpg",
+            "publishedAt": "2020-11-17T19:59:50Z",
+            "content": "(CNN) A transatlantic passenger flight that, even in the age of Covid-19, feels safe -- United Airlines flight 14 from Newark which landed at Heathrow Airport early on Tuesday seemed to be exactly th\u2026 [+4986 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "YouTube targets music fans with new audio ad format",
+            "description": "YouTube  is announcing new ad products today, designed to help marketers reach YouTube visitors who are doing more listening than watching.  In other words, ...",
+            "url": "https://techcrunch.com/2020/11/17/youtube-targets-music-fans-with-new-audio-ad-format/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hxRcM6hmzaPqe0uTWo3e.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/1qNjZk5OjgKWv9vvSk8uAQ--~B/aD0xNzcyO3c9MjY1ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/212b08124849a5282f3bb63aff8dfca5",
+            "publishedAt": "2020-11-17T16:04:57Z",
+            "content": "(Bloomberg) -- They were once Americas corporate titans. Beloved household names. Case studies in success.But now, theyre increasingly looking like something else -- zombies. And their numbers are sw\u2026 [+8140 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Levels raises $12M from a16z and others to bring its biowearable to market",
+            "description": "The innovative platform pairs continuous glucose monitoring (CGM) with an impressive software suite to provide the wearer with deep insights about their...",
+            "url": "https://techcrunch.com/2020/11/17/levels-raises-12m-from-a16z-and-others-to-bring-its-biowearable-to-market/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/8EXDBM4vxn7km0gPE_H3eQ--~B/aD0xMjc4O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/9f8e459f782562cbc9cc4a9f7bf5a384",
+            "publishedAt": "2020-11-17T14:00:16Z",
+            "content": "(Bloomberg) -- They were once Americas corporate titans. Beloved household names. Case studies in success.But now, theyre increasingly looking like something else -- zombies. And their numbers are sw\u2026 [+7498 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Romain Dillet",
+            "title": "Mati reshapes online trust and reputation with a Plaid-like API",
+            "description": "Meet Mati, a startup that recently raised a $13.5 million Series A round to build a digital reputation API that could change the way you interact with online...",
+            "url": "https://techcrunch.com/2020/11/17/mati-reshapes-online-trust-and-reputation-with-a-plaid-like-api/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ceogIAX8LBpsdczckHSE1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjIy/https://s.yimg.com/uu/api/res/1.2/LXjU.KA.kqPPusUGdZUSxw--~B/aD0xNDQ0O3c9MjM2NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/6f794cf21a7fec39355755cdf4b57f38",
+            "publishedAt": "2020-11-17T14:27:42Z",
+            "content": "(Bloomberg) -- They were once Americas corporate titans. Beloved household names. Case studies in success.But now, theyre increasingly looking like something else -- zombies. And their numbers are sw\u2026 [+7498 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Jeremy B. White and Katy Murphy",
+            "title": "Aloha! Several California lawmakers emerge as apparent attendees of Maui excursion",
+            "description": "The event run by the Independent Voter Project has brought together lobbyists and lawmakers from California, Texas and Washington.",
+            "url": "https://www.politico.com/states/california/story/2020/11/17/aloha-several-california-lawmakers-emerge-as-apparent-attendees-of-maui-excursion-1336713",
+            "urlToImage": "https://static.politico.com/7e/36/7bdb396f4b0a81787bc3e051ee26/1117caleg.jpg",
+            "publishedAt": "2020-11-17T21:53:40Z",
+            "content": "Assemblymembers Blanca Rubio (L) and Chad Mayes talk on the Assembly floor in Sacramento, Calif., on Monday, Aug. 31, 2020. | AP Photo/Hector Amezcua\r\nSACRAMENTO The names of four California lawmaker\u2026 [+3338 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Amy Woodyatt, CNN",
+            "title": "Half of the world's aviation emissions is caused by just 1% of the population, study finds",
+            "description": "Frequent fliers representing just 1% of the world's population accounted for more than half of total aviation emissions from passenger air travel in 2018, a new study says.",
+            "url": "https://www.cnn.com/travel/article/aviation-emissions-wealthy-intl-scli-climate/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201117121332-file-airplane-ronald-reagan-airport-2018-super-tease.jpg",
+            "publishedAt": "2020-11-17T18:46:53Z",
+            "content": "(CNN) Frequent fliers representing just 1% of the world's population accounted for more than half of total aviation emissions from passenger air travel in 2018, a new study says.\r\nExperts estimated t\u2026 [+2982 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Four astronauts reaches ISS in historic NASA-SpaceX mission - TNIE Videos",
+            "description": "<ol><li>Four astronauts reaches ISS in historic NASA-SpaceX mission\u00a0\u00a0TNIE Videos\r\n</li><li>Photos: SpaceX Crew Dragon 'Resilience' docks with ISS\u00a0\u00a0Gulf News\r\n</li><li>SpaceX, NASA successfully launch first operational astronaut mission to space\u00a0\u00a0Arirang News\r\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NFdzbFRuNUo4Um_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-17T11:17:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "2nd virus vaccine shows striking success in US tests - WATE 6 On Your Side",
+            "description": "<ol><li>2nd virus vaccine shows striking success in US tests\u00a0\u00a0WATE 6 On Your Side\r\n</li><li>COVID-19: Centre makes big announcement over procurement of Pfizer vaccine\u00a0\u00a0Zee News\r\n</li><li>Airlines scramble to prepare for ultra-cold COVID-19 vaccine distributio\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WmxmOFYyX3RINGPSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-17T11:30:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Astrobotic teams with Bosch and WiBotic to give its Moon rovers wireless charging and smarts to find power stations",
+            "description": "Lunar exploration startup Astrobotic is working on developing ultra-fast wireless charging technology for its CubeRover shoebox-sized lunar robotic explorers...",
+            "url": "https://techcrunch.com/2020/11/17/astrobotic-teams-with-bosch-and-wibotic-to-give-its-moon-rovers-wireless-charging-and-smarts-to-find-power-stations/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/XrZn_2vF62CDEn_tYtuxgg--~B/aD01NTQ7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/95d6050462b161bef9a68d0c0465da5b",
+            "publishedAt": "2020-11-17T14:02:55Z",
+            "content": "(Bloomberg) -- They were once Americas corporate titans. Beloved household names. Case studies in success.But now, theyre increasingly looking like something else -- zombies. And their numbers are sw\u2026 [+7498 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "Cato Network snags $130M Series E on $1B valuation as cloud wide area networking thrives",
+            "description": "Cato Networks has spent the last five years building a cloud-based wide area network that lets individuals connect to network resources regardless of where...",
+            "url": "https://techcrunch.com/2020/11/17/cato-network-snags-130m-series-e-on-1b-valuation-as-cloud-wide-area-networking-thrives/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sxVDcUUiEjW6fiT6uSVrBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/IzIfTsA496DlbF6dIMejVQ--~B/aD0xNDE0O3c9MjEyMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/6a9771b4c9e946c7f5ca664e245cb406",
+            "publishedAt": "2020-11-17T13:30:23Z",
+            "content": "(Bloomberg) -- They were once Americas corporate titans. Beloved household names. Case studies in success.But now, theyre increasingly looking like something else -- zombies. And their numbers are sw\u2026 [+7498 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jonathan Shieber",
+            "title": "GoodRx, Walgreens, CVS shares all down on Amazon's Pharmacy news",
+            "description": "Consumer healthcare stocks are plummeting this morning on news that Amazon has finally launched its integrated pharmacy service.  The news, which could...",
+            "url": "https://techcrunch.com/2020/11/17/goodrx-walgreens-cvs-shares-all-down-on-amazons-pharmacy-news/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cZWcTkk6YheRRCGqA4LNAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzM0/https://s.yimg.com/uu/api/res/1.2/wcIjR.a5i4wkpkTPiDtHDA--~B/aD01MzA0O3c9Nzk1MjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/e68b4f74da0b17fb61915c974cf76dba",
+            "publishedAt": "2020-11-17T14:19:14Z",
+            "content": "(Bloomberg) -- They were once Americas corporate titans. Beloved household names. Case studies in success.But now, theyre increasingly looking like something else -- zombies. And their numbers are sw\u2026 [+7498 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Relativity Space is raising a massive $500M round at $2.3B valuation",
+            "description": "Rocket printer Relativity Space  is raising a $500 million D round, valuing the launch provider at $2.3 billion, as reported by CNBC and confirmed to...",
+            "url": "https://techcrunch.com/2020/11/17/relativity-space-is-raising-a-massive-500m-round-at-2-3b-valuation/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SZgb2fdL1mBNuarTohWySw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI1/https://s.yimg.com/uu/api/res/1.2/XqbQaAnFODK_GpWxoYZgGw--~B/aD0yNDAwO3c9NDI2NzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/0e214008042a18af5e7d6b8f00bd8cb7",
+            "publishedAt": "2020-11-17T18:01:52Z",
+            "content": "(Bloomberg) -- They were once Americas corporate titans. Beloved household names. Case studies in success.But now, theyre increasingly looking like something else -- zombies. And their numbers are sw\u2026 [+8140 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Shoshana Bryen",
+            "title": "A Watershed Moment for the Middle East | Opinion",
+            "description": "The Arab consensus on \"Palestine\" may soon split, as Arab countries weigh continued rejection of the state of Israel against the realities of life in the Middle East.",
+            "url": "https://www.newsweek.com/watershed-moment-middle-east-opinion-1547730",
+            "urlToImage": "https://d.newsweek.com/en/full/1670717/jordan-egypt.jpg",
+            "publishedAt": "2020-11-17T11:30:01Z",
+            "content": "Israel's new agreements with the United Arab Emirates, Bahrain and Sudan, new agreements for airline overflights of countries with which Israel has no new peace or economic pacts, a new aviation agre\u2026 [+5037 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey, Roulette",
+            "title": "'SpaceX, this is Resilience': Four astronauts begin six-month stay on space station - Reuters",
+            "description": "<ol><li>'SpaceX, this is Resilience': Four astronauts begin six-month stay on space station\u00a0\u00a0Reuters\r\n</li><li>SpaceX capsule with 4 astronauts reaches space station\u00a0\u00a0Times of India\r\n</li><li>Live from Space: Video Inside the SpaceX's Dragon Resilience Spacec\u2026",
+            "url": "https://in.reuters.com/article/us-space-exploration-spacex-idUSKBN27X0W2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541476384&r=LYNXMPEGAG0L6&w=800",
+            "publishedAt": "2020-11-17T09:17:00Z",
+            "content": "WASHINGTON (Reuters) - Four astronauts riding a newly-designed spacecraft from Elon Musks rocket company SpaceX greeted their new crewmates aboard the International Space Station on Tuesday after suc\u2026 [+1711 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "Allegiant Air just added 15 leisure routes for 2021 with a new shortest route that's under 200 nautical miles\u2014 here's the full list",
+            "description": "The ultra-low-cost carrier is growing from coast to coast in a move that will undoubtedly make more flyers familiar with the name \"Allegiant.\"",
+            "url": "https://www.businessinsider.com/allegiant-adds-15-routes-2021-route-network-new-shortest-route-2020-11",
+            "urlToImage": "https://i.insider.com/5fb3e727165ecf35ca649afe?width=1200&format=jpeg",
+            "publishedAt": "2020-11-17T20:43:02Z",
+            "content": "Allegiant Air is growing across the US with 15 new routes coming in 2021 as the airline industry hopes to start fresh in the new year and on the path to profitability.\u00a0\r\nThe routes will see Allegiant\u2026 [+9544 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "MARCIA DUNN / AP",
+            "title": "The SpaceX Capsule With Four Astronauts On Board Has Reached the International Space Station",
+            "description": "The Dragon capsule pulled up and docked late Monday night, following a 27-hour, automated flight from NASA's Kennedy Space Center.",
+            "url": "https://time.com/5912552/spacex-capsule-iss/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/11/AP20321039403962.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2020-11-17T04:18:03Z",
+            "content": "CAPE CANAVERAL, Fla. \u2014 SpaceX\u2019s newly launched capsule with four astronauts arrived Monday at the International Space Station, their new home until spring.\r\nThe Dragon capsule pulled up and docked la\u2026 [+2509 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "David Meyer",
+            "title": "Airlines saw an immediate boost in passenger bookings following vaccine announcements",
+            "description": "U.K.-based budget airline EasyJet says its bookings leapt by 50% when Pfizer and BioNTech made their trial-results announcement.",
+            "url": "https://fortune.com/2020/11/17/airlines-flying-interest-covid-vaccine-announcements/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/11/GettyImages-1229491308.jpg?resize=1200,600",
+            "publishedAt": "2020-11-17T15:02:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jake Sherman and Anna Palmer",
+            "title": "POLITICO Playbook: The year-end cliff",
+            "description": "And Rep. Cedric Richmond (D-La.) adds Capitol Hill heft to the Biden White House.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/11/17/the-year-end-cliff-490918",
+            "urlToImage": "https://static.politico.com/e6/3f/6486608a431daa4e2fbaf9c8c7fd/gettyimages-1284970991.jpg",
+            "publishedAt": "2020-11-17T11:16:15Z",
+            "content": "A huge safety net for Americans is going to be yanked away at the end of 2020, and Congress isnt preparing much of anything to keep people from plummeting. | Tasos Katopodis/Getty Images\r\nDRIVING THE\u2026 [+24509 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "Warren Buffett appears to be buying a secret stock that could be revealed within weeks",
+            "description": "Getty Images / Bill Pugliano  Warren Buffett appears to have a secret stock in his portfolio.The billionaire investor's Berkshire Hathaway cong...",
+            "url": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-buying-secret-stock-revealed-coming-weeks-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5edf90675af6cc4cf4254fa6?format=jpeg",
+            "publishedAt": "2020-11-17T23:10:30Z",
+            "content": "Getty Images / Bill Pugliano\r\n<ul><li>Warren Buffett appears to have a secret stock in his portfolio.</li><li>The billionaire investor's Berkshire Hathaway conglomerate omitted \"confidential informat\u2026 [+3543 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Tom O'Connor, Naveed Jamali",
+            "title": "Will Trump Tie Biden's Hands with Troop Withdrawals from Afghanistan and Iraq?",
+            "description": "\"It is absolutely the right thing to do and is grounded on clear fundamental military realities, and is going to help the country,\" Daniel L. Davis, a retired Army lieutenant colonel and military expert, told Newsweek",
+            "url": "https://www.newsweek.com/will-trump-troop-withdrawals-tie-bidens-hands-afghanistan-iraq-1548059",
+            "urlToImage": "https://d.newsweek.com/en/full/1671302/afghanistan-us-army-patrol-war.jpg",
+            "publishedAt": "2020-11-17T16:25:20Z",
+            "content": "Experts were divided and uncertain in response to a report suggesting President Donald Trump was on the verge of ordering the withdrawal of thousands of U.S. troops from Afghanistan and Iraq, in what\u2026 [+13167 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Asif Shahzad",
+            "title": "UPDATE 1-Pakistan OKs funding for airline PIA's redundancy scheme",
+            "description": "Pakistan said on Tuesday that it has approved cash funding to support its flagship carrier Pakistan International Airline's planned voluntary retirement scheme that aims to cut roughly one-third of its workforce.",
+            "url": "https://uk.reuters.com/article/pakistan-intl-redundancies-idUKL1N2I30IS",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T09:53:53Z",
+            "content": "(Adds detail on layoffs, background)\r\nISLAMABAD, Nov 17 (Reuters) - Pakistan said on Tuesday that it has approved cash funding to support its flagship carrier Pakistan International Airlines planned \u2026 [+900 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "U.S. House passes bill to reform plane certification process after two Boeing 737 MAX crashes",
+            "description": "The U.S. House of Representatives unanimously approved legislation on Tuesday to reform the Federal Aviation Administration\u2019s aircraft certification process after two fatal Boeing <BA.N> 737 MAX crashes killed 346 people.",
+            "url": "https://uk.reuters.com/article/uk-boeing-737max-faa-idUKKBN27X32W",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541557524&r=LYNXMPEGAG1VL&w=800",
+            "publishedAt": "2020-11-17T23:00:26Z",
+            "content": "FILE PHOTO: Federal Aviation Administration (FAA) Chief Steve Dickson brings a Boeing 737 MAX aircraft to a stop after an evaluation flight at Boeing Field in Seattle, Washington, U.S. September 30, \u2026 [+2104 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "House passes bill to reform plane certification process after two Boeing 737 MAX crashes",
+            "description": "The U.S. House of Representatives unanimously approved legislation on Tuesday to reform the Federal Aviation Administration's aircraft certification process after two fatal Boeing 737 MAX crashes killed 346 people.",
+            "url": "https://ca.reuters.com/article/us-boeing-737max-faa-idCAKBN27X330",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541557754&r=LYNXMPEGAG1VK&w=800",
+            "publishedAt": "2020-11-17T23:02:00Z",
+            "content": "By David Shepardson\r\nFILE PHOTO: Federal Aviation Administration (FAA) Chief Steve Dickson brings a Boeing 737 MAX aircraft to a stop after an evaluation flight at Boeing Field in Seattle, Washington\u2026 [+2143 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "dmosher@businessinsider.com (Dave Mosher,Morgan McFall-Johnsen)",
+            "title": "SpaceX's new 'Resilience' spaceship just autonomously docked to the International Space Station with 4 astronauts inside, kicking off a historic mission for NASA",
+            "description": "Now that it's connected to the ISS, SpaceX's first \"operational\" commercial mission is now poised to break a US record for longest human spaceflight.",
+            "url": "https://www.businessinsider.com/astronauts-attach-spacex-crew-dragon-spaceship-international-space-station-2020-11",
+            "urlToImage": "https://i.insider.com/5c7c34f5dde8677657573231?width=1200&format=jpeg",
+            "publishedAt": "2020-11-17T04:01:00Z",
+            "content": "On Monday night, four astronauts night arrived at the International Space Station inside a Crew Dragon spaceship built by SpaceX, teeing up what could be a record-breaking stay in orbit.\r\nThe NASA-fu\u2026 [+6176 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "These Are the World\u2019s Busiest Airline Routes During Covid Times - Bloomberg",
+            "description": "These Are the World\u2019s Busiest Airline Routes During Covid Times\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-11-17/these-are-the-world-s-busiest-airline-routes-during-covid-times",
+            "urlToImage": null,
+            "publishedAt": "2020-11-17T07:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "American, British Airways, oneworld to trial COVID-19 tests",
+            "description": "American Airlines , British Airways , and the oneworld alliance will launch a coronavirus testing trial this month aimed at convincing the U.S. and UK governments to introduce testing so that transatlantic travel can restart.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-british-airways-idUKKBN27X2OS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541536989&r=LYNXMPEGAG1M5&w=800",
+            "publishedAt": "2020-11-17T19:00:00Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - American Airlines, British Airways, and the oneworld alliance will launch a coronavirus testing trial this month aimed at convincing the U.S. and UK governments t\u2026 [+1662 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sarah Young",
+            "title": "EasyJet says vaccine news boosts bookings after 1 billion pound pandemic loss",
+            "description": "EasyJet's bookings jumped by 50% on the day there was positive news about a coronavirus vaccine, a brief respite during a pandemic which pushed the British airline to a 1.27 billion pound ($1.68 billion) annual loss, the first in its history.",
+            "url": "https://uk.reuters.com/article/us-easyjet-results-idUKKBN27X0L4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541458146&r=LYNXMPEGAG0C9&w=800",
+            "publishedAt": "2020-11-17T08:00:15Z",
+            "content": "LONDON (Reuters) - EasyJets bookings jumped by 50% on the day there was positive news about a coronavirus vaccine, a brief respite during a pandemic which pushed the British airline to a 1.27 billion\u2026 [+2448 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sarah Young",
+            "title": "UPDATE 2-EasyJet says vaccine news boosts bookings after 1 bln stg pandemic loss",
+            "description": "EasyJet plunged to a 1.27 billion pound ($1.68 billion) loss in the 12 months to the end of September, showing the extent of the impact of the pandemic on the British low-cost airline which had never before made an annual loss in its 25 year history.",
+            "url": "https://www.reuters.com/article/us-easyjet-results-idUSKBN27X0L4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541458146&r=LYNXMPEGAG0C9&w=800",
+            "publishedAt": "2020-11-17T07:58:45Z",
+            "content": "LONDON (Reuters) - EasyJets bookings jumped by 50% on the day there was positive news about a coronavirus vaccine, a brief respite during a pandemic which pushed the British airline to a 1.27 billion\u2026 [+2053 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "UPDATE 1-U.S. travel spending will plunge in 2020, not fully recover until 2024 -travel group",
+            "description": "A U.S. travel group said on Tuesday that travel spending is expected to fall by more than $500 billion in 2020 and is not expected to recover to pre-coronavirus levels until 2024.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-usa-travel-idUKKBN27X2N1",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541534628&r=LYNXMPEGAG1KJ&w=800",
+            "publishedAt": "2020-11-17T23:56:57Z",
+            "content": "WASHINGTON (Reuters) - A U.S. travel group said on Tuesday that travel spending is expected to fall by more than $500 billion in 2020 and is not expected to recover to pre-coronavirus levels until 20\u2026 [+2302 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Air France-KLM in talks on $7 billion cash raise: Le Monde",
+            "description": "Air France-KLM is discussing plans to raise another 6 billion euros ($7.1 billion) from its two government shareholders and other investors, French newspaper Le Monde reported on Tuesday.",
+            "url": "https://ca.reuters.com/article/us-health-coronavirus-air-france-klm-idCAKBN27X2AK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541516492&r=LYNXMPEGAG1BN&w=800",
+            "publishedAt": "2020-11-17T16:29:50Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Air France flight AF 1235 destined for Paris-Charles de Gaulle takes off as the last flight from Berlin's Tegel airport, which closes permanently following the recent op\u2026 [+1157 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chibuike Oguh",
+            "title": "RPT-GLOBAL MARKETS-Asia stocks gain after vaccine hopes push Wall Street to record highs",
+            "description": "Asian stocks opened firmer on Tuesday after the S&P 500 and Dow Jones indexes hit record highs on news of another promising coronavirus vaccine, which supported hopes of a quicker economic recovery.",
+            "url": "https://uk.reuters.com/article/global-markets-idUKL1N2I3023",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T00:56:36Z",
+            "content": "(Repeats to additional subscribers. No change to text.)\r\nNEW YORK, Nov 16 (Reuters) - Asian stocks opened firmer on Tuesday after the S&amp;P 500 and Dow Jones indexes hit record highs on news of ano\u2026 [+2469 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX capsule, carrying four astronauts, docks with International Space Station",
+            "description": "Four astronauts riding a newly designed spacecraft from Elon Musk's SpaceX docked with the International Space Station Monday night, in the first crewed mission on a privately built space capsule purchased by NASA.",
+            "url": "https://www.reuters.com/article/space-exploration-spacex-int-idUSKBN27X0D5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541447946&r=LYNXMPEGAG07T&w=800",
+            "publishedAt": "2020-11-17T04:45:30Z",
+            "content": "WASHINGTON (Reuters) - Four astronauts riding a newly designed spacecraft from Elon Musks SpaceX docked with the International Space Station Monday night, in the first crewed mission on a privately b\u2026 [+1559 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Spain widens restrictions on foreign takeovers to bids from EU companies",
+            "description": "The Spanish government on Tuesday widened restrictions on foreign takeovers of strategic Spanish companies so that they also apply to bids coming from companies based in the European Union, Economy Minister Nadia Calvino told a news conference.",
+            "url": "https://uk.reuters.com/article/health-coronavirus-spain-ma-idUKL8N2I33N0",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T12:59:56Z",
+            "content": "By Reuters Staff\r\n(Adds details, context)\r\nMADRID, Nov 17 (Reuters) - The Spanish government on Tuesday widened restrictions on foreign takeovers of strategic Spanish companies so that they also appl\u2026 [+1334 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kate Abnett",
+            "title": "Europe delays launch of next year's carbon market auctions",
+            "description": "Auctions of carbon permits in the European Union's emissions trading system (ETS) next year will not start until late January or early February, the European Commission said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-eu-carbontrading-idUSKBN27X2OP",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T18:58:36Z",
+            "content": "BRUSSELS (Reuters) - Auctions of carbon permits in the European Unions emissions trading system (ETS) next year will not start until late January or early February, the European Commission said on Tu\u2026 [+1212 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chibuike Oguh",
+            "title": "Asia stocks gain after vaccine hopes push Wall Street to record highs",
+            "description": "Asian stocks opened firmer on Tuesday after the S&P 500 and Dow Jones indexes hit record highs on news of another promising coronavirus vaccine, which supported hopes of a quicker economic recovery.",
+            "url": "https://ca.reuters.com/article/us-global-markets-idCAKBN27X012",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541429103&r=LYNXMPEGAG00O&w=800",
+            "publishedAt": "2020-11-17T00:20:37Z",
+            "content": "By Chibuike Oguh\r\nNEW YORK (Reuters) - Asian stocks opened firmer on Tuesday after the S&amp;P 500 and Dow Jones indexes hit record highs on news of another promising coronavirus vaccine, which suppo\u2026 [+2670 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "S.Korea stocks extend rally on vaccine hopes, stricter virus curbs cap gains",
+            "description": "* KOSPI rises, foreigners net buyers * Korean won strengthens against U.S. dollar * South Korea benchmark bond yield falls SEOUL, Nov 17 (Reuters) - Round-up of South Korean financial markets: ** South Korean shares rose on Tuesday for a third straight sessio\u2026",
+            "url": "https://uk.reuters.com/article/southkorea-markets-midday-idUKL1N2I303H",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-17T01:54:24Z",
+            "content": "By Reuters Staff\r\n* KOSPI rises, foreigners net buyers\r\n * Korean won strengthens against U.S. dollar\r\n * South Korea benchmark bond yield falls\r\nSEOUL, Nov 17 (Reuters) - Round-up of South Korean fi\u2026 [+1935 chars]"
+        }
+    ]
+}

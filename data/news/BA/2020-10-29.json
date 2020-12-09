@@ -1,0 +1,604 @@
+{
+    "status": "ok",
+    "totalResults": 46,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "India's top airline IndiGo posts record quarterly loss on pandemic hit - Reuters",
+            "description": "Interglobe Aviation Ltd , the operator of India's largest airline IndiGo, reported its biggest quarterly loss on Thursday as travel curbs still in place to control the spread of the coronavirus hammered the aviation industry.",
+            "url": "https://www.reuters.com/article/interglobe-results-idUSFWN2HK0QW",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-29T10:35:38Z",
+            "content": "By Reuters Staff\r\nBENGALURU, Oct 29 (Reuters) - Interglobe Aviation Ltd , the operator of Indias largest airline IndiGo, reported its biggest quarterly loss on Thursday as travel curbs still in place\u2026 [+329 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Liz Lee",
+            "title": "EXCLUSIVE-AirAsia X to revise $15.3 bln debt reform plan to expedite talks with creditors - sources - Reuters UK",
+            "description": "Malaysia's AirAsia X Bhd plans to drop a local airport operator from its $15.3 billion debt restructuring plan to expedite discussions with creditors as its cash is running out fast, people with direct knowledge of the matter said.",
+            "url": "https://uk.reuters.com/article/airasia-x-restructuring-idUKL4N2HK1GT",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-29T14:23:54Z",
+            "content": "KUALA LUMPUR, Oct 29 (Reuters) - Malaysias AirAsia X Bhd plans to drop a local airport operator from its $15.3 billion debt restructuring plan to expedite discussions with creditors as its cash is ru\u2026 [+2296 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Liz Lee",
+            "title": "Exclusive: AirAsia X to revise $15.3 billion debt reform plan to expedite talks with creditors - sources - Reuters",
+            "description": "Malaysia's AirAsia X Bhd plans to drop a local airport operator from its $15.3 billion debt restructuring plan to expedite discussions with creditors as its cash is running out fast, people with direct knowledge of the matter said.",
+            "url": "https://www.reuters.com/article/airasia-x-restructuring-idUSKBN27E1AX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539242864&r=LYNXMPEG9S0OZ&w=800",
+            "publishedAt": "2020-10-29T09:10:12Z",
+            "content": "KUALA LUMPUR (Reuters) - Malaysias AirAsia X Bhd plans to drop a local airport operator from its $15.3 billion debt restructuring plan to expedite discussions with creditors as its cash is running ou\u2026 [+2428 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "No. 2 FAA official who ran agency during 737 MAX crisis stepping down - Reuters",
+            "description": "Dan Elwell, the No. 2 official at the U.S. Federal Aviation Administration (FAA) who oversaw the agency during the initial phase of the Boeing 737 MAX crisis, plans to step down, he told Reuters.",
+            "url": "https://www.reuters.com/article/us-boeing-737max-faa-idUSKBN27E2GI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539285058&r=LYNXMPEG9S1BR&w=800",
+            "publishedAt": "2020-10-29T15:31:00Z",
+            "content": "WASHINGTON (Reuters) - Dan Elwell, the No. 2 official at the U.S. Federal Aviation Administration (FAA) who oversaw the agency during the initial phase of the Boeing 737 MAX crisis, plans to step dow\u2026 [+2524 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Liz Lee",
+            "title": "Exclusive: AirAsia X to revise $15.3 billion debt reform plan to expedite talks with creditors - sources - Reuters India",
+            "description": "Malaysia's AirAsia X Bhd plans to drop a local airport operator from its $15.3 billion debt restructuring plan to expedite discussions with creditors as its cash is running out fast, people with direct knowledge of the matter said.",
+            "url": "https://in.reuters.com/article/airasia-x-restructuring-idINKBN27E1AX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539242864&r=LYNXMPEG9S0OZ&w=800",
+            "publishedAt": "2020-10-29T09:12:00Z",
+            "content": "KUALA LUMPUR (Reuters) - Malaysias AirAsia X Bhd plans to drop a local airport operator from its $15.3 billion debt restructuring plan to expedite discussions with creditors as its cash is running ou\u2026 [+2428 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "UPDATE 2-No. 2 FAA official who ran agency during 737 MAX crisis stepping down - Reuters India",
+            "description": "Dan Elwell, the No. 2 official at the U.S. Federal Aviation Administration (FAA) who oversaw the agency during the initial phase of the Boeing 737 MAX crisis, plans to step down, he told Reuters.",
+            "url": "https://in.reuters.com/article/boeing-737max-faa-idINL1N2HK1WB",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-29T15:00:00Z",
+            "content": "(Adds more detail on report)\r\nWASHINGTON, Oct 29 (Reuters) - Dan Elwell, the No. 2 official at the U.S. Federal Aviation Administration (FAA) who oversaw the agency during the initial phase of the Bo\u2026 [+2470 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "No. 2 FAA official who ran agency during 737 MAX crisis stepping down - Reuters",
+            "description": "Dan Elwell, the No. 2 official at the U.S. Federal Aviation Administration (FAA) who oversaw the agency during the initial phase of the Boeing 737 MAX crisis, plans to step down, he told Reuters.",
+            "url": "https://www.reuters.com/article/boeing-737max-faa-idUSL1N2HK1UN",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-29T15:13:33Z",
+            "content": "By Reuters Staff\r\nWASHINGTON, Oct 29 (Reuters) - Dan Elwell, the No. 2 official at the U.S. Federal Aviation Administration (FAA) who oversaw the agency during the initial phase of the Boeing 737 MAX\u2026 [+501 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tim Hepher",
+            "title": "Airbus sets quarterly cash goal, takes heavy restructuring charge - Reuters Canada",
+            "description": "Airbus <AIR.PA> said on Thursday it expected to reach cash breakeven in the fourth quarter, giving investors the first glimpse of future performance since the start of the coronavirus crisis after halting the bleeding of cash in the third quarter.",
+            "url": "https://ca.reuters.com/article/us-airbus-results-idCAKBN27E0MM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539229511&r=LYNXMPEG9S0CJ&w=800",
+            "publishedAt": "2020-10-29T07:18:00Z",
+            "content": "PARIS (Reuters) - Airbus AIR.PA said on Thursday it expected to reach cash breakeven in the fourth quarter, giving investors the first glimpse of future performance since the start of the coronavirus\u2026 [+2572 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tim Hepher",
+            "title": "Airbus sets quarterly cash goal, takes heavy restructuring charge - Reuters UK",
+            "description": "Airbus <AIR.PA> said on Thursday it expected to reach cash breakeven in the fourth quarter, giving investors the first glimpse of future performance since the start of the coronavirus crisis after halting the bleeding of cash in the third quarter.",
+            "url": "https://uk.reuters.com/article/us-airbus-results-idUKKBN27E0MM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539234594&r=LYNXMPEG9S0KG&w=800",
+            "publishedAt": "2020-10-29T05:47:19Z",
+            "content": "PARIS (Reuters) - Airbus AIR.PA said on Thursday it expected to reach cash breakeven in the fourth quarter, giving investors the first glimpse of future performance since the start of the coronavirus\u2026 [+2576 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed",
+            "title": "Most Cathay Pacific pilots and cabin crew accept permanent pay cuts - Reuters",
+            "description": "Hong Kong's Cathay Pacific Airways Ltd <0293.HK> said on Thursday that a majority of pilots and flight attendants had signed new contracts that will result in permanent pay cuts.",
+            "url": "https://www.reuters.com/article/us-cathay-pacific-layoffs-idUSKBN27E1O7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539254580&r=LYNXMPEG9S0WL&w=800",
+            "publishedAt": "2020-10-29T10:45:05Z",
+            "content": "SYDNEY (Reuters) - Hong Kong's Cathay Pacific Airways Ltd 0293.HK said on Thursday that a majority of pilots and flight attendants had signed new contracts that will result in permanent pay cuts.\r\nFI\u2026 [+1880 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "United to give travelers free COVID-19 tests on select Newark-London flights - Reuters",
+            "description": "United Airlines said on Thursday it will offer free rapid COVID-19 tests to customers on select transatlantic flights, as part of a four-week pilot program aimed at eventually relaxing quarantines that have crippled air travel.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-united-arlns-idUSKBN27E1SW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539258389&r=LYNXMPEG9S0YK&w=800",
+            "publishedAt": "2020-10-29T11:04:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - United Airlines said on Thursday it will offer free rapid COVID-19 tests to customers on select transatlantic flights, as part of a four-week pilot program aimed at even\u2026 [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Singapore says it will lift border restrictions for visitors from mainland China - Reuters",
+            "description": "Singapore will lift border restrictions for visitors from mainland China and Australia's Victoria state from Nov. 6, the aviation regulator said on Thursday.",
+            "url": "https://www.reuters.com/article/healthcoronavirus-singapore-idUSL4N2HK37D",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-29T10:01:11Z",
+            "content": "By Reuters Staff\r\nSINGAPORE, Oct 29 (Reuters) - Singapore will lift border restrictions for visitors from mainland China and Australias Victoria state from Nov. 6, the aviation regulator said on Thur\u2026 [+323 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kate Holton, William James",
+            "title": "UK says it must have right to act if aerospace tariffs remain - Reuters UK",
+            "description": "Britain said it must have the right to respond in kind to tariffs imposed as part of a 16-year Boeing-Airbus row, underscoring the complicated choices the country will face on major trade flashpoints after Brexit.",
+            "url": "https://uk.reuters.com/article/us-britain-eu-trade-idUKKBN27E016",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539199745&r=LYNXMPEG9S00T&w=800",
+            "publishedAt": "2020-10-29T15:45:46Z",
+            "content": "LONDON (Reuters) - Britain said it must have the right to respond in kind to tariffs imposed as part of a 16-year Boeing-Airbus row, underscoring the complicated choices the country will face on majo\u2026 [+2164 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Asia Distillates-Jet fuel refining margins climb to 3-week high - Reuters UK",
+            "description": "Asian jet fuel refining margins rose to their strongest in three weeks on Thursday, but traders were concerned any upside to the aviation fuel market would be limited as long as long-haul international flights remain grounded due to COVID-19 restrictions. Ref\u2026",
+            "url": "https://www.reuters.com/article/markets-distillates-asia-idUKL4N2HK1N9",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-29T11:13:00Z",
+            "content": "By Reuters Staff\r\nSINGAPORE, Oct 29 (Reuters) - Asian jet fuel refining margins rose to their strongest in\r\nthree weeks on Thursday, but traders were concerned any upside to the aviation fuel market \u2026 [+3299 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Record US third-quarter growth expected; healing from COVID-19 still a long way - Reuters UK",
+            "description": "Record US third-quarter growth expected; healing from COVID-19 still a long way\u00a0\u00a0Reuters UK",
+            "url": "https://uk.reuters.com/article/uk-usa-economy-idUKKBN27E0HA",
+            "urlToImage": null,
+            "publishedAt": "2020-10-29T04:16:00Z",
+            "content": "Business News\r\nLucia Mutikani\r\nWASHINGTON (Reuters) - The U.S. economy likely experienced record growth in the third quarter as more than $3 trillion (2.3 trillion pounds) in federal pandemic relief \u2026 [+6117 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Textron profit drops 48% as business jet deliveries fall - Reuters",
+            "description": "Textron Inc <TXT.N> reported a 48% fall in quarterly profit as the Cessna business jet maker's big corporate clients canceled aircraft orders or deferred deliveries to cut costs during the coronavirus crisis.",
+            "url": "https://www.reuters.com/article/us-textron-results-idUSKBN27E1PR",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-29T10:52:16Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Textron Inc TXT.N reported a 48% fall in quarterly profit as the Cessna business jet maker's big corporate clients canceled aircraft orders or deferred deliveries to cut\u2026 [+818 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Airbus sets quarterly cash goal, takes heavy restructuring charge - Reuters UK",
+            "description": "Airbus <AIR.PA> said on Thursday it expected to reach cash breakeven in the fourth quarter, setting the first forward-looking target since the start of the coronavirus crisis after managing to stop bleeding cash in the third quarter.",
+            "url": "https://www.reuters.com/article/uk-airbus-results-idUKKBN27E0M6",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539222115&r=LYNXMPEG9S0CD&w=800",
+            "publishedAt": "2020-10-29T05:44:06Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A logo of Airbus is seen at the entrance of its factory in Blagnac near Toulouse, France, July 2, 2020. REUTERS/Benoit Tessier/File Photo\r\nPARIS (Reuters) - Airbus AIR.P\u2026 [+1160 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Julia Buckley, CNN",
+            "title": "There's a new world's longest flight -- with a catch",
+            "description": "Last week it was the return of the world's longest flight -- Singapore to New York JFK. This week comes another new aviation record: the world's longest flight in a single-aisle aircraft.",
+            "url": "https://www.cnn.com/travel/article/air-transat-a321-longest-flight/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201028165555-7-airtransat-super-tease.jpg",
+            "publishedAt": "2020-10-29T13:55:28Z",
+            "content": "(CNN) Last week it was the return of the world's longest flight -- Singapore to New York JFK. This week comes another new aviation record: the world's longest flight in a single-aisle aircraft.\r\nAir \u2026 [+3361 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eric Rosen",
+            "title": "Chase points are most valuable when you redeem them for travel, but there are 4 other great ways to use them during quarantine",
+            "description": "Summary List Placement\n\u00a0\n<ul>\n<li>Chase Ultimate Rewards are among the most useful credit card points for booking travel.\u2028</li>\n<li>Many people have cut back on travel during the pandemic, so Chase has come up with new ways for cardholders to use their points\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/best-ways-to-use-chase-points-quarantine-2020-10",
+            "urlToImage": "https://i.insider.com/5f99cade69331a0011bc5d9e?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T21:22:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+7252 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "U.S. economy notches record growth in third quarter - Reuters UK",
+            "description": "The U.S. economy grew at a record pace in the third quarter as the government injected more than $3 trillion worth of pandemic relief which fueled consumer spending, but the deep scars from the COVID-19 recession could take a year or more to heal.",
+            "url": "https://www.reuters.com/article/usa-economy-idUSKBN27E250",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539272191&r=LYNXMPEG9S15F&w=800",
+            "publishedAt": "2020-10-29T15:36:01Z",
+            "content": "WASHINGTON (Reuters) - The U.S. economy grew at a record pace in the third quarter as the government injected more than $3 trillion worth of pandemic relief which fueled consumer spending, but the de\u2026 [+4587 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "U.S. economy posts spectacular growth in third quarter; COVID-19 scarring to last - Reuters UK",
+            "description": "The U.S. economy grew at a record pace in the third quarter as the government injected more than $3 trillion worth of pandemic relief which fueled consumer spending, but the deep scars from the COVID-19 recession could take a year or more to heal.",
+            "url": "https://uk.reuters.com/article/us-usa-economy-idUKKBN27E24T",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539272488&r=LYNXMPEG9S15C&w=800",
+            "publishedAt": "2020-10-29T15:34:00Z",
+            "content": "WASHINGTON (Reuters) - The U.S. economy grew at a record pace in the third quarter as the government injected more than $3 trillion worth of pandemic relief which fueled consumer spending, but the de\u2026 [+4592 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "FEATURE-Zimbabweans turn to sex work amid economic crisis and COVID-19 - Reuters India",
+            "description": "FEATURE-Zimbabweans turn to sex work amid economic crisis and COVID-19\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/zimbabwe-women-rights-idINL8N2H45QS",
+            "urlToImage": null,
+            "publishedAt": "2020-10-29T01:04:06Z",
+            "content": "Healthcare Sector\r\nFarai Shawn Matiashe\r\nMUTARE, Zimbabwe, Oct 29 (Thomson Reuters Foundation) - D ressed in a miniskirt and blouse, Esther Kamupunga stood in semi-darkness waiting for men looking fo\u2026 [+5778 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Melkorka Licea",
+            "title": "You can live and work remotely in the Caribbean for 2 years if you make at least $100,000. Here's how to apply.",
+            "description": "Summary List Placement\n\nRemote workers looking to escape their homes for a tropical paradise can now apply to live in the Cayman Islands for up to two years.\u00a0\nInstead of being shackled to a desk, employees can start their days with a walk along the famous Cay\u2026",
+            "url": "https://www.businessinsider.com/how-to-apply-to-live-and-work-remotely-in-the-caribbean-2020-10",
+            "urlToImage": "https://i.insider.com/5f99ac586f5b310011723eb7?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T12:30:00Z",
+            "content": "Remote workers looking to escape their homes for a tropical paradise can now apply to live in the Cayman Islands for up to two years.\u00a0\r\nInstead of being shackled to a desk, employees can start their \u2026 [+4230 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Pete Muntean, CNN; photo by Scott Patten",
+            "title": "Retiring Delta captain meets the air controller whose grandfather hired him",
+            "description": "When air traffic controller Ashleigh Goldberg was on position at Boston Center for a retiring pilot's final flight, she had no idea she would be speaking to a man her grandfather hired 40 years earlier.",
+            "url": "https://www.cnn.com/travel/article/retiring-delta-pilot-air-traffic-controller/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201028203138-ashleigh-goldberg-super-tease.jpg",
+            "publishedAt": "2020-10-29T13:27:34Z",
+            "content": "(CNN) During commercial aviation's pandemic downturn, countless veteran airline pilots are retiring to save the jobs of their younger cohorts. But it was during Captain Paul Holmes' final flight for \u2026 [+1968 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jen Glantz",
+            "title": "I'm a professional bridesmaid who strangers pay to perform the role of close friend at their wedding. Here are the 10 biggest, most unusual perks of my job.",
+            "description": "Summary List Placement\n\nI've spent the last six years working as a professional bridesmaid and running the company, Bridesmaid for Hire. Working with hundreds of clients over the years has made me describe this job as anything but glamorous. There's a lot of \u2026",
+            "url": "https://www.businessinsider.com/best-perks-of-my-job-as-professional-bridesmaid-2020-10",
+            "urlToImage": "https://i.insider.com/5f3e9061cdf25a001e84e6bd?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T13:55:56Z",
+            "content": "I've spent the last six years working as a professional bridesmaid and running the company, Bridesmaid for Hire. Working with hundreds of clients over the years has made me describe this job as anyth\u2026 [+6336 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Pete Muntean, CNN Business",
+            "title": "United Airlines to offer free covid testing for passengers on select routes",
+            "description": "In what could be a glimpse into the future of pandemic air travel, United Airlines will begin offering free coronavirus tests to passengers on select routes. United hopes the move will not only increase traffic on mostly empty transatlantic flights, but also \u2026",
+            "url": "https://www.cnn.com/2020/10/29/business/united-airlines-covid-test/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201014154109-united-airlines-planes-file-super-tease.jpg",
+            "publishedAt": "2020-10-29T11:40:11Z",
+            "content": "Washington (CNN Business)In what could be a glimpse into the future of pandemic air travel, United Airlines will begin offering free coronavirus tests to passengers on select routes. United hopes the\u2026 [+1841 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Lilit Marcus, CNN",
+            "title": "Qantas announces 'flight to somewhere'",
+            "description": "After its sellout \"flight to nowhere,\" Qantas is opening a special one-off route to Uluru and dubbing it the \"flight to somewhere.\"",
+            "url": "https://www.cnn.com/travel/article/qantas-flight-to-somewhere-uluru-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201029000647-02-qantas-flights-to-somewhere-restricted-super-tease.jpg",
+            "publishedAt": "2020-10-29T04:54:27Z",
+            "content": "Lilit Marcus, CNNPublished 29th October 2020\r\n(CNN) After its hugely successful \"flight to nowhere\" campaign, Australian national airline Qantas has rolled out an even bigger treat -- flights to, wel\u2026 [+2661 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Charlie Campbell / Shanghai",
+            "title": "No Matter Who Wins the U.S. Election, Relations With China Are at a Crossroads",
+            "description": "The U.S. has never faced a rival that can compete as China can. No matter who wins the vote, relations with Beijing are at a crossroads.",
+            "url": "https://time.com/5904705/us-election-china-foreign-policy-trump-biden/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/10/AP20296088669377.jpg?quality=85&crop=0px%2C0px%2C2927px%2C1532px&resize=1200%2C628&strip",
+            "publishedAt": "2020-10-29T03:36:22Z",
+            "content": "In a speech last week to commemorate 70 years since China\u2019s entry into the Korean War, President Xi Jinping launched a thinly-veiled attack on the U.S. \u201cNo blackmailing, blocking or extreme pressurin\u2026 [+9922 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Supersonic aircraft startup Hermeus raises $16 million Series A",
+            "description": "Hermeus, a company seeking to build a Mach 5 aircraft that would be capable of making the trip from New York to London in just 90 minutes has raised a $16 million Series A round, led by Canaan Partners and including contributions from existing investors Khosl\u2026",
+            "url": "https://techcrunch.com/2020/10/29/supersonic-aircraft-startup-hermeus-raises-16-million-series-a/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BT8fFJl5mbFv4X0LRZQjeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI2/https://s.yimg.com/uu/api/res/1.2/55sAy10TK_6D05M6Cv5Azw--~B/aD0xMzUxO3c9MjQwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/9d4f02c4d55dc21563bcc67ed029ca3a",
+            "publishedAt": "2020-10-29T14:22:19Z",
+            "content": "Hermeus, a company seeking to build a Mach 5 aircraft that would be capable of making the trip from New York to London in just 90 minutes has raised a $16 million Series A round, led by Canaan Partne\u2026 [+1745 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "Southwest Airlines just announced 10 new routes and has a new shortest that's only 73 miles long \u2013 here's the full list",
+            "description": "Fresh from a $1.2 billion third-quarter loss, Southwest is revising its route map and moving into new, larger airports that it's previously avoided.",
+            "url": "https://www.businessinsider.com/southwest-airlines-adding-10-new-routes-to-network-full-list-2020-10",
+            "urlToImage": "https://i.insider.com/5f9ace5369331a0011bc6015?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T15:48:30Z",
+            "content": "Airlines are declaring 2020 a wash and are already looking to 2021 for new routes and destinations in what will be the first full year of aviation's long recovery.\u00a0\r\nSouthwest Airlines is adding 10 n\u2026 [+6274 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Grace Dean)",
+            "title": "United Airlines will trial free COVID-19 tests for passengers flying from New Jersey to London, and anyone that refuses won't be allowed on board",
+            "description": "The swab tests will give results in around 30 minutes and will be provided for free at Newark Liberty International in November, United Airlines said.",
+            "url": "https://www.businessinsider.com/united-airlines-free-covid-19-tests-covid19-newark-heathrow-london-2020-10",
+            "urlToImage": "https://i.insider.com/5f9ab62469331a0011bc5fbb?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T12:59:13Z",
+            "content": "United Airlines will trial free COVID-19 tests for passengers flying from the US to the UK, becoming the first airline to do so, it announced Thursday.\r\nThe airline will trial rapid tests for passeng\u2026 [+2101 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Slingshot Aerospace raises $8 million to help it expand to new verticals beyond aerospace and defense",
+            "description": "Austin and El Segundo-based Slingshot Aerospace was born out of a realization that while there is a massive amount of information collected by observation technology aboard satellites, airplanes, drones and beyond, the analytics and turnaround of said info in\u2026",
+            "url": "http://techcrunch.com/2020/10/29/slingshot-aerospace-raises-8-million-to-help-it-expand-to-new-verticals-beyond-aerospace-and-defense/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/SlingshotAerospace.png?w=602",
+            "publishedAt": "2020-10-29T12:00:33Z",
+            "content": "Austin and El Segundo-based Slingshot Aerospace was born out of a realization that while there is a massive amount of information collected by observation technology aboard satellites, airplanes, dro\u2026 [+4839 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Scott Reeves",
+            "title": "Housing Market Continues to Improve Despite Pandemic as Buyers Take Advantage of Low Mortgage Rates",
+            "description": "Residential real estate sales continue to climb, but the market split between high- and low-income workers persists, underscoring the uneven recovery following the economic shutdown intended to curb spread of the coronavirus.",
+            "url": "https://www.newsweek.com/housing-market-continues-improve-despite-pandemic-buyers-take-advantage-low-mortgage-rates-1543331",
+            "urlToImage": "https://d.newsweek.com/en/full/1656324/dollar-bill.jpg",
+            "publishedAt": "2020-10-29T19:52:38Z",
+            "content": "Residential real estate sales continue to climb, but the market split between high- and low-income workers persists, underscoring the uneven recovery following the economic shutdown intended to curb \u2026 [+5905 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Vicky Ge Huang",
+            "title": "Goldman Sachs shares 10 high-growth stocks it newly recommends buying as investors reward companies that channel cash to grow their businesses in 2021",
+            "description": "Summary List Placement\n\nWhile some investors are hyper-focused on how the markets could react around election day, others already have their eyes set on the opportunities in 2021.\u00a0\nTo that end, Goldman Sachs analysts led by Ryan Hammond are predicting that in\u2026",
+            "url": "https://www.businessinsider.com/stock-picks-to-buy-high-growth-stocks-2021-goldman-sachs-2020-10",
+            "urlToImage": "https://i.insider.com/5f4408dd89aff80028ab792a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T15:45:00Z",
+            "content": "While some investors are hyper-focused on how the markets could react around election day, others already have their eyes set on the opportunities in 2021.\u00a0\r\nTo that end, Goldman Sachs analysts led b\u2026 [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Grace Dean)",
+            "title": "A mutated strain of COVID-19 causes most new infections in Europe and was spread around the continent by tourists, scientists say",
+            "description": "The COVID-19 variant, known as 20A.EU1, has been identified in 12 countries across Europe, as well as Hong Kong and New Zealand, scientists said.",
+            "url": "https://www.businessinsider.com/covid-19-covid19-mutation-europe-infections-cases-tourists-holiday-scientists-2020-10",
+            "urlToImage": "https://i.insider.com/5f9a8fdb69331a0011bc5f7a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T10:46:02Z",
+            "content": "The majority of new COVID-19 cases in Europe stem from a mutated strain of the virus that started in Spain and was spread across the continent by tourists, scientists said in a report Thursday.\u00a0\r\nThe\u2026 [+2969 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "avcooper@businessinsider.com (Amanda Cooper)",
+            "title": "Oil hits lowest since June, as tougher European lockdown rules and a fuel surplus wipe 10% from the price in two days",
+            "description": "The oil price has lost 10% in two days, weighed down by surging cases of COVID-19 that could deal a blow to demand in 2021.",
+            "url": "https://www.businessinsider.com/oil-hits-lowest-since-june-as-covid-19-surge-triggers-lockdowns-2020-10",
+            "urlToImage": "https://i.insider.com/5e949c8fdcd88c74df406f35?format=jpeg",
+            "publishedAt": "2020-10-29T11:55:45Z",
+            "content": "An oil worker in Russia\r\nSergei Karpukhin/Reuters\r\nOil tumbled to its lowest level in nearly five months on Thursday, as a swathe of new lockdown rules around Europe and a persistent overhang in US i\u2026 [+3327 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Beatr\u00edz Acevedo)",
+            "title": "Supporting Latinas can fuel economic growth and help the US rebuild post-COVID-19. Here are 3 ways to start.",
+            "description": "\"This COVID-induced catastrophe presents an opportunity for a stronger, fairer, and more prosperous America.\"",
+            "url": "https://www.businessinsider.com/how-support-latinas-fuel-economic-growth-latina-equal-pay-day-2020-10",
+            "urlToImage": "https://i.insider.com/5f99b6e269331a0011bc5ced?width=1200&format=jpeg",
+            "publishedAt": "2020-10-29T13:20:00Z",
+            "content": "The US economy is floundering as others rebound quickly. We're struggling just to return to where we were a few months ago. But is that enough?\r\nOf course not. Recovery isn't sufficient. We have to r\u2026 [+5499 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Special to Financial Post",
+            "title": "Adapt, endure and expand: How Black entrepreneurs are handling the challenges posed by the pandemic",
+            "description": "First it was the dazzling colour. Always the vibrant hues of sun, earth and sky in her native Ghana displayed in traditional dress for special occasions. Then it was the sewing machine from her mother to make the look hip in modern Canada. Now it\u2019s six-figure\u2026",
+            "url": "https://financialpost.com/entrepreneur/adapt-endure-and-expand-how-black-entrepreneurs-are-handling-the-challenges-posed-by-the-pandemic",
+            "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/10/vw1029catherine-addai.jpg",
+            "publishedAt": "2020-10-29T18:31:51Z",
+            "content": "Addai is staying positive, emboldened in part by a pivot to mask-making. Shes also expanding to a boutique in Ottawa and another retailer in Vancouver.\r\nRetail has performed better than some sectors,\u2026 [+1446 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tim Hepher",
+            "title": "UPDATE 3-Airbus to stop burning cash, defends higher output plan",
+            "description": "Airbus <AIR.PA> said on Thursday it expected to stop burning cash in the fourth quarter, giving investors the first glimpse of a path out of the coronavirus crisis after speeding up deliveries to cash-strapped airlines.",
+            "url": "https://www.reuters.com/article/us-airbus-results-idUSKBN27E0MM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539234594&r=LYNXMPEG9S0KG&w=800",
+            "publishedAt": "2020-10-29T10:50:39Z",
+            "content": "PARIS (Reuters) - Airbus AIR.PA said on Thursday it expected to stop burning cash in the fourth quarter, giving investors the first glimpse of a path out of the coronavirus crisis after speeding up d\u2026 [+4169 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Liz Lee",
+            "title": "Exclusive: AirAsia X to revise $15.3 billion debt reform plan to expedite talks with creditors, say sources",
+            "description": "Malaysia's AirAsia X Bhd <AIRX.KL> plans to revise its $15.3 billion debt restructuring plan to address concerns raised by a creditor as its cash is running out fast, people with direct knowledge of the matter said.",
+            "url": "https://www.reuters.com/article/us-airasia-x-restructurig-exclusive-idUSKBN27E1AF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539242417&r=LYNXMPEG9S0OO&w=800",
+            "publishedAt": "2020-10-29T10:52:43Z",
+            "content": "KUALA LUMPUR (Reuters) - Malaysia's AirAsia X Bhd AIRX.KL plans to revise its $15.3 billion debt restructuring plan to address concerns raised by a creditor as its cash is running out fast, people wi\u2026 [+2361 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Harnessing Aerial - Drone Podcast",
+            "title": "Harnessing Aerial - Drone Podcast - Aerial Thermography, UAS Software Tools, Risk Assessments, 107.29 Daylight Waivers, Infrared Drone Inspections & LinkedIn Marketing Tips With Ryan Bliss of Infrared Aerial",
+            "description": "What You Will Learn-\n\n(1:20-4:30) How Ryan got involved in Aviation and why he decided to specialize in aerial thermography.\n\n(4:50) The benefits of specialization and selecting a niche for your business\n\n(7:00) Recommendations for getting into aerial thermog\u2026",
+            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9oYXJuZXNzaW5nYWVyaWFsLmxpYnN5bi5jb20vcnNz/episode/OTY3NDEzZjgtYTdjZS00ZjBiLWEzNTctMDcwZWViYWE0Nzgy",
+            "urlToImage": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYqh70bg0hJbJoRagAH8vOCNLj6rWCiqhgilnKpl_F78HdYQaM",
+            "publishedAt": "2020-10-29T16:14:02Z",
+            "content": "What You Will Learn-\r\n(1:20-4:30) How Ryan got involved in Aviation and why he decided to specialize in aerial thermography.\r\n(4:50) The benefits of specialization and selecting a niche for your busi\u2026 [+1394 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 2-Cessna maker eyes fourth-quarter aviation profit on private plane rebound",
+            "description": "Textron Inc <TXT.N> reported a 48% fall in quarterly profit as the Cessna business jet maker's big corporate clients canceled aircraft orders or deferred deliveries to cut costs during the coronavirus crisis.",
+            "url": "https://uk.reuters.com/article/us-textron-results-idUKKBN27E1PR",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-29T13:52:47Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Textron Inc TXT.N reported a 48% fall in quarterly profit as the Cessna business jet maker's big corporate clients canceled aircraft orders or deferred deliveries to cut\u2026 [+818 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Michael Kruse",
+            "title": "45 Self-Evident Truths About Donald Trump",
+            "description": "After five years, we have learned who he really is.",
+            "url": "https://www.politico.com/news/magazine/2020/10/29/trumpology-kruse-45-trump-truths-433455",
+            "urlToImage": "https://static.politico.com/53/d2/e315e1c446b9b2b84c0be863fe0d/krusetfcs-773.jpg",
+            "publishedAt": "2020-10-29T08:30:54Z",
+            "content": "1. Attention is power.\r\nHe is of the mindset, according to the late Jim Dowd, who did public relations for Trump, that the more his name is dropped, the more a kind of hypnosis, for lack of a better \u2026 [+25915 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Supersonic aircraft startup Hermeus raises $16 million Series A \u2013 TechCrunch",
+            "description": "Hermeus, a company seeking to build a Mach 5 aircraft that would be capable of making the trip from New York to London in just 90 minutes has raised a $16 million Series A round, led by Canaan Partners and including contributions from existing investors Khosl\u2026",
+            "url": "http://techcrunch.com/2020/10/29/supersonic-aircraft-startup-hermeus-raises-16-million-series-a/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/hermeus_transport_concept.jpg?w=711",
+            "publishedAt": "2020-10-29T14:22:27Z",
+            "content": "Hermeus, a company seeking to build a Mach 5 aircraft that would be capable of making the trip from New York to London in just 90 minutes has raised a $16 million Series A round, led by Canaan Partne\u2026 [+1745 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "WRAPUP 1-Record U.S. third-quarter growth expected; healing from COVID-19 still a long way",
+            "description": "The U.S. economy likely experienced record growth in the third quarter as more than $3 trillion (2.3 trillion pounds) in federal pandemic relief spending fueled historic consumer spending, but the deep scars from the COVID-19 recession could take a year o",
+            "url": "https://uk.reuters.com/article/us-usa-economy-idUKKBN27D1VK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539216457&r=LYNXMPEG9S0A4&w=800",
+            "publishedAt": "2020-10-29T04:00:01Z",
+            "content": "WASHINGTON (Reuters) - The U.S. economy likely experienced record growth in the third quarter as more than $3 trillion in federal pandemic relief spending fueled historic consumer spending, but the d\u2026 [+5664 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Airbus sets quarterly cash goal, takes heavy restructuring charge",
+            "description": "Airbus said on Thursday it expected to reach cash breakeven in the fourth quarter, setting the first forward-looking target since the start of the coronavirus crisis after managing to stop bleeding cash in the third quarter.",
+            "url": "https://www.reuters.com/article/airbus-results-idUSKBN27E0Q7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539225184&r=LYNXMPEG9S0ER&w=800",
+            "publishedAt": "2020-10-29T05:51:38Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Airbus is pictured at the entrance of the Airbus facility in Bouguenais, near Nantes, France, July 2, 2020. REUTERS/Stephane Mahe/File Photo\r\nPARIS (Reuters)\u2026 [+1184 chars]"
+        }
+    ]
+}

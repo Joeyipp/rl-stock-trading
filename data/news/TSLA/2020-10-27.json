@@ -1,0 +1,656 @@
+{
+    "status": "ok",
+    "totalResults": 50,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph White, Shreyasee Raj",
+            "title": "Continental buys stake in lidar startup Aeye - Reuters UK",
+            "description": "German auto supplier Continental AG <CONG.DE> said on Tuesday it is buying a minority stake in California lidar startup Aeye Inc to strengthen its position in the market for automated driving systems.",
+            "url": "https://www.reuters.com/article/us-autos-selfdriving-continental-lidar-idUSKBN27C1JK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538965956&r=LYNXMPEG9Q10L&w=800",
+            "publishedAt": "2020-10-27T11:16:00Z",
+            "content": "DETROIT (Reuters) - German auto supplier Continental AG CONG.DE said on Tuesday it is buying a minority stake in California lidar startup Aeye Inc to strengthen its position in the market for automat\u2026 [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Edward Taylor",
+            "title": "Mercedes bets on evolution as Tesla touts revolution in automated driving - Reuters India",
+            "description": "As Tesla touts the cutting-edge nature of its new Full Self Driving software, rival Mercedes-Benz says it has developed a similar system but stops short of allowing members of the public to take it on urban roads. The Germans, pioneers in developing advanced \u2026",
+            "url": "https://in.reuters.com/article/daimler-autonomous-level3-idINL8N2HE7BK",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-27T23:00:00Z",
+            "content": "IMMENDINGEN, Germany, Oct 28 (Reuters) - As Tesla touts the cutting-edge nature of its new Full Self Driving software, rival Mercedes-Benz says it has developed a similar system but stops short of al\u2026 [+4806 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "Musk's SpaceX pegs initial Starlink internet price at $99 per month - email - Reuters UK",
+            "description": "SpaceX is offering its Starlink broadband satellite internet service to test users for $99 a month, plus $499 for a setup kit, according to emails seen by Reuters, as Elon Musk's space company pushes to offer fast internet speeds to rural customers with limit\u2026",
+            "url": "https://uk.reuters.com/article/uk-spacex-starlink-beta-idUKKBN27C30Z",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1539034290&r=LYNXMPEG9Q1XE&w=800",
+            "publishedAt": "2020-10-27T20:47:00Z",
+            "content": "(Reuters) - SpaceX is offering its Starlink broadband satellite internet service to test users for $99 a month, plus $499 for a setup kit, according to emails seen by Reuters, as Elon Musks space com\u2026 [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "Musk's SpaceX pegs initial Starlink internet price at $99 per month: email - Reuters",
+            "description": "SpaceX is offering its Starlink broadband satellite internet service to test users for $99 a month, plus $499 for a setup kit, according to emails seen by Reuters, as Elon Musk's space company pushes to offer fast internet speeds to rural customers with limit\u2026",
+            "url": "https://www.reuters.com/article/us-spacex-starlink-beta-idUSKBN27C30D",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1539034018&r=LYNXMPEG9Q1WU&w=800",
+            "publishedAt": "2020-10-27T20:34:00Z",
+            "content": "(Reuters) - SpaceX is offering its Starlink broadband satellite internet service to test users for $99 a month, plus $499 for a setup kit, according to emails seen by Reuters, as Elon Musks space com\u2026 [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kate Duffy",
+            "title": "Starlink's internet satellite public beta costs $600 upfront, Space X says \u2014 and some users are dropping even more for better equipment",
+            "description": "Summary List Placement\n\nSpaceX is asking people to spend $600 upfront for the public beta of Starlink, its satellite internet service \u2014 and some users have already said they'll spend more for a better setup.\nSpaceX, the aerospace company founded by Elon Musk,\u2026",
+            "url": "https://www.businessinsider.com/spacex-starlink-public-beta-how-to-join-price-cost-subscription-2020-10",
+            "urlToImage": "https://i.insider.com/5f983ccb0c60aa00190d47ff?width=1200&format=jpeg",
+            "publishedAt": "2020-10-27T18:29:47Z",
+            "content": "SpaceX is asking people to spend $600 upfront for the public beta of Starlink, its satellite internet service \u2014 and some users have already said they'll spend more for a better setup.\r\nSpaceX, the ae\u2026 [+1861 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Makiko Yamazaki",
+            "title": "Toyota-Panasonic battery JV to boost efficiency to catch up with Chinese rivals - Reuters India",
+            "description": "A joint battery venture of Toyota Motor Corp and Panasonic Corp aims to boost efficiency of development and production processes by 10 times to better compete with larger Chinese rivals, its chief said on Tuesday.",
+            "url": "https://in.reuters.com/article/toyota-panasonic-batteries-idINKBN27C0XD",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538948841&r=LYNXMPEG9Q0P1&w=800",
+            "publishedAt": "2020-10-27T08:43:00Z",
+            "content": "TOKYO (Reuters) - A joint battery venture of Toyota Motor Corp and Panasonic Corp aims to boost efficiency of development and production processes by 10 times to better compete with larger Chinese ri\u2026 [+1618 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Makiko Yamazaki",
+            "title": "Toyota-Panasonic battery JV to boost efficiency to catch up with Chinese rivals - Reuters",
+            "description": "A joint battery venture of Toyota Motor Corp and Panasonic Corp aims to boost efficiency of development and production processes by 10 times to better compete with larger Chinese rivals, its chief said on Tuesday.",
+            "url": "https://www.reuters.com/article/toyota-panasonic-batteries-idUSKBN27C0XD",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538948841&r=LYNXMPEG9Q0P1&w=800",
+            "publishedAt": "2020-10-27T08:46:00Z",
+            "content": "TOKYO (Reuters) - A joint battery venture of Toyota Motor Corp and Panasonic Corp aims to boost efficiency of development and production processes by 10 times to better compete with larger Chinese ri\u2026 [+1618 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Makiko Yamazaki",
+            "title": "Toyota-Panasonic battery JV to boost efficiency to catch up with Chinese rivals - Reuters India",
+            "description": "A joint battery venture of Toyota Motor Corp <7203.T> and Panasonic Corp <6752.T> aims to boost efficiency of development and production processes by 10 times to better compete with larger Chinese rivals, its chief said on Tuesday.",
+            "url": "https://in.reuters.com/article/us-toyota-panasonic-batteries-idINKBN27C0WJ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-27T08:04:00Z",
+            "content": "TOKYO (Reuters) - A joint battery venture of Toyota Motor Corp 7203.T and Panasonic Corp 6752.T aims to boost efficiency of development and production processes by 10 times to better compete with lar\u2026 [+1651 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Makiko Yamazaki",
+            "title": "Toyota-Panasonic battery JV to boost efficiency to catch up with Chinese rivals - Reuters India",
+            "description": "A joint battery venture of Toyota Motor Corp <7203.T> and Panasonic Corp <6752.T> aims to boost efficiency of development and production processes by 10 times to better compete with larger Chinese rivals, its chief said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-toyota-panasonic-batteries-idINKBN27C0WJ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-27T07:58:00Z",
+            "content": "TOKYO (Reuters) - A joint battery venture of Toyota Motor Corp 7203.T and Panasonic Corp 6752.T aims to boost efficiency of development and production processes by 10 times to better compete with lar\u2026 [+1651 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Column: Nickel surplus looms as electric vehicle buzz fades - Andy Home - Reuters",
+            "description": "Column: Nickel surplus looms as electric vehicle buzz fades - Andy Home\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-metals-nickel-electric-ahome-column-idUSKBN27C291",
+            "urlToImage": null,
+            "publishedAt": "2020-10-27T15:06:00Z",
+            "content": "FILE PHOTO: A view of nickel-ore mine SR Metals in Tubay, Agusan del Sur, in southern Philippines February 16, 2017. REUTERS/Erik De Castro\r\nAutos\r\nAndy Home\r\nLONDON (Reuters) - The London Metal Exch\u2026 [+6309 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Andy Home",
+            "title": "Column: Nickel surplus looms as electric vehicle buzz fades - Andy Home - Reuters India",
+            "description": "The London Metal Exchange (LME) nickel price last week touched a year-to-date high of $16,135 per tonne.",
+            "url": "https://in.reuters.com/article/us-metals-nickel-electric-ahome-column-idINKBN27C291",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538996039&r=LYNXMPEG9Q1GX&w=800",
+            "publishedAt": "2020-10-27T15:09:00Z",
+            "content": "LONDON (Reuters) - The London Metal Exchange (LME) nickel price last week touched a year-to-date high of $16,135 per tonne.\r\nFILE PHOTO: A view of nickel-ore mine SR Metals in Tubay, Agusan del Sur, \u2026 [+6171 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "South Korea pension fund to oppose LG Chem's plan to separate battery business - Reuters UK",
+            "description": "South Korea's National Pension Service (NPS) said on Tuesday it had decided to oppose LG Chem's <051910.KS> plan to separate its battery business into a new company.",
+            "url": "https://uk.reuters.com/article/us-lg-chem-batteries-pension-idUKKBN27C189",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538954815&r=LYNXMPEG9Q0T4&w=800",
+            "publishedAt": "2020-10-27T09:43:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of LG Chem is seen at its office building in Seoul, South Korea, October 16, 2020. REUTERS/Kim Hong-Ji\r\nSEOUL (Reuters) - South Korea's National Pension Service\u2026 [+434 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "South Korea pension fund to oppose LG Chem's plan to separate battery business - Reuters",
+            "description": "South Korea's National Pension Service (NPS) said on Tuesday it had decided to oppose LG Chem's <051910.KS> plan to separate its battery business into a new company.",
+            "url": "https://www.reuters.com/article/us-lg-chem-batteries-pension-idUSKBN27C189",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538954815&r=LYNXMPEG9Q0T4&w=800",
+            "publishedAt": "2020-10-27T09:45:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of LG Chem is seen at its office building in Seoul, South Korea, October 16, 2020. REUTERS/Kim Hong-Ji\r\nSEOUL (Reuters) - South Korea's National Pension Service\u2026 [+434 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "To Save the Planet, Get More EVs in Used Car Lots",
+            "description": "To reduce carbon emissions, electric vehicles need to stay on the road as long as possible. That means developing a robust trade in second-hand cars.",
+            "url": "https://www.wired.com/story/save-planet-more-evs-used-car-lots/",
+            "urlToImage": "https://media.wired.com/photos/5f934fb7ed97b6b30c266137/191:100/w_1280,c_limit/business_ev_19209861030644.jpg",
+            "publishedAt": "2020-10-27T11:00:00Z",
+            "content": "Electric vehicles are getting more popular. Now theyre getting flashy too: new electric pickup trucks, new electric semis, new electric sports cars, a new electric G-Wagen.\r\nBut all that zippy sexine\u2026 [+3418 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China's NEV sales to account for 50% of all new sales by 2035, industry body says - Reuters",
+            "description": "Sales of new energy vehicles (NEV) will make up 50% of overall new car sales in China, the world's biggest auto market, by 2035, an industry official said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-china-autos-electric-idUSKBN27C08C",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538919978&r=LYNXMPEG9Q064&w=800",
+            "publishedAt": "2020-10-27T02:27:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Zang Yi charges her Tesla car at a charging point in Beijing, China, April 13, 2018. REUTERS/Thomas Peter \r\nSHANGHAI (Reuters) - Sales of new energy vehicles (NEV) will \u2026 [+770 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Heekyong Yang",
+            "title": "South Korea pension fund to oppose LG Chem's plan to separate battery business - Reuters UK",
+            "description": "South Korea's National Pension Service (NPS) will oppose LG Chem's <051910.KS> plan to separate its battery business into a new company, the NPS said on Tuesday.",
+            "url": "https://in.reuters.com/article/us-lg-chem-batteries-pension-idUKKBN27C189",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538954815&r=LYNXMPEG9Q0T4&w=800",
+            "publishedAt": "2020-10-27T09:43:00Z",
+            "content": "FILE PHOTO: The logo of LG Chem is seen at its office building in Seoul, South Korea, October 16, 2020. REUTERS/Kim Hong-Ji\r\nSEOUL (Reuters) - South Korea's National Pension Service (NPS) will oppose\u2026 [+838 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Heekyong Yang, Joyce Lee",
+            "title": "South Korea pension fund to oppose LG Chem's battery split-off plan - Reuters India",
+            "description": "South Korea's National Pension Service (NPS) will oppose LG Chem's plan to separate its battery business into a new company, the NPS said on Tuesday.",
+            "url": "https://in.reuters.com/article/lg-chem-batteries-pension-idINKBN27C1LK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538968770&r=LYNXMPEG9Q11W&w=800",
+            "publishedAt": "2020-10-27T11:34:00Z",
+            "content": "SEOUL (Reuters) - South Koreas National Pension Service (NPS) will oppose LG Chems plan to separate its battery business into a new company, the NPS said on Tuesday.\r\nFILE PHOTO: The logo of LG Chem \u2026 [+1573 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Svea Herbst-Bayliss",
+            "title": "Greenlight's Einhorn says tech stocks in bubble, hit top in September - Reuters Canada",
+            "description": "Technology stocks, which have surged for months during the pandemic, likely hit their top last month, hedge fund investor David Einhorn wrote on Tuesday, adding that he's prepared for a drop by betting against more names, including second-tier companies and o\u2026",
+            "url": "https://ca.reuters.com/article/ctech-us-greenlight-letter-idCAKBN27C2UE-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1539025533&r=LYNXMPEG9Q1SP-OCATC&w=800",
+            "publishedAt": "2020-10-27T19:15:00Z",
+            "content": "By Svea Herbst-Bayliss\r\nFILE PHOTO: David Einhorn,\u00a0President, Greenlight Capital, Inc. speaks during the 2019 Sohn Investment Conference in New York City, U.S., May 6, 2019. REUTERS/Brendan McDermid\r\u2026 [+1750 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson, Heekyong Yang",
+            "title": "U.S. ITC delays decision on LG Chem, SK Innovation trade secret case - Reuters India",
+            "description": "The United States International Trade Commission (ITC) on Monday delayed a decision in a trade secrets case involving South Korean battery makers LG Chem and SK Innovation to Dec. 10.",
+            "url": "https://in.reuters.com/article/lg-chem-sk-innovation-lawsuit-idINKBN27C054",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538920993&r=LYNXMPEG9Q078&w=800",
+            "publishedAt": "2020-10-27T02:43:00Z",
+            "content": "WASHINGTON/SEOUL (Reuters) - The United States International Trade Commission (ITC) on Monday delayed a decision in a trade secrets case involving South Korean battery makers LG Chem and SK Innovatio\u2026 [+2069 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Paul Lienert, Joseph White",
+            "title": "Waymo, Daimler to partner in developing self-driving semi trucks - Reuters UK",
+            "description": "Daimler AG's <DAIGn.DE> commercial truck unit and Alphabet Inc's <GOOGL.O> Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Waymo's automated system to Daimler's Freightliner Cascadia.",
+            "url": "https://uk.reuters.com/article/us-autos-selfdriving-waymo-daimler-idUKKBN27C1UM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538980938&r=LYNXMPEG9Q17N&w=800",
+            "publishedAt": "2020-10-27T13:08:00Z",
+            "content": "DETROIT (Reuters) - Daimler AG's DAIGn.DE commercial truck unit and Alphabet Inc's GOOGL.O Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Way\u2026 [+2777 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla Moves Into U.K. Homes With New Solar Power Tariff",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-27/tesla-moves-into-u-k-homes-with-new-solar-power-tariff",
+            "urlToImage": null,
+            "publishedAt": "2020-10-27T12:58:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "Tesla paid Elon Musk $3 million to personally insure company directors against lawsuits for 90 days, a new filing reveals",
+            "description": "Musk offered up to $100 million \"from his personal funds\" to cover directors and other senior staff at Tesla for certain legal expenses.",
+            "url": "https://www.businessinsider.com/tesla-elon-musk-insurance-payment-indemnity-lawsuits-2020-10",
+            "urlToImage": "https://i.insider.com/5f9824cef21803001222c29b?width=1200&format=jpeg",
+            "publishedAt": "2020-10-27T15:18:49Z",
+            "content": "Tesla paid its CEO Elon Musk $3 million after the billionaire personally offered up to $100 million in indemnity coverage to company directors, a new filing showed on Wednesday.\r\nTesla announced in A\u2026 [+1238 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Former NASA astronaut on significance of new evidence of water on the moon - Fox Business",
+            "description": "<ol><li>Former NASA astronaut on significance of new evidence of water on the moon\u00a0\u00a0Fox Business\r\n</li><li>Water on the moon matters (and not just to Elon Musk)\u00a0\u00a0NBC News\r\n</li><li>Water Has Been Found On The Moon, Scientists Confirm | TODAY\u00a0\u00a0TODAY\r\n</li><li>\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9THpkOGl5VXM5ZWfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-27T21:15:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Armenian email campaign asks SpaceX not to aid Turkish regime with satellite launch",
+            "description": "SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkish government. In the form email, received by TechCrunch staf\u2026",
+            "url": "https://techcrunch.com/2020/10/27/armenian-email-campaign-asks-spacex-not-to-aid-turkish-regime-with-satellite-launch/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6LPp5x11Y0RPhPL8MxNRcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/eisQrjjwkw6eeepFks6pGg--~B/aD0xMzY1O3c9MjA0ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b32ff22678cb1b84027548f41a843206",
+            "publishedAt": "2020-10-27T20:54:02Z",
+            "content": "SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkis\u2026 [+4461 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Tesla Will Spend $9-12 Billion Building Gigafactories in 2021-2022",
+            "description": "Tesla reported in its 10Q filing that their capital expenditures will be in the high end of $2.5 to $3.5 billion in 2020 and will increase to $4.5 to $6.0 billion in each of the next two fiscal...\n\n[[ This is a content summary only. Visit my website for full \u2026",
+            "url": "https://www.nextbigfuture.com/2020/10/tesla-will-spend-9-12-billion-building-gigafactories-in-2021-2022.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2019/09/SX3Semi-Tesla-1024x510.jpg",
+            "publishedAt": "2020-10-27T23:11:13Z",
+            "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology\u2026 [+593 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sasha Lekach",
+            "title": "SpaceX releases Starlink app, prices for satellite internet service",
+            "description": "Read more...\r\n\n{\"player\":{\"description\":\"\\\"I don't think you're ever gonna get a better introduction, not just to a space movie, but to space.\\\"\",\"image\":\"https://mondrian.mashable.com/uploads%252Fvideo_uploaders%252Fdistribution_thumb%252Fimage%252F95163%252\u2026",
+            "url": "https://mashable.com/article/spacex-starlink-early-users-satellite-internet/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F27%252F41%252F61e5178c853e4c14af209521af58701c.54c0b.jpg%252F1200x630.jpg?signature=6RDdlte_hluViXo0f5V_Fpe3OKU=",
+            "publishedAt": "2020-10-27T15:50:36Z",
+            "content": "Elon Musk's high-speed satellite internet experiment is finally taking off.\u00a0\r\nThe Starlink satellites from SpaceX will start to connect users to WiFi this week. CNBC reported Tuesday that SpaceX emai\u2026 [+1186 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Svea Herbst-Bayliss",
+            "title": "Greenlight's Einhorn says tech stocks in bubble, hit top in September - Reuters",
+            "description": "Technology stocks, which have surged for months during the pandemic, likely hit their top last month, hedge fund investor David Einhorn wrote on Tuesday, adding that he's prepared for a drop by betting against more names, including second-tier companies and o\u2026",
+            "url": "https://www.reuters.com/article/us-greenlight-letter-idUSKBN27C2UE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1539025146&r=LYNXMPEG9Q1SP&w=800",
+            "publishedAt": "2020-10-27T19:12:00Z",
+            "content": "FILE PHOTO: David Einhorn,\u00a0President, Greenlight Capital, Inc. speaks during the 2019 Sohn Investment Conference in New York City, U.S., May 6, 2019. REUTERS/Brendan McDermid\r\nBOSTON (Reuters) - Tech\u2026 [+1726 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "Shares in these American automakers are surging. None of them are Tesla",
+            "description": "Call it the stealth auto stock rally.",
+            "url": "https://www.cnn.com/2020/10/27/business/gm-ford-fiat-chrysler-stock-rally/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201027131120-chevrolet-us-dealership-0815-restricted-super-tease.jpg",
+            "publishedAt": "2020-10-27T18:22:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "Videos of Tesla's new 'full self-driving' software look futuristic \u2014\u00a0but show just how far it is from full autonomy",
+            "description": "Despite its name, no car currently for sale is actually self-driving, the US government says, and Tesla's software has been criticized before.",
+            "url": "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10",
+            "urlToImage": "https://i.insider.com/5f986261861cb70019936bbb?width=1200&format=jpeg",
+            "publishedAt": "2020-10-27T19:27:55Z",
+            "content": "There's still no such thing as a self-driving car, but you wouldn't know that from hearing Elon Musk or Tesla talk about their latest software.\r\nEarlier this month, the company began to release a bet\u2026 [+2149 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Star Trek, Intel and Boeing Lost Their Engineering Mojo",
+            "description": "Intel was the dominant computer hardware leader for decades. However, they are now a generation or two behind in computer chips compared to competitors like Taiwan Semiconductor. Intel is having...\n\n[[ This is a content summary only. Visit my website for full\u2026",
+            "url": "https://www.nextbigfuture.com/2020/10/star-trek-intel-and-boeing-lost-their-engineering-mojo.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2018/05/0c5b3932e8a3c55634f939b1bee631c7.jpg",
+            "publishedAt": "2020-10-27T15:49:53Z",
+            "content": "Intel was the dominant computer hardware leader for decades. However, they are now a generation or two behind in computer chips compared to competitors like Taiwan Semiconductor. Intel is having trou\u2026 [+1881 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "SpaceX Starlink public beta begins: It\u2019s $99 a month plus $500 up front",
+            "description": "\"Better Than Nothing\" beta to have speeds up to 150Mbps, latency as low as 20ms.",
+            "url": "https://arstechnica.com/information-technology/2020/10/spacex-starlink-public-beta-begins-its-99-a-month-plus-500-up-front/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/starlink-dish-760x359.jpg",
+            "publishedAt": "2020-10-27T14:26:39Z",
+            "content": "Enlarge/ A SpaceX Starlink user terminal/satellite dish.\r\n9 with 9 posters participating\r\nSpaceX has begun sending email invitations to Starlink's public beta and will charge beta users $99 per month\u2026 [+3319 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bsmith@businessinsider.com (Barbara Smith)",
+            "title": "Mark Zuckerberg, Bill Gates, Elon Musk, and 6 of the other wealthiest US billionaires reportedly lost a combined $14 billion in a single day",
+            "description": "Facebook CEO Mark Zuckerberg lost $2.8 billion on Monday as the stock market took a hit.",
+            "url": "https://www.businessinsider.com/zuckerberg-gates-buffett-musk-us-billionaires-net-worths-decrease-forbes-2020-10",
+            "urlToImage": "https://i.insider.com/5f988e726f5b310011723bde?width=1200&format=jpeg",
+            "publishedAt": "2020-10-27T21:19:07Z",
+            "content": "As coronavirus cases continue to rise throughout the US and around the world, markets took a hit at the start of the week, resulting in the 10 wealthiest in the US collectively losing $14 billion in \u2026 [+1824 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shalini Nagarajan",
+            "title": "Markets haven't yet priced in a Biden win and so the dollar still has plenty of room to weaken, Deutsche Bank says",
+            "description": "Summary List Placement\n\n<ul>\n<li>Markets haven't yet priced in a Joe Biden win, which means the dollar still has plenty of room to weaken, Deutsche Bank said on Tuesday.</li>\n<li>\"With the dollar starting to weaken, many now claim this election outcome is pri\u2026",
+            "url": "https://www.businessinsider.com/joe-biden-win-not-priced-dollar-room-weaken-deutsche-bank-2020-10",
+            "urlToImage": "https://i.insider.com/5f981c50f21803001222c279?width=1200&format=jpeg",
+            "publishedAt": "2020-10-27T16:33:59Z",
+            "content": "Markets have not yet priced in a Joe Biden election victory as real money investors are not comfortable changing their portfolios before certain historic events play out, Deutsche Bank said on Tuesda\u2026 [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "Palantir will surge 31% as Wall Street realizes potential for breakneck profit growth, Morgan Stanley says",
+            "description": "Palantir's discounted valuation \"underappreciates\" Palantir's momentum, government opportunity, and a strong shift to software sales.",
+            "url": "https://www.businessinsider.com/palantir-stock-price-target-lifted-rapid-growth-potential-tech-analyst-2020-10",
+            "urlToImage": "https://i.insider.com/5f972544f21803001222c091?width=1200&format=jpeg",
+            "publishedAt": "2020-10-27T14:05:57Z",
+            "content": "<ul><li>Investors aren't seeing the bigger picture regarding Palantir's discounted valuation, Morgan Stanley analysts said Monday.</li><li>The bank initiated an \"overweight\" rating on Palantir's shar\u2026 [+3362 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "Elon Musk's SpaceX will provide free internet to 100s of families in rural Texas through its Starlink satellites in 2021",
+            "description": "SpaceX's Starlink network of satellites will initially provide internet to 45 families who do not currently have broadband access.",
+            "url": "https://www.businessinsider.com/elon-musk-spacex-starlink-free-internet-texas-satellite-2020-10",
+            "urlToImage": "https://i.insider.com/5f98026b4743a3001216bd3a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-27T12:39:34Z",
+            "content": "Elon Musk's SpaceX has agreed to provide internet to a rural school district in Texas next year through its Starlink network of satellites.\r\nStarting early 2021, SpaceX will initially supply free int\u2026 [+1926 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Matousek",
+            "title": "Alibaba's Jack Ma visited EV startup Canoo in 2018 in search of a partnership that would have mirrored Amazon's deal for Rivian electric delivery vans",
+            "description": "Summary List Placement\n\nAlibaba and the electric-vehicle startup Canoo discussed a partnership last year, though the talks didn't result in a deal, three people with knowledge of the matter told Business Insider. A Canoo spokesperson confirmed that those disc\u2026",
+            "url": "https://www.businessinsider.com/jack-ma-alibaba-canoo-discussed-partnership-2020-10",
+            "urlToImage": "https://i.insider.com/5f96eb67f21803001222bebe?width=1200&format=jpeg",
+            "publishedAt": "2020-10-27T13:07:00Z",
+            "content": "Alibaba and the electric-vehicle startup Canoo discussed a partnership last year, though the talks didn't result in a deal, three people with knowledge of the matter told Business Insider. A Canoo sp\u2026 [+2581 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Loren Grush",
+            "title": "SpaceX begins public beta testing of Starlink constellation at $99 a month",
+            "description": "Late on October 26th, SpaceX sent out emails to interested users about participating in public beta testing for the Starlink constellation, a global initiative to provide broadband internet coverage from space.",
+            "url": "https://www.theverge.com/2020/10/27/21536073/spacex-starlink-public-beta-testing-email-user-terminal",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/NJ6h81nfBK4VnaMoky_z86CP0xQ=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21992610/50428050591_36defbe958_o.jpg",
+            "publishedAt": "2020-10-27T15:18:36Z",
+            "content": "And itll run you $499 for the equipment\r\nLast night, SpaceX invited some early users to join public beta testing of its Starlink program, which aims to provide global internet coverage from space. To\u2026 [+3859 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Greenlight Capital's David Einhorn just called the top in stocks, and gave 10 reasons why tech is in a bubble",
+            "description": "Einhorn said he received a job application from a 13-year-old with the e-mail subject line reading: \"I am young, but good at investments.\"",
+            "url": "https://www.businessinsider.com/stock-market-outlook-top-call-einhorn-signs-technology-bubble-letter-2020-10",
+            "urlToImage": "https://i.insider.com/5f984120861cb70019936a96?format=jpeg",
+            "publishedAt": "2020-10-27T17:27:52Z",
+            "content": "Greenlight Capital president David Einhorn.\r\nREUTERS/Brendan McDermid\r\n<ul><li>September 2 was the top in the stock market, hedge fund investor David Einhorn argued in Greenlight Capital's third quar\u2026 [+4886 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Vicky Ge Huang",
+            "title": "A fund manager who 'aggressively pushed' Jeremy Grantham's GMO to launch its first climate change fund shares how to take advantage of the 'compelling economics' of clean energy before it's too late \u2014 including 4 top stock picks",
+            "description": "Summary List Placement\n\nLucas White is not a die-hard climate change activist but he does want to save the environment \u2014 and make money at the same time.\n\"Unfortunately, the environmental situation is looking bleaker and bleaker, but on the positive side of t\u2026",
+            "url": "https://www.businessinsider.com/stock-picks-clean-energy-climate-change-trends-gmo-fund-manager-2020-10",
+            "urlToImage": "https://i.insider.com/5f9704274743a3001216ba98?width=1200&format=jpeg",
+            "publishedAt": "2020-10-27T12:15:00Z",
+            "content": "Lucas White is not a die-hard climate change activist but he does want to save the environment \u2014 and make money at the same time.\r\n\"Unfortunately, the environmental situation is looking bleaker and b\u2026 [+6426 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Why Amazon, Tesla, and other 'Elite Eight' mega-cap titans look to be in a bubble despite strong profit growth, according to one research firm",
+            "description": "With the \"Elite Eight\" stocks selling at collective multiples of 44.6x earnings and 7.5x sales, \"a lot of good news is priced in,\" NDR said.",
+            "url": "https://www.businessinsider.com/amazon-tesla-stock-elite-eight-bubble-tech-despite-growth-ndr-2020-10",
+            "urlToImage": "https://i.insider.com/5f36baabe89ebf001f044a3d?width=1200&format=jpeg",
+            "publishedAt": "2020-10-27T11:47:08Z",
+            "content": "<ul><li>Amazon, Tesla, and Apple make up some of the \"Elite Eight,\" a group of stocks that have collectively seen their market cap surge from $1 trillion to $8 trillion in 8 years, according to Ned D\u2026 [+2965 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "The S&P 500 could jump 14% to 3,900 if Trump wins the election, JPMorgan says",
+            "description": "A Trump victory is the \"most favorable outcome for equities,\" a team of analysts led by chief US equity strategist Dubravko Lakos-Bujas said.",
+            "url": "https://www.businessinsider.com/stock-market-outlook-sp-500-rise-trump-wins-election-jpmorgan-2020-10",
+            "urlToImage": "https://i.insider.com/5f98008af21803001222c23e?format=jpeg",
+            "publishedAt": "2020-10-27T12:12:43Z",
+            "content": "AP Images\r\nThe S&amp;P 500 could rise 14% from its current level to 3,900 if Republican Donald Trump retains his position in the White House, JPMorgan analysts said on Friday.\u00a0\r\nA Trump victory could\u2026 [+2085 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "Big Tech faces 'danger scenario' with a Democratic sweep in November, warns prominent venture capitalist Bradley Tusk",
+            "description": "\"People assume Congress is so incompetent and so inept and Big Tech companies are so smart they'll figure out how to stop them,\" said Tusk.",
+            "url": "https://www.businessinsider.com/big-tech-faces-danger-scenario-with-democratic-sweep-november-tusk-2020-10",
+            "urlToImage": "https://i.insider.com/5f97e3884743a3001216bd07?format=jpeg",
+            "publishedAt": "2020-10-27T10:20:16Z",
+            "content": "Spencer Platt/Getty Images\r\nInvestors may be missing the point that a Democratic sweep in November could mean increased regulation for the technology sector, political strategist and venture capitali\u2026 [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Edward Taylor",
+            "title": "Mercedes bets on evolution as Tesla touts revolution in automated driving",
+            "description": "As Tesla touts the cutting-edge nature of its new Full Self Driving software, rival Mercedes-Benz says it has developed a similar system but stops short of allowing members of the public to take it on urban roads.",
+            "url": "https://ca.reuters.com/article/us-daimler-autonomous-level3-idCAKBN27C3A0",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1539046132&r=LYNXMPEG9Q23G&w=800",
+            "publishedAt": "2020-10-27T23:02:58Z",
+            "content": "By Edward Taylor\r\nIMMENDINGEN, Germany (Reuters) - As Tesla touts the cutting-edge nature of its new Full Self Driving software, rival Mercedes-Benz says it has developed a similar system but stops s\u2026 [+5065 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "Musk's SpaceX pegs initial Starlink internet price at $99 per month: email",
+            "description": "SpaceX is offering its Starlink broadband satellite internet service to test users for $99 a month, plus $499 for a setup kit, according to emails seen by Reuters, as Elon Musk's space company pushes to offer fast internet speeds to rural customers with limit\u2026",
+            "url": "https://ca.reuters.com/article/us-spacex-starlink-beta-idCAKBN27C30D",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1539034018&r=LYNXMPEG9Q1WU&w=800",
+            "publishedAt": "2020-10-27T20:33:40Z",
+            "content": "By Joey Roulette\r\n(Reuters) - SpaceX is offering its Starlink broadband satellite internet service to test users for $99 a month, plus $499 for a setup kit, according to emails seen by Reuters, as El\u2026 [+2197 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "Musk's SpaceX pegs initial Starlink internet price at $99 per month: email",
+            "description": "SpaceX is offering its Starlink broadband satellite internet service to test users for $99 a month, plus $499 for a setup kit, according to emails seen by Reuters, as Elon Musk's space company pushes to offer fast internet speeds to rural customers with limit\u2026",
+            "url": "https://ca.reuters.com/article/us-spacex-starlink-beta-idCAKBN27C30D",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1539034018&r=LYNXMPEG9Q1WU&w=800",
+            "publishedAt": "2020-10-27T20:33:40Z",
+            "content": "By Joey Roulette\r\n(Reuters) - SpaceX is offering its Starlink broadband satellite internet service to test users for $99 a month, plus $499 for a setup kit, according to emails seen by Reuters, as El\u2026 [+2197 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Armenian email campaign asks SpaceX not to aid Turkish regime with satellite launch \u2013 TechCrunch",
+            "description": "SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkish government. The concerns are valid \u2014 and the mass-email me\u2026",
+            "url": "http://techcrunch.com/2020/10/27/armenian-email-campaign-asks-spacex-not-to-aid-turkish-regime-with-satellite-launch/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/spacex-gps-iii.jpeg?w=600",
+            "publishedAt": "2020-10-27T20:54:11Z",
+            "content": "SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkis\u2026 [+4461 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Makiko Yamazaki",
+            "title": "Toyota-Panasonic battery JV to boost efficiency to catch up with Chinese rivals",
+            "description": "A joint battery venture of Toyota Motor Corp <7203.T> and Panasonic Corp <6752.T> aims to boost efficiency of development and production processes by 10 times to better compete with larger Chinese rivals, its chief said on Tuesday.",
+            "url": "https://uk.reuters.com/article/uk-toyota-panasonic-batteries-idUKKBN27C0WF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538943614&r=LYNXMPEG9Q0MJ&w=800",
+            "publishedAt": "2020-10-27T07:58:08Z",
+            "content": "TOKYO (Reuters) - A joint battery venture of Toyota Motor Corp 7203.T and Panasonic Corp 6752.T aims to boost efficiency of development and production processes by 10 times to better compete with lar\u2026 [+1651 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Makiko Yamazaki",
+            "title": "Toyota-Panasonic battery JV to boost efficiency to catch up with Chinese rivals",
+            "description": "A joint battery venture of Toyota Motor Corp <7203.T> and Panasonic Corp <6752.T> aims to boost efficiency of development and production processes by 10 times to better compete with larger Chinese rivals, its chief said on Tuesday.",
+            "url": "https://ca.reuters.com/article/ctech-us-toyota-panasonic-batteries-idCAKBN27C0WJ-OCATC",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-27T08:01:22Z",
+            "content": "By Makiko Yamazaki\r\nTOKYO (Reuters) - A joint battery venture of Toyota Motor Corp 7203.T and Panasonic Corp 6752.T aims to boost efficiency of development and production processes by 10 times to bet\u2026 [+1671 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Makiko Yamazaki",
+            "title": "Toyota-Panasonic battery JV to boost efficiency to catch up with Chinese rivals",
+            "description": "A joint battery venture of Toyota Motor Corp <7203.T> and Panasonic Corp <6752.T> aims to boost efficiency of development and production processes by 10 times to better compete with larger Chinese rivals, its chief said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-toyota-panasonic-batteries-idUSKBN27C0WJ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-27T07:58:08Z",
+            "content": "TOKYO (Reuters) - A joint battery venture of Toyota Motor Corp 7203.T and Panasonic Corp 6752.T aims to boost efficiency of development and production processes by 10 times to better compete with lar\u2026 [+1651 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China's NEV sales to account for 50% of all new sales by 2035, industry body says",
+            "description": "Sales of new energy vehicles (NEV) will make up 50% of overall new car sales in China, the world's biggest auto market, by 2035, an industry official said on Tuesday.",
+            "url": "https://ca.reuters.com/article/ctech-us-china-autos-electric-idCAKBN27C08C-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201027&t=2&i=1538920313&r=LYNXMPEG9Q064-OCATC&w=800",
+            "publishedAt": "2020-10-27T02:25:13Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Zang Yi charges her Tesla car at a charging point in Beijing, China, April 13, 2018. REUTERS/Thomas Peter \r\nSHANGHAI (Reuters) - Sales of new energy vehicles (NEV) will \u2026 [+770 chars]"
+        }
+    ]
+}

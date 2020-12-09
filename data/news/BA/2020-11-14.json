@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "David Slotnick",
+            "title": "6 cargo airlines and freight operators poised to win big when Pfizer's coronavirus vaccine is ready to go",
+            "description": "Summary List Placement\n\nThe news is everywhere \u2014 the light at the end of the quarantine tunnel is finally within sight.\nPfizer announced that its COVID-19 vaccine, which is in the late stages of clinical trials, has proven to be effective. The company is expe\u2026",
+            "url": "https://www.businessinsider.com/coronavirus-vaccine-cargo-airline-logistics-winners-losers-2020-11",
+            "urlToImage": "https://i.insider.com/5faee88f1c741f0019ac9c1c?width=1200&format=jpeg",
+            "publishedAt": "2020-11-14T12:33:00Z",
+            "content": "The news is everywhere \u2014 the light at the end of the quarantine tunnel is finally within sight.\r\nPfizer announced that its COVID-19 vaccine, which is in the late stages of clinical trials, has proven\u2026 [+1836 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX launch of crew on first 'operational' mission delayed by weather - Reuters India",
+            "description": "NASA and high-tech entrepreneur Elon Musk's rocket company SpaceX announced on Friday a 24-hour weather delay of their planned launch of four astronauts into orbit for NASA's first full-fledged human mission using a privately owned spacecraft.",
+            "url": "https://in.reuters.com/article/space-exploration-spacex-idINKBN27U06W",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201114&t=2&i=1541185204&r=LYNXMPEGAD041&w=800",
+            "publishedAt": "2020-11-14T03:42:00Z",
+            "content": "WASHINGTON (Reuters) - NASA and high-tech entrepreneur Elon Musks rocket company SpaceX announced on Friday a 24-hour weather delay of their planned launch of four astronauts into orbit for NASAs fir\u2026 [+3167 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Buckley, CNN",
+            "title": "How a Covid-19 vaccine could change travel for good",
+            "description": "A vaccine could change travel, from our experience of flights to hotels, and destinations on the up -- and down",
+            "url": "https://www.cnn.com/travel/article/covid-vaccine-travel/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/160422110728-international-national-parks-2016-super-tease.jpg",
+            "publishedAt": "2020-11-14T09:47:53Z",
+            "content": "Julia Buckley, CNNPublished 14th November 2020\r\n(CNN) It was the good news that gave the world hope.\r\nOn November 9 it was announced that one of the candidates for a Covid-19 vaccine, made by Pfizer \u2026 [+11378 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "Inside the new world's longest flight: What it's like to fly on Singapore Airlines' new route between Singapore and New York",
+            "description": "Singapore Airlines launched the new route on Monday, beating out its famed Singapore-Newark route as the world's longest by just two nautical miles.",
+            "url": "https://www.businessinsider.com/inside-the-new-worlds-longest-flight-singapore-airlines-a350-tour-2020-11",
+            "urlToImage": "https://i.insider.com/5fad74731e8d50001981323f?width=1200&format=jpeg",
+            "publishedAt": "2020-11-14T13:25:00Z",
+            "content": "Singapore Airlines just launched its newest route on Monday between Singapore and New York City, offering the only non-stop flights directly between the two cities.\r\nWith a great circle distance of 8\u2026 [+1238 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "JetBlue will soon fill its planes to capacity and is offering refunds for travelers who don't want to fly on the airline as a result",
+            "description": "The policy change to no longer block middle seats comes as JetBlue seeks a return to profitability after a third-quarter loss of $578 million.",
+            "url": "https://www.businessinsider.com/jetblue-will-fill-its-planes-to-capacity-in-january-2021-2020-11",
+            "urlToImage": "https://i.insider.com/5faff21f402d49001924efdc?width=1200&format=jpeg",
+            "publishedAt": "2020-11-14T16:00:01Z",
+            "content": "JetBlue Airways is joining the growing list of airlines that plan to fill their aircraft to capacity\u00a0in the upcoming months, abandoning a policy of onboard social distancing that was thought to be ne\u2026 [+3053 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Story by Reuters",
+            "title": "Two missiles target Ethiopian airports as Tigray conflict widens",
+            "description": "Two airports in Ethiopia's Amhara state which neighbors Tigray -- where federal troops are fighting local forces -- were targeted by rocket fire late on Friday, the government said, as an 11-day conflict widened.",
+            "url": "https://www.cnn.com/2020/11/14/africa/ethiopia-airport-tigray-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201114093811-01-ethiopia-conflict-1109-super-tease.jpg",
+            "publishedAt": "2020-11-14T14:51:11Z",
+            "content": "Addis Ababa, Ethiopia (CNN)Two airports in Ethiopia's Amhara state which neighbors Tigray -- where federal troops are fighting local forces -- were targeted by rocket fire late on Friday, the governm\u2026 [+3446 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "Private jet firm XO just added 15 aircraft to its fleet in a major fleet expansion that will help corner the new market of first-time private jet flyers",
+            "description": "The nimble light jets will make XO more competitive in securing more membership while also providing more options for its existing client base.",
+            "url": "https://www.businessinsider.com/xo-adds-15-jets-to-fleet-private-aviation-expands-2020-11",
+            "urlToImage": "https://i.insider.com/5faadc1f1df1d50018219ef8?width=1200&format=jpeg",
+            "publishedAt": "2020-11-14T13:32:00Z",
+            "content": "XO, one of the largest private aviation firms in the country, is growing its dedicated fleet of charter aircraft with the addition of 15 light jet aircraft.\r\nStarting today, the Cessna Citation Ultra\u2026 [+4298 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Anna Palmer and Jake Sherman",
+            "title": "POLITICO Playbook: To dine, or not to dine",
+            "description": "And President Donald Trump\u2019s legal machine grinds to a halt.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/11/14/to-dine-or-not-to-dine-490899",
+            "urlToImage": "https://static.politico.com/8a/53/6f9a902e481faeb1481ee40c988b/201114-pelosi-ap-773.jpg",
+            "publishedAt": "2020-11-14T15:09:46Z",
+            "content": "House Democrats had planned a dinner indoors at the Capitol on Friday before switching plans and having members-elect pick up their food. House Republicans have a dinner planned for Sunday. | J. Scot\u2026 [+24123 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "The FBI reportedly wanted to arrest Jeffrey Epstein a year before his plea deal while he was judging a 2007 beauty pageant in the Virgin Islands",
+            "description": "The FBI had the evidence to arrest Epstein in 2007 but was turned down. He later accepted a deal in 2008 that resulted in little jail time.",
+            "url": "https://www.businessinsider.com/fbi-sought-to-arrest-jeffrey-epstein-during-beauty-pageant-report-2020-11",
+            "urlToImage": "https://i.insider.com/5faffca2402d49001924efe1?width=1200&format=jpeg",
+            "publishedAt": "2020-11-14T18:31:08Z",
+            "content": "The Federal Bureau of Investigation was denied the opportunity to arrest Jeffrey Epstein in 2007 while he was judging a beauty pageant in the US Virgin Islands, according to a US government report vi\u2026 [+2934 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Giulia Paravicini",
+            "title": "Airports near Ethiopia's Tigray state attacked with rockets, government says",
+            "description": "Two airports in Ethiopia's Amhara state near the northern state of Tigray where federal troops are fighting local forces were targeted by rocket fire late on Friday, the government said.",
+            "url": "https://www.reuters.com/article/us-ethiopia-conflict-idUSKBN27U074",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201114&t=2&i=1541190165&r=LYNXMPEGAD04E&w=800",
+            "publishedAt": "2020-11-14T07:54:12Z",
+            "content": "ADDIS ABABA (Reuters) - Two airports in Ethiopias Amhara state near the northern state of Tigray where federal troops are fighting local forces were targeted by rocket fire late on Friday, the govern\u2026 [+2307 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX launch of crew on first 'operational' mission delayed by weather",
+            "description": "NASA and high-tech entrepreneur Elon Musk's rocket company SpaceX announced on Friday a 24-hour weather delay of their planned launch of four astronauts into orbit for NASA's first full-fledged human mission using a privately owned spacecraft.",
+            "url": "https://uk.reuters.com/article/us-space-exploration-spacex-idUKKBN27T2N4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541155634&r=LYNXMPEGAC1L9&w=800",
+            "publishedAt": "2020-11-14T02:54:04Z",
+            "content": "WASHINGTON (Reuters) - NASA and high-tech entrepreneur Elon Musks rocket company SpaceX announced on Friday a 24-hour weather delay of their planned launch of four astronauts into orbit for NASAs fir\u2026 [+3160 chars]"
+        }
+    ]
+}

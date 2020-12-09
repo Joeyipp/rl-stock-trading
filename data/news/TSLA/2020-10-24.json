@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier",
+            "title": "Wall Street analysts tore down 7 competing electric-vehicle batteries \u2014\u00a0and say Tesla is once again leading the pack (TSLA)",
+            "description": "Summary List Placement\n\nThe competition in electric vehicles comes down to one thing: batteries.\nTo better understand who's employing the best batteries on its cars \u2014 and how much they're spending to do it \u2014 analysts at the investment bank UBS compared seven \u2026",
+            "url": "https://www.businessinsider.com/teslas-batteries-best-cheapest-industry-ahead-competition-ubs-teardown-2020-10",
+            "urlToImage": "https://i.insider.com/5f9331414743a3001216b640?width=1200&format=jpeg",
+            "publishedAt": "2020-10-24T12:02:00Z",
+            "content": "The competition in electric vehicles comes down to one thing: batteries.\r\nTo better understand who's employing the best batteries on its cars \u2014 and how much they're spending to do it \u2014 analysts at th\u2026 [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Alison Foreman",
+            "title": "The legend of Keyboard Cat: How a man and his cat(s) won the internet lottery",
+            "description": "In Tales of the Early Internet, Mashable explores online life through 2007 \u2014 back before social media and the smartphone changed everything.\n\nCharlie Schmidt is lucky, and he knows it.\nWhat else could explain it? Millions of people have cats. Millions more ha\u2026",
+            "url": "https://mashable.com/article/keyboard-cat-history/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F22%252F48%252F96454244950d40f080273a40391ad47e.5b41e.jpg%252F1200x630.jpg?signature=qup313Tfw22HMu0BEQaxE_KSH9g=",
+            "publishedAt": "2020-10-24T13:00:00Z",
+            "content": "In Tales of the Early Internet, Mashable explores online life through 2007 back before social media and the smartphone changed everything.\r\nCharlie Schmidt is lucky, and he knows it.\r\nWhat else could\u2026 [+14151 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mjungreis@businessinsider.com (Max Jungreis)",
+            "title": "How a 21-year-old CEO landed $3.5 million for software that he originally built to help his mom's struggling dog grooming business keep repeat customers",
+            "description": "The company's seed round was led by Redpoint Ventures and joined by Kimbal Musk, The Chainsmokers, Tinder cofounder Sean Rad, and others.",
+            "url": "https://www.businessinsider.com/ceo-founder-profitboss-landed-seed-round-investment-2020-10",
+            "urlToImage": "https://i.insider.com/5f9316504743a3001216b561?width=1200&format=jpeg",
+            "publishedAt": "2020-10-24T14:06:00Z",
+            "content": "Profitboss CEO Adam Guild has boundless energy. The 21-year-old founder can speak several paragraphs worth of information in a minute. That animated style and depth of knowledge is one reason venture\u2026 [+4473 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aakash Jhaveri",
+            "title": "Maharashtra Government invites Tesla to set up a local plant",
+            "description": "Maharashtra's Aaditya Thackeray and the local industries minister have invited Tesla Motors to invest in India.",
+            "url": "https://www.techradar.com/in/news/maharashtra-government-invites-tesla-to-set-up-a-local-plant",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fFzBwUHqz9bGXT8m2uyTXW-1200-80.jpg",
+            "publishedAt": "2020-10-24T02:11:50Z",
+            "content": "Elon Musk recently talked about how Tesla would come to India in 2021. While that could have many meanings, local governments are now taking proactive steps in ensuring a smooth entry.\r\nLast month, r\u2026 [+2066 chars]"
+        }
+    ]
+}

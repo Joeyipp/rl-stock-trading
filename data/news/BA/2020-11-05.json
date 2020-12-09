@@ -1,0 +1,591 @@
+{
+    "status": "ok",
+    "totalResults": 45,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Turkish Airlines postpones $5 billion financing until after 2024 - CFO - Reuters",
+            "description": "Turkish Airlines' <THYAO.IS> recent agreement with Airbus to delay the delivery of new aircraft means the company will postpone raising $5 billion of financing until after 2024, the airline's CFO said on Thursday.",
+            "url": "https://www.reuters.com/article/turkishairlines-debt-int-idUSKBN27L2I7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540150709&r=LYNXMPEGA41I4&w=800",
+            "publishedAt": "2020-11-05T17:48:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Turkish Airlines planes sit at Istanbul New Airport, Turkey May 27, 2019. REUTERS/Amr Abdallah Dalsh\r\nISTANBUL (Reuters) - Turkish Airlines' THYAO.IS recent agreement wi\u2026 [+1548 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "EXCLUSIVE-Canada eyeing loans for airlines that are 'running out of runway' -sources - Reuters India",
+            "description": "EXCLUSIVE-Canada eyeing loans for airlines that are 'running out of runway' -sources\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/canada-politics-airlines-idINL1N2HR286",
+            "urlToImage": null,
+            "publishedAt": "2020-11-05T20:01:56Z",
+            "content": "Company News\r\nDavid Ljunggren\r\nSteve Scherer\r\nOTTAWA, Nov 5 (Reuters) - Canada is finally close to an aid package for airlines that will likely offer low-interest loans to carriers versus taking outr\u2026 [+3332 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Ljunggren, Steve Scherer",
+            "title": "Exclusive: Canada eyeing loans for airlines that are 'running out of runway' - sources - Reuters Canada",
+            "description": "Canada is finally close to an aid package for airlines that will likely offer low-interest loans to carriers versus taking outright stakes, three sources say, eight months after the COVID-19 pandemic decimated air travel.",
+            "url": "https://www.reuters.com/article/us-canada-politics-airlines-exclusive-idCAKBN27L2P8",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-05T19:44:00Z",
+            "content": "By David Ljunggren, Steve Scherer\r\nOTTAWA (Reuters) - Canada is finally close to an aid package for airlines that will likely offer low-interest loans to carriers versus taking outright stakes, three\u2026 [+3141 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Ljunggren, Steve Scherer",
+            "title": "Exclusive: Canada eyeing loans for airlines that are 'running out of runway' - sources - Reuters",
+            "description": "Canada is finally close to an aid package for airlines that will likely offer low-interest loans to carriers versus taking outright stakes, three sources say, eight months after the COVID-19 pandemic decimated air travel.",
+            "url": "https://www.reuters.com/article/us-canada-politics-airlines-exclusive-idUSKBN27L2P8",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-05T19:39:00Z",
+            "content": "OTTAWA (Reuters) - Canada is finally close to an aid package for airlines that will likely offer low-interest loans to carriers versus taking outright stakes, three sources say, eight months after th\u2026 [+3106 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Breakingviews columnists",
+            "title": "Breakingviews - Corona Capital: Opera, Vaccines, Wine, Airlines - Reuters India",
+            "description": "Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-finance-breakingvi-idINKBN27L1HH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540105683&r=LYNXMPEGA40WL&w=800",
+            "publishedAt": "2020-11-05T11:52:00Z",
+            "content": "MILAN/LONDON/MELBOURNE (Reuters Breakingviews) - Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.\r\nPeopl\u2026 [+4472 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Kemp",
+            "title": "Column: Oil price path depends on coronavirus control - Reuters UK",
+            "description": "Global jet fuel consumption remains severely affected by the uneven recovery in aviation; cargo volumes have rebounded but cross-border passenger flying remains blocked by quarantine restrictions in many countries.",
+            "url": "https://uk.reuters.com/article/uk-oil-global-kemp-idUKKBN27L2E6",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540146189&r=LYNXMPEGA41F3&w=800",
+            "publishedAt": "2020-11-05T17:22:00Z",
+            "content": "LONDON (Reuters) - Global jet fuel consumption remains severely affected by the uneven recovery in aviation; cargo volumes have rebounded but cross-border passenger flying remains blocked by quaranti\u2026 [+4374 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kirsti Knolle",
+            "title": "Lufthansa warns of higher cash drain, restructuring costs in fourth quarter - Reuters India",
+            "description": "Lufthansa warned on Thursday it will burn through more cash in the fourth quarter than in the third and that further restructuring measures will weigh on its results as it struggles to cope with the effects of the COVID-19 pandemic.",
+            "url": "https://in.reuters.com/article/lufthansa-results-idINKBN27L0NW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540076345&r=LYNXMPEGA40EL&w=800",
+            "publishedAt": "2020-11-05T06:47:00Z",
+            "content": "BERLIN (Reuters) - Lufthansa warned on Thursday it will burn through more cash in the fourth quarter than in the third and that further restructuring measures will weigh on its results as it struggle\u2026 [+2023 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Kemp",
+            "title": "Oil price path depends on coronavirus control: Kemp - Reuters",
+            "description": "(John Kemp is a Reuters market analyst. The views expressed are his own)",
+            "url": "https://www.reuters.com/article/us-oil-global-kemp-column-idUSKBN27L26I",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540135883&r=LYNXMPEGA41AD&w=800",
+            "publishedAt": "2020-11-05T15:49:00Z",
+            "content": "(John Kemp is a Reuters market analyst. The views expressed are his own)\r\nFILE PHOTO: The sun is seen behind a crude oil pump jack in the Permian Basin in Loving County, Texas, U.S., November 22, 201\u2026 [+4373 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Kemp",
+            "title": "Oil price path depends on coronavirus control: Kemp - Reuters India",
+            "description": "(John Kemp is a Reuters market analyst. The views expressed are his own)",
+            "url": "https://in.reuters.com/article/us-oil-global-kemp-column-idINKBN27L26I",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540135883&r=LYNXMPEGA41AD&w=800",
+            "publishedAt": "2020-11-05T16:03:00Z",
+            "content": "(John Kemp is a Reuters market analyst. The views expressed are his own)\r\nFILE PHOTO: The sun is seen behind a crude oil pump jack in the Permian Basin in Loving County, Texas, U.S., November 22, 201\u2026 [+4373 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Bombardier profit misses as pandemic weighs on transportation unit, jet deliveries - Reuters India",
+            "description": "Plane and train maker Bombardier Inc missed estimates for third-quarter profit on Thursday, hurt by weak performance in its aviation and transportation units due to coronavirus-led disruptions.",
+            "url": "https://www.reuters.com/article/bombardier-results-idINL4N2HR2Z6",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-05T11:57:00Z",
+            "content": "By Reuters Staff\r\n(Compares with estimates, adds details on aviation unit)\r\nNov 5 (Reuters) - Plane and train maker Bombardier Inc missed estimates for third-quarter profit on Thursday, hurt by weak \u2026 [+1162 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Wizz Air says former CFO of British Airways-owner IAG joins board - Reuters UK",
+            "description": "Wizz Air <WIZZ.L> said the former chief financial officer of British Airways-owner IAG <ICAG.L> had joined its board, the latest sign of the Hungary-based low cost airline's bid to move into the top tier of European airlines.",
+            "url": "https://uk.reuters.com/article/us-wizz-air-moves-idUKKBN27L1JB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540107890&r=LYNXMPEGA40XL&w=800",
+            "publishedAt": "2020-11-05T12:10:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Wizz Air Airbus A320 at Luton Airport, Luton, Britain, May 1, 2020. REUTERS/Andrew Boyers\r\nLONDON (Reuters) - Wizz Air WIZZ.L said the former chief financial officer o\u2026 [+960 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa warns of further restructuring costs in fourth quarter - Reuters",
+            "description": "Lufthansa on Thursday said it booked a net loss of 2 billion euros ($2.35 billion) in the third quarter due to the pandemic-related slump in travelling and said further restructuring measures would weigh on fourth-quarter figures.",
+            "url": "https://www.reuters.com/article/lufthansa-results-idUSKBN27L0NW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540076345&r=LYNXMPEGA40EL&w=800",
+            "publishedAt": "2020-11-05T06:49:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Lufthansa planes are seen parked on the tarmac of Frankfurt Airport, Germany June 25, 2020. REUTERS/Kai Pfaffenbach/File Photo \r\nBERLIN (Reuters) - Lufthansa on Thursday\u2026 [+1317 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa warns of further restructuring costs in Q4 - Reuters",
+            "description": "Lufthansa on Thursday said it booked a net loss of 2 billion euros ($2.35 billion) in the third quarter due to the pandemic-related slump in travelling and announced further restructuring measures would weigh on fourth-quarter figures.",
+            "url": "https://www.reuters.com/article/lufthansa-results-idUSS8N28T040",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-05T06:14:00Z",
+            "content": "By Reuters Staff\r\nBERLIN, Nov 4 (Reuters) - Lufthansa on Thursday said it booked a net loss of 2 billion euros ($2.35 billion) in the third quarter due to the pandemic-related slump in travelling and\u2026 [+425 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Germany approves 5.4 billion euro purchase of 38 Eurofighter jets - source - Reuters UK",
+            "description": "The German parliament's budget committee approved a 5.4 billion euro (4.8 billion pounds) contract to buy 38 Eurofighter jets from Airbus <AIR.PA> for the country's air force on Thursday, a source said.",
+            "url": "https://www.reuters.com/article/uk-germany-defence-airbus-idUKKBN27L26E",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540136041&r=LYNXMPEGA41AG&w=800",
+            "publishedAt": "2020-11-05T16:03:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A logo of Airbus is seen at the entrance of its factory in Blagnac near Toulouse, France, July 2, 2020. REUTERS/Benoit Tessier/File Photo\r\nBERLIN (Reuters) - The German \u2026 [+605 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa warns of further restructuring costs in fourth-quarter - Reuters UK",
+            "description": "Lufthansa <LHAG.DE> on Thursday said it booked a net loss of 2 billion euros ($2.35 billion) in the third quarter due to the pandemic-related slump in travelling and announced further restructuring measures would weigh on fourth-quarter figures.",
+            "url": "https://uk.reuters.com/article/us-lufthansa-results-idUKKBN27L0KV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540073592&r=LYNXMPEGA40CW&w=800",
+            "publishedAt": "2020-11-05T06:14:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Lufthansa planes are seen parked on the tarmac of Frankfurt Airport, Germany June 25, 2020. REUTERS/Kai Pfaffenbach\r\nBERLIN (Reuters) - Lufthansa LHAG.DE on Thursday sai\u2026 [+576 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa warns of further restructuring costs in fourth quarter - Reuters Canada",
+            "description": "Lufthansa <LHAG.DE> on Thursday said it booked a net loss of 2 billion euros ($2.35 billion) in the third quarter due to the pandemic-related slump in travelling and announced further restructuring measures would weigh on fourth-quarter figures.",
+            "url": "https://ca.reuters.com/article/us-lufthansa-results-idCAKBN27L0KV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540073592&r=LYNXMPEGA40CW&w=800",
+            "publishedAt": "2020-11-05T06:18:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Lufthansa planes are seen parked on the tarmac of Frankfurt Airport, Germany June 25, 2020. REUTERS/Kai Pfaffenbach\r\nBERLIN (Reuters) - Lufthansa LHAG.DE on Thursday sai\u2026 [+576 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EasyJet says has not requested funding, after German state aid report - Reuters UK",
+            "description": "Britain's easyJet <EZJ.L> said it had not made a formal request for funding after business magazine Wirtschaftswoche reported that it was in talks with Germany about receiving state aid.",
+            "url": "https://www.reuters.com/article/uk-health-coronavirus-germany-easyjet-br-idUKKBN27L1MW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540110992&r=LYNXMPEGA40ZF&w=800",
+            "publishedAt": "2020-11-05T12:38:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Goldhofer pushback tractor of air services provider Swissport stands in front of an Airbus A319-112 of Easy Jet at Zurich Airport, Switzerland September 11, 2020. REUT\u2026 [+578 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "David Slotnick",
+            "title": "Solar-power could be key to making electric planes work at airports built for jet fuel-powered aircraft, says the CEO of an EV charging startup",
+            "description": "Summary List Placement\n\nEngineers designing electric aviation systems face all sorts of challenges. The most obvious of these include how to balance battery density and safety, and the likely answer is that the size, capacity, and range of the first electric \u2026",
+            "url": "https://www.businessinsider.com/solar-power-electric-airplane-flight-charging-airports-beam-global-2020-11",
+            "urlToImage": "https://i.insider.com/5fa42b3af7d1cb0019e39fe8?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T18:29:00Z",
+            "content": "Engineers designing electric aviation systems face all sorts of challenges. The most obvious of these include how to balance battery density and safety, and the likely answer is that the size, capaci\u2026 [+3902 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Solvay profit falls less than expected with Sept improvement - Reuters India",
+            "description": "Belgium's Solvay reported a smaller profit decline than expected in the third quarter as cost savings partly offset reduced shipments of its specialty chemicals and plastics, with an improvement in September.",
+            "url": "https://www.reuters.com/article/solvay-results-idINL8N2HQ6ZK",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-05T06:02:00Z",
+            "content": "By Reuters Staff\r\nBRUSSELS, Nov 5 (Reuters) - Belgiums Solvay reported a smaller profit decline than expected in the third quarter as cost savings partly offset reduced shipments of its specialty che\u2026 [+1679 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "In COVID-19 clampdown, China bars travellers from Britain, France, India - Reuters Canada",
+            "description": "China has barred non-Chinese travellers from Britain, France, Belgium, the Philippines and India, imposing some of the most stringent entry curbs of any country as coronavirus cases surge around the world.",
+            "url": "https://ca.reuters.com/article/us-health-coronavirus-china-travel-idCAKBN27L0FQ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540123528&r=LYNXMPEGA40BJ&w=800",
+            "publishedAt": "2020-11-05T14:19:00Z",
+            "content": "By Reuters Staff\r\nBEIJING (Reuters) - China has barred non-Chinese travellers from Britain, France, Belgium, the Philippines and India, imposing some of the most stringent entry curbs of any country \u2026 [+3413 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Boeing 747 Approaches End as Supplier Builds Final Jumbo Frames",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-05/boeing-747-approaches-end-as-supplier-builds-final-jumbo-frames",
+            "urlToImage": null,
+            "publishedAt": "2020-11-05T17:52:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "EU May Use Aviation as Pawn if Brexit Goes Wrong, U.S. Envoy Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-05/eu-may-use-aviation-as-pawn-if-brexit-goes-wrong-mulvaney-says",
+            "urlToImage": null,
+            "publishedAt": "2020-11-05T17:35:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Breakingviews columnists",
+            "title": "Breakingviews - Corona Capital: U.S. health insurers, UniCredit - Reuters",
+            "description": "Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-finance-breakingvi-idUSKBN27L27R",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540137634&r=LYNXMPEGA41B1&w=800",
+            "publishedAt": "2020-11-05T16:20:00Z",
+            "content": "NEW YORK/MILAN/LONDON/MELBOURNE (Reuters Breakingviews) - Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insight\u2026 [+6280 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jack Newsham and Yoonji Han",
+            "title": "The DOJ's antitrust lawsuit over Visa's $5 billion Plaid deal could put fintech M&A through a 'cold shower,' according to lawyers and fintech execs",
+            "description": "Summary List Placement\n\nThe Department of Justice has officially sued Visa to block its $5.3 billion acquisition of Plaid \u2014 and the fintech world is scrutinizing what this might mean for the industry.\nThe government filed its antitrust complaint in San Franci\u2026",
+            "url": "https://www.businessinsider.com/visa-plaid-antitrust-acquisition-fintech-justice-department-competition-data-lawsuit-2020-11",
+            "urlToImage": "https://i.insider.com/5fa46058f7d1cb0019e3a0fd?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T20:27:11Z",
+            "content": "The Department of Justice has officially sued Visa to block its $5.3 billion acquisition of Plaid \u2014 and the fintech world is scrutinizing what this might mean for the industry.\r\nThe government filed \u2026 [+7387 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Amazon launches its first Amazon Air regional hub in Europe",
+            "description": "Amazon has officially started operations at its first European Amazon Air hub, based out of the Leipzig/Halle Airport in Germany. The retail giants says that the new hub will generate more than 200 jobs locally in the Leipzig area, where it already employs ov\u2026",
+            "url": "http://techcrunch.com/2020/11/05/amazon-launches-its-first-amazon-air-regional-hub-in-europe/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/90-10.jpeg?w=764",
+            "publishedAt": "2020-11-05T18:32:57Z",
+            "content": "Amazon has officially started operations at its first European Amazon Air hub, based out of the Leipzig/Halle Airport in Germany. The new facility spans 20,000 square meters (65,600 square feet) and \u2026 [+1183 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Breakingviews columnists",
+            "title": "Breakingviews - Corona Capital: GM earnings, Third-quarter readout - Reuters India",
+            "description": "Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-finance-breakingvi-idINKBN27L2S8",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540169549&r=LYNXMPEGA41Q1&w=800",
+            "publishedAt": "2020-11-05T20:53:00Z",
+            "content": "NEW YORK/MILAN/LONDON/MELBOURNE (Reuters Breakingviews) - Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insight\u2026 [+8429 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Benjamin Weil",
+            "title": "How the U.S. Can Prevent Iran from Stationing ICBMs in Venezuela | Opinion",
+            "description": "If we want to prevent the next Cuban Missile Crisis, we must continue with the financial pressure on Iran and add diplomatic and intelligence layers to these efforts.",
+            "url": "https://www.newsweek.com/how-us-can-prevent-iran-stationing-icbms-venezuela-opinion-1544824",
+            "urlToImage": "https://d.newsweek.com/en/full/1664610/ayatollah.jpg",
+            "publishedAt": "2020-11-05T11:00:01Z",
+            "content": "Now that Election Day is behind us, the president will need to allocate more time towards addressing overseas developments. One such development is Iran's plan to smuggle ICBMs into Venezuela. Those \u2026 [+4614 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "Why Florida residents may soon be seeing jet-powered 'flying taxis'",
+            "description": "Florida is renowned for its strange news stories. Lilium Aviation, a five-year-old, Munich, Germany-based startup that designs and makes electric vertical take-off and landing jets, is reportedly seeking tax incentives from the city to build a 56,000-square-f\u2026",
+            "url": "https://techcrunch.com/2020/11/05/why-florida-residents-may-soon-be-seeing-jet-powered-flying-taxis/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/H.BT1kqPfzzdqrZyHfVCrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD05Njc-/https://s.yimg.com/uu/api/res/1.2/6mgG_Wy20gvjzHZ3X.wKcA--~B/aD0xMjY0O3c9MjYxNDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/c81b96da0f2eb8137d5c19b04ad45df3",
+            "publishedAt": "2020-11-05T22:36:20Z",
+            "content": "Florida is renowned for its strange news stories. In recent weeks alone, one resident reported an alligator in her garage that turned out to be a pool floatie; another discovered a python in her wash\u2026 [+2099 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Jennifer Yellin",
+            "title": "These 8 credit cards are currently offering 100,000 bonus points or more",
+            "description": "These credit card bonus offers alone can often earn you enough points or miles for a round-trip flight or a multi-night stay at the resort of your dreams \u2014 all just by being approved for a credit card with a strong offer and meeting the minimum spending requi\u2026",
+            "url": "https://www.cnn.com/2020/11/05/cnn-underscored/best-credit-card-signup-bonus-100k/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201105143948-underscored-woman-with-credit-card-and-cell-phone-super-169.jpg",
+            "publishedAt": "2020-11-05T21:02:37Z",
+            "content": "CNN Underscored reviews financial products such as credit cards and bank accounts based on their overall value, but does not review all financial companies or all available financial offers. We may r\u2026 [+18903 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dan Miller",
+            "title": "There are actually 2 personal Amex Gold cards \u2014 but only one of them offers bonus rewards on dining",
+            "description": "Summary List Placement\n\u00a0\n<ul>\n<li>Many of us are familiar with the iconic American Express\u00ae Gold Card\r\n, but did you know there's another version you can't apply for directly?</li>\n<li>The Platinum Card\u00ae from American Express\r\n has two options for adding auth\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/amex-gold-vs-amex-gold-authorized-user-card",
+            "urlToImage": "https://i.insider.com/5fa2d0a41df1d50018218cff?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T15:46:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+6386 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Jason Cipriani",
+            "title": "DJI's Mavic Mini 2 is official: 4K video, OcuSync controller, starts at $449",
+            "description": "Light, compact and equipped with 4k video, here are our first impressions of the brand new DJI Mavic Mini 2.",
+            "url": "https://www.cnn.com/2020/11/04/cnn-underscored/dji-mavic-mini-2-first-impressions/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201104175307-dji-mini2-lead-super-169.jpg",
+            "publishedAt": "2020-11-05T01:01:28Z",
+            "content": "DJI released the $399 Mavic Mini around this time last year. The 249-gram drone was a first for the company, with it falling just under the 250-gram weight limit before you have to register a drone w\u2026 [+3911 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Hannah Osborne",
+            "title": "Joe Biden Says U.S. Will Rejoin Paris Agreement on His First Day As President to Reverse Trump's Environmental Damage",
+            "description": "Should he win the presidency, Biden faces the mammoth task of rolling back around 100 environmental deregulations put in place by the Trump administration.",
+            "url": "https://www.newsweek.com/joe-biden-paris-agreement-rejoin-election-trump-1544405",
+            "urlToImage": "https://d.newsweek.com/en/full/1663547/joe-biden.jpg",
+            "publishedAt": "2020-11-05T10:25:38Z",
+            "content": "Joe Biden has said the U.S. will rejoin the Paris Climate Agreement on the same day he becomes president, should he win the election.\r\n\"Today, the Trump Administration officially left the Paris Clima\u2026 [+5298 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "Most people are wearing N95s incorrectly when they fly. Here are 3 reason you should switch to a different mask for travel.",
+            "description": "N95 masks have been billed as the gold standard to prevent the spread of coronavirus but one doctor says they can do more harm than good.",
+            "url": "https://www.businessinsider.com/why-you-shouldnt-wear-n95-mask-when-traveling-2020-11",
+            "urlToImage": "https://i.insider.com/5fa30f92f7d1cb0019e39d83?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T13:35:00Z",
+            "content": "As more airlines begin to ditch the blocking middle seat strategy, one standard remains clear across the board: face masks must be worn when flying.\r\nSince July, all major US require passengers to we\u2026 [+5836 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Abby Narishkin,Steve Cameron,Clayton Dyer)",
+            "title": "What it takes to be an air traffic controller at the world's busiest airport",
+            "description": "Air traffic controllers at Atlanta Hartsfield-Jackson International Airport, the world's busiest airport, direct 190,000 takeoffs and landings a year.",
+            "url": "https://www.businessinsider.com/what-it-takes-air-traffic-controller-at-worlds-busiest-airport-2020-11",
+            "urlToImage": "https://i.insider.com/5fa33cac1df1d50018218f76?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T23:31:00Z",
+            "content": "Following is a transcription of the video.\r\nPaul Stearns: All right, Delta 2452, continue. Juliet and Mike de Lima. Charlie, monitor the tower, 123.85.\r\nNarrator: 400 feet above Atlanta Hartsfield Ai\u2026 [+11114 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Abby Narishkin,Alexandra Appolonia)",
+            "title": "Inside a $4 million electric plane, the first full-size, all-electric passenger aircraft in the world",
+            "description": "Eviation's Alice is the world's first full-size, all-electric passenger plane. The nine-seater plane can fly regional routes emissions-free.",
+            "url": "https://www.businessinsider.com/inside-alice-first-full-size-passenger-electric-plane-eviation-2020-10",
+            "urlToImage": "https://i.insider.com/5f9c528e69331a0011bc667a?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T18:15:00Z",
+            "content": "Following is a transcript of the video.\r\nNarrator: This is the world's first full-sized, all-electric passenger plane. Her name is Alice. Now, she isn't the first attempt at an electric passenger pla\u2026 [+5290 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Breakingviews columnists",
+            "title": "Breakingviews - Corona Capital: Opera, Vaccines, Wine, Airlines",
+            "description": "Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-finance-breakingvi-idUSKBN27L1HH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540105683&r=LYNXMPEGA40WL&w=800",
+            "publishedAt": "2020-11-05T11:50:00Z",
+            "content": "MILAN/LONDON/MELBOURNE (Reuters Breakingviews) - Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.\r\nPeopl\u2026 [+4472 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Ellwood",
+            "title": "Duty-free shopping, luxury retail's money-making secret, has been upended by halted travel, and brands have been forced to get creative to keep airport sales up",
+            "description": "Summary List Placement\n\nBefore the pandemic, airport sales were luxury's secret weapon.\u00a0\nThey made up just 6% of the worldwide market but, crucially, they were accelerating faster than luxury consumption as a whole: A report from Bain consulting showed that a\u2026",
+            "url": "https://www.businessinsider.com/duty-free-shopping-luxury-retail-upended-pandemic-travel-airport-sales-2020-11",
+            "urlToImage": "https://i.insider.com/5fa417f91df1d50018219084?width=1200&format=jpeg",
+            "publishedAt": "2020-11-05T15:57:46Z",
+            "content": "Before the pandemic, airport sales were luxury's secret weapon.\u00a0\r\nThey made up just 6% of the worldwide market but, crucially, they were accelerating faster than luxury consumption as a whole: A repo\u2026 [+9205 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Ljunggren, Steve Scherer",
+            "title": "Exclusive: Canada eyeing loans for airlines that are 'running out of runway' - sources",
+            "description": "Canada is finally close to an aid package for airlines that will likely offer low-interest loans to carriers versus taking outright stakes, three sources say, eight months after the COVID-19 pandemic decimated air travel.",
+            "url": "https://ca.reuters.com/article/us-canada-politics-airlines-exclusive-idCAKBN27L2P8",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-05T19:39:38Z",
+            "content": "By David Ljunggren, Steve Scherer\r\nOTTAWA (Reuters) - Canada is finally close to an aid package for airlines that will likely offer low-interest loans to carriers versus taking outright stakes, three\u2026 [+3148 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Ljunggren, Steve Scherer",
+            "title": "Exclusive: Canada eyeing loans for airlines that are 'running out of runway' - sources",
+            "description": "Canada is finally close to an aid package for airlines that will likely offer low-interest loans to carriers versus taking outright stakes, three sources say, eight months after the COVID-19 pandemic decimated air travel.",
+            "url": "https://ca.reuters.com/article/us-canada-politics-airlines-exclusive-idCAKBN27L2P8",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540166187&r=LYNXMPEGA41OJ&w=800",
+            "publishedAt": "2020-11-05T19:57:54Z",
+            "content": "By David Ljunggren, Steve Scherer\r\nOTTAWA (Reuters) - Canada is finally close to an aid package for airlines that will likely offer low-interest loans to carriers versus taking outright stakes, three\u2026 [+3311 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Breakingviews columnists",
+            "title": "Breakingviews - Corona Capital: Opera, Vaccines, Wine, Airlines",
+            "description": "Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-finance-breakingvi-idUKKBN27L1HH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540105683&r=LYNXMPEGA40WL&w=800",
+            "publishedAt": "2020-11-05T11:50:00Z",
+            "content": "MILAN/LONDON/MELBOURNE (Reuters Breakingviews) - Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.\r\nPeopl\u2026 [+4472 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Bombardier profit misses as pandemic weighs on transportation unit, jet deliveries",
+            "description": "Plane and train maker Bombardier Inc missed estimates for third-quarter profit on Thursday, hurt by weak performance in its aviation and transportation units due to coronavirus-led disruptions.",
+            "url": "https://uk.reuters.com/article/us-bombardier-results-idUKKBN27L1CP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540102444&r=LYNXMPEGA40TE&w=800",
+            "publishedAt": "2020-11-05T11:56:56Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Bombardier's logo is seen on the building of the company's service centre at Biggin Hill, Britain March 5, 2018. REUTERS/Peter Nicholls\r\n(Reuters) - Plane and train make\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "In COVID clampdown, China bars travellers from Britain, France, India",
+            "description": "China has barred non-Chinese travellers from Britain, France, Belgium, the Philippines and India, imposing some of the most stringent entry curbs of any country as coronavirus cases surge around the world.",
+            "url": "https://www.reuters.com/article/health-coronavirus-china-travel-idUSKBN27L0DM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540116025&r=LYNXMPEGA4089&w=800",
+            "publishedAt": "2020-11-05T13:24:51Z",
+            "content": "By Reuters Staff\r\nBEIJING (Reuters) - China has barred non-Chinese travellers from Britain, France, Belgium, the Philippines and India, imposing some of the most stringent entry curbs of any country \u2026 [+3309 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "Why Florida residents may soon be seeing jet-powered \u2018flying taxis\u2019 \u2013 TechCrunch",
+            "description": "Florida is renowned for its strange news stories. In recent weeks alone, one resident reported an alligator in her garage that turned out to be a pool floatie; another discovered a python in her washing machine; and a horse needed to be pulled out of a septic\u2026",
+            "url": "http://techcrunch.com/2020/11/05/why-florida-residents-may-soon-be-seeing-jet-powered-flying-taxis/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-05-at-2.33.52-PM.png?w=764",
+            "publishedAt": "2020-11-05T22:36:28Z",
+            "content": "Florida is renowned for its strange news stories. In recent weeks alone, one resident reported an alligator in her garage that turned out to be a pool floatie; another discovered a python in her wash\u2026 [+2011 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Breakingviews columnists",
+            "title": "Breakingviews - Corona Capital: GM earnings, Third-quarter readout",
+            "description": "Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-finance-breakingvi-idUSKBN27L2S8",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540169549&r=LYNXMPEGA41Q1&w=800",
+            "publishedAt": "2020-11-05T20:48:27Z",
+            "content": "NEW YORK/MILAN/LONDON/MELBOURNE (Reuters Breakingviews) - Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insight\u2026 [+8429 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Mark Wilson",
+            "title": "DJI Mini 2 release date, price and everything we know about the new beginner drone",
+            "description": "The DJI Mini 2 has officially landed, but were the leaks about the new beginner drone all correct? Mostly, but not all of them.",
+            "url": "https://www.techradar.com/news/dji-mini-2-release-date-price-and-everything-we-know-about-the-new-beginner-drone",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gBA9eXGg3F4RZ6yrWCvB9V-1200-80.jpg",
+            "publishedAt": "2020-11-05T01:00:22Z",
+            "content": "The DJI Mini 2 has officially touched down to become one of the least surprising launches in tech history, following weeks of spectacular leaks and unboxings.\r\nThe successor to the DJI Mavic Mini, wh\u2026 [+9311 chars]"
+        }
+    ]
+}

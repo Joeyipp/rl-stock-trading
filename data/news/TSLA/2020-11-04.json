@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Jack Morse",
+            "title": "Verified 'Elon Musk' Twitter account celebrates election with crypto scam",
+            "description": "The 2020 U.S. presidential election may still be unresolved as of Wednesday morning, but \"Elon Musk\" wanted to celebrate! And, like so many countless times before, he decided the best way to do so was to give away scores of cryptocurrency via his Twitter acco\u2026",
+            "url": "https://mashable.com/article/elon-musk-twitter-cryptocurrency-scam-donald-trump-replies/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F04%252Faf%252Ff4f50776948645a3984ab833e1abb256.89f77.jpg%252F1200x630.jpg?signature=BRXMreuW4GELTNJx580vwu2DHsw=",
+            "publishedAt": "2020-11-04T18:52:12Z",
+            "content": "The 2020 U.S. presidential election may still be unresolved as of Wednesday morning, but \"Elon Musk\" wanted to celebrate! And, like so many countless times before, he decided the best way to do so wa\u2026 [+2453 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Engadget",
+            "title": "The Morning After: Twitter\u2019s election-night policies are put to the test",
+            "description": "The ballots aren\u2019t all counted yet, but predictably, the president\u2019s social media posts have already managed to cross a line with Twitter when it comes to including \u201cpotentially misleading\u201d information. Facebook and Instagram are including a label about the f\u2026",
+            "url": "https://www.engadget.com/the-morning-after-twitter-election-night-123031802.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4bd870f0-1e8d-11eb-bfbb-b6b95953700c&client=amp-blogside-v2&signature=96ac6e473ae1a39221d5cb146737c8804e345ee9",
+            "publishedAt": "2020-11-04T12:30:31Z",
+            "content": "The ballots aren\u2019t all counted yet, but predictably, the president\u2019s social media posts have already managed to cross a line with Twitter when it comes to including \u201cpotentially misleading\u201d informati\u2026 [+2177 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Massachusetts voters pass a right-to-repair measure, giving them unprecedented access to their car data",
+            "description": "A ballot measure passed by 75% of voters in Massachusetts has resolved a thorny question that could have widespread implications for the automotive industry: once a person buys a vehicle, they own all of its data. The measure, listed on the ballot as Question\u2026",
+            "url": "http://techcrunch.com/2020/11/04/massachusetts-voters-pass-a-right-to-repair-measure-giving-them-unprecedented-access-to-their-car-data/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1139628408.jpg?w=711",
+            "publishedAt": "2020-11-04T20:27:18Z",
+            "content": "A ballot measure passed by 75% of voters in Massachusetts has resolved a thorny question that could have widespread implications for the automotive industry: once a person buys a vehicle, they own al\u2026 [+4534 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Matousek",
+            "title": "One of Tesla's key suppliers is making the best electric-car battery cell on the market today, beating those made by Samsung and other rivals",
+            "description": "Summary List Placement\n\nThe auto industry is preparing for a surge of electric-vehicle production that some experts believe could underpin a major shift away from gas-powered cars in the coming decades.\nOne of the most important choices automakers will face w\u2026",
+            "url": "https://www.businessinsider.com/tesla-best-electric-car-battery-ubs-panasonic-lg-chem-catl-2020-10",
+            "urlToImage": "https://i.insider.com/5f9879a40c60aa00190d4a74?width=1200&format=jpeg",
+            "publishedAt": "2020-11-04T13:04:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "Elon Musk: Tesla was month away from bankruptcy",
+            "description": "Tesla has become the most valuable and (by some measures) the most profitable automaker in the world, But a short while ago it nearly toppled into bankruptcy.",
+            "url": "https://www.cnn.com/2020/11/04/tech/elon-musk-tesla-once-got-near-bankruptcy/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201104131225-01-elon-musk-0903-super-tease.jpg",
+            "publishedAt": "2020-11-04T18:55:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Grace Dean)",
+            "title": "Elon Musk says Tesla was just a month away from bankruptcy while it ramped up production of the Model 3",
+            "description": "Tesla's CEO Elon Musk says ramping up the Model 3 in 2017, 2018, and 2019 was \"production and logistics hell.\"",
+            "url": "https://www.businessinsider.com/elon-musk-tesla-bankruptcy-model-3-electric-vehicle-ev-production-2020-11",
+            "urlToImage": "https://i.insider.com/5fa27f3869331a0011bc72ee?width=1200&format=jpeg",
+            "publishedAt": "2020-11-04T11:58:47Z",
+            "content": "Electric-car manufacturer Tesla barely survived ramping up production of its Model 3 vehicle in 2017, 2018, and 2019, its CEO Elon Musk tweeted Tuesday.\r\nAt one point, Tesla was just one month from b\u2026 [+1569 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "SpaceX's Starlink internet speeds are consistently topping 150 Mbps \u2014 now, Elon Musk says the biggest challenge is slashing the $600 upfront cost for users",
+            "description": "Starlink public beta users are recording speeds as high as 200 Mbps \u2014 now, SpaceX's biggest challenge is making it more affordable, Elon Musk said.",
+            "url": "https://www.businessinsider.com/starlink-public-beta-speed-cost-subscription-elon-musk-2020-11",
+            "urlToImage": "https://i.insider.com/5fa2788169331a0011bc72e6?width=1200&format=jpeg",
+            "publishedAt": "2020-11-04T11:05:26Z",
+            "content": "The public beta for SpaceX's Starlink satellite internet is consistently topping speeds of 150 megabits per second (Mbps), faster than SpaceX promised \u2014 and now the biggest technical challenge is mak\u2026 [+2419 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Seren Morris",
+            "title": "Electoral College System Sparks Memes From Confused Non-Americans",
+            "description": "Though a key part of the U.S. election process, the electoral college system has some international Twitter users stumped.",
+            "url": "https://www.newsweek.com/electoral-college-system-confused-memes-non-americans-1544769",
+            "urlToImage": "https://d.newsweek.com/en/full/1664474/electoral-college-map.jpg",
+            "publishedAt": "2020-11-04T14:36:03Z",
+            "content": "As results continue to roll in, non-Americans have taken to sharing memes on social media to express their confusion at the electoral college system.\r\nPresident Donald Trump and former Vice President\u2026 [+3984 chars]"
+        }
+    ]
+}

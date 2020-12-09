@@ -1,0 +1,955 @@
+{
+    "status": "ok",
+    "totalResults": 73,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Conor Humphries, Tracy Rucinski",
+            "title": "Large Boeing 737 MAX customers signal caution on orders amid COVID-19 - Reuters UK",
+            "description": "A day after Boeing Co <BA.N> received approval for its 737 MAX to fly again following a 20-month grounding, its two largest U.S. and European customers signaled caution on their order books as they monitor demand in the midst of the coronavirus pandemic.",
+            "url": "https://uk.reuters.com/article/us-boeing-737max-southwest-idUKKBN27Z29Z",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541781053&r=LYNXMPEGAI1BC&w=800",
+            "publishedAt": "2020-11-19T21:12:22Z",
+            "content": "DUBLIN/CHICAGO (Reuters) - A day after Boeing Co BA.N received approval for its 737 MAX to fly again following a 20-month grounding, its two largest U.S. and European customers signaled caution on th\u2026 [+1934 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Augustinus Beo Da Costa, Bernadette Christina",
+            "title": "'Too soon' to let Boeing 737 MAX fly again, say families of Lion Air crash victims - Reuters UK",
+            "description": "Some of the relatives of victims of a fatal Boeing 737 MAX crash in Indonesia have slammed a decision by U.S. aviation authorities to allow the jets to return to the skies, saying the move comes too soon.",
+            "url": "https://www.reuters.com/article/us-boeing-737max-indonesia-families-idUKKBN27Z0TR",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541733300&r=LYNXMPEGAI0GB&w=800",
+            "publishedAt": "2020-11-19T07:58:00Z",
+            "content": "JAKARTA (Reuters) - Some of the relatives of victims of a fatal Boeing 737 MAX crash in Indonesia have slammed a decision by U.S. aviation authorities to allow the jets to return to the skies, saying\u2026 [+2942 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed, Allison Lampert",
+            "title": "Analysis: As regulators prepare to weigh in on 737 MAX, FAA's global dominance fades - Reuters",
+            "description": "Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-month grounding, highlighting changes in the global regulatory pecking order caused by two crashes of the jet.",
+            "url": "https://www.reuters.com/article/us-boeing-737max-regulators-analysis-idUSKBN27Z0HN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541717546&r=LYNXMPEGAI09C&w=800",
+            "publishedAt": "2020-11-19T05:27:00Z",
+            "content": "SYDNEY/MONTREAL (Reuters) - Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-month grounding, highlighting chang\u2026 [+4582 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed, Allison Lampert",
+            "title": "Analysis: As regulators prepare to weigh in on 737 MAX, FAA's global dominance fades - Reuters",
+            "description": "Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-month grounding, highlighting changes in the global regulatory pecking order caused by two crashes of the jet.",
+            "url": "https://www.reuters.com/article/boeing-737max-regulators-analysis-int-idUSKBN27Z0JY",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541720010&r=LYNXMPEGAI0AP&w=800",
+            "publishedAt": "2020-11-19T06:05:00Z",
+            "content": "SYDNEY/MONTREAL (Reuters) - Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-month grounding, highlighting chang\u2026 [+4582 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed, Allison Lampert",
+            "title": "Analysis: As regulators prepare to weigh in on 737 MAX, FAA's global dominance fades - Reuters India",
+            "description": "Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-month grounding, highlighting changes in the global regulatory pecking order caused by two crashes of the jet.",
+            "url": "https://in.reuters.com/article/boeing-737max-regulators-analysis-idINKBN27Z1V6",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541765042&r=LYNXMPEGAI11T&w=800",
+            "publishedAt": "2020-11-19T13:29:00Z",
+            "content": "SYDNEY/MONTREAL (Reuters) - Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-month grounding, highlighting chang\u2026 [+4592 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "Southwest deploys team to bring 737 MAX jets out of desert - Reuters Africa",
+            "description": "Southwest Airlines <LUV.N> has sent a team of mechanics to Victorville, California to start the long process of bringing its 34 Boeing 737 MAX jets out of their desert hibernation, after the planes' permission to fly was restored.",
+            "url": "https://www.reuters.com/article/us-boeing-737max-southwest-idUSKBN27Z29Z",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541780734&r=LYNXMPEGAI1BC&w=800",
+            "publishedAt": "2020-11-19T15:34:00Z",
+            "content": "FILE PHOTO: grounded Southwest Airlines Boeing 737 MAX 8 aircraft are shown parked at Victorville Airport in Victorville, California, U.S., March 26, 2019. REUTERS/Mike Blake\r\nCHICAGO (Reuters) - Sou\u2026 [+2043 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "Southwest prepares 737 MAX jets' return from desert, says some customers wary - Reuters India",
+            "description": "Southwest Airlines has sent a team of mechanics to Victorville, California, to start the long process of bringing its 34 Boeing 737 MAX jets out of their desert hibernation, after the planes' permission to fly was restored.",
+            "url": "https://in.reuters.com/article/boeing-737max-southwest-idINKBN27Z2LS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541795503&r=LYNXMPEGAI1JF&w=800",
+            "publishedAt": "2020-11-19T17:24:00Z",
+            "content": "CHICAGO (Reuters) - Southwest Airlines has sent a team of mechanics to Victorville, California, to start the long process of bringing its 34 Boeing 737 MAX jets out of their desert hibernation, after\u2026 [+2072 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson, Tracy Rucinski",
+            "title": "U.S. airline CEOs renew request for more aid in letter to Congress - Reuters India",
+            "description": "The chief executives of the seven largest U.S. airlines made a fresh plea for more payroll relief before the end of the year and pointed to the challenges of distributing a COVID-19 vaccine in a letter to Congressional leaders on Wednesday.",
+            "url": "https://in.reuters.com/article/health-coronavirus-usa-airlines-idINKBN27Z0CS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541712580&r=LYNXMPEGAI062&w=800",
+            "publishedAt": "2020-11-19T04:09:00Z",
+            "content": "WASHINGTON/CHICAGO (Reuters) - The chief executives of the seven largest U.S. airlines made a fresh plea for more payroll relief before the end of the year and pointed to the challenges of distributi\u2026 [+1940 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Ryanair says it is not looking to order more MAX jets at the moment - Reuters",
+            "description": "Ryanair is not looking to order additional 737 MAX jets from Boeing at the moment but does expect opportunities to acquire cheap aircraft to appear at some stage, a senior executive said on Thursday.",
+            "url": "https://www.reuters.com/article/boeing-737max-ryanair-idUSS8N2HC0AJ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T17:56:00Z",
+            "content": "By Reuters Staff\r\nDUBLIN, Nov 19 (Reuters) - Ryanair is not looking to order additional 737 MAX jets from Boeing at the moment but does expect opportunities to acquire cheap aircraft to appear at som\u2026 [+553 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Ryanair says it is not looking to order more MAX jets at the moment - Reuters UK",
+            "description": "Ryanair <RYA.I> is not looking to order additional 737 MAX jets from Boeing <BA.N> at the moment but does expect opportunities to acquire cheap aircraft to appear at some stage, a senior executive said on Thursday.",
+            "url": "https://www.reuters.com/article/uk-boeing-737max-ryanair-idUKKBN27Z2Q2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541798934&r=LYNXMPEGAI1LL&w=800",
+            "publishedAt": "2020-11-19T17:54:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Ryanair planes are seen at Dublin Airport, following the outbreak of the coronavirus disease (COVID-19), Dublin, Ireland, May 1, 2020. REUTERS/Jason Cairnduff\r\nDUBLIN (R\u2026 [+673 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Asiana's creditor bank calls for support for Korean Air takeover plan - Reuters",
+            "description": "Asiana Airline's <020560.KS> lead creditor bank called for backing for Korean Air's <003490.KS> takeover of the debt-ridden Korean carrier on Thursday in the face of opposition to the plan from some shareholders.",
+            "url": "https://www.reuters.com/article/uk-asiana-airlines-m-a-korean-air-idUSKBN27Z106",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541734539&r=LYNXMPEGAI0J6&w=800",
+            "publishedAt": "2020-11-19T08:55:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Korean Airlines is seen on a B787-9 plane at its aviation shed in Incheon, South Korea, February 27, 2017. REUTERS/Kim Hong-Ji/File Photo\r\nSEOUL (Reuters) - \u2026 [+1828 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Israel's El Al Airlines, UAE's Etihad explore joint codeshares - Reuters",
+            "description": "El Al Israel Airlines <ELAL.TA> and Etihad Airways, the United Arab Emirates' national airline, said on Thursday they signed a deal to explore deeper cooperation such as joint codeshares between Abu Dhabi and Tel Aviv and other destinations.",
+            "url": "https://www.reuters.com/article/el-al-arlns-etihad-int-idUSKBN27Z1YL",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541770095&r=LYNXMPEGAI14X&w=800",
+            "publishedAt": "2020-11-19T13:56:00Z",
+            "content": "By Reuters Staff\r\nJERUSALEM (Reuters) - El Al Israel Airlines ELAL.TA and Etihad Airways, the United Arab Emirates' national airline, said on Thursday they signed a deal to explore deeper cooperation\u2026 [+1473 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson, Tracy Rucinski",
+            "title": "U.S. airline CEOs renew request for more aid in letter to Congress - Reuters",
+            "description": "The chief executives of the seven largest U.S. airlines made a fresh plea for more payroll relief before the end of the year and pointed to the challenges of distributing a COVID-19 vaccine in a letter to Congressional leaders on Wednesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-airlines-idUSKBN27Z093",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541706710&r=LYNXMPEGAI03R&w=800",
+            "publishedAt": "2020-11-19T02:37:00Z",
+            "content": "WASHINGTON/CHICAGO (Reuters) - The chief executives of the seven largest U.S. airlines made a fresh plea for more payroll relief before the end of the year and pointed to the challenges of distributi\u2026 [+1977 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Asif Shahzad",
+            "title": "Technical faults caused 2016 Pakistan plane crash, says final report - Reuters India",
+            "description": "A final investigation into a 2016 air crash in Pakistan found that three technical faults caused the accident that killed all 47 on board, the country's civil aviation authority said on Thursday.",
+            "url": "https://in.reuters.com/article/pakistan-aircrash-investigation-idINKBN27Z1RC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541762483&r=LYNXMPEGAI106&w=800",
+            "publishedAt": "2020-11-19T13:09:00Z",
+            "content": "ISLAMABAD (Reuters) - A final investigation into a 2016 air crash in Pakistan found that three technical faults caused the accident that killed all 47 on board, the countrys civil aviation authority \u2026 [+1880 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Asif Shahzad",
+            "title": "Technical faults caused 2016 Pakistan plane crash, says final report - Reuters India",
+            "description": "A final investigation into a 2016 air crash in Pakistan found that three technical faults caused the accident that killed all 47 on board, the country's civil aviation authority said on Thursday.",
+            "url": "https://www.reuters.com/article/pakistan-aircrash-investigation-idINKBN27Z1RC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541762483&r=LYNXMPEGAI106&w=800",
+            "publishedAt": "2020-11-19T13:09:00Z",
+            "content": "ISLAMABAD (Reuters) - A final investigation into a 2016 air crash in Pakistan found that three technical faults caused the accident that killed all 47 on board, the countrys civil aviation authority \u2026 [+1880 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UK aviation regulator says working hard to mitigate Brexit risks - Reuters India",
+            "description": "Britain's Civil Aviation Authority said on Thursday it was working hard to mitigate the risks faced by the country's aviation industry once the Brexit transition period with the European Union ends at the end of this year.",
+            "url": "https://www.reuters.com/article/us-britain-eu-aviation-idINKBN27Z2PU",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T17:54:00Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - Britains Civil Aviation Authority said on Thursday it was working hard to mitigate the risks faced by the countrys aviation industry once the Brexit transition pe\u2026 [+440 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UK aviation regulator says working hard to mitigate Brexit risks - Reuters",
+            "description": "Britain's Civil Aviation Authority said on Thursday it was working hard to mitigate the risks faced by the country's aviation industry once the Brexit transition period with the European Union ends at the end of this year.",
+            "url": "https://www.reuters.com/article/us-britain-eu-aviation-idUSKBN27Z2PU",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T17:51:00Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - Britains Civil Aviation Authority said on Thursday it was working hard to mitigate the risks faced by the countrys aviation industry once the Brexit transition pe\u2026 [+440 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UK aviation regulator says working hard to mitigate Brexit risks - Reuters UK",
+            "description": "Britain's Civil Aviation Authority said on Thursday it was working hard to mitigate the risks faced by the country's aviation industry once the Brexit transition period with the European Union ends at the end of this year.",
+            "url": "https://www.reuters.com/article/uk-britain-eu-aviation-idUKKBN27Z2PS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541798588&r=LYNXMPEGAI1LG&w=800",
+            "publishedAt": "2020-11-19T17:52:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Britain's Chief of the Air Staff, Stephen Hillier, speaks at the Farnborough Airshow, in Farnborough, Britain July 16, 2018. REUTERS/Peter Nicholls\r\nLONDON (Reuters) - B\u2026 [+601 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Airline Garuda Indonesia posts net loss of $1.07 bln in Jan-Sep 2020 - Reuters",
+            "description": "Airline PT Garuda Indonesia posted a net loss of $1.07 billion for the January-September period this year, a company filing to the stock exchange showed, as the coronavirus outbreak battered the global travel industry.",
+            "url": "https://www.reuters.com/article/garuda-indonesia-results-idUSJ9N2FT012",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T03:14:00Z",
+            "content": "By Reuters Staff\r\nJAKARTA, Nov 19 (Reuters) - Airline PT Garuda Indonesia posted a net loss of $1.07 billion for the January-September period this year, a company filing to the stock exchange showed,\u2026 [+246 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Maria Chutchian",
+            "title": "IN BRIEF: Boeing supplier Impresa faces sale pushback from creditors - Reuters",
+            "description": "Junior creditors of Boeing supplier Impresa Aerospace have objected to the proposed sale of the company\u2019s assets to private equity firm Twin Haven Capital Partners, which is already Impresa\u2019s majority owner and lender.",
+            "url": "https://www.reuters.com/article/bankruptcy-impresa-idUSL1N2I5339",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T23:17:00Z",
+            "content": "Junior creditors of Boeing supplier Impresa Aerospace have objected to the proposed sale of the companys assets to private equity firm Twin Haven Capital Partners, which is already Impresas majority \u2026 [+480 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "AirAsia X losses mount; Norwegian seeks shelter - Reuters",
+            "description": "AirAsia X says its losses are mounting, with implementation of a restructuring plan seek key to survival. The news comes a day after fellow budget airline Norwegian Air said it had filed for bankruptcy protection.",
+            "url": "https://www.reuters.com/video/watch/idP7u0?now=true",
+            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/5fb6861de4b04f7ff7c2c992-1605797405642?location=LANDSCAPE",
+            "publishedAt": "2020-11-19T15:55:45Z",
+            "content": "Posted \r\nAirAsia X says its losses are mounting, with implementation of a restructuring plan seek key to survival. The news comes a day after fellow budget airline Norwegian Air said it had filed for\u2026 [+22 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Jet2 sinks to a half-year loss, cautious on next summer - Reuters UK",
+            "description": "British holiday and airline group Jet2 <JET2.L> said the pandemic had pushed it into a 111 million pound loss in the six months ended September, as it forecast an uncertain winter and said it remained cautious about next summer.",
+            "url": "https://uk.reuters.com/article/uk-jet2-results-idUKKBN27Z0S8",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541727901&r=LYNXMPEGAI0FB&w=800",
+            "publishedAt": "2020-11-19T07:42:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Jet2 planes are seen parked at Birmingham airport as the spread of the coronavirus disease (COVID-19) continues, Birmingham, Britain, March 28, 2020. REUTERS/Phil Noble\r\u2026 [+670 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Jet2 sinks to a half-year loss, cautious on next summer - Reuters UK",
+            "description": "British holiday and airline group Jet2 <JET2.L> said the pandemic had pushed it into a 111 million pound loss in the six months ended September, as it forecast an uncertain winter and said it remained cautious about next summer.",
+            "url": "https://www.reuters.com/article/uk-jet2-results-idUKKBN27Z0S8",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541727901&r=LYNXMPEGAI0FB&w=800",
+            "publishedAt": "2020-11-19T07:42:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Jet2 planes are seen parked at Birmingham airport as the spread of the coronavirus disease (COVID-19) continues, Birmingham, Britain, March 28, 2020. REUTERS/Phil Noble\r\u2026 [+670 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "United Airlines says cancellations are rising due to spiking COVID-19 cases - Reuters",
+            "description": "United Airlines <UAL.O> said on Thursday it has seen an uptick in cancellations and a decrease in bookings for the week ended Nov. 18, due to a recent spike in COVID-19 cases in the United States.",
+            "url": "https://www.reuters.com/article/us-united-arlns-outlook-idUSKBN27Z1S5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541761240&r=LYNXMPEGAI0ZQ&w=800",
+            "publishedAt": "2020-11-19T13:04:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A United Airlines passenger jet taxis at Newark Liberty International Airport, New Jersey, U.S. December 6, 2019. REUTERS/Chris Helgren\r\n(Reuters) - United Airlines UAL.\u2026 [+330 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hannah Freedman",
+            "title": "TravelPro's expandable carry-on is one of the best soft-sided suitcases on the market today \u2014 here's why",
+            "description": "Summary List Placement\n<ul>\n<li>The TravelPro Platinum Elite Expandable Carry-On\u00a0is one of the best soft-sided suitcases on the market.</li>\n<li>It easily fits a week's worth of clothes and even has the option to expand up to two full inches.</li>\n<li>This su\u2026",
+            "url": "https://www.businessinsider.com/travelpro-platinum-elite-expandable-carry-on-review",
+            "urlToImage": "https://i.insider.com/5fb57c1950e71a001155602c?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T19:40:59Z",
+            "content": "When you buy through our links, we may earn money from our affiliate partners. Learn more.\r\nAs a travel editor, I've tested myriad carry-ons over the years, including for our guide to the best carry-\u2026 [+7158 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Gulfstream president sees Q4 deliveries as planned despite global COVID-19 surge - Reuters",
+            "description": "Gulfstream Aerospace's president said on Thursday he believes the company's ability to deliver business jets during the fourth quarter seems unimpeded by the novel coronavirus, even as cases surge globally.",
+            "url": "https://www.reuters.com/article/us-aerospace-business-jets-idUSKBN27Z2NT",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541796354&r=LYNXMPEGAI1K7&w=800",
+            "publishedAt": "2020-11-19T17:32:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Gulfstream Aerospace Corp. President Mark Burns speaks during the unveiling of the company's new G700 business jet during a news conference at the National Business Avia\u2026 [+667 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Sarah Elizabeth Richards",
+            "title": "One Man\u2019s Search for the DNA Data That Could Save His Life",
+            "description": "The genetic correlations that could help Bryce Olson find a drug that works against his cancer are a scattered mess. Why don\u2019t we have a better system for analyzing this kind of information?",
+            "url": "https://www.wired.com/story/one-mans-search-for-dna-data-that-could-save-his-life/",
+            "urlToImage": "https://media.wired.com/photos/5fb56e6080c372e180a889a1/191:100/w_1280,c_limit/BC-Cancer-DNA-3415_FX2_2.jpg",
+            "publishedAt": "2020-11-19T12:00:00Z",
+            "content": "Thats not to mention the exploding amount of new genetic information these tests are pumping out, which researchers are racing to interpret and make sense of. Theyre encountering what are called vari\u2026 [+3634 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Delta to test touchless curbside check-in at Detroit airport - Reuters",
+            "description": "Delta Air Lines said on Thursday it will begin testing touchless curbside check-ins next month at Detroit Metropolitan Wayne County Airport, the latest example of how the coronavirus pandemic is changing the travel experience.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-delta-air-idUSKBN27Z31Z",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541816374&r=LYNXMPEGAI1SZ&w=800",
+            "publishedAt": "2020-11-19T21:00:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A passenger leaves a Delta Airlines counter after checking in for a flight at Reagan National airport in Washington, U.S. April 29, 2020. REUTERS/Kevin Lamarque/File Pho\u2026 [+701 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia's AirAsia X posts larger loss as revenue hit by virus curbs - Reuters India",
+            "description": "Long-haul carrier AirAsia X Bhd posted on Thursday a wider quarterly loss on reduced revenue, hit by coronavirus travel curbs, and added it was keeping up restructuring efforts key to its ability to raise new funding and survive.",
+            "url": "https://in.reuters.com/article/airasia-x-results-idINKBN27Z2G5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541786710&r=LYNXMPEGAI1EP&w=800",
+            "publishedAt": "2020-11-19T16:14:00Z",
+            "content": "By Reuters Staff\r\nKUALA LUMPUR (Reuters) - Long-haul carrier AirAsia X Bhd posted on Thursday a wider quarterly loss on reduced revenue, hit by coronavirus travel curbs, and added it was keeping up r\u2026 [+1186 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theo Golden",
+            "title": "Deutsche Bank says you need to own these 6 stocks poised to surge as vaccine progress spurs an economic recovery \u2014 including one that could rally by 83%",
+            "description": "Summary List Placement\n\nThree vaccine frontrunners announced promising updates in the past two weeks, with markets rallying in relief that a return to normality might be closer than anticipated. This shift has unleashed one of the biggest rotations out of gro\u2026",
+            "url": "https://www.businessinsider.com/stock-picks-to-buy-rotation-value-deutsche-2020-11",
+            "urlToImage": "https://i.insider.com/5fa150021df1d500182187f2?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T14:21:30Z",
+            "content": "Three vaccine frontrunners announced promising updates in the past two weeks, with markets rallying in relief that a return to normality might be closer than anticipated. This shift has unleashed one\u2026 [+1214 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dave Levinthal",
+            "title": "Big corporations like BofA, Ford, and UPS want to bankroll Biden's inauguration. But the president-elect won't say yet whether he'll take their money.",
+            "description": "Summary List Placement\n\nFrom the earliest days of his campaign, President-elect Joe Biden has sniped at special interests itching to influence politics with their money.\u00a0\n\"Our Constitution didn't begin with the phrase, 'We the Democrats,' or 'We the Republica\u2026",
+            "url": "https://www.businessinsider.com/biden-inauguration-inaugural-ceremony-2021-president-corporations-covid19-2020-11",
+            "urlToImage": "https://i.insider.com/5fb6dd8132f2170011f7028b?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T21:21:06Z",
+            "content": "From the earliest days of his campaign, President-elect Joe Biden has sniped at special interests itching to influence politics with their money.\u00a0\r\n\"Our Constitution didn't begin with the phrase, 'We\u2026 [+11408 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Rebecca Spalding, Manojna Maddipatla",
+            "title": "CDC recommends Americans don't travel for Thanksgiving - Reuters.com",
+            "description": "The U.S. Centers for Disease Control and Prevention said it recommends Americans do not travel during the Thanksgiving holiday next week to mitigate the spread of COVID-19 as cases of the virus spike around the country.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-cdc-thanksgiving-idUSKBN27Z2LB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541796045&r=LYNXMPEGAI1IN&w=800",
+            "publishedAt": "2020-11-19T17:10:00Z",
+            "content": "FILE PHOTO: A general view of the Centers for Disease Control and Prevention (CDC) headquarters in Atlanta, Georgia September 30, 2014. REUTERS/Tami Chappell \r\n(Reuters) - The U.S. Centers for Diseas\u2026 [+1202 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Delta to roll out touchless curb-to-gate domestic check-in - Reuters India",
+            "description": "Delta Air Lines said on Thursday it will begin testing touchless check-ins for domestic flights next month at Detroit Metropolitan Wayne County Airport, the latest example of how the coronavirus pandemic is changing the travel experience.",
+            "url": "https://in.reuters.com/article/health-coronavirus-delta-air-idINL1N2I531N",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T23:19:00Z",
+            "content": "By Reuters Staff\r\n(Adds details on facial recognition technology)\r\nCHICAGO, Nov 19 (Reuters) - Delta Air Lines said on Thursday it will begin testing touchless check-ins for domestic flights next mon\u2026 [+1134 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Rebecca Spalding, Manojna Maddipatla",
+            "title": "U.S. disease experts recommend Americans don't travel for Thanksgiving - Reuters",
+            "description": "The U.S. Centers for Disease Control and Prevention said it recommends Americans do not travel during the Thanksgiving holiday next week to mitigate the spread of COVID-19 as cases of the virus spike around the country.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-cdc-thanksgiving-idUSKBN27Z2LB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541796045&r=LYNXMPEGAI1IN&w=800",
+            "publishedAt": "2020-11-19T17:10:00Z",
+            "content": "FILE PHOTO: A general view of the Centers for Disease Control and Prevention (CDC) headquarters in Atlanta, Georgia September 30, 2014. REUTERS/Tami Chappell \r\n(Reuters) - The U.S. Centers for Diseas\u2026 [+1202 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Karen Braun",
+            "title": "Column: U.S. ethanol recovery threatened by rising virus restrictions - Reuters UK",
+            "description": "U.S. ethanol production, a main source of demand for domestic corn, has been unusually light ever since March, when the coronavirus pandemic sharply curbed global fuel consumption.",
+            "url": "https://uk.reuters.com/article/us-usa-ethanol-braun-idUKKBN27Z18J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541743107&r=LYNXMPEGAI0N9&w=800",
+            "publishedAt": "2020-11-19T10:17:00Z",
+            "content": "FORT COLLINS, Colo. (Reuters) - U.S. ethanol production, a main source of demand for domestic corn, has been unusually light ever since March, when the coronavirus pandemic sharply curbed global fuel\u2026 [+4020 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Pilot's Mother Criticizes FAA, Boeing for Rushing Max's Comeback",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-19/pilot-s-mother-criticizes-faa-boeing-for-rushing-max-s-comeback",
+            "urlToImage": null,
+            "publishedAt": "2020-11-19T08:21:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Boeing 737 Max Clearance by FAA Significant, Jefferies' Kahyaoglu Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-11-19/boeing-737-max-clearance-by-faa-significant-jefferies-kahyaoglu-says-video",
+            "urlToImage": null,
+            "publishedAt": "2020-11-19T00:08:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Morning News Call - India, November 19 - Reuters India",
+            "description": "To access a PDF version of this newsletter, please click here https://share.refinitiv.com/assets/newsletters/Indiamorning/MNC_IN_11192020.pdf If you would like to receive this newsletter via email, please register at: https://solutions.refinitiv.com/MNCIndiaS\u2026",
+            "url": "https://in.reuters.com/article/india-morningcall-idINL4N2I50JH",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T03:13:00Z",
+            "content": "By Reuters Staff\r\nTo access a PDF version of this newsletter, please click here here\r\nIf you would like to receive this newsletter via email, please register at:\r\nhere\r\nFACTORS TO WATCH\r\n 11:00 am: M\u2026 [+5421 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "U.S. Airlines Warn of Weakening Demand Ahead of Holiday Travel",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-19/u-s-airlines-warn-of-weakening-demand-ahead-of-holiday-travel",
+            "urlToImage": null,
+            "publishedAt": "2020-11-19T18:41:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "American Airlines Scraps Change Fees for Some Overseas Trips",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-19/american-airlines-scraps-change-fees-for-some-overseas-trips",
+            "urlToImage": null,
+            "publishedAt": "2020-11-19T20:36:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Kemp",
+            "title": "Oil prices anticipate tight market by mid-2021: Kemp - Reuters UK",
+            "description": "(John Kemp is a Reuters market analyst. The views expressed are his own)",
+            "url": "https://www.reuters.com/article/us-oil-global-kemp-column-idUKKBN27Z2EV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541785093&r=LYNXMPEGAI1E9&w=800",
+            "publishedAt": "2020-11-19T16:03:00Z",
+            "content": "(John Kemp is a Reuters market analyst. The views expressed are his own)\r\nFILE PHOTO: The sun sets behind a crude oil pump jack on a drill pad in the Permian Basin in Loving County, Texas, U.S. Novem\u2026 [+4867 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Kemp",
+            "title": "Oil prices anticipate tight market by mid-2021: Kemp - Reuters UK",
+            "description": "(John Kemp is a Reuters market analyst. The views expressed are his own)",
+            "url": "https://uk.reuters.com/article/us-oil-global-kemp-column-idUKKBN27Z2EV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541785093&r=LYNXMPEGAI1E9&w=800",
+            "publishedAt": "2020-11-19T16:03:00Z",
+            "content": "(John Kemp is a Reuters market analyst. The views expressed are his own)\r\nFILE PHOTO: The sun sets behind a crude oil pump jack on a drill pad in the Permian Basin in Loving County, Texas, U.S. Novem\u2026 [+4867 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Alana Abramson",
+            "title": "Unemployment Is Rising. COVID-19 Cases Are Spiking. And the Senate Just Went on Vacation.",
+            "description": "This article is part of the The DC Brief, TIME\u2019s politics newsletter. Sign up here to get stories like this sent to your inbox every weekday. Unemployment claims are rising, coronavirus cases are spiking, the nation\u2019s biggest school systems are closing\u2026and th\u2026",
+            "url": "https://time.com/5913934/stalled-covid-relief-bill/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/11/GettyImages-1229683136.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2020-11-19T17:58:54Z",
+            "content": "This article is part of the The DC Brief, TIME\u2019s politics newsletter. Sign up here to get stories like this sent to your inbox every weekday.\r\nUnemployment claims are rising, coronavirus cases are sp\u2026 [+2966 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jen Glantz",
+            "title": "These are the 5 ways I'm using credit card rewards to pay for every single holiday gift I buy this year",
+            "description": "Summary List Placement\n\u00a0\n<ul>\n<li>To save money, there are ways to use credit card rewards to pay for holiday gifts instead of spending cash.</li>\n<li>Some retailers, like Amazon, allow you to redeem points directly at checkout, but usually at a lower value t\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/use-credit-card-points-holiday-gifts",
+            "urlToImage": "https://i.insider.com/5fa198db69331a0011bc7026?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T19:21:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+4149 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jon Jackson",
+            "title": "Airline Ticket Change and Flight Refund Policies: What to Know After CDC's Thanksgiving Travel Warning",
+            "description": "Health officials gave their strongest advisory yet against traveling for the holiday. Read here if you need to change flight plans.",
+            "url": "https://www.newsweek.com/traveling-thanksgiving-change-flight-plans-1548870",
+            "urlToImage": "https://d.newsweek.com/en/full/1673510/airport-masks.jpg",
+            "publishedAt": "2020-11-19T23:13:25Z",
+            "content": "Today, the Centers for Disease Control and Prevention issued a new, more stern advisory about traveling for Thanksgiving: Basically, they recommend you don't do it. Fortunately, for people who heed t\u2026 [+3921 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Francesca Street, CNN",
+            "title": "Mom and daughter pilot team brings joy to the skies",
+            "description": "Photos of Suzy Garrett and her daughter Donna co-piloting a SkyWest airplane have proved a hit on social media. The pair say teaming up was also a positive milestone in the opening up of the skies to women aviators.",
+            "url": "https://www.cnn.com/travel/article/donna-suzy-garrett-mother-daughter-pilots-skywest/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201117074423-11-12-suzy-donna-garrett-02-super-tease.jpg",
+            "publishedAt": "2020-11-19T11:08:10Z",
+            "content": "(CNN) When Donna Garrett was growing up in the greater Los Angeles area, it didn't seem strange that her mom worked as an airline pilot. Because her dad had the same profession, captaining an airplan\u2026 [+8516 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Victoria Guida",
+            "title": "Mnuchin to cut off emergency economic support, ignoring Fed protest",
+            "description": "The Treasury secretary said the programs are no longer needed.",
+            "url": "https://www.politico.com/news/2020/11/19/mnuchin-cutting-coronavirus-aid-economy-438487",
+            "urlToImage": "https://static.politico.com/fa/03/0fa5cbb8457bae5954fc9190b228/201119-mnuchin-ap-773.jpg",
+            "publishedAt": "2020-11-19T23:03:53Z",
+            "content": "The emergency programs, which were set to expire Dec. 31 unless extended, have doled out billions of dollars in loans to keep the economy afloat. Their mere existence helped restore stability to the \u2026 [+3231 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kate Duffy",
+            "title": "Amazon is reportedly laying off dozens of employees working on its long-awaited drone project",
+            "description": "Summary List Placement\n\nAmazon is reportedly laying off dozens of staff working on its delivery drone project, Amazon Prime Air, turning to external manufacturers to help build the devices instead.\u00a0\nThe jobs would be lost in research and development as well a\u2026",
+            "url": "https://www.businessinsider.com/amazon-drone-amazon-prime-air-layoffs-job-cuts-2020-11",
+            "urlToImage": "https://i.insider.com/5fb63b2950e71a00115561cb?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T10:30:58Z",
+            "content": "Amazon is reportedly laying off dozens of staff working on its delivery drone project, Amazon Prime Air, turning to external manufacturers to help build the devices instead.\u00a0\r\nThe jobs would be lost \u2026 [+1657 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Turkey to buy Chinese COVID-19 candidate vaccine doses, in talks with Pfizer - Reuters",
+            "description": "<ol><li>Turkey to buy Chinese COVID-19 candidate vaccine doses, in talks with Pfizer\u00a0\u00a0Reuters\r\n</li><li>The AstraZeneca Oxford COVID-19 Vaccine is Safe and Provokes Immune Response\u00a0\u00a0Contagionlive.com\r\n</li><li>Oxford COVID-19 trial will look at interim Phase \u2026",
+            "url": "https://uk.reuters.com/article/health-coronavirus-turkey-china-int-idUSKBN27Z0LE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541720760&r=LYNXMPEGAI0BS&w=800",
+            "publishedAt": "2020-11-19T06:15:00Z",
+            "content": "By Reuters Staff\r\nANKARA (Reuters) - Turkey will sign a contract within days to buy at least 20 million doses of a COVID-19 candidate vaccine from Chinas Sinovac Biotech, the health minister was cite\u2026 [+2371 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jake Sherman and Anna Palmer",
+            "title": "POLITICO Playbook: On Biden and McConnell",
+            "description": "And the pandemic overwhelms hospitals around the country.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/11/19/on-biden-and-mcconnell-490941",
+            "urlToImage": "https://static.politico.com/d8/a1/37d6eaea4a2285bbd1eb9a61a53e/gettyimages-1286384042.jpg",
+            "publishedAt": "2020-11-19T11:04:02Z",
+            "content": "Theres one massive -- and familiar -- complication in President-elect Joe Bidens legislative agenda: Senate Majority Leader Mitch McConnell. | Alex Wong/Getty Images\r\nDRIVING THE DAY\r\nJOE BIDEN has a\u2026 [+23343 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "As Governors Lock Down, Millions of Americans Are Booking Thanksgiving Travel, Planning Parties",
+            "description": "In a turbulent year marked by COVID killing over a quarter of a million Americans, but also isolation and paused lives, Americans must weigh up their priorities and the risks they are willing to take when celebrating Thanksgiving.",
+            "url": "https://www.newsweek.com/thanksgiving-lockdown-millions-americans-travel-1548749",
+            "urlToImage": "https://d.newsweek.com/en/full/1673003/thanksgiving-getty-stock.jpg",
+            "publishedAt": "2020-11-19T18:20:08Z",
+            "content": "With COVID cases surging across the U.S. and officials rolling out lockdowns and restrictions to stop the virus spreading, ahead of Thanksgiving some Americans plan to flout the rules and celebrate a\u2026 [+6246 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Holly Johnson",
+            "title": "American Airlines AAdvantage MileUp Card review: Earn American Airlines miles on your everyday spending without an annual fee",
+            "description": "Summary List PlacementAmerican Airlines AAdvantage MileUp\u2120 Card\nThis page includes information about the Discover it\u00ae Miles product, which is currently not available on Business Insider and may be out of date.\nTable of Contents: Masthead Sticky\nReview: Is the\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/citi-american-airlines-aadvantage-mileup-card-review",
+            "urlToImage": "https://i.insider.com/5faaa4cef7d1cb0019e3ac17?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T22:37:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+9508 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "United says more people are canceling flights as COVID-19 cases soar ahead of the Thanksgiving travel rush",
+            "description": "Thanksgiving is usually one of the busiest travel weeks, but officials in several states are warning people against large gatherings and long trips.",
+            "url": "https://www.businessinsider.com/united-airlines-booking-slowdown-increased-cancellations-covid-spike-thanksgiving-2020-11",
+            "urlToImage": "https://i.insider.com/5f5a5358e6ff30001d4e8116?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T14:18:33Z",
+            "content": "United Airlines said Thursday that it's seeing an uptick in flight cancellations and a slowdown in new flight bookings as coronavirus cases continue to reach record highs in the United States.\r\nFor t\u2026 [+1710 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Louise Goldsbury",
+            "title": "I went to Queensland for lunch and was stranded for three months",
+            "description": "An Australian travel writer went to Brisbane for the day and ended up there for three months as Queensland closed its borders to domestic travel.",
+            "url": "https://www.cnn.com/travel/article/queensland-australia-covid-travel-lockdown/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181010111838-australia-best-beaches---whitehaven-c-tourism--events-queensland-super-tease.jpg",
+            "publishedAt": "2020-11-19T02:49:59Z",
+            "content": "Sydney (CNN) My trip was supposed to be simple. I was attending a lunch for the Australian Society of Travel Writers in the town of Ipswich, on the outskirts of the state's capital Brisbane.\r\nThe tim\u2026 [+5198 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Lawrence J. Haas",
+            "title": "Biden Faces an Evolving Middle East | Opinion",
+            "description": "Joe Biden wants to restore a U.S. approach to the region that relies on increasingly out-of-date assumptions.",
+            "url": "https://www.newsweek.com/biden-faces-evolving-middle-east-opinion-1548377",
+            "urlToImage": "https://d.newsweek.com/en/full/1671902/tehran.jpg",
+            "publishedAt": "2020-11-19T11:30:01Z",
+            "content": "The news that Bahrain's foreign minister is meeting with Prime Minister Benjamin Netanyahu in Israel this week highlights the predicament that president elect Joe Biden faces in the Middle East: he w\u2026 [+4973 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Amanda Cooper",
+            "title": "Global stocks sag, as spread of COVID-19 across the US and Europe douses vaccine optimism",
+            "description": "Summary List Placement\n\nStock markets fell on Thursday, under pressure from growing concern among investors about the toll on growth from the spread of COVID-19, which has lured flows into government bonds and out of economically-sensitive commodities, such a\u2026",
+            "url": "https://www.businessinsider.com/stock-markets-shares-slide-as-covid-19-infections-soar-2020-11",
+            "urlToImage": "https://i.insider.com/5fb6480f50e71a00115561db?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T11:00:56Z",
+            "content": "Stock markets fell on Thursday, under pressure from growing concern among investors about the toll on growth from the spread of COVID-19, which has lured flows into government bonds and out of econom\u2026 [+4301 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "kdunn6",
+            "title": "The Boeing 737 Max faces an even tougher hurdle now: passenger fear",
+            "description": "Flyer anxiety is a key obstacle in the imminent return of the Boeing 737 Max.",
+            "url": "https://fortune.com/2020/11/19/boeing-737-max-passenger-fear/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2019/11/GettyImages-1184177345.jpg?resize=1200,600",
+            "publishedAt": "2020-11-19T11:17:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Augustinus Beo Da Costa, Bernadette Christina",
+            "title": "'Too soon' to let Boeing 737 MAX fly again, say families of Lion Air crash victims",
+            "description": "Some of the relatives of victims of a fatal Boeing 737 MAX crash in Indonesia have slammed a decision by U.S. aviation authorities to allow the jets to return to the skies, saying the move comes too soon.",
+            "url": "https://ca.reuters.com/article/us-boeing-737max-indonesia-families-idCAKBN27Z0TR",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541729917&r=LYNXMPEGAI0GB&w=800",
+            "publishedAt": "2020-11-19T08:04:20Z",
+            "content": "By Augustinus Beo Da Costa, Bernadette Christina\r\nJAKARTA (Reuters) - Some of the relatives of victims of a fatal Boeing 737 MAX crash in Indonesia have slammed a decision by U.S. aviation authoritie\u2026 [+2992 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Augustinus Beo Da Costa, Bernadette Christina",
+            "title": "'Too soon' to let Boeing 737 MAX fly again, say families of Lion Air crash victims",
+            "description": "Some of the relatives of victims of a fatal Boeing 737 MAX crash in Indonesia have slammed a decision by U.S. aviation authorities to allow the jets to return to the skies, saying the move comes too soon.",
+            "url": "https://uk.reuters.com/article/us-boeing-737max-indonesia-families-idUKKBN27Z0TR",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541729917&r=LYNXMPEGAI0GB&w=800",
+            "publishedAt": "2020-11-19T07:59:10Z",
+            "content": "JAKARTA (Reuters) - Some of the relatives of victims of a fatal Boeing 737 MAX crash in Indonesia have slammed a decision by U.S. aviation authorities to allow the jets to return to the skies, saying\u2026 [+2942 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed, Allison Lampert",
+            "title": "Analysis: As regulators prepare to weigh in on 737 MAX, FAA's global dominance fades",
+            "description": "Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-month grounding, highlighting changes in the global regulatory pecking order caused by two crashes of the jet.",
+            "url": "https://ca.reuters.com/article/us-boeing-737max-regulators-analysis-idCAKBN27Z0HN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541718317&r=LYNXMPEGAI09C&w=800",
+            "publishedAt": "2020-11-19T05:25:58Z",
+            "content": "By Jamie Freed, Allison Lampert\r\nSYDNEY/MONTREAL (Reuters) - Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-mo\u2026 [+4627 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed, Allison Lampert",
+            "title": "ANALYSIS-As regulators prepare to weigh in on 737 MAX, FAA's global dominance fades",
+            "description": "Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-month grounding, highlighting changes in the global regulatory pecking order caused by two crashes of the jet.",
+            "url": "https://www.reuters.com/article/boeing-737max-regulators-idUSL1N2I50CK",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T13:00:00Z",
+            "content": "(Repeats story from earlier Nov. 19; no changes to text)\r\n* Canada, Brazil expected to back FAA decision within weeks\r\n* Australia will take into account position of EASA\r\n* China has not given timel\u2026 [+4563 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed, Allison Lampert",
+            "title": "Analysis: As regulators prepare to weigh in on 737 MAX, FAA's global dominance fades",
+            "description": "Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-month grounding, highlighting changes in the global regulatory pecking order caused by two crashes of the jet.",
+            "url": "https://uk.reuters.com/article/us-boeing-737max-regulators-analysis-idUKKBN27Z0HN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541718317&r=LYNXMPEGAI09C&w=800",
+            "publishedAt": "2020-11-19T05:34:14Z",
+            "content": "SYDNEY/MONTREAL (Reuters) - Global regulators have held off approving the Boeing 737 MAX despite a decision by the U.S. Federal Aviation Administration to end a 20-month grounding, highlighting chang\u2026 [+4594 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "Southwest deploys team to bring 737 MAX jets out of desert",
+            "description": "Southwest Airlines <LUV.N> has sent a team of mechanics to Victorville, California to start the long process of bringing its 34 Boeing 737 MAX jets out of their desert hibernation, after the planes' permission to fly was restored.",
+            "url": "https://uk.reuters.com/article/uk-boeing-737max-southwest-idUKKBN27Z2C5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541784744&r=LYNXMPEGAI1CR&w=800",
+            "publishedAt": "2020-11-19T16:00:14Z",
+            "content": "FILE PHOTO: grounded Southwest Airlines Boeing 737 MAX 8 aircraft are shown parked at Victorville Airport in Victorville, California, U.S., March 26, 2019. REUTERS/Mike Blake\r\nCHICAGO (Reuters) - Sou\u2026 [+2043 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "Southwest deploys team to bring 737 MAX jets out of desert",
+            "description": "Southwest Airlines <LUV.N> has sent a team of mechanics to Victorville, California to start the long process of bringing its 34 Boeing 737 MAX jets out of their desert hibernation, after the planes' permission to fly was restored.",
+            "url": "https://ca.reuters.com/article/us-boeing-737max-southwest-idCAKBN27Z29Z",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541781053&r=LYNXMPEGAI1BC&w=800",
+            "publishedAt": "2020-11-19T15:33:44Z",
+            "content": "By Tracy Rucinski\r\nFILE PHOTO: grounded Southwest Airlines Boeing 737 MAX 8 aircraft are shown parked at Victorville Airport in Victorville, California, U.S., March 26, 2019. REUTERS/Mike Blake\r\nCHIC\u2026 [+2062 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Ryanair says it is not looking to order more MAX jets at the moment",
+            "description": "Ryanair <RYA.I> is not looking to order additional 737 MAX jets from Boeing <BA.N> at the moment but does expect opportunities to acquire cheap aircraft to appear at some stage, a senior executive said on Thursday.",
+            "url": "https://www.reuters.com/article/us-boeing-737max-ryanair-idUSKBN27Z2Q4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541799280&r=LYNXMPEGAI1LQ&w=800",
+            "publishedAt": "2020-11-19T17:55:30Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Ryanair sign is seen at the check-in area at Gatwick Airport, as travel restrictions are eased following the coronavirus disease (COVID-19) outbreak, in Gatwick, Britain\u2026 [+732 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "Gen Z's surging economic power will permanently change the investing landscape over the next decade, Bank of America says",
+            "description": "Gen Z's earnings are set to hit $33 trillion by 2030, the bank said. By 2031, the youngest generation's spending power will surpass Millennials'.",
+            "url": "https://www.businessinsider.com/gen-z-economic-impact-outlook-spending-permanently-change-investing-bofa-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fb6a20e50e71a0011556358?format=jpeg",
+            "publishedAt": "2020-11-19T18:26:07Z",
+            "content": "Noam Galai/Getty Images\r\n<ul><li>Generation Z's economic power is the fastest-growing around the world, and investors should start preparing for tectonic shifts in consumer preferences, Bank of Ameri\u2026 [+4165 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Asiana's creditor bank calls for support for Korean Air takeover plan",
+            "description": "Asiana Airline's <020560.KS> lead creditor bank called for backing for Korean Air's <003490.KS> takeover of the debt-ridden Korean carrier on Thursday in the face of opposition to the plan from some shareholders.",
+            "url": "https://uk.reuters.com/article/uk-asiana-airlines-m-a-korean-air-idUKKBN27Z106",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541734539&r=LYNXMPEGAI0J6&w=800",
+            "publishedAt": "2020-11-19T08:50:32Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Korean Airlines is seen on a B787-9 plane at its aviation shed in Incheon, South Korea, February 27, 2017. REUTERS/Kim Hong-Ji/File Photo\r\nSEOUL (Reuters) - \u2026 [+1828 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tsonnemaker@businessinsider.com (Tyler Sonnemaker)",
+            "title": "Affirm just made its IPO filing public, providing the first detailed look inside the breakout 'buy now, pay later' fintech startup's finances",
+            "description": "Affirm's annual revenue nearly doubled to $510 million for FY 2020 as consumers look for alternative ways to fund shopping habits during the pandemic.",
+            "url": "https://www.businessinsider.com/affirm-s-1-ipo-filing-public-offering-revealed-afrm-2020-11",
+            "urlToImage": "https://i.insider.com/5fb61d4750e71a00115561c5?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T07:22:03Z",
+            "content": "Affirm made its initial public offering documents publicly available on Wednesday, providing the most detailed look yet at the company's inner financial workings.\r\nAffirm, a fintech startup founded i\u2026 [+3298 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "United says Covid-19 spike is hitting air travel -- again",
+            "description": "The spike in Covid-19 cases is starting to hit air travel once again, according to United Airlines.",
+            "url": "https://www.cnn.com/2020/11/19/business/united-airlines-covid-19-canceled-reservations/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201119083505-01-united-airlines-flight-1027-super-tease.jpg",
+            "publishedAt": "2020-11-19T14:30:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Weng Cheong",
+            "title": "10 C-suite execs reveal how management consulting shaped their careers and the advice they'd give to anyone starting a new job",
+            "description": "Summary List Placement\n\nA career in management consulting provides preparation for C-level jobs.\u00a0\nIn fact, 70 of the Fortune 500 CEOs have worked at McKinsey. Some of today's most prominent leaders including Facebook's COO Sheryl Sandberg, YouTube CEO Susan W\u2026",
+            "url": "https://www.businessinsider.com/management-consultants-c-suite-executives-best-career-leadership-advice-2020-11",
+            "urlToImage": "https://i.insider.com/5fb425ea1c741f0019aca3f2?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T17:32:19Z",
+            "content": "A career in management consulting provides preparation for C-level jobs.\u00a0\r\nIn fact, 70 of the Fortune 500 CEOs have worked at McKinsey. Some of today's most prominent leaders including Facebook's COO\u2026 [+1184 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "United Airlines says cancellations are rising due to spiking COVID-19 cases",
+            "description": "United Airlines <UAL.O> said on Thursday it has seen an uptick in cancellations and a decrease in bookings for the week ended Nov. 18, due to a recent spike in COVID-19 cases in the United States.",
+            "url": "https://uk.reuters.com/article/us-united-arlns-outlook-idUKKBN27Z1S5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541761240&r=LYNXMPEGAI0ZQ&w=800",
+            "publishedAt": "2020-11-19T12:57:03Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A United Airlines passenger jet taxis at Newark Liberty International Airport, New Jersey, U.S. December 6, 2019. REUTERS/Chris Helgren\r\n(Reuters) - United Airlines UAL.\u2026 [+330 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "United Airlines says cancellations are rising due to spiking COVID-19 cases",
+            "description": "United Airlines <UAL.O> said on Thursday it has seen an uptick in cancellations and a decrease in bookings for the week ended Nov. 18, due to a recent spike in COVID-19 cases in the United States.",
+            "url": "https://ca.reuters.com/article/us-united-arlns-outlook-idCAKBN27Z1S5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541761240&r=LYNXMPEGAI0ZQ&w=800",
+            "publishedAt": "2020-11-19T13:02:16Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A United Airlines passenger jet taxis at Newark Liberty International Airport, New Jersey, U.S. December 6, 2019. REUTERS/Chris Helgren\r\n(Reuters) - United Airlines UAL.\u2026 [+330 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-UK Stocks-Factors to watch on Nov 19",
+            "description": "Britain's FTSE 100 index is seen opening 59 points lower at 6,327 on Thursday, according to financial bookmakers, with futures down 0.86% ahead of cash market open.",
+            "url": "https://uk.reuters.com/article/britain-stocks-factors-idUKL4N2I51TN",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T07:53:54Z",
+            "content": "By Reuters Staff\r\n(Adds company news items, futures)\r\nNov 19 (Reuters) - Britains FTSE 100 index is seen opening 59 points lower at 6,327 on Thursday, according to financial bookmakers, with futures \u2026 [+2477 chars]"
+        }
+    ]
+}

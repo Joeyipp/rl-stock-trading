@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier",
+            "title": "Tesla's Autopilot was once again beaten by Cadillac Super Cruise, Consumer Reports finds (TSLA, GM)",
+            "description": "Summary List Placement\n\nTesla's poor track record of keeping drivers engaged while Autopilot is on cost the automaker significant points in Consumer Reports' latest ranking of driver-assistance systems.\nThe magazine's second-ever ranking of the software syste\u2026",
+            "url": "https://www.businessinsider.com/tesla-autopilot-second-best-assistance-software-consumer-reports-2020-10",
+            "urlToImage": "https://i.insider.com/5f99959a6f5b310011723dee?width=1200&format=jpeg",
+            "publishedAt": "2020-10-28T16:21:37Z",
+            "content": "Tesla's poor track record of keeping drivers engaged while Autopilot is on cost the automaker significant points in Consumer Reports' latest ranking of driver-assistance systems.\r\nThe magazine's seco\u2026 [+1993 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Fiat Chrysler plans to bring an Ram electric pickup truck to market",
+            "description": "Fiat Chrysler Automobiles CEO Mike Manley confirmed Wednesday the automaker\u2019s Ram brand will bring an electric pickup truck to market. The remarks, made in response to an analyst question during the company third-quarter earnings call, puts to rest rampant sp\u2026",
+            "url": "http://techcrunch.com/2020/10/28/fiat-chrysler-plans-to-bring-an-ram-electric-pickup-truck-to-market/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/fca-ram-GettyImages-1004376494.jpg?w=600",
+            "publishedAt": "2020-10-28T21:28:23Z",
+            "content": "Fiat Chrysler Automobiles CEO Mike Manley confirmed Wednesday the automaker\u2019s Ram brand will bring an electric pickup truck to market.\r\nThe remarks, made in response to an analyst question during the\u2026 [+2251 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Timothy B. Lee",
+            "title": "Report: Tesla Autopilot has best performance\u2014GM Super Cruise is safest",
+            "description": "Super Cruise uses eye tracking to ensure the driver is watching the road.",
+            "url": "https://arstechnica.com/cars/2020/10/report-tesla-autopilot-has-best-performance-gm-super-cruise-is-safest/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/Cadillac-CT4-V-with-SC-760x380.jpg",
+            "publishedAt": "2020-10-28T15:33:23Z",
+            "content": "Enlarge/ Super Cruise will be available on the 2021 Cadillac CT4-V.\r\n4 with 4 posters participating\r\nCadillac Super Cruise has retained its title as the best driver assistance system on the market, C\u2026 [+2790 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Paul Lienert",
+            "title": "Tesla Autopilot 'a distant second' to GM's Super Cruise in hands-free test -Consumer Reports - Reuters",
+            "description": "General Motors Co's Super Cruise once again edged Tesla's Autopilot in an evaluation of 17 vehicles equipped with active driving assistance systems (ADAS) by Consumer Reports, the testing organization said on Wednesday.",
+            "url": "https://www.reuters.com/article/autos-selfdriving-safety-idUSL1N2HI2O6",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-28T10:00:00Z",
+            "content": "DETROIT, Oct 28 (Reuters) - General Motors Cos Super Cruise once again edged Teslas Autopilot in an evaluation of 17 vehicles equipped with active driving assistance systems (ADAS) by Consumer Report\u2026 [+1751 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Paul Lienert",
+            "title": "Tesla Autopilot 'a distant second' to GM's Super Cruise in hands-free test: Consumer Reports - Reuters Canada",
+            "description": "General Motors Co's <GM.N> Super Cruise once again edged Tesla's <TSLA.O> Autopilot in an evaluation of 17 vehicles equipped with active driving assistance systems (ADAS) by Consumer Reports, the testing organization said on Wednesday.",
+            "url": "https://ca.reuters.com/article/us-autos-selfdriving-safety-idCAKBN27D1B7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201028&t=2&i=1539101138&r=LYNXMPEG9R0Q1&w=800",
+            "publishedAt": "2020-10-28T10:11:00Z",
+            "content": "By Paul Lienert\r\nFILE PHOTO: A worker polishes a Cadillac CT6 V-Sport on display at the New York Auto Show in the Manhattan borough of New York City, New York, U.S., March 29, 2018. REUTERS/Shannon S\u2026 [+1859 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dave Smith",
+            "title": "10 Surprising Facts About Bill Gates",
+            "description": "There are a lot of things about the wealthiest man in the U.S. that you probably didn't know.",
+            "url": "http://www.businessinsider.com/bill-gates-13-surprising-facts-2015-2",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/20150209183340-bill-gates.jpeg",
+            "publishedAt": "2020-10-28T11:30:00Z",
+            "content": "February\r\n9, 2015\r\n3 min read\r\nThis story originally appeared on Business InsiderMost people know three things about Bill Gates:\r\n<ul><li>He's the richest man in America (second-richest in the world \u2026 [+2685 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Andy Home",
+            "title": "Column: Nickel surplus looms as electric vehicle buzz fades - Reuters UK",
+            "description": "The London Metal Exchange (LME) nickel price last week touched a year-to-date high of $16,135 per tonne.",
+            "url": "https://uk.reuters.com/article/uk-metals-nickel-electric-ahome-idUKKBN27D0TK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201028&t=2&i=1539084420&r=LYNXMPEG9R0GO&w=800",
+            "publishedAt": "2020-10-28T07:24:00Z",
+            "content": "LONDON (Reuters) - The London Metal Exchange (LME) nickel price last week touched a year-to-date high of $16,135 per tonne.\r\nNickel processing lines are seen at a smelting plant at Indonesia Weda Bay\u2026 [+6268 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "German stocks - Factors to watch on October 28 - Reuters UK",
+            "description": "The following are some of the factors that may move German stocks on Wednesday:",
+            "url": "https://uk.reuters.com/article/germany-stocks-factors-idUKL8N2HI528",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-28T05:49:00Z",
+            "content": "By Reuters Staff\r\nBERLIN/FRANKFURT, Oct 28(Reuters) - The following are some of the factors that may move German stocks on Wednesday:\r\nCORONAVIRUS\r\nGerman Chancellor Angela Merkel wants to agree at a\u2026 [+2833 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "",
+            "title": "EPA tests show Tesla's 2021 models are even tougher to beat on efficiency",
+            "description": "Tesla's 2021 Model 3, X and Y models have topped the EPA's EV efficiency chart, pushing ahead of Polestar and other rivals.",
+            "url": "https://www.engadget.com/tesla-2021-models-top-epa-ev-efficiency-131759815.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F7cc09f00-1918-11eb-a7df-8949896ca1df&client=amp-blogside-v2&signature=8e7f0832bc4c97fd88a5f5e6817ea532a8a1e9cd",
+            "publishedAt": "2020-10-28T13:17:59Z",
+            "content": "Tesla\u2019s claims of extended range on its 2021 EVs might be more than marketing bluster. As Electrekreports, the EPA has released MPGe (miles per gallon of gas equivalent) ratings showing the 2021 Mode\u2026 [+572 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Fiat Chrysler plans to bring an Ram electric pickup truck to market",
+            "description": "Fiat Chrysler Automobiles CEO Mike Manley confirmed Wednesday the automaker's Ram brand will bring an electric pickup truck to market. The remarks, made in response to an analyst question during the company third-quarter earnings call, puts to rest rampant sp\u2026",
+            "url": "https://techcrunch.com/2020/10/28/fiat-chrysler-plans-to-bring-an-ram-electric-pickup-truck-to-market/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RNtkqK.3KOrsmPOyv_M_wQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/7YtIgkBq0kgaTNUTL_C_LQ--~B/aD0yMDAwO3c9MzAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b8de49e7b2d514230466a99ff7ed7fae",
+            "publishedAt": "2020-10-28T21:28:23Z",
+            "content": "Fiat Chrysler Automobiles CEO Mike Manley confirmed Wednesday the automaker's Ram brand will bring an electric pickup truck to market.\r\nThe remarks, made in response to an analyst question during the\u2026 [+2251 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Consumer Reports says Tesla Autopilot is a 'distant second' to GM's tech",
+            "description": "Tesla has taken another bruising for the quality of its driver assistance tech. Consumer Reports has conducted (via Reuters) a driver assistance study where Tesla\u2019s Autopilot placed a \u201cdistant second\u201d to GM\u2019s Super Cruise, with a Model Y scoring 57 v...",
+            "url": "https://www.engadget.com/tesla-autopilot-second-to-gm-super-cruise-consumer-reports-151025030.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F0e6e90e0-192a-11eb-b8cf-7dd54eeeca91&client=amp-blogside-v2&signature=0e9bbc6184d2a1e4e82bd39551c05cb046209697",
+            "publishedAt": "2020-10-28T15:10:25Z",
+            "content": "The publication also found that Super Cruise was better at notifying drivers when it was about to disengage. GM\u2019s tech not only provides a clear visual alert, but uses pre-mapped road info to notify \u2026 [+994 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alexei Oreskovic",
+            "title": "Chinese billionaire Jack Ma and AMD CEO Lisa Su have a new tech strategy: shoot the moon",
+            "description": "Summary List PlacementHello, and welcome to this Wednesday's edition of the Insider Tech newsletter, where we break down the biggest news in tech.\nDid someone forward this newsletter to you? Get Insider Tech straight in your inbox by subscribing here\u00a0\n\nThis w\u2026",
+            "url": "https://www.businessinsider.com/jack-ma-amd-ceo-lisa-su-shooting-the-moon-2020-10",
+            "urlToImage": "https://i.insider.com/5bab961ea5f7131f695dc017?width=1200&format=jpeg",
+            "publishedAt": "2020-10-28T14:59:38Z",
+            "content": "Hello, and welcome to this Wednesday's edition of the Insider Tech newsletter, where we break down the biggest news in tech.\r\nThis week: Jack Ma and AMD CEO Lisa Su are shooting for the moon\r\nJack Ma\u2026 [+6095 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eugene Kim",
+            "title": "Amazon has put Zoox, the self-driving startup it bought for $1.3 billion, under its Alexa and hardware boss, suggesting a bold ambition that could challenge Uber and Lyft (AMZN)",
+            "description": "Summary List Placement\n\nZoox, the self-driving startup Amazon bought for $1.3 billion, is now under the oversight of the executive in charge of Amazon's hardware and Alexa voice assistant businesses, Business Insider has learned.\nZoox CEO Aicha Evans, who joi\u2026",
+            "url": "https://www.businessinsider.com/amazon-owned-zoox-under-alexa-and-hardware-boss-dave-limp-2020-10",
+            "urlToImage": "https://i.insider.com/5f99a01f69331a0011bc5c4e?width=1200&format=jpeg",
+            "publishedAt": "2020-10-28T17:45:56Z",
+            "content": "Zoox, the self-driving startup Amazon bought for $1.3 billion, is now under the oversight of the executive in charge of Amazon's hardware and Alexa voice assistant businesses, Business Insider has le\u2026 [+3897 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Paul Lienert",
+            "title": "Tesla Autopilot 'a distant second' to GM's Super Cruise in hands-free test -Consumer Reports",
+            "description": "General Motors Co's <GM.N> Super Cruise once again edged Tesla's <TSLA.O> Autopilot in an evaluation of 17 vehicles equipped with active driving assistance systems (ADAS) by Consumer Reports, the testing organization said on Wednesday.",
+            "url": "https://uk.reuters.com/article/us-autos-selfdriving-safety-idUKKBN27D1B7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201028&t=2&i=1539101138&r=LYNXMPEG9R0Q1&w=800",
+            "publishedAt": "2020-10-28T10:00:00Z",
+            "content": "FILE PHOTO: A worker polishes a Cadillac CT6 V-Sport on display at the New York Auto Show in the Manhattan borough of New York City, New York, U.S., March 29, 2018. REUTERS/Shannon Stapleton\r\nDETROIT\u2026 [+1842 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Nick Summers",
+            "title": "The RadMission 1 is a $1,099 e-bike that delivers the basics",
+            "description": "To become truly mainstream, the industry is going to need cheaper models like the RadMission 1, developed by Rad Power Bikes.  Rad Power Bikes has since raised the price to $1,099, which is still competitive with entry-level alternatives such as the Propella \u2026",
+            "url": "https://www.engadget.com/rad-power-bikes-radmission-electric-bicycle-review-120020625.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F487263d0-1901-11eb-9bf2-07c9e9f91772&client=amp-blogside-v2&signature=ef2a473a94afc6d69de7757ce6a954935bdacdf0",
+            "publishedAt": "2020-10-28T12:00:20Z",
+            "content": "So which is the RadMission 1? A basic but dependable road warrior, or a cost-cutting measure gone too far?\u00a0\r\nDesign\r\nYou can order the RadMission 1 with a simple mid-step or classic \u2018double diamond' \u2026 [+16477 chars]"
+        }
+    ]
+}

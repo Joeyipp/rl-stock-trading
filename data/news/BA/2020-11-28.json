@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Jae Thomas",
+            "title": "Genius Pack carry-on luggage is over 50% off",
+            "description": "TL;DR: Add the next-level Genius Pack Supercharged Carry On to your closet for $183.99, a 53% savings as of Nov. 28 with the code BFSAVE20.\u00a0\n\nEven if you're staying home this holiday season, it doesn't mean you won't travel again. In fact, there's actually no\u2026",
+            "url": "https://mashable.com/shopping/nov-28-genius-pack-carry-on-luggage/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F28%252F3d%252Fecb412c0e0b84422bf0de2f65dd60821.a4731.jpg%252F1200x630.jpg?signature=ESzqiyhh88YnPW8OofxRoBOWcok=",
+            "publishedAt": "2020-11-28T10:00:00Z",
+            "content": "TL;DR: Add the next-level Genius Pack Supercharged Carry On to your closet for $183.99, a 53% savings as of Nov. 28 with the code BFSAVE20.\u00a0\r\nEven if you're staying home this holiday season, it doesn\u2026 [+1620 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gregory Wallace and Susannah Cullinane, CNN",
+            "title": "FAA supports first 'mass air shipment' of Covid-19 vaccine",
+            "description": "The Federal Aviation Administration says it has supported \"the first mass air shipment\" of a Covid-19 vaccine.",
+            "url": "https://www.cnn.com/2020/11/27/health/faa-coronavirus-vaccine-air-shipment/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201109120524-03-covid-19-vaccine-trial-florida-file-super-tease.jpg",
+            "publishedAt": "2020-11-28T03:38:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Maggie Hiufu Wong and Francesca Street, CNN",
+            "title": "Site of Hong Kong's former Kai Tak Airport set for huge transformation",
+            "description": "The site of the old Hong Kong Kai Tak Airport -- famous for its notoriously challenging runway in the middle of the busy city center -- is set to welcome a new sky-high landmark.",
+            "url": "https://www.cnn.com/travel/article/kai-tak-skyscraper-airside/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/130611022119-hong-kong-kai-tak-cathay2-story-top.jpg",
+            "publishedAt": "2020-11-28T04:02:18Z",
+            "content": "Prior to the Kowloon-based airport's closure in 1997 -- it was replaced by the current Hong Kong International Airport -- buildings constructed in the area had to adhere to strict height restrictions\u2026 [+4573 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jordan Crook and Brian Heater",
+            "title": "How Ryan Reynolds and Mint Mobile worked without becoming the joke",
+            "description": "It's been a little over a year since Ryan Reynolds  bought a majority stake in Mint Mobile, a deal that has already had a dramatic impact on the the MVNO...",
+            "url": "https://techcrunch.com/2020/11/28/how-ryan-reynolds-and-mint-mobile-worked-without-becoming-the-joke/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2GmFHyCjck4CqQd5FsUgIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/lgW1d8jHB.3nFgT0AjyZkQ--~B/aD0yNjA2O3c9MzkxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/ecccc2e68f58b7c0084ee02bca326489",
+            "publishedAt": "2020-11-28T15:00:05Z",
+            "content": "In the past decade, celebrity interest and investment in tech companies has significantly increased. But not all celebrity investments are created equally. Some investors, like Ashton Kutcher, have p\u2026 [+7607 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Tola Onanuga)",
+            "title": "Pfizer's COVID-19 vaccine is reportedly being flown by United Airlines chartered flights to distribution hubs, in anticipation of FDA approval",
+            "description": "United Airlines have chartered flights to deliver Pfizer's COVID-19 vaccine to distribution hubs, in anticipation of an FDA approval",
+            "url": "https://www.businessinsider.com/united-airlines-flying-pfizer-covid-19-vaccines-distribution-hubs-2020-11",
+            "urlToImage": "https://i.insider.com/5fc2326c037cbd0018612b83?width=1200&format=jpeg",
+            "publishedAt": "2020-11-28T12:03:09Z",
+            "content": "As drugmaker Pfizer seeks regulatory approval for its COVID-19 vaccine, shipments have already begun making their way to distribution centers via United Airlines charters, according to a Wall Street \u2026 [+2366 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Benjamin Fearnow",
+            "title": "Who Should Get the COVID-19 Vaccine First? CDC to Hold Meeting Tuesday",
+            "description": "Health workers, people over 65, or those with specific medical conditions are among the list of people who may receive the coronavirus vaccine first, should initial supplies be scarce.",
+            "url": "https://www.newsweek.com/who-should-get-covid-19-vaccine-first-cdc-hold-meeting-tuesday-1550921",
+            "urlToImage": "https://d.newsweek.com/en/full/1675922/pfizer-biontech-covid-19-vaccine.jpg",
+            "publishedAt": "2020-11-28T15:14:04Z",
+            "content": "A panel of top U.S. health advisers and scientists will meet this coming week to determine who\u2014health workers, people over 65, or those with specific medical conditions\u2014should receive the coronavirus\u2026 [+2941 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "I flew on the Spirit Airlines' first 'shuttle' flight from Newark to Boston for $25 and still overpaid \u2013 here's why it's a great budget option",
+            "description": "Spirit's new route offers an alternative to the expensive shuttle flights offered by competitors for what is ultimately less than an hour in the air.",
+            "url": "https://www.businessinsider.com/flying-spirit-airlines-shuttle-newark-to-boston-review-pandemic-2020-11",
+            "urlToImage": "https://i.insider.com/5fbc1b4b50e71a0011556eb5?width=1200&format=jpeg",
+            "publishedAt": "2020-11-28T13:39:00Z",
+            "content": "Shipping up to Boston from New York just got a whole lot cheaper.\r\nSpirit Airlines just launched its newest route between Newark and Boston on November 18, one of the shortest in its network. Startin\u2026 [+1142 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Patrick Coffee",
+            "title": "The rise and fall of J. Walter Thompson, the world's oldest advertising agency",
+            "description": "Summary List PlacementIn early 2016, United Airlines needed help. Its stock price was down, CEO Jeff Smisek had resigned over a DoJ investigation into alleged political interference, and United finished last in an industry customer satisfaction survey.\nEnter \u2026",
+            "url": "https://www.businessinsider.com/j-walter-thompson-wpp-decline-of-worlds-oldest-ad-agency-2020-11",
+            "urlToImage": "https://i.insider.com/5fc122d950e71a0011557a8d?width=1200&format=jpeg",
+            "publishedAt": "2020-11-28T14:38:36Z",
+            "content": "In early 2016, United Airlines needed help. Its stock price was down, CEO Jeff Smisek had resigned over a DoJ investigation into alleged political interference, and United finished last in an industr\u2026 [+16533 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "Here's what Janet Yellen's appointment as US Treasury Secretary would mean for markets",
+            "description": "Markets seem to have confidence in Biden's choice for Treasury Secretary, as evidenced by the record-breaking rally on Wall Street this week.",
+            "url": "https://www.businessinsider.com/janet-yellen-appointment-treasury-secretary-means-for-markets-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbe9f6a037cbd0018612573?format=jpeg",
+            "publishedAt": "2020-11-28T12:00:00Z",
+            "content": "AP Images\r\nJanet Yellen is President-Elect Joe Biden's apparent selection as Treasury Secretary.\r\nIf her nomination is confirmed by the Senate, she would be the first woman to have led the Federal Re\u2026 [+4608 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jordan Crook",
+            "title": "How Ryan Reynolds and Mint Mobile worked without becoming the joke \u2013 TechCrunch",
+            "description": "In the past decade, celebrity interest and investment in tech companies has significantly increased. But not all celebrity investments are created equally. Some investors, like Ashton Kutcher, have prioritized the VC pursuits. Some have invested casually with\u2026",
+            "url": "http://techcrunch.com/2020/11/28/how-ryan-reynolds-and-mint-mobile-worked-without-becoming-the-joke/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/IMG_5129.jpg?w=600",
+            "publishedAt": "2020-11-28T15:00:40Z",
+            "content": "In the past decade, celebrity interest and investment in tech companies has significantly increased. But not all celebrity investments are created equally. Some investors, like Ashton Kutcher, have p\u2026 [+7619 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Katanga Johnson, Dan Whitcomb",
+            "title": "U.S. vaccine plans take shape but no let-up on restrictions",
+            "description": "U.S. health authorities will hold an emergency meeting next week to recommend that a coronavirus vaccine awaiting approval be given first to healthcare professionals and people in long-term care facilities.",
+            "url": "https://www.reuters.com/article/health-coronavirus-usa-idUSKBN28728Z",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201128&t=2&i=1542723964&r=LYNXMPEGAR02C&w=800",
+            "publishedAt": "2020-11-28T02:49:47Z",
+            "content": "WASHINGTON, D.C. (Reuters) - U.S. health authorities will hold an emergency meeting next week to recommend that a coronavirus vaccine awaiting approval be given first to healthcare professionals and \u2026 [+4760 chars]"
+        }
+    ]
+}

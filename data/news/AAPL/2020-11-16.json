@@ -1,0 +1,1111 @@
+{
+    "status": "ok",
+    "totalResults": 85,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Apple\u2019s IDFA gets targeted in strategic EU privacy complaints",
+            "description": "A unique device identifier that Apple assigns to each iPhone for third parties to track users for ad targeting \u2014 aka the IDFA (Identifier for Advertisers) \u2014 is itself now the target of two new complaints filed by European privacy campaign not-for-profit, noyb\u2026",
+            "url": "http://techcrunch.com/2020/11/16/apples-idfa-gets-targeted-in-strategic-eu-privacy-complaints/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1201763747.jpg?w=600",
+            "publishedAt": "2020-11-16T13:02:38Z",
+            "content": "A unique device identifier that Apple assigns to each iPhone for third parties to track users for ad targeting \u2014 aka the IDFA (Identifier for Advertisers) \u2014 is itself now the target of two new compla\u2026 [+6872 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Monica Chin",
+            "title": "Apple macOS 11 Big Sur review: a long time coming",
+            "description": "The Mac gets a makeover.",
+            "url": "https://www.theverge.com/2020/11/16/21564490/macos-big-sur-review-apple-macbook-pro-air-mac-ipad-m1",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Vbhak0ywohtiYVwumiCUZ4trR48=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19393656/vpavic_191118_3800_0189.jpg",
+            "publishedAt": "2020-11-16T15:34:49Z",
+            "content": "This is what the future of the Mac looks like Last week might\u2019ve been the most important week of this year for consumer laptops. Apple announced its new M1 chip, which, if the company\u2019s claims about \u2026 [+16942 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Jae Thomas",
+            "title": "Learn to create your own iPhone, Mac, and even Apple TV apps for $25",
+            "description": "TL;DR: Learn how to make apps with the iOS 14 and SwiftUI Bootcamp Bundle, on sale for $24.99 as of Nov. 16.\u00a0\n\nEveryone's got a favorite app. Some of us prefer the visual stimulation and endless scrolling of Instagram. Some prefer Candy Crush. And others like\u2026",
+            "url": "https://mashable.com/shopping/nov-16-ios-14-swiftui-bootcamp-bundle/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F16%252F15%252Fef3bf289c46a41e38b2874306488e560.98ad3.jpg%252F1200x630.jpg?signature=K9F3dCmKJkrGYHxpyS47jTyKGBc=",
+            "publishedAt": "2020-11-16T16:30:56Z",
+            "content": "TL;DR: Learn how to make apps with theiOS 14 and SwiftUI Bootcamp Bundle, on sale for $24.99 as of Nov. 16.\u00a0\r\nEveryone's got a favorite app. Some of us prefer the visual stimulation and endless scrol\u2026 [+1333 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Dylan Haas",
+            "title": "The new Apple Watch SE is already on sale \u2014 save $20 at Amazon",
+            "description": "SAVE $20: The new Apple Watch SE \u2014 which was just released on September 18 \u2014 is already on sale at Amazon for $20 off as of Nov. 16.\n\nIf you're an Apple die-hard who follows each and every thing that the colossal tech giant does, you've had an exciting past f\u2026",
+            "url": "https://mashable.com/shopping/nov-16-black-friday-apple-watch-se-on-sale/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F16%252Fc5%252F84be9d5e9c344edaa9c45cb4803b6e01.25af5.png%252F1200x630.png?signature=B7VirxOf3lS0lS7s_RYJ7HvVULo=",
+            "publishedAt": "2020-11-16T15:37:52Z",
+            "content": "SAVE $20: The new Apple Watch SE which was just released on September 18 is already on sale at Amazon for $20 off as of Nov. 16.\r\nIf you're an Apple die-hard who follows each and every thing that the\u2026 [+1224 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Steven Levy",
+            "title": "Huawei, 5G, and the Man Who Conquered Noise",
+            "description": "How an obscure Turkish scientist\u2019s obscure theoretical breakthrough helped the Chinese tech giant gain control of the future. US telecoms never had a chance.",
+            "url": "https://www.wired.com/story/huawei-5g-polar-codes-data-breakthrough/",
+            "urlToImage": "https://media.wired.com/photos/5fa2ffb1c529acf3a8338710/191:100/w_1280,c_limit/WI120120_FF_PolarCodes_01.jpg",
+            "publishedAt": "2020-11-16T11:00:00Z",
+            "content": "The problem was that reasonable people argued that other techniques would work just as well as polar codes to achieve error correction in the new framework. Some suggested that a revamp of the curren\u2026 [+3994 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ashley Carman",
+            "title": "Apple Podcasts now competes with Spotify for web embeds",
+            "description": "Apple is now allowing people to embed Apple Podcasts content on the web. Anyone can embed an episode by saving the code and pasting it wherever they like.",
+            "url": "https://www.theverge.com/2020/11/16/21570041/apple-podcasts-embed-web-player-code",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Wi6tpzhUn2Lvqjmd9EtHUJWvrEM=/0x93:1306x777/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22046280/apple_podcasts.jpg",
+            "publishedAt": "2020-11-16T19:37:50Z",
+            "content": "You can embed from Apple Podcasts now\r\nApple will now let anyone embed podcasts from Apple Podcasts on the web. This means that you might see more of Apple Podcasts online, and Apple is setting itsel\u2026 [+906 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Stan Schroeder",
+            "title": "Apple addresses macOS privacy concerns, says better controls are coming in 2021",
+            "description": "Apple's macOS Big Sur gave many users a good scare. Shortly after the new OS was made available for download, some users experienced slowdowns while launching apps. Then, security researcher Jeffrey Paul wrote a blog post about the issue, pointing out that th\u2026",
+            "url": "https://mashable.com/article/apple-macos-privacy/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F16%252F5d%252F26a24b9718b44fedbe1e6565d68a5ddb.2f865.jpg%252F1200x630.jpg?signature=9gvQ-SZRIgWYGc24RTRvczsP91U=",
+            "publishedAt": "2020-11-16T12:18:07Z",
+            "content": "Apple's macOS Big Sur gave many users a good scare. Shortly after the new OS was made available for download, some users experienced slowdowns while launching apps. Then, security researcher Jeffrey \u2026 [+2468 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Romain Dillet",
+            "title": "Apple responds to Gatekeeper issue with upcoming fixes",
+            "description": "Apple has updated a documentation page detailing the company\u2019s next steps to prevent last week\u2019s Gatekeeper bug from happening again, as Rene Ritchie spotted. The company plans to implement the fixes over the next year. Apple had a difficult launch day last w\u2026",
+            "url": "http://techcrunch.com/2020/11/15/apple-responds-to-gatekeeper-issue-with-upcoming-fixes/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/macos-big-sur-release.jpg?w=600",
+            "publishedAt": "2020-11-16T06:53:06Z",
+            "content": "Apple has updated a documentation page detailing the companys next steps to prevent last weeks Gatekeeper bug from happening again, as Rene Ritchie spotted. The company plans to implement the fixes o\u2026 [+2033 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "You can now embed Apple Podcasts on the web",
+            "description": "Apple is making it easier to discover and listen to podcasts via the web. The company announced today an Apple Podcasts embed web player is now available, allowing anyone \u2014 including creators, listeners or marketers \u2014 to generate embed codes for the over 1.5 \u2026",
+            "url": "http://techcrunch.com/2020/11/16/you-can-now-embed-apple-podcasts-on-the-web/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/ios-podcasts-app-icon.jpg?w=712",
+            "publishedAt": "2020-11-16T18:38:28Z",
+            "content": "Apple is making it easier to discover and listen to podcasts via the web. The company announced today an Apple Podcasts embed web player is now available, allowing anyone \u2014 including creators, listen\u2026 [+1857 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Dana Wollman",
+            "title": "The best fitness gadgets for the athlete in your life",
+            "description": "Athletes are some of the easiest people to shop for. We can never have too many socks, and we also need lots of stuff \u2014 stuff to track our workouts, stuff to keep us entertained and stuff to help our bodies recover. In my spare time I\u2019m a distance runner and \u2026",
+            "url": "https://www.engadget.com/holiday-gifts-best-fitness-gear-140051660.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fa5e46e20-25ed-11eb-be7f-d1dd3fe89d3b&client=amp-blogside-v2&signature=80e11d2cbc40c15895fb30d120b17539c8ed0c6b",
+            "publishedAt": "2020-11-16T14:00:51Z",
+            "content": "Athleta Made to Move mask\r\nA very 2020 gift for athletes: a mask for outdoor workouts. I love Athleta\u2019s Made to Move mask for women, whose nose bridge and adjustable ear hooks make it the most comfor\u2026 [+13048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Privacy activist files complaints against Apple's tracking tool - Reuters",
+            "description": "A group led by privacy activist Max Schrems on Monday filed complaints with German and Spanish data protection authorities over Apple's <AAPL.O> online tracking tool, alleging that it allows iPhones to store users' data without their consent in breach of Euro\u2026",
+            "url": "https://www.reuters.com/article/us-apple-privacy-eu-idUSKBN27W0J1",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201116&t=2&i=1541313608&r=LYNXMPEGAF09T&w=800",
+            "publishedAt": "2020-11-16T06:09:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - A group led by privacy activist Max Schrems on Monday filed complaints with German and Spanish data protection authorities over Apple's AAPL.O online tracking too\u2026 [+2056 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Tesla gets a spot on the S&P 500",
+            "description": "Tesla will be added to the S&P 500, a milestone that will expand its investor base and put the electric automaker\u00a0in the same company as heavyweights like Apple, Berkshire Hathaway and Microsoft. The announcement, made Monday afternoon by the S&P Dow Jones In\u2026",
+            "url": "http://techcrunch.com/2020/11/16/tesla-gets-a-spot-on-the-sp-500/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/tesla-Supercharger-Straight.jpg?w=764",
+            "publishedAt": "2020-11-16T23:51:36Z",
+            "content": "Tesla will be added to the S&amp;P 500, a milestone that will expand its investor base and put the electric automaker\u00a0in the same company as heavyweights like Apple, Berkshire Hathaway and Microsoft.\u2026 [+1487 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Samuel Axon",
+            "title": "iFixit\u2019s iPhone 12 mini teardown finds shrunken components, smaller battery",
+            "description": "Everything that's in the iPhone 12 is present here\u2014just smaller, sometimes.",
+            "url": "https://arstechnica.com/gadgets/2020/11/ifixits-iphone-12-mini-teardown-finds-shrunken-components-smaller-battery/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/HRVgiIITnmIktLnI-760x380.jpg",
+            "publishedAt": "2020-11-16T19:26:23Z",
+            "content": "2 with 2 posters participating\r\n<ul><li>\r\n Opening up the iPhone 12 mini. \r\n</li><li>\r\n</li><li>\r\n</li><li>\r\n</li></ul>\r\niFixit has posted its teardown of the iPhone 12 mini, and it found inside what\u2026 [+1766 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kyle Orland",
+            "title": "Bethesda games will likely be \u201cfirst or better\u201d (not \u201conly\u201d) on Xbox",
+            "description": "No plans for \"pulling all of Bethesda content out of Sony or Nintendo...\"",
+            "url": "https://arstechnica.com/gaming/2020/11/bethesda-games-will-likely-be-first-or-better-not-only-on-xbox/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/e3-2017-1-760x380.jpg",
+            "publishedAt": "2020-11-16T20:15:45Z",
+            "content": "0 with 0 posters participating\r\n<ul><li>\r\n A quick tour of some of the Bethesda gaming franchises Microsoft now owns begins with The Elder Scrolls series. \r\n</li><li>\r\n The entire lineup of Fallout g\u2026 [+4638 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Samsung\u2019s new Smart Monitor is like a TV for your PC",
+            "description": "Samsung has announced the Smart Monitor. It comes in two sizes: 27 or 32 inches, with the option of 1080p or 4K resolution. Notably, it can stream the likes of Netflix, Hulu, and more without any additional hardware hooked up.",
+            "url": "https://www.theverge.com/2020/11/15/21562738/samsung-smart-monitor-m5-m7-tizen-smart-tv-airplay-2-usb-c-release-date-price-features",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/QLN9mZzhBfDPervELRFQwtqXh7g=/0x203:2818x1678/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22036801/smartmonitorm7.jpg",
+            "publishedAt": "2020-11-16T02:37:22Z",
+            "content": "It supports TV streaming apps and AirPlay 2\r\nThis is what the $400 Smart Monitor M7 looks like.\r\nSamsung\r\nSamsung is no stranger to releasing quirky computer monitors, such as last years Space Monito\u2026 [+2574 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "Equity shot: Airbnb\u2019s IPO is finally here",
+            "description": "Hello and welcome back to\u00a0Equity, TechCrunch\u2019s venture capital-focused podcast where we unpack the numbers behind the headlines. Today we have an Equity Shot for you about Airbnb\u2019s S-1 filing, as it looks to go public before the year is out. First we get into\u2026",
+            "url": "http://techcrunch.com/2020/11/16/airbnb-ipo-s-1-equity/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/equity-podcast-2019-phone-1.jpg?w=430",
+            "publishedAt": "2020-11-16T23:52:39Z",
+            "content": "Hello and welcome back to\u00a0Equity, TechCrunchs venture capital-focused podcast where we unpack the numbers behind the headlines.\r\nToday we have an Equity Shot for you about Airbnb\u2019s S-1 filing, as it \u2026 [+1161 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Daily Crunch: GitHub reinstates YouTube downloading project",
+            "description": "GitHub defies a takedown order, Strava raises a big round and Moderna reports promising COVID-19 vaccine results. This is your Daily Crunch for November 16, 2020. The big story: GitHub reinstates YouTube downloading project Back in October, the Recording Indu\u2026",
+            "url": "http://techcrunch.com/2020/11/16/github-youtube-dl/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-967228286.jpg?w=599",
+            "publishedAt": "2020-11-16T23:54:09Z",
+            "content": "GitHub defies a takedown order, Strava raises a big round and Moderna reports promising COVID-19 vaccine results. This is your Daily Crunch for November 16, 2020.\r\nThe big story: GitHub reinstates Yo\u2026 [+3383 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Isobel Asher Hamilton",
+            "title": "Apple illegally tracks iPhone users to target them with ads, EU privacy activism group claims in lawsuit",
+            "description": "Summary List Placement\n\nApple is staring down the barrel of a major privacy lawsuit.\nIn a complaint submitted to German and Spanish regulators on Monday, prominent privacy activist Max Schrems claimed Apple had broken EU privacy law by allowing iPhones to tra\u2026",
+            "url": "https://www.businessinsider.com/apple-iphone-privacy-illegal-tracking-cookies-eu-lawsuit-advertising-2020-11",
+            "urlToImage": "https://i.insider.com/5fb266a41c741f0019ac9eb0?width=1200&format=jpeg",
+            "publishedAt": "2020-11-16T12:14:49Z",
+            "content": "Apple is staring down the barrel of a major privacy lawsuit.\r\nIn a complaint submitted to German and Spanish regulators on Monday, prominent privacy activist Max Schrems claimed Apple had broken EU p\u2026 [+3764 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Romain Dillet",
+            "title": "Apple responds to Gatekeeper issue with upcoming fixes",
+            "description": "Apple  has updated a documentation page detailing the company\u2019s next steps to prevent last week\u2019s Gatekeeper bug from happening again, as Rene Ritchie...",
+            "url": "https://techcrunch.com/2020/11/15/apple-responds-to-gatekeeper-issue-with-upcoming-fixes/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7Pu4UWBHBq4EEIpuAnUNrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/gZ4nktuOgW94.63Xtx7gJg--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/d1400e26c2e6c68d9d85c8d7969b1c45",
+            "publishedAt": "2020-11-16T06:53:06Z",
+            "content": "(Bloomberg) -- Two years after the stunning arrest of Carlos Ghosn over alleged financial misconduct, discussions are underway inside Nissan Motor Co. that could fundamentally reshape the worlds bigg\u2026 [+8682 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Apple's IDFA gets targeted in strategic EU privacy complaints",
+            "description": "A unique device identifier that Apple  assigns to each iPhone for third parties to track users for ad targeting -- aka the IDFA (Identifier for Advertisers) ...",
+            "url": "https://techcrunch.com/2020/11/16/apples-idfa-gets-targeted-in-strategic-eu-privacy-complaints/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2sOXtz.UAxgdaCQnN9icXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/C4ABOKgNJLbP5SmTIGDqlA--~B/aD0zNTA3O3c9NTI2MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/5b850e0581f997d4a8786216e9cf63cd",
+            "publishedAt": "2020-11-16T13:02:38Z",
+            "content": "A unique device identifier that Apple assigns to each iPhone for third parties to track users for ad targeting -- aka the IDFA (Identifier for Advertisers) -- is itself now the target of two new comp\u2026 [+6886 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ashley Rodriguez",
+            "title": "A former Turner exec breaks down how TV profits will shrink in the streaming era and what legacy media companies should prepare for",
+            "description": "Summary List Placement\n\nDisney, NBCUniversal, ViacomCBS, and WarnerMedia are undergoing massive restructurings to focus their legacy-media operations on streaming video.\nBut for all the investor enthusiasm around streaming, the emerging industry requires a bi\u2026",
+            "url": "https://www.businessinsider.com/media-expert-analyzes-disney-att-shift-to-smaller-streaming-profits-2020-11",
+            "urlToImage": "https://i.insider.com/5fb290b91c741f0019ac9eff?width=1200&format=jpeg",
+            "publishedAt": "2020-11-16T20:04:24Z",
+            "content": "Disney, NBCUniversal, ViacomCBS, and WarnerMedia are undergoing massive restructurings to focus their legacy-media operations on streaming video.\r\nBut for all the investor enthusiasm around streaming\u2026 [+14625 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kirsti Knolle",
+            "title": "Privacy activist files complaints against Apple's tracking tool - Reuters",
+            "description": "A group led by privacy activist Max Schrems on Monday filed complaints with German and Spanish data protection authorities over Apple's <AAPL.O> online tracking tool, alleging that it allows iPhones to store users' data without their consent in breach of Euro\u2026",
+            "url": "https://de.reuters.com/article/apple-privacy-eu-int-idUSKBN27W0WR",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201116&t=2&i=1541329798&r=LYNXMPEGAF0GX&w=800",
+            "publishedAt": "2020-11-16T09:17:00Z",
+            "content": "BERLIN (Reuters) - A group led by privacy activist Max Schrems on Monday filed complaints with German and Spanish data protection authorities over Apple's AAPL.O online tracking tool, alleging that i\u2026 [+2757 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Jason Cipriani",
+            "title": "Save $50 on the Apple Watch Series 6 at Amazon",
+            "description": "Apple's newest wearable, the Apple Watch Series 6, has only been available for a couple of months now, but that's not stopping Amazon from dropping the price by $50 as we head into the holiday shopping season. Did we mention that the Apple Watch Series 6 is c\u2026",
+            "url": "https://www.cnn.com/2020/11/16/cnn-underscored/apple-watch-sale-series-6/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201116114009-apple-watch-lead-super-169.jpg",
+            "publishedAt": "2020-11-16T16:43:45Z",
+            "content": "Apples newest wearable, the Apple Watch Series 6, has only been available for a couple of months now, but thats not stopping Amazon from dropping the price by $50 as we head into the holiday shopping\u2026 [+1477 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "Warren Buffett's Berkshire Hathaway makes big bets on drug stocks",
+            "description": "Warren Buffett's Berkshire Hathaway is making a big bet on the health care sector at a time when the Covid-19 pandemic continues to be a major crisis in the United States.",
+            "url": "https://www.cnn.com/2020/11/16/investing/warren-buffett-berkshire-hathaway-drug-stocks/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200221091117-warren-buffett-1013-file-super-tease.jpg",
+            "publishedAt": "2020-11-16T22:28:14Z",
+            "content": "New York (CNN Business)Warren Buffett's Berkshire Hathaway is making a big bet on the health care sector at a time when the Covid-19 pandemic continues to be a major crisis in the United States.\r\nBer\u2026 [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Ellen McAlpine",
+            "title": "Expand your iPhone camera's capabilities with an attachable camera lens",
+            "description": "iPhone camera lens attachments can add exciting and creative new ways to take photos with your phone. Add lenses like fish eye, macro, wide angle and more to take your iPhone photography to the next level.",
+            "url": "https://www.cnn.com/2020/11/16/cnn-underscored/iphone-camera-lens/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201116154216-iphone-camera-lens-lead-new-super-169.jpg",
+            "publishedAt": "2020-11-16T21:11:05Z",
+            "content": "Youre looking for the perfect photo. Weve covered your lighting options when it comes to ring lights, but you still want more from your iPhones camera. From portrait mode to wide angle shots (dependi\u2026 [+8045 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "You can now embed Apple Podcasts on the web",
+            "description": "Apple is making it easier to discover and listen to podcasts via the web.  The company announced today an Apple Podcasts embed web player is now available...",
+            "url": "https://techcrunch.com/2020/11/16/you-can-now-embed-apple-podcasts-on-the-web/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rDPys32btaJQsUZ2RjkG5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI0/https://s.yimg.com/uu/api/res/1.2/woERFd6XjFzC.EsDXqqnVg--~B/aD0xMzEyO3c9MjMzNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/1cbdcc4bedf6cef87c53547b55f6b74e",
+            "publishedAt": "2020-11-16T18:38:28Z",
+            "content": "The prospect of a COVID-19 vaccine hitting the market in coming months rather than years and chance it offers to control the novel virus, has investors in a mood to buy, and fueled the market gains. \u2026 [+5616 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Mackenzie Frazier",
+            "title": "Black Friday deal alert: the Apple Watch SE hits lowest sale price ever at Amazon - TechRadar",
+            "description": "<ol><li>Black Friday deal alert: the Apple Watch SE hits lowest sale price ever at Amazon\u00a0\u00a0TechRadar\r\n</li><li>Apple Watch Series 6 review: How do you make something good, better?\u00a0\u00a0HT Tech\r\n</li><li>Save on the new Apple Watch Series 6 at Best Buy and Amazon!\u2026",
+            "url": "https://www.techradar.com/news/black-friday-deal-alert-the-apple-watch-se-hit-lowest-sale-price-ever-at-amazon",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/R2hZgdAof55ZVf38aNXZbW-1200-80.jpg",
+            "publishedAt": "2020-11-16T21:32:00Z",
+            "content": "Just ahead of the highly anticipated Black Friday deals event, Amazon has a rare price cut on the all-new Apple Watch SE. For a limited time, you can get the 40mm Apple Watch SE on sale for a record-\u2026 [+2332 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shoshy Ciment",
+            "title": "Inside SNKRS: How a group of Nike employees went 'unconventional' to build a chart-topping app that would forever change the sneaker landscape",
+            "description": "Summary List Placement\n\nThere's an internal philosophy that guides innovation at Nike. To make something unique, you have to think outside the \"berm,\" what employees have nicknamed the perimeter of Nike's 286-acre campus in Beaverton, Oregon.\nWhen it came to \u2026",
+            "url": "https://www.businessinsider.com/how-nike-snkrs-app-became-viral-internet-phenomenon-2020-11",
+            "urlToImage": "https://i.insider.com/5f97329ff21803001222c0fa?width=1200&format=jpeg",
+            "publishedAt": "2020-11-16T14:07:25Z",
+            "content": "There's an internal philosophy that guides innovation at Nike. To make something unique, you have to think outside the \"berm,\" what employees have nicknamed the perimeter of Nike's 286-acre campus in\u2026 [+14072 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Dan Goodin",
+            "title": "Mac certificate check stokes fears that Apple logs every app you run",
+            "description": "Amid concern that macOS logs app usage in real time, Apple issues assurances.",
+            "url": "https://arstechnica.com/gadgets/2020/11/mac-certificate-check-stokes-fears-apple-logs-every-app-you-run/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/computer-privacy-760x380.jpg",
+            "publishedAt": "2020-11-16T21:25:34Z",
+            "content": "3 with 3 posters participating\r\nLast Thursday afternoon, Mac users everywhere began complaining of a crippling slowdown when opening apps. The cause: online certificate checks Apple performs each tim\u2026 [+7028 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Melanie Weir",
+            "title": "A comprehensive list of Siri voice commands you can use on an iPhone",
+            "description": "Summary List PlacementWhen voice commands first came out on phones, it was a bit of a joke \u2014 they were finicky, hard to control, and would often misunderstand the user and perform the wrong task.\u00a0\nBut voice commands have significantly evolved, and become buil\u2026",
+            "url": "https://www.businessinsider.com/siri-voice-commands",
+            "urlToImage": "https://i.insider.com/5faedbbc1c741f0019ac9ba9?width=1200&format=jpeg",
+            "publishedAt": "2020-11-16T17:19:00Z",
+            "content": "When voice commands first came out on phones, it was a bit of a joke \u2014 they were finicky, hard to control, and would often misunderstand the user and perform the wrong task.\u00a0\r\nBut voice commands have\u2026 [+7669 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Chelsea Stone",
+            "title": "The best sales to shop today: Adidas, Wayfair, Apple Watch and more",
+            "description": "Today, you'll find a deal on SodaStream, discounts at Adidas and savings on tons of home goods at Wayfair. All that and more below.",
+            "url": "https://www.cnn.com/2020/11/16/cnn-underscored/best-online-sales-right-now/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201116102846-1116dealslead-super-169.jpg",
+            "publishedAt": "2020-11-16T16:12:42Z",
+            "content": "Today, youll find a deal on SodaStream, discounts at Adidas and savings on tons of home goods at Wayfair. All that and more below.\r\nStarting today, when you buy a pair of shoes at Adidas, youll get 3\u2026 [+2812 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Equity Monday: C3.AI files to go public and Vision Fund 2 leads $100M round",
+            "description": "Hello and welcome back to\u00a0Equity, TechCrunch\u2019s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund\u2026",
+            "url": "http://techcrunch.com/2020/11/16/equity-monday-c3-ai-files-to-go-public-and-vision-fund-2-leads-100m-round/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/equity-podcast-2019-phone-1-1.jpg?w=430",
+            "publishedAt": "2020-11-16T14:49:39Z",
+            "content": "Hello and welcome back to\u00a0Equity, TechCrunchs venture capital-focused podcast where we unpack the numbers behind the headlines.\r\nThis is Equity Monday, our weekly kickoff that tracks the latest big n\u2026 [+961 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Nick Pino",
+            "title": "Amazon Black Friday deals preview: 25% off 75-inch TVs, PS Plus and dozens of other devices - TechRadar",
+            "description": "<ol><li>Amazon Black Friday deals preview: 25% off 75-inch TVs, PS Plus and dozens of other devices\u00a0\u00a0TechRadar\r\n</li><li>Best Amazon Black Friday 2020 deals available now: $100 smart TV, Apple Watch savings and home DNA test discounts\u00a0\u00a0CNET\r\n</li><li>6 Early \u2026",
+            "url": "https://www.techradar.com/news/amazon-black-friday-deals-preview-25-off-75-inch-tvs-ps-plus-and-dozens-of-other-devices",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/x4hEjoyNaztVnzNEgq9gkS-1200-80.jpg",
+            "publishedAt": "2020-11-16T23:55:00Z",
+            "content": "Its no surprise: Black Friday 2020 is just around the corner, and Amazon is going to participate in a big way. The worlds largest online retailer just announced its Amazon Black Friday 2020 deals wit\u2026 [+10482 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Veronika Kero",
+            "title": "Save 50% on this wireless Samsung soundbar and subwoofer bundle",
+            "description": "Save $130: The Samsung 2.1 Ch 290W soundbar with wireless subwoofer bundle is on sale at Best Buy for $129.99 as of Nov. 16.\u00a0\n\nIt's out with the boring old speakers and in with the soundbars. For better sound and a wider range, these sleek devices are definit\u2026",
+            "url": "https://mashable.com/shopping/nov-16-black-friday-samsung-soundbar-subwoofer/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F16%252F75%252F28c68a4c3fbb4e5a9557fa94008dffc3.9ad67.jpg%252F1200x630.jpg?signature=wMIUQdEydZ9dC0o-dpOmRYpw4Q0=",
+            "publishedAt": "2020-11-16T16:12:11Z",
+            "content": "Save $130: The Samsung 2.1 Ch 290W soundbar with wireless subwoofer bundle is on sale at Best Buy for $129.99 as of Nov. 16.\u00a0\r\nIt's out with the boring old speakers and in with the soundbars. For bet\u2026 [+899 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Marina Watts",
+            "title": "Does This 19th-Century Painting Show a Woman Using an iPhone?",
+            "description": "At the time of the painting's debut, art observers would have assumed the woman depicted was holding a prayer book. But, in 2020, folks aren't as sure.",
+            "url": "https://www.newsweek.com/does-this-19th-century-painting-show-woman-using-iphone-1547809",
+            "urlToImage": "https://d.newsweek.com/en/full/1670725/iphone.jpg",
+            "publishedAt": "2020-11-16T20:49:31Z",
+            "content": "Is this woman using an iPhone in the 1860 painting \"The Expected One,\" by Austrian painter Ferdinand Georg Waldm\u00fcller? Maybe!\r\nThe 160-year-old painting depicts a young woman walking down a wooded pa\u2026 [+2588 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Kissinger Warns Biden of U.S.-China Catastrophe on Scale of WWI...",
+            "description": "Kissinger Warns Biden of U.S.-China Catastrophe on Scale of WWI...\r\n\n \n \n \n (Second column, 4th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:President will leave office foiled by NKorea. Will Biden fare better?\r\nTrump's efforts on Iran falter; Uranium stockpile \u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-11-16/kissinger-warns-biden-of-u-s-china-catastrophe-on-scale-of-wwi",
+            "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1b3M6K.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1439&y=500",
+            "publishedAt": "2020-11-16T15:31:38Z",
+            "content": "(Bloomberg) -- Former U.S. Secretary of State Henry Kissinger said the incoming Biden administration should move quickly to restore lines of communication with China that frayed during the Trump year\u2026 [+6584 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kathleen Rellihan",
+            "title": "Tom Hiddleston Narrates New Doc 'Earth at Night in Color' Revealing the Nocturnal Lives of Animals",
+            "description": "Until now cameras only allowed a glimpse into the secret nocturnal life of animals, but with next-generation cameras, this new Apple TV+ docuseries reveals wildlife at night clear as day for the first time ever.",
+            "url": "https://www.newsweek.com/tom-hiddleston-narrates-new-doc-earth-night-color-revealing-nocturnal-lives-animals-1547717",
+            "urlToImage": "https://d.newsweek.com/en/full/1670615/earth-night-color.jpg",
+            "publishedAt": "2020-11-16T16:14:02Z",
+            "content": "While you might have had to cancel your safari trip this year, you can still escape into the wild with Apple TV+'s new docuseries \"Earth at Night in Color.\" Filmed on six continents, as far afield as\u2026 [+3463 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Haley Henschel",
+            "title": "Here's a master list of the best iPhone deals you can shop this Black Friday",
+            "description": "Here are the best Black Friday deals on iPhones\u00a0\n<ul>\n<li>OUR TOP PICK: iPhone 12 \u2014\u00a0free at T-Mobile\r\n</li>\n<li>BEST FOR PHOTOS: iPhone 11 Pro Max \u2014 save up to $700 at AT&T\r\n</li>\n<li>BEST BUDGET PICK: iPhone SE (2020) \u2014 free at Verizon and AT&T\r\n</li>\n</ul>\n\u2026",
+            "url": "https://mashable.com/shopping/black-friday-iphone-deals/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F16%252F34%252F50841dddaa564e609061c5bd05d807ba.39bdd.png%252F1200x630.png?signature=JnTSqK5AfxUW1v9YJ8ttvN3rfXY=",
+            "publishedAt": "2020-11-16T10:08:00Z",
+            "content": "Here are the best Black Friday deals on iPhones\u00a0\r\n<ul><li>OUR TOP PICK: iPhone 12 \u00a0free at T-Mobile\r\n</li><li>BEST FOR PHOTOS: iPhone 11 Pro Max save up to $700 at AT&amp;T\r\n</li><li>BEST BUDGET PICK\u2026 [+5966 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Westcott, CNN",
+            "title": "China looms as Biden's biggest foreign policy challenge. Here's where he stands",
+            "description": "As United States President-elect Joe Biden faces an ugly, potentially contested transition, foreign policy may be the last thing on his mind.",
+            "url": "https://www.cnn.com/2020/11/15/asia/biden-china-policy-trump-us-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201116084655-xi-jinping-joe-biden-2015-super-tease.jpg",
+            "publishedAt": "2020-11-16T01:25:12Z",
+            "content": "Hong Kong (CNN)As United States President-elect Joe Biden faces an ugly, potentially contested transition, foreign policy may be the last thing on his mind. \r\nBut in capitals around the world, foreig\u2026 [+11945 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Daniel Cooper",
+            "title": "Apple's iOS ad-tracking targeted by European privacy campaigner",
+            "description": "Max Schrems (pictured) is a privacy campaigner who has already battled the US-EU Privacy Shield and Facebook. Today, the activist is launching legal broadsides against Apple, saying that the iPhone maker\u2019s use of IDFA, IDentifier For Advertisers, is...",
+            "url": "https://www.engadget.com/max-schrems-apple-eu-iphone-privacy-idfa-tracking-123341948.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F72203400-2806-11eb-bfdc-b78e7caa95bb&client=amp-blogside-v2&signature=2352918c7fecc6efa2ffd8502e495ed9ba2e5613",
+            "publishedAt": "2020-11-16T12:33:41Z",
+            "content": "Max Schrems (pictured) is a privacy campaigner who has already battled the US-EU Privacy Shield and Facebook. Today, the activist is launching legal broadsides against Apple, saying that the iPhone m\u2026 [+857 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jacob Kastrenakes",
+            "title": "macOS Big Sur update causing some older MacBook Pros to get stuck on a black screen",
+            "description": "Late-2013 and mid-2014 models of the 13-inch MacBook Pro have been getting stuck on a black screen while installing macOS Big Sur.",
+            "url": "https://www.theverge.com/2020/11/16/21569405/macos-big-sur-update-error-macbook-pro-2013-2014-models-black-screen",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/wJBpzg3honMsugsTRq1ypil7Gkk=/0x22:1080x587/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20047135/big_sur.jpeg",
+            "publishedAt": "2020-11-16T14:21:30Z",
+            "content": "Maybe dont update yet if you have one of these MacBook Pro models\r\nImage: Apple\r\nThe macOS Big Sur update has been causing some older MacBook Pros to get stuck on a black screen during installation, \u2026 [+1395 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Leah Stodart",
+            "title": "Best Buy had not an ounce of chill with this year's Black Friday deals",
+            "description": "(Sign up for a free My Best Buy account to shop many of these deals starting Mon. Nov. 16.)\nThis Black Friday, Best Buy probably won't see its typical melee of customers piling up in front of an automatic door.\nThat's just because all of the good deals are on\u2026",
+            "url": "https://mashable.com/shopping/best-buy-black-friday-deals/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F16%252F06%252Fbc0c679094f443cd9a054476a1a6d94e.1bdc4.png%252F1200x630.png?signature=osQlOuaTV72ykTAEDt4Z4T_Yl_g=",
+            "publishedAt": "2020-11-16T10:05:00Z",
+            "content": "(Sign up for a free My Best Buy account to shop many of these deals starting Mon. Nov. 16.)\r\nThis Black Friday, Best Buy probably won't see its typical melee of customers piling up in front of an aut\u2026 [+5038 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Galaxy S21: Top 5 things to know from Samsung mega-leak! - Android Central",
+            "description": "<ol><li>Galaxy S21: Top 5 things to know from Samsung mega-leak!\u00a0\u00a0Android Central\r\n</li><li>Samsung Galaxy S21 Specs Leak Ahead of Early 2021 Launch\u00a0\u00a0iPhone in Canada\r\n</li><li>Doesn\u2019t look like Samsung has plans to launch Galaxy Note 21 series\u00a0\u00a0SamMobile\r\n</\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9d21UMEN0RVhEYzTSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-16T21:43:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Valentina Palladino",
+            "title": "The Apple Watch Series 6 falls to new low of $350 at Amazon",
+            "description": "Amazon has reduced the price of Apple\u2019s latest flagship smartwatch yet again. The online retailer has had the Apple Watch Series 6 for $385 for a number of weeks now, despite the Series 6 only debuting in September, and now some 40mm models are disco...",
+            "url": "https://www.engadget.com/apple-watch-series-6-new-amazon-sale-new-all-time-low-early-black-friday-213620639.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fac7336e1-f852-11ea-9ca7-6ed95a50b935&client=amp-blogside-v2&signature=c385cd24b8d5212fc51980c6e21f6cad4488643b",
+            "publishedAt": "2020-11-16T21:36:20Z",
+            "content": "Those deals are on the GPS-only Series 6 models, but Amazon also reduced the prices of some GPS + Cellular models as well. For example, you can grab the silver aluminum model with a white sport band \u2026 [+1718 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Jennifer Still)",
+            "title": "How to enable two-factor authentication on Apple devices to keep your data secure",
+            "description": "You can set up two-factor authentication on Apple devices to provide extra security for your personal account information.",
+            "url": "https://www.businessinsider.com/two-factor-authentication-apple",
+            "urlToImage": "https://i.insider.com/5faeef031c741f0019ac9c5e?width=1200&format=jpeg",
+            "publishedAt": "2020-11-16T15:02:00Z",
+            "content": "Ensuring your personal information remains private and secure when you're online is a top priority for most people, and one of the easiest ways to protect sensitive data is by enabling two-factor aut\u2026 [+2025 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Paul Ratner",
+            "title": "What ended the Black Death, history's worst pandemic",
+            "description": "<li>The Plague was the worst pandemic in history, killing up to 200 million people.</li><li>The disease spread through air, rats and fleas, and decimated Europe for several centuries.</li><li>The pandemic eased with better sanitation, hygiene, and medical adv\u2026",
+            "url": "http://feedproxy.google.com/~r/bigthink/main/~3/0RK2KUN1ZLs/what-ended-the-black-death-historys-worst-pandemic",
+            "urlToImage": null,
+            "publishedAt": "2020-11-16T14:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Apple Podcasts now has support for web embeds",
+            "description": "Apple Podcasts now has a player you can embed across the web. Anyone can now grab an embed code for a show or episode from the more than 1.5 million podcasts on the platform.You can find an embed code from Apple Podcasts Preview pages on the web. Jus...",
+            "url": "https://www.engadget.com/apple-podcasts-web-embeds-235838456.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fb94cf5b0-2852-11eb-beff-28eef1aecba2&client=amp-blogside-v2&signature=93508d77e535c8ddf2bb6d1ffd9dddf8933144ce",
+            "publishedAt": "2020-11-16T23:58:38Z",
+            "content": "Apple Podcasts now has a player you can embed across the web. Anyone can now grab an embed code for a show or episode from the more than 1.5 million podcasts on the platform.\r\nYou can find an embed c\u2026 [+358 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Damon Beres",
+            "title": "Free advice: Turn your phone's damn battery percentage off",
+            "description": "Attention is a kind of love. Except when it's directed toward your iPhone and its unending series of notifications, at which point, if you're anything like me, is nothing more than a specific kind of anxiety unto itself: \"Why am I staring at this thing so muc\u2026",
+            "url": "https://mashable.com/2018/01/12/battery-percentage-on-iphone/",
+            "urlToImage": "https://mondrian.mashable.com/2018%252F01%252F12%252Ffd%252Fad76584eea53402a9d57126fb341e868.7181e.jpg%252F1200x630.jpg?signature=EaIlG7uRwxni2EafSaGoArmWM58=",
+            "publishedAt": "2020-11-16T07:35:04Z",
+            "content": "Attention is a kind of love.\u00a0\r\nExcept when it's directed toward your iPhone and its unending series of notifications, at which point, if you're anything like me, is nothing more than a specific kind \u2026 [+3805 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Chelsea Stone",
+            "title": "Cyber Monday 2020 is coming soon \u2014 here's what you need to know",
+            "description": "Cyber Monday 2020 is just a few weeks away. Of course, it's never too early to start preparing \u2014 and writing up your wish list for the year's biggest sale holiday.",
+            "url": "https://www.cnn.com/2020/11/16/cnn-underscored/cyber-monday-deals-2020/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201030133308-cyber-monday-lead-super-169.jpg",
+            "publishedAt": "2020-11-16T14:25:13Z",
+            "content": "Cyber Monday 2020 is just a few weeks away. Of course, its never too early to start preparing and writing up your wish list for the years biggest sale holiday.\r\nRead on for what we know about Cyber M\u2026 [+3071 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Daniel Cooper",
+            "title": "Huawei urges UK to reverse ban following US election",
+            "description": "A Huawei executive has suggested that the UK backtrack on its ban of the controversial Chinese company in the wake of the US elections. The Guardian quotes company VP Victor Zhang, who is urging politicians in the UK to let Huawei take part in the 5G...",
+            "url": "https://www.engadget.com/huawei-victor-zheng-uk-rethink-ban-143850884.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fe31cb3c0-2817-11eb-a6fb-b0cececf525a&client=amp-blogside-v2&signature=b58d2e21b3e604a4fd94ed9b402d9e68c251ed5e",
+            "publishedAt": "2020-11-16T14:38:50Z",
+            "content": "America has certainly been urging the UK to stand in lockstep on the subject of Huawei, with senior officials flying across the pond to make their case. When the UK stopped short of an outright ban o\u2026 [+1038 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "podcast@cnet.com (CNET.com), CNET",
+            "title": "The iPhone 12 Mini is tough to crack",
+            "description": "We dropped Apple's new iPhone 12 Mini seven times on concrete to see how much the Ceramic Shield can handle.",
+            "url": "http://feedproxy.google.com/~r/allcnetvideopodcasts/~3/fl3rmGcsaBY/iPhone12Mini_DropTest_FINAL_554090_740.mp4",
+            "urlToImage": null,
+            "publishedAt": "2020-11-16T12:00:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The best Black Friday deals you can get right now",
+            "description": "Black Friday officially lands on November 27th, but many of the best online deals have already begun. We\u2019re tracking them all here, where you\u2019ll find big discounts on Sony wireless noise-canceling headphones, iPads, and more.",
+            "url": "https://www.theverge.com/good-deals/21569412/black-friday-best-early-deals-sales-tech-gadgets",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/FMchCVy0iTHd8g209G1KJ-IU8WM=/0x179:2040x1247/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21699857/IMG_0620-1.0.jpeg",
+            "publishedAt": "2020-11-16T15:38:28Z",
+            "content": "An up-to-date list of the best early sales happening online\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nPhoto by Chris Welch / The Verge\r\nThis\u2026 [+4515 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Daniel Cooper",
+            "title": "Apple assures Mac users its anti-malware feature isn't spying on them",
+            "description": "Apple has been forced to clarify how its Gatekeeper anti-malware platform works after security researchers suggested the system was violating privacy. The company, as spotted by 9to5Mac, has updated its support documentation to explain that the syste...",
+            "url": "https://www.engadget.com/apple-gatekeeper-privacy-macos-security-104715012.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F6912f420-27f6-11eb-9d5e-8e6bdf7165a4&client=amp-blogside-v2&signature=902256ff4f41f41c34184fb011f0602fd53586bc",
+            "publishedAt": "2020-11-16T10:47:15Z",
+            "content": "Essentially, if your Mac is connected to the internet, Gatekeeper will check to see if it\u2019s safe to run a piece of software. Say, you click launch on Photoshop, your computer will ping an Apple serve\u2026 [+1063 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "STAN CHOE and DAMIAN J. TROISE / AP",
+            "title": "Dow Jones Sets New Record After Promising COVID-19 Vaccine News",
+            "description": "The Dow Jones Industrial Average returned to a record Monday for the first time since plunging nine months ago in despair about the pandemic.",
+            "url": "https://time.com/5912508/dow-jones-stock-market-record-vaccine/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/11/AP20321529292024.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2020-11-16T21:52:14Z",
+            "content": "NEW YORK \u2014 The Dow Jones Industrial Average returned to a record Monday for the first time since plunging nine months ago in despair about the pandemic, riding a swell of optimism that a vaccine may \u2026 [+5295 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "The baby-blue Google Pixel 4a is real and you can buy one right now",
+            "description": "In September, we got wind that Google originally intended to offer the Pixel 4a in a baby blue color \u2014 and you can now officially buy it at Google\u2019s website for the same $349, orange power button and all.",
+            "url": "https://www.theverge.com/2020/11/16/21570019/google-pixel-4a-barely-baby-blue-limited-edition",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/rZ0ksSXXAQ7U-FbXvfk0n2z8E8c=/0x95:1325x789/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22046093/pixel_4a_blue.jpg",
+            "publishedAt": "2020-11-16T18:34:52Z",
+            "content": "$349 for an unlocked model, no Google Fi offers\r\nIf youve been put off by the astoundingly-excellent-for-$349 Google Pixel 4a because it only comes in black, you should know thats no longer true. In \u2026 [+791 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Levin",
+            "title": "Tesla will join the S&P 500 in December after being snubbed earlier this year",
+            "description": "Summary List Placement\n\nTesla will be added to the S&P 500 later this year, S&P Dow Jones Indices announced Monday.\u00a0\nTesla will join the exclusive club of companies prior to the open of trading on Monday, December 21. Shares of the electric-vehicle manufactur\u2026",
+            "url": "https://www.businessinsider.com/tesla-to-join-sp-500-in-december-2020-11",
+            "urlToImage": "https://i.insider.com/5fb3061f402d49001924f484?width=1200&format=jpeg",
+            "publishedAt": "2020-11-16T23:25:40Z",
+            "content": "Tesla will be added to the S&amp;P 500 later this year, S&amp;P Dow Jones Indices announced Monday.\u00a0\r\nTesla will join the exclusive club of companies prior to the open of trading on Monday, December \u2026 [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Tanya Edwards",
+            "title": "18 of the sweetest treats to send your loved ones for the holidays",
+            "description": "Maybe you're safely gathering for the holidays this year, but if you're staying distant, that doesn't mean you can't send some sweets to your favorite people \u2014 which is almost as good as a big hug and a kiss.",
+            "url": "https://www.cnn.com/2020/11/16/cnn-underscored/food-gifts-holiday-keywee/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201109122111-sweettreatslead-super-169.jpg",
+            "publishedAt": "2020-11-16T17:34:15Z",
+            "content": "Maybe youre safely gathering for the holidays this year, but if youre staying distant, that doesnt mean you cant send some sweets to your favorite people which is almost as good as a big hug and a ki\u2026 [+5126 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Joshua Spivak",
+            "title": "A Trump 2024 Run Is a Terrible Idea\u2014For Him and for the GOP | Opinion",
+            "description": "Of all those attempting a return to the highest office in the land, only one has succeeded. The other former presidents who ran ended up as third party spoilers.",
+            "url": "https://www.newsweek.com/trump-2024-disaster-gop-1547822",
+            "urlToImage": "https://d.newsweek.com/en/full/1670761/trumpcolo.jpg",
+            "publishedAt": "2020-11-16T20:48:17Z",
+            "content": "While Donald Trump is still refusing to acknowledge his electoral defeat, he and his supporters appear to be talking up a 2024 comeback. Trump would not be the first former president to attempt a com\u2026 [+5318 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "Warren Buffett's Berkshire Hathaway reveals stakes in AbbVie, Merck, Pfizer, and other 'big pharma' stocks",
+            "description": "The famed investor's company disclosed $1.8 billion worth of stock in each of AbbVie, Merck, and Bristol Myers Squibb.",
+            "url": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-invests-pfizer-merck-abbvie-pharmaceutical-stocks-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5e4a9a51e0e144013475444c?format=jpeg",
+            "publishedAt": "2020-11-16T21:30:15Z",
+            "content": "Warren Buffett\r\nAP Images\r\n<ul><li>Warren Buffett's Berkshire Hathaway invested in AbbVie, Bristol-Myers Squibb, Merck, and Pfizer in the third quarter.</li><li>The billionaire investor's company dis\u2026 [+2209 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Verge Staff",
+            "title": "The Verge\u2019s favorite holiday gifts under $25",
+            "description": "The Verge\u2019s Budget Holiday Gift Guide for 2020 features a variety of gift ideas that cost under $25 but offer a lot of value for so little, such as a Game Boy-inspired case for AirPods, a great video recorder app, and a video capture card.",
+            "url": "https://www.theverge.com/21557073/budget-holiday-gift-guide-cheap-tech-gadgets-ideas",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/69zWzKjAiFH8ae64HXpViOvJOwc=/0x59:3000x1630/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22033093/VRG_4264_Budget_HGG_Lede_002.jpg",
+            "publishedAt": "2020-11-16T15:00:00Z",
+            "content": "Nite Ize BugLit micro flashlight\r\nIt's always a good idea to have a flashlight available. It's an even better idea to have one that will either stand on its own or wrap around your wrist or any conve\u2026 [+7882 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Engadget",
+            "title": "The Morning After: Updating to macOS Big Sur is messing up some MacBook Pros",
+            "description": "How is your increasingly indoors November going? I\u2019m playing a lot of Watch Dogs: Legion at the moment. It\u2019s a bit of a slow burn to begin with \u2014 playing as a rebel bunch of hackers, you lack many of the cool skills and gadgets until mid-game \u2014 but t...",
+            "url": "https://www.engadget.com/the-morning-after-macos-big-sur-bricking-macbook-pro-123055886.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fb144b770-27fa-11eb-82d7-9e3f0fe727b4&client=amp-blogside-v2&signature=68a52b40317ed93c95c4a817c8b5ba3f699238ec",
+            "publishedAt": "2020-11-16T12:30:55Z",
+            "content": "How is your increasingly indoors November going? I\u2019m playing a lot of Watch Dogs: Legion at the moment. It\u2019s a bit of a slow burn to begin with \u2014 playing as a rebel bunch of hackers, you lack many of\u2026 [+3824 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Apple responds to privacy concerns over Mac software security process",
+            "description": "Apple has clarified its policies and promised improvements after server issues prompted criticism of the info collected when users launch Mac apps. It\u2019s added a new section to its \u201cSafely open apps on your Mac\u201d support page.",
+            "url": "https://www.theverge.com/2020/11/16/21569316/apple-mac-ocsp-server-developer-id-authentication-privacy-concerns-encryption-promises-fix",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/7ptLK_BDo8wD_MW1bD5ZhVFKDWo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13728969/acastro_180604_1777_apple_wwdc_0002.jpg",
+            "publishedAt": "2020-11-16T12:15:57Z",
+            "content": "The company says it doesnt keep tabs on the apps macOS users run\r\nIllustration by Alex Castro / The Verge\r\nLast week, a number of Mac users had trouble opening apps a problem that seemed to be caused\u2026 [+3193 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ljohnson@businessinsider.com (Lauren Johnson)",
+            "title": "WPP's consolidation spree continues",
+            "description": "Business Insider's top advertising and media stories for November 17.",
+            "url": "https://www.businessinsider.com/business-insiders-top-advertising-and-media-stories-for-november-17-2020-11",
+            "urlToImage": "https://i.insider.com/5fb30af730303a1ad836123d?width=1200&format=jpeg",
+            "publishedAt": "2020-11-16T23:33:55Z",
+            "content": "Hi! Welcome to the Insider Advertising daily for November 17. I'm Lauren Johnson, a senior advertising reporter at Business Insider. Subscribe here to get this newsletter in your inbox every weekday.\u2026 [+1225 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "'Don't count out technology,' even as value stocks start to stage a comeback, says Oppenheimer's strategy chief",
+            "description": "Weakness in technology stocks is being driven by investors looking to take profits ahead of a potential capital gains tax hike, Oppenheimer said.",
+            "url": "https://www.businessinsider.com/stock-market-outlook-dont-ignore-technology-value-stocks-stage-comeback-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fb2d8c1402d49001924f37e?format=jpeg",
+            "publishedAt": "2020-11-16T20:59:34Z",
+            "content": "Lucas Jackson/Reuters\r\n<ul><li>With positive COVID-19 vaccine news lifting value stocks related to the reopening trade, technology stocks have underperformed.</li><li>In fact, since September 23, val\u2026 [+2830 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Martin Matishak",
+            "title": "CISA chief Chris Krebs remains at his post",
+            "description": "Trump throws spaghetti at the refrigerator \u2014 Katko reelected",
+            "url": "https://www.politico.com/newsletters/weekly-cybersecurity/2020/11/16/cisa-chief-chris-krebs-remains-at-his-post-791666",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-11-16T15:00:44Z",
+            "content": "Presented by The Bouqs Co.\r\nWith help from Eric Geller\r\nEditors Note: Weekly Cybersecurity is a weekly version of POLITICO Pros daily Cybersecurity policy newsletter, Morning Cybersecurity. POLITICO \u2026 [+10842 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "future.dj pro 1.8.2 - Professional DJ mixing for audio, video, and karaoke (was FutureDecks DJ pro). (Shareware)",
+            "description": "future.dj pro (was FutureDecks DJ pro) is our flagship product, packed with the latest professional DJ features that answer the needs of both professional and aspiring DJs. Future.dj pro can easily be used by all manner of DJs, from bedroom DJs who enjoy crea\u2026",
+            "url": "http://feedproxy.google.com/~r/macupdate/~3/7T9yEpDZfHQ/1605509404",
+            "urlToImage": null,
+            "publishedAt": "2020-11-16T06:50:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Tom Bedford",
+            "title": "iPhone 13 battery might be smaller than iPhone 12, but with a vital charge feature",
+            "description": "Two iPhone leaks give us some big battery scoops; one on the iPhone 13's battery size, the other on a cool new charging tool.",
+            "url": "https://www.techradar.com/news/iphone-13-battery-might-be-smaller-than-iphone-12-but-with-a-vital-charge-feature",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tczhYoPvxkU64jwTEmzgaQ-1200-80.jpg",
+            "publishedAt": "2020-11-16T10:00:37Z",
+            "content": "The iPhone 12 has only just been released and we're already hearing reports on its successor, the iPhone 13. We've heard two new rumors on future iPhones, though only one is explicitly linked to this\u2026 [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kirsti Knolle",
+            "title": "Apple hits back at European activist complaints against tracking tool",
+            "description": "An Austrian privacy advocacy group drew a strongly critical response from Apple on Monday after it said an online tracking tool used in its devices breached European law.",
+            "url": "https://uk.reuters.com/article/us-apple-privacy-eu-idUKKBN27W0J1",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201116&t=2&i=1541338338&r=LYNXMPEGAF09W&w=800",
+            "publishedAt": "2020-11-16T17:44:49Z",
+            "content": "BERLIN (Reuters) - An Austrian privacy advocacy group drew a strongly critical response from Apple on Monday after it said an online tracking tool used in its devices breached European law.\r\nThe grou\u2026 [+3412 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Michael Hicks",
+            "title": "Apple reportedly testing foldable iPhone prototype for September 2022 release",
+            "description": "Apple may be testing multiple foldable prototypes with either OLED or Micro-LED screens at its Taiwanese factory",
+            "url": "https://www.techradar.com/news/apple-reportedly-testing-foldable-iphone-prototype-for-september-2022-release",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qdctMbN785JCMyeKLuu8wT-1200-80.jpg",
+            "publishedAt": "2020-11-16T23:55:02Z",
+            "content": "Apple's plans for a foldable iPhone, or iPhone Flip, are an open secret thanks to an influx of rumors and patent filings in recent weeks. Yet the latest leak suggests that Apple has progressed beyond\u2026 [+2417 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Privacy activist files complaints against Apple's tracking tool",
+            "description": "A group led by privacy activist Max Schrems on Monday filed complaints with German and Spanish data protection authorities over Apple's <AAPL.O> online tracking tool, alleging that it allows iPhones to store users' data without their consent in breach of Euro\u2026",
+            "url": "https://ca.reuters.com/article/us-apple-privacy-eu-idCAKBN27W0J1",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201116&t=2&i=1541313608&r=LYNXMPEGAF09T&w=800",
+            "publishedAt": "2020-11-16T06:07:54Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - A group led by privacy activist Max Schrems on Monday filed complaints with German and Spanish data protection authorities over Apple's AAPL.O online tracking too\u2026 [+2056 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "markonen",
+            "title": "Max Schrems hits Apple with complaints over ad-tracking device",
+            "description": "Article URL: https://www.bloomberg.com/news/articles/2020-11-16/apple-targeted-by-privacy-campaigner-who-took-on-facebook\nComments URL: https://news.ycombinator.com/item?id=25110205\nPoints: 7\n# Comments: 0",
+            "url": "https://www.bloomberg.com/news/articles/2020-11-16/apple-targeted-by-privacy-campaigner-who-took-on-facebook",
+            "urlToImage": null,
+            "publishedAt": "2020-11-16T10:36:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Samuel Roberts",
+            "title": "The best TechRadar reads you may have missed",
+            "description": "Buying an iPhone 12 during a pandemic, Assassin's Creed Valhalla at 8K and the future of TV technology.",
+            "url": "https://www.techradar.com/news/the-best-techradar-reads-you-may-have-missed-nov-16-2020",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Yk8Hnod8GUo8d9aNcnTPdk-1200-80.jpg",
+            "publishedAt": "2020-11-16T13:00:24Z",
+            "content": "So: how do you buy a PS5 or Xbox Series X right now? That's the question we spent most of last week asking, as both consoles kicked off their launches to instant sellouts and pretty patchy stock offe\u2026 [+6744 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Tesla gets a spot on the S&P 500 \u2013 TechCrunch",
+            "description": "Tesla will be added to the S&P 500, a milestone that will expand its investor base and put the electric automaker\u00a0in the same company as heavyweights like Apple, Berkshire Hathaway and Microsoft. The announcement, made Monday afternoon by the S&P Dow Jones In\u2026",
+            "url": "http://techcrunch.com/2020/11/16/tesla-gets-a-spot-on-the-sp-500/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/tesla-Supercharger-Straight.jpg?w=764",
+            "publishedAt": "2020-11-16T23:51:45Z",
+            "content": "Tesla will be added to the S&amp;P 500, a milestone that will expand its investor base and put the electric automaker\u00a0in the same company as heavyweights like Apple, Berkshire Hathaway and Microsoft.\u2026 [+1487 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Steve McCaskill",
+            "title": "Qualcomm gets licence to sell 4G chips to Huawei",
+            "description": "Huawei can get 4G chips from Qualcomm but will it be able to get 5G tech?",
+            "url": "https://www.techradar.com/news/qualcomm-gets-licence-to-sell-4g-chips-to-huawei",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jTeqmUejrz7h7eVnbYkfTS-1200-80.jpg",
+            "publishedAt": "2020-11-16T13:50:40Z",
+            "content": "Qualcomm has received a licence from the US government to sell certain types of chips to Huawei, bypassing sanctions that have been in place since last year.\r\nThe San Diego-based chip manufacturer co\u2026 [+1616 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Leila Stein",
+            "title": "MacBook Air and Pro 13 South Africa: Prices, availability",
+            "description": "The Apple MacBook Air and Pro 13 are landmark laptops for the company as they are the first to move away from the Intel chips to Apple's own M1 chipset",
+            "url": "https://global.techradar.com/en-za/news/macbook-air-and-pro-13-south-africa-prices-availability",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/g9miqzP8te3izXTYmj6MoP-1200-80.jpg",
+            "publishedAt": "2020-11-16T09:14:02Z",
+            "content": "The Apple MacBook Air and Pro 13 are landmark laptops for the company as they are the first to move away from the Intel chips to Apple's own M1 chipset.\u00a0\r\nApple claims this chip is a significant impr\u2026 [+1030 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Anthony Spadafora",
+            "title": "MacOS Big Sur reveals Apple secretly hates your VPN and firewall",
+            "description": "Apple's apps are able to bypass firewalls and VPNs in Big Sur, putting users' privacy and security at risk.",
+            "url": "https://www.techradar.com/news/macos-big-sur-reveals-apple-secretly-hates-your-vpn-and-firewall",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pBnbky2EWAXE6q3D7LzJfK-1200-80.jpg",
+            "publishedAt": "2020-11-16T20:11:45Z",
+            "content": "If you're using a Mac VPN and recently updated your device to Big Sur, your privacy may be at risk as it was discovered that Apple apps are able to bypass both firewalls and VPN services in the compa\u2026 [+2151 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Olivia Tambini",
+            "title": "Sony WF-1000XM3 vs Grado GT220: which wireless earbuds are right for you?",
+            "description": "Thinking of buying true wireless earbuds this Black Friday? Here are two of the best-sounding models compared.",
+            "url": "https://www.techradar.com/news/sony-wf-1000xm3-vs-grado-gt220-which-wireless-earbuds-are-right-for-you",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5Mos8gzE23JvpM8k5JYRZK-1200-80.jpg",
+            "publishedAt": "2020-11-16T11:08:53Z",
+            "content": "True wireless earbuds like the Apple AirPods have become increasingly popular in recent years, thanks to their combination of cable-free convenience and compact designs.\u00a0\r\nWhile the sound quality was\u2026 [+6691 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Jack Webb",
+            "title": "Google's Pixel 5 doesn't have face unlock here's why",
+            "description": "Google has explained why the Pixel 5 doesn't have face unlock, instead opting for a fingerprint sensor on the back.",
+            "url": "https://www.techradar.com/news/googles-pixel-5-doesnt-have-face-unlock-heres-why",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ksCSMovgum7qe2oipwG9N6-1200-80.jpg",
+            "publishedAt": "2020-11-16T17:06:42Z",
+            "content": "One unexpected change on the Google Pixel 5 was the removal of face unlock in favor of a fingerprint scanner, but Google has now revealed why it made that switch.\r\nSoniya Jobanputra, a product manage\u2026 [+1954 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "James Rogerson",
+            "title": "OnePlus 9 Pro benchmark points to a top-end chipset and disappointing RAM",
+            "description": "A benchmark seemingly for the OnePlus 9 Pro includes a Snapdragon 875 chipset, along with some concerning details.",
+            "url": "https://www.techradar.com/news/oneplus-9-pro-benchmark-points-to-a-top-end-chipset-and-disappointing-ram",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/vQrKeVmdtxQiEdg2t2K4C-1200-80.jpg",
+            "publishedAt": "2020-11-16T09:48:28Z",
+            "content": "The OnePlus 9 Pro is likely to be one of the most powerful phones of early next year, but a benchmark suggests that while its chipset probably wont disappoint, its RAM might, at least slightly.\r\nA Ge\u2026 [+1871 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Joel Khalili",
+            "title": "Microsoft is bringing one of its toughest Windows 10 antivirus features to macOS",
+            "description": "The macOS version of Microsoft Defender for Endpoint is finally catching up with its Windows 10 equivalent.",
+            "url": "https://www.techradar.com/news/microsoft-is-bringing-one-of-its-toughest-windows-10-antivirus-features-to-macos",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/o2KsxF3NwbJWFcxDFsJjqL-1200-80.jpg",
+            "publishedAt": "2020-11-16T11:01:56Z",
+            "content": "Microsoft has revealed it is working to migrate an important Windows 10 antivirus\r\n feature to its Advanced Threat Protection (ATP) offering for macOS\r\n.\r\nAccording to the Microsoft product roadmap\r\n\u2026 [+1977 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Vikings vs Bears live stream: how to watch NFL Monday Night Football from anywhere",
+            "description": "How to watch a Vikings vs Bears live stream today and catch all the NFL Monday Night Football action from this massive week 10 NFC North clash.",
+            "url": "https://www.techradar.com/news/vikings-vs-bears-live-stream-how-to-watch-nfl-monday-night-football-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8EMnLncDRXuQTfh9SVcPo8-1200-80.jpg",
+            "publishedAt": "2020-11-16T23:16:10Z",
+            "content": "The Vikings looked dead and buried a few weeks ago, but two victories in a row - one of those over the Packers, no less - coupled with a timely Bears collapse means they're back in contention for the\u2026 [+10688 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sponsored",
+            "title": "Everything you need to know about building your own website with GoDaddy Websites + Marketing",
+            "description": "Create cost-effective professional websites with GoDaddy.",
+            "url": "https://www.techradar.com/news/everything-you-need-to-know-about-building-your-own-website-with-godaddy-websites-marketing",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/F5YtUwQtRjc7SzENKWJL44-1200-80.jpg",
+            "publishedAt": "2020-11-16T09:26:36Z",
+            "content": "If youre a professional or own a business, not having a website to showcase your services and products is the second worst mistake you can make. The first is having a badly designed website. Good web\u2026 [+10074 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "TechRadar Pro",
+            "title": "How will the global storage market evolve?",
+            "description": "An expert analysis of how storage tiers could evolve by the end of this decade.",
+            "url": "https://www.techradar.com/news/how-will-the-global-storage-market-evolve",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6A8YcYUdBvTpd9krVdmBAm-1200-80.jpg",
+            "publishedAt": "2020-11-16T00:59:00Z",
+            "content": "The data storage landscape is constantly evolving to meet the ever changing needs of consumers all over the world. Weve come a long way in the last few decades, not only in terms of the evolution of \u2026 [+9192 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Erin Durkin, Anna Gronewold and Jonathan Custodio",
+            "title": "City on the brink of second wave \u2014 Schools stay open, for now \u2014 Cuomo and Trump feud over vaccine",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/new-york-playbook/2020/11/16/city-on-the-brink-of-second-wave-schools-stay-open-for-now-cuomo-and-trump-feud-over-vaccine-490907",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-11-16T12:15:41Z",
+            "content": "New York City, once the national epicenter of the coronavirus pandemic, is staring down\r\n a potential return to widespread lockdowns and overstretched hospitals that New Yorkers hoped they would neve\u2026 [+21075 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sponsored",
+            "title": "10 essential GoDaddy tools to generate more sales for Black Friday and Cyber Monday",
+            "description": "GoDaddy can help you achieve more sales with its many tools and services.",
+            "url": "https://www.techradar.com/news/10-essential-godaddy-tools-to-generate-more-sales-for-black-friday-and-cyber-monday",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zpKwVALEyYuFig9Um9KhnU-1200-80.jpg",
+            "publishedAt": "2020-11-16T09:43:35Z",
+            "content": "The Covid crisis has caused a paradigm shift in how households do their daily and even seasonal festive shopping. Gone are the days of throngs of people rushing to retail stores looking for the best \u2026 [+10932 chars]"
+        }
+    ]
+}

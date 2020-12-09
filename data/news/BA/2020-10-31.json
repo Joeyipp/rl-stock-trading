@@ -1,0 +1,305 @@
+{
+    "status": "ok",
+    "totalResults": 23,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Easyjet looking at financing options, not against state aid - Reuters",
+            "description": "EasyJet is considering options to bolster its finances, and is not against state support to help the airline get through the coronavirus pandemic, chief executive Johan Lundgren said on Saturday.",
+            "url": "https://www.reuters.com/article/easyjet-ceo-idUSKBN27G0JW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539519098&r=LYNXMPEG9U0DO&w=800",
+            "publishedAt": "2020-10-31T13:45:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - EasyJet is considering options to bolster its finances, and is not against state support to help the airline get through the coronavirus pandemic, chief executive\u2026 [+1229 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Easyjet looking at financing options, not against state aid - Reuters Canada",
+            "description": "EasyJet <EZJ.L> is considering options to bolster its finances, and is not against state support to help the airline get through the coronavirus pandemic, chief executive Johan Lundgren said on Saturday.",
+            "url": "https://ca.reuters.com/article/us-easyjet-ceo-idCAKBN27G0JS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539517998&r=LYNXMPEG9U0DB&w=800",
+            "publishedAt": "2020-10-31T13:16:00Z",
+            "content": "By Reuters Staff\r\nEasyJet CEO Johan Lundgren poses at check in before boarding a flight to new Berlin-Brandenburg Airport (BER) in Schoenefeld, taking off from Berlin Tegel (TXL) airport in Berlin, G\u2026 [+1463 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "KLM pilots reject Dutch govt's wage freeze demand - Reuters India",
+            "description": "The pilots' union of KLM, the Dutch arm of Air France, on Saturday declined to accept a wage freeze through to 2025, potentially endangering efforts to secure the company's future amid the coronavirus pandemic.",
+            "url": "https://www.reuters.com/article/health-coronavirus-air-france-klm-idUSKBN27G0KF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539520173&r=LYNXMPEG9U0DV&w=800",
+            "publishedAt": "2020-10-31T14:10:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: KLM airline airplanes are seen parked, as Schiphol Airport reduces its flights due to the coronavirus disease (COVID-19) outbreak, in Amsterdam, Netherlands April 2, 202\u2026 [+1214 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "First planes land at Berlin's much-delayed airport - Reuters",
+            "description": "The first passengers landed at Berlin's new airport on Saturday, nine years after it was originally due to open and as the global aviation industry struggles with collapsing demand due to the coronavirus pandemic.",
+            "url": "https://www.reuters.com/article/us-germany-airport-berlin-idUSKBN27G0JM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539517890&r=LYNXMPEG9U0D4&w=800",
+            "publishedAt": "2020-10-31T13:15:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - The first passengers landed at Berlins new airport on Saturday, nine years after it was originally due to open and as the global aviation industry struggles with \u2026 [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "First planes land at Berlin's much-delayed airport - Reuters UK",
+            "description": "The first passengers landed at Berlin's new airport on Saturday, nine years after it was originally due to open and as the global aviation industry struggles with collapsing demand due to the coronavirus pandemic.",
+            "url": "https://uk.reuters.com/article/uk-germany-airport-berlin-idUKKBN27G0K2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539518341&r=LYNXMPEG9U0DH&w=800",
+            "publishedAt": "2020-10-31T13:24:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - The first passengers landed at Berlins new airport on Saturday, nine years after it was originally due to open and as the global aviation industry struggles with \u2026 [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Warren Buffett's Berkshire Hathaway swung from extreme caution to a flurry of deals in 6 months. We asked a bunch of experts to analyze its shifting strategy",
+            "description": "Summary List Placement\n<ul>\n<li>Warren Buffett was gravely concerned about the pandemic during Berkshire Hathaway's annual meeting in May.</li>\n<li>The famed investor's Berkshire Hathaway conglomerate sold its stakes in the \"big four\" US airlines and slashed \u2026",
+            "url": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-experts-analyze-strategy-caution-deals-2020-10",
+            "urlToImage": "https://i.insider.com/5f9d468e6f5b310011724a92?width=1200&format=jpeg",
+            "publishedAt": "2020-10-31T15:31:27Z",
+            "content": "<ul><li>Warren Buffett was gravely concerned about the pandemic during Berkshire Hathaway's annual meeting in May.</li><li>The famed investor's Berkshire Hathaway conglomerate sold its stakes in the \u2026 [+10288 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "KLM pilots will not agree to wage freeze demanded by Dutch government - Reuters",
+            "description": "The pilots' union of KLM, the Dutch arm of Air France <AIRF.PA>, on Saturday declined to sign a document accepting a freeze on wage increases through 2025, a move that could endanger efforts to secure the company's future amid the coronavirus pandemic.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-air-france-klm-idUSKBN27G0HM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539513808&r=LYNXMPEG9U0BY&w=800",
+            "publishedAt": "2020-10-31T11:47:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A KLM Boeing 737-800 plane lands at Tegel airport in Berlin, Germany, November 2, 2017. REUTERS/Axel Schmidt\r\nTHE HAGUE (Reuters) - The pilots' union of KLM, the Dutch a\u2026 [+526 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "KLM pilots will not agree to wage freeze demanded by Dutch government - Reuters UK",
+            "description": "The pilots' union of KLM, the Dutch arm of Air France, on Saturday declined to sign a document accepting a freeze on wage increases through 2025, a move that could endanger efforts to secure the company's future amid the coronavirus pandemic.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-air-france-klm-idUKKBN27G0II",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539515266&r=LYNXMPEG9U0CA&w=800",
+            "publishedAt": "2020-10-31T12:22:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: KLM airline airplanes are seen parked, as Schiphol Airport reduces its flights due to the coronavirus disease (COVID-19) outbreak, in Amsterdam, Netherlands April 2, 202\u2026 [+609 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Delta Air Lines CFO Jacobson to resign, join GM as finance head - Reuters India",
+            "description": "Delta Air Lines said on Friday Chief Financial Officer Paul Jacobson would resign from his position, effective Nov. 15, to join General Motors as CFO.",
+            "url": "https://www.reuters.com/article/gm-cfo-idUSKBN27G057",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-31T03:39:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Delta Air Lines said on Friday Chief Financial Officer Paul Jacobson would resign from his position, effective Nov. 15, to join General Motors as CFO.\r\nJacobson, 48, was\u2026 [+906 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Delta Air Lines CFO Jacobson to resign, join GM as finance head - Reuters India",
+            "description": "Delta Air Lines said on Friday Chief Financial Officer Paul Jacobson would resign from his position, effective Nov. 15, to join General Motors as CFO.",
+            "url": "https://in.reuters.com/article/gm-cfo-idINKBN27G057",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-31T03:39:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Delta Air Lines said on Friday Chief Financial Officer Paul Jacobson would resign from his position, effective Nov. 15, to join General Motors as CFO.\r\nJacobson, 48, was\u2026 [+906 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mike King",
+            "title": "After COVID-19 wrecked his business, this Brit invented toilet paper that won't clog ship toilets and launched a startup that now has clients all over the world",
+            "description": "Summary List Placement\n\n\nFor the first few months of 2020, Matt O'Crowley was too sick to work, laid low by symptoms that doctors eventually discovered were caused by his contraction of\u00a0HIV. Then, just as he was recovering, his hopes of rescuing his precariou\u2026",
+            "url": "https://www.businessinsider.com/tanki-plastic-free-toilet-paper-startup-matt-ocrowley-2020-10",
+            "urlToImage": "https://i.insider.com/5f9c3d5169331a0011bc65b7?width=1200&format=jpeg",
+            "publishedAt": "2020-10-31T12:07:00Z",
+            "content": "For the first few months of 2020, Matt O'Crowley was too sick to work, laid low by symptoms that doctors eventually discovered were caused by his contraction of\u00a0HIV. Then, just as he was recovering, \u2026 [+5315 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Hitting the Books: How one of our first 'smart' weapons helped stop the Nazis",
+            "description": "At the outset of World War II, you\u2019d have a better chance of finding a needle in a haystack with a camel stuck in its eye than you did shooting down an enemy aircraft in your first dozen or so shots. This is because anti-aircraft shells at the time used manua\u2026",
+            "url": "https://www.engadget.com/hitting-the-books-12-seconds-of-silence-jamie-holmes-hmh-153008055.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F383b0830-17be-11eb-9f9e-ce4e63fd2518&client=amp-blogside-v2&signature=131df080649c46e6fb11729c2c63b24a5fb0e1ba",
+            "publishedAt": "2020-10-31T15:30:08Z",
+            "content": "Excerpted from\u00a012 Seconds of Silence: How a Team of Inventors, Tinkerers, and Spies Took Down a Nazi Superweapon\u00a0by Jamie Holmes. Used by permission of Houghton Mifflin Harcourt.\r\nFrom the deck of th\u2026 [+14077 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "First planes land at Berlin's much-delayed airport - Reuters India",
+            "description": "First planes land at Berlin's much-delayed airport\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/germany-airport-berlin-idINL8N2HM091",
+            "urlToImage": null,
+            "publishedAt": "2020-10-31T14:03:54Z",
+            "content": "Company News\r\nReuters Staff\r\nBERLIN, Oct 31 (Reuters) - The first passengers landed at Berlins new airport on Saturday, nine years after it was originally due to open and as the global aviation indus\u2026 [+2182 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Klaus Lauer",
+            "title": "Climate activists disrupt opening of new Berlin airport - Reuters India",
+            "description": "Climate activists sought to disrupt the long-delayed opening of Berlin's new airport on Saturday, one gluing himself to the door of a plane, others scaling the terminal to hang placards and many crowding the building dressed as penguins.",
+            "url": "https://in.reuters.com/article/germany-airport-berlin-idINKBN27G0OW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539529754&r=LYNXMPEG9U0HR&w=800",
+            "publishedAt": "2020-10-31T17:05:00Z",
+            "content": "BERLIN (Reuters) - Climate activists sought to disrupt the long-delayed opening of Berlins new airport on Saturday, one gluing himself to the door of a plane, others scaling the terminal to hang plac\u2026 [+2457 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Airlines Suffer Blow as England Bans Non-Work Overseas Travel",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-31/airlines-suffer-blow-as-england-bans-non-work-overseas-travel",
+            "urlToImage": null,
+            "publishedAt": "2020-10-31T22:21:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Michelle Conlin",
+            "title": "The great divergence: U.S. COVID-19 economy has delivered luxury houses for some, evictions for others - Reuters",
+            "description": "When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and his brother, KyMir, 4, warmed themselves in front of the electric oven.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-inequality-ins-idUSKBN27G0H7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539511837&r=LYNXMPEG9U0B8&w=800",
+            "publishedAt": "2020-10-31T11:09:00Z",
+            "content": "(Reuters) - When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and hi\u2026 [+9100 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Michelle Conlin",
+            "title": "The great divergence: U.S. COVID-19 economy has delivered luxury houses for some, evictions for others - Reuters",
+            "description": "When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and his brother, KyMir, 4, warmed themselves in front of the electric oven.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-usa-inequality-ins-idUSKBN27G0H7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539511837&r=LYNXMPEG9U0B8&w=800",
+            "publishedAt": "2020-10-31T11:09:00Z",
+            "content": "(Reuters) - When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and hi\u2026 [+9100 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Michelle Conlin",
+            "title": "The great divergence: U.S. COVID-19 economy has delivered luxury houses for some, evictions for others - Reuters.com",
+            "description": "When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and his brother, KyMir, 4, warmed themselves in front of the electric oven.",
+            "url": "https://de.reuters.com/article/us-health-coronavirus-usa-inequality-ins-idUSKBN27G0H7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539511837&r=LYNXMPEG9U0B8&w=800",
+            "publishedAt": "2020-10-31T11:12:27Z",
+            "content": "(Reuters) - When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and hi\u2026 [+9100 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Michelle Conlin",
+            "title": "INSIGHT-The great divergence: U.S. COVID-19 economy has delivered luxury houses for some, evictions for others - Reuters",
+            "description": "When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and his brother, KyMir, 4, warmed themselves in front of the electric oven.",
+            "url": "https://www.reuters.com/article/health-coronavirus-usa-inequality-idUSL1N2HL1VO",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-31T11:02:00Z",
+            "content": "Oct 31 (Reuters) - When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8,\u2026 [+9023 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Michelle Conlin",
+            "title": "The great divergence: U.S. COVID-19 economy has delivered luxury houses for some, evictions for others - Reuters India",
+            "description": "When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and his brother, KyMir, 4, warmed themselves in front of the electric oven.",
+            "url": "https://in.reuters.com/article/uk-health-coronavirus-usa-inequality-ins-idINKBN27G0H9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539512685&r=LYNXMPEG9U0BF&w=800",
+            "publishedAt": "2020-10-31T11:25:00Z",
+            "content": "(Reuters) - When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and hi\u2026 [+9100 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jocelyn Grzeszczak",
+            "title": "Captain 'Sully' Backs Mitch McConnell's Opponent as Polls Show Her Trailing",
+            "description": "The most recent poll, conducted by Bluegrass Community and Technical College, showed Amy McGrath trailing Mitch McConnell  in the Kentucky Senate race by 10 percentage points.",
+            "url": "https://www.newsweek.com/captain-sully-backs-mitch-mcconnells-opponent-polls-show-her-trailing-1543771",
+            "urlToImage": "https://d.newsweek.com/en/full/1662235/amy-mcgrath.jpg",
+            "publishedAt": "2020-10-31T15:02:37Z",
+            "content": "Chesley \"Sully\" Sullenberger\u2014a retired Air Force fighter pilot and airline captain who gained fame for the \"Miracle on the Hudson\" plane landing\u2014backed Kentucky Senator Mitch McConnell's opponent in \u2026 [+1345 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "KLM pilots will not agree to wage freeze demanded by Dutch government",
+            "description": "The pilots' union of KLM, the Dutch arm of Air France <AIRF.PA>, on Saturday declined to sign a document accepting a freeze on wage increases through 2025, a move that could endanger efforts to secure the company's future amid the coronavirus pandemic.",
+            "url": "https://ca.reuters.com/article/us-health-coronavirus-air-france-klm-idCAKBN27G0HM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539513808&r=LYNXMPEG9U0BY&w=800",
+            "publishedAt": "2020-10-31T11:45:12Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A KLM Boeing 737-800 plane lands at Tegel airport in Berlin, Germany, November 2, 2017. REUTERS/Axel Schmidt\r\nTHE HAGUE (Reuters) - The pilots' union of KLM, the Dutch a\u2026 [+526 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Michelle Conlin",
+            "title": "The great divergence: U.S. COVID-19 economy has delivered luxury houses for some, evictions for others",
+            "description": "When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and his brother, KyMir, 4, warmed themselves in front of the electric oven.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-usa-inequality-ins-idUKKBN27G0H9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201031&t=2&i=1539512685&r=LYNXMPEG9U0BF&w=800",
+            "publishedAt": "2020-10-31T14:53:36Z",
+            "content": "(Reuters) - When the temperature dipped near freezing in Columbus, Ohio in mid-October, the children had no heat. The gas had been shut off in their apartment for nonpayment. DaMir Coleman, 8, and hi\u2026 [+9100 chars]"
+        }
+    ]
+}

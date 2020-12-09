@@ -1,0 +1,331 @@
+{
+    "status": "ok",
+    "totalResults": 25,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Anshuman Daga",
+            "title": "Malaysia Airlines restructuring talks prolonged, CEO tells staff - Reuters",
+            "description": "Malaysia Airlines' parent firm is still holding negotiations with lessors and creditors over a restructuring plan to keep the airline afloat, but the talks are taking \"longer than expected\", according to a staff memo seen by Reuters.",
+            "url": "https://www.reuters.com/article/malaysia-airlines-restructuring-idUSKBN2720H6",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537848505&r=LYNXMPEG9G0CP&w=800",
+            "publishedAt": "2020-10-17T11:22:00Z",
+            "content": "FILE PHOTO: Malaysia Airlines planes are seen parked at Kuala Lumpur International Airport, amid the coronavirus disease (COVID-19) outbreak in Sepang, Malaysia October 6, 2020. REUTERS/Lim Huey Teng\u2026 [+1218 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia Airlines parent's restructuring talks prolonged, CEO tells staff - Reuters",
+            "description": "Malaysia Airlines' parent firm is still holding negotiations with lessors and creditors over a restructuring plan to keep the airline afloat, but the talks are taking \"longer than expected,\" according to a staff memo seen by Reuters.",
+            "url": "https://www.reuters.com/article/malaysia-airlines-restructuring-idUSL4N2H805K",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-17T11:00:00Z",
+            "content": "By Reuters Staff\r\nSINGAPORE, Oct 17 (Reuters) - Malaysia Airlines parent firm is still holding negotiations with lessors and creditors over a restructuring plan to keep the airline afloat, but the ta\u2026 [+630 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Anshuman Daga",
+            "title": "UPDATE 1-Malaysia Airlines restructuring talks prolonged, CEO tells staff - Reuters",
+            "description": "Malaysia Airlines' parent firm is still holding negotiations with lessors and creditors over a restructuring plan to keep the airline afloat, but the talks are taking \"longer than expected\", according to a staff memo seen by Reuters.",
+            "url": "https://www.reuters.com/article/malaysia-airlines-restructuring-idUSL4N2H805Y",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-17T11:12:00Z",
+            "content": "(Adds details from paragraph 3)\r\nSINGAPORE, Oct 17 (Reuters) - Malaysia Airlines parent firm is still holding negotiations with lessors and creditors over a restructuring plan to keep the airline afl\u2026 [+1097 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia Airlines parent's restructuring talks prolonged, CEO tells staff - Reuters India",
+            "description": "Malaysia Airlines' parent firm is still holding negotiations with lessors and creditors over a restructuring plan to keep the airline afloat, but the talks are taking \"longer than expected,\" according to a staff memo seen by Reuters.",
+            "url": "https://in.reuters.com/article/malaysia-airlines-restructuring-idINL4N2H805K",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-17T10:59:00Z",
+            "content": "By Reuters Staff\r\nSINGAPORE, Oct 17 (Reuters) - Malaysia Airlines parent firm is still holding negotiations with lessors and creditors over a restructuring plan to keep the airline afloat, but the ta\u2026 [+630 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Budget airline AirAsia X out of money, needs $120 mln for restart - report - Reuters",
+            "description": "Budget airline AirAsia X out of money, needs $120 mln for restart - report\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/airasia-x-restructuring-idUSL4N2H802R",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-17T06:00:00Z",
+            "content": "By Reuters Staff\r\n* Airline seeking to restructure $15.3 bln of debt\r\n* Actual liabilities are lower at 2 bln ringgit-deputy chairman\r\n* One lessor recently took back a plane for freighter conversion\u2026 [+1833 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Budget airline AirAsia X out of money, needs $120 mln for restart - report - Reuters India",
+            "description": "Long-haul, low-cost carrier AirAsia X Bhd <AIRX.KL> has run out of money and needs to raise up to 500 million ringgit ($120.60 million) to restart the airline, deputy chairman Lim Kian Onn said in a newspaper interview published on Saturday.",
+            "url": "https://in.reuters.com/article/airasia-x-restructuring-idINKBN27208E",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537834218&r=LYNXMPEG9G070&w=800",
+            "publishedAt": "2020-10-17T05:58:00Z",
+            "content": "By Reuters Staff\r\nTail of AirAsia X plane as seen at the Garuda Maintenance Facility AeroAsia in Tangerang, Indonesia, September 20, 2017. REUTERS/Beawiharta/Files\r\n(Reuters) - Long-haul, low-cost ca\u2026 [+1819 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Budget airline AirAsia X out of money, needs $120 million for restart - report - Reuters",
+            "description": "Long-haul, low-cost carrier AirAsia X Bhd <AIRX.KL> has run out of money and needs to raise up to 500 million ringgit ($120.60 million) to restart the airline, deputy chairman Lim Kian Onn said in a newspaper interview published on Saturday.",
+            "url": "https://www.reuters.com/article/airasia-x-restructuring-idUSKBN27208E",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537834218&r=LYNXMPEG9G070&w=800",
+            "publishedAt": "2020-10-17T06:16:00Z",
+            "content": "By Reuters Staff\r\nTail of AirAsia X plane as seen at the Garuda Maintenance Facility AeroAsia in Tangerang, Indonesia, September 20, 2017. REUTERS/Beawiharta/Files\r\n(Reuters) - Long-haul, low-cost ca\u2026 [+1819 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Budget airline AirAsia X out of money, needs $120 million for restart - report - Reuters India",
+            "description": "Long-haul, low-cost carrier AirAsia X Bhd <AIRX.KL> has run out of money and needs to raise up to 500 million ringgit ($120.60 million) to restart the airline, deputy chairman Lim Kian Onn said in a newspaper interview published on Saturday.",
+            "url": "https://www.reuters.com/article/airasia-x-restructuring-idINKBN27208E",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537834218&r=LYNXMPEG9G070&w=800",
+            "publishedAt": "2020-10-17T06:13:00Z",
+            "content": "By Reuters Staff\r\nTail of AirAsia X plane as seen at the Garuda Maintenance Facility AeroAsia in Tangerang, Indonesia, September 20, 2017. REUTERS/Beawiharta/Files\r\n(Reuters) - Long-haul, low-cost ca\u2026 [+1819 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "India's Jet Airways resolution plan approved by creditors - Reuters",
+            "description": "Creditors to India's Jet Airways have approved a resolution plan which will give country's oldest private carrier a new lease of life, the airline said in a regulatory filing on Saturday.",
+            "url": "https://www.reuters.com/article/jet-airways-india-idUSL4N2H805S",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-17T11:25:00Z",
+            "content": "By Reuters Staff\r\nMUMBAI, Oct 17 (Reuters) - Creditors to Indias Jet Airways have approved a resolution plan which will give countrys oldest private carrier a new lease of life, the airline said in a\u2026 [+726 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "India's Jet Airways resolution plan approved by creditors - Reuters",
+            "description": "Creditors to India's Jet Airways have approved a resolution plan which will give country's oldest private carrier a new lease of life, the airline said in a regulatory filing on Saturday.",
+            "url": "https://www.reuters.com/article/jet-airways-india-idUSKBN2720HZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537850460&r=LYNXMPEG9G0D2&w=800",
+            "publishedAt": "2020-10-17T11:57:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Jet Airways employees display placards during a protest at the Chhatrapati Shivaji Maharaj International Airport in Mumbai, India, May 8, 2019. REUTERS/Francis Mascarenh\u2026 [+914 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Nupur Anand",
+            "title": "India's Jet Airways resolution plan approved by creditors - Reuters",
+            "description": "India's Jet Airways would be acquired by an investor consortium under a multi-million dollar resolution plan approved by the carrier's creditors on Saturday.",
+            "url": "https://www.reuters.com/article/jet-airways-india-idUSL4N2H806C",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-17T13:13:00Z",
+            "content": "(Adds details on resolution plan)\r\nMUMBAI, Oct 17 (Reuters) - Indias Jet Airways would be acquired by an investor consortium under a multi-million dollar resolution plan approved by the carriers cred\u2026 [+1583 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Latest on the worldwide spread of coronavirus - Reuters India",
+            "description": "Prime Minister Jacinda Ardern delivered the biggest election victory for her centre-left Labour Party in half a century as voters rewarded her for a decisive response to COVID-19. Her \"go hard, go early\" approach has eliminated locally spread COVID-19 in the \u2026",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-latest-idINKBN2720JG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537853167&r=LYNXMPEG9G0EI&w=800",
+            "publishedAt": "2020-10-17T12:53:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Prime Minister Jacinda Ardern delivered the biggest election victory for her centre-left Labour Party in half a century as voters rewarded her for a decisive response to\u2026 [+2978 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Latest on the worldwide spread of coronavirus - Reuters India",
+            "description": "Prime Minister Jacinda Ardern delivered the biggest election victory for her centre-left Labour Party in half a century as voters rewarded her for a decisive response to COVID-19. Her \"go hard, go early\" approach has eliminated locally spread COVID-19 in the \u2026",
+            "url": "https://in.reuters.com/article/health-coronavirus-latest-idINKBN2720JQ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537853696&r=LYNXMPEG9G0EP&w=800",
+            "publishedAt": "2020-10-17T13:04:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Prime Minister Jacinda Ardern delivered the biggest election victory for her centre-left Labour Party in half a century as voters rewarded her for a decisive response to\u2026 [+3065 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Katanga Johnson, David Shepardson",
+            "title": "U.S. Senate to vote this week on 'skinny' pandemic relief bill, PPP funds - Reuters India",
+            "description": "The U.S. Senate will vote on Wednesday on a $300 billion Senate Republican coronavirus relief bill that is far below the estimated $2 trillion that Democrats have demanded.",
+            "url": "https://in.reuters.com/article/us-usa-senate-stimulus-vote-idINKBN2720WV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537884237&r=LYNXMPEG9G0PQ&w=800",
+            "publishedAt": "2020-10-17T21:54:00Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Senate will vote on Wednesday on a $300 billion Senate Republican coronavirus relief bill that is far below the estimated $2 trillion that Democrats have demanded.\r\nFI\u2026 [+1798 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier",
+            "title": "A historic air-traffic control tower with 'unbeatable views' is for sale in New Zealand \u2014\u00a0but you'll have to clean out all the asbestos",
+            "description": "Summary List Placement\n\nA piece of New Zealand aviation history could be yours, but it's going to take some TLC.\nA historical air-traffic control tower next to Wellington's airport is for sale, on a prime hillside plot of property with \"unbeatable views\" of t\u2026",
+            "url": "https://www.businessinsider.com/new-zealand-air-traffic-control-tower-property-for-sale-wellington-2020-10",
+            "urlToImage": "https://i.insider.com/5f89ff50d260780019341f64?width=1200&format=jpeg",
+            "publishedAt": "2020-10-17T12:33:00Z",
+            "content": "A piece of New Zealand aviation history could be yours, but it's going to take some TLC.\r\nA historical air-traffic control tower next to Wellington's airport is for sale, on a prime hillside plot of \u2026 [+1607 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jeff Elder",
+            "title": "The burnout of remote workers poses a surprising cybersecurity risk to their employers. Here's how Microsoft is using mindfulness techniques to keep employees centered. (MSFT)",
+            "description": "Summary List Placement\n\nMonths of working long days when work and home life overlap is burning out remote workers\u00a0 \u2013 and endangering the companies they work for, multiple studies show.\nTo address this, Microsoft is building optional mindfulness features into \u2026",
+            "url": "https://www.businessinsider.com/microsoft-mindfulness-well-being-burned-out-remote-workers-2020-10",
+            "urlToImage": "https://i.insider.com/5f8a226f9e9fe40019009e98?width=1200&format=jpeg",
+            "publishedAt": "2020-10-17T13:10:00Z",
+            "content": "Months of working long days when work and home life overlap is burning out remote workers\u00a0 \u2013 and endangering the companies they work for, multiple studies show.\r\nTo address this, Microsoft is buildin\u2026 [+4311 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dave Mosher",
+            "title": "Elon Musk just got the rocket-regulation overhaul he's wanted for years, but insiders worry the changes won't solve major headaches \u2014 and may create new ones",
+            "description": "Summary List Placement\n\nThe Federal Aviation Administration on Thursday unveiled a major overhaul of its commercial rocket-launching rules, the result of an effort to\u00a0make it easier for companies like SpaceX, Blue Origin, Virgin Galactic, and others to fly mi\u2026",
+            "url": "https://www.businessinsider.com/faa-streamlined-rocket-launch-entry-rules-part-450-regulations-spacex-2020-10",
+            "urlToImage": "https://i.insider.com/5ed9587f3f737018251b0b8a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-17T12:47:00Z",
+            "content": "The Federal Aviation Administration on Thursday unveiled a major overhaul of its commercial rocket-launching rules, the result of an effort to\u00a0make it easier for companies like SpaceX, Blue Origin, V\u2026 [+10170 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sbaker@businessinsider.com (Sin\u00e9ad Baker)",
+            "title": "Boeing is using a 'scorched earth' strategy to keep evidence away from lawyers representing 737 Max crash victims, lawyer says",
+            "description": "189 people died when a Lion Air Boeing 737 Max plane crashed in October 2018, and 157 more died in the Ethiopan Airlines crash in March 2019.",
+            "url": "https://www.businessinsider.com/boeing-evidence-737-max-ethiopian-cases-lawyer-2020-10",
+            "urlToImage": "https://i.insider.com/5f8583b791aa9e001880b33b?width=1200&format=jpeg",
+            "publishedAt": "2020-10-17T10:00:00Z",
+            "content": "Boeing is using a \"scorched earth\" strategy to try and keep evidence away from lawyers representing the victims of one of the fatal 737 Max crashes, one of the lawyers said.\r\nSteven Marks, an aviatio\u2026 [+6792 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Malaysia Airlines parent's restructuring talks prolonged, CEO tells staff",
+            "description": "Malaysia Airlines' parent firm is still holding negotiations with lessors and creditors over a restructuring plan to keep the airline afloat, but the talks are taking \"longer than expected,\" according to a staff memo seen by Reuters.",
+            "url": "https://uk.reuters.com/article/malaysia-airlines-restructuring-idUKL4N2H805K",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-17T10:58:56Z",
+            "content": "By Reuters Staff\r\nSINGAPORE, Oct 17 (Reuters) - Malaysia Airlines parent firm is still holding negotiations with lessors and creditors over a restructuring plan to keep the airline afloat, but the ta\u2026 [+630 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Budget airline AirAsia X out of money, needs $120 mln for restart - report",
+            "description": "* Actual liabilities are lower at 2 bln ringgit-deputy chairman",
+            "url": "https://uk.reuters.com/article/airasia-x-restructuring-idUKL4N2H802R",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-17T05:58:02Z",
+            "content": "By Reuters Staff\r\n* Airline seeking to restructure $15.3 bln of debt\r\n* Actual liabilities are lower at 2 bln ringgit-deputy chairman\r\n* One lessor recently took back a plane for freighter conversion\u2026 [+1833 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Latest on the worldwide spread of coronavirus",
+            "description": "Prime Minister Jacinda Ardern delivered the biggest election victory for her centre-left Labour Party in half a century as voters rewarded her for a decisive response to COVID-19. Her \"go hard, go early\" approach has eliminated locally spread COVID-19 in the \u2026",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-latest-idUSKBN2720JG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537853167&r=LYNXMPEG9G0EI&w=800",
+            "publishedAt": "2020-10-17T12:50:19Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Prime Minister Jacinda Ardern delivered the biggest election victory for her centre-left Labour Party in half a century as voters rewarded her for a decisive response to\u2026 [+2978 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Latest on the worldwide spread of coronavirus",
+            "description": "Prime Minister Jacinda Ardern delivered the biggest election victory for her centre-left Labour Party in half a century as voters rewarded her for a decisive response to COVID-19. Her \"go hard, go early\" approach has eliminated locally spread COVID-19 in the \u2026",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-latest-factbox-idUKKBN2720JU",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537853612&r=LYNXMPEG9G0EQ&w=800",
+            "publishedAt": "2020-10-17T12:50:19Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Prime Minister Jacinda Ardern delivered the biggest election victory for her centre-left Labour Party in half a century as voters rewarded her for a decisive response to\u2026 [+3147 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Katanga Johnson, David Shepardson",
+            "title": "U.S. Senate to vote this week on 'skinny' pandemic relief bill, PPP funds",
+            "description": "The U.S. Senate will vote on Wednesday on a $300 billion Senate Republican coronavirus relief bill that is far below the estimated $2 trillion that Democrats have demanded.",
+            "url": "https://www.reuters.com/article/us-usa-senate-stimulus-vote-idUSKBN2720WV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537884237&r=LYNXMPEG9G0PQ&w=800",
+            "publishedAt": "2020-10-17T21:53:43Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Senate will vote on Wednesday on a $300 billion Senate Republican coronavirus relief bill that is far below the estimated $2 trillion that Democrats have demanded.\r\nFI\u2026 [+1798 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Katanga Johnson, David Shepardson",
+            "title": "U.S. Senate to vote this week on 'skinny' pandemic relief bill, PPP funds",
+            "description": "The U.S. Senate will vote on Wednesday on a $300 billion Senate Republican coronavirus relief bill that is far below the estimated $2 trillion that Democrats have demanded.",
+            "url": "https://uk.reuters.com/article/us-usa-senate-stimulus-vote-idUKKBN2720WV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201017&t=2&i=1537884237&r=LYNXMPEG9G0PQ&w=800",
+            "publishedAt": "2020-10-17T21:53:43Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Senate will vote on Wednesday on a $300 billion Senate Republican coronavirus relief bill that is far below the estimated $2 trillion that Democrats have demanded.\r\nFI\u2026 [+1798 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Mark Wilson",
+            "title": "DJI Mavic Mini 2 release date, price and everything we know so far",
+            "description": "The DJI Mavic Mini 2 is rumored to be landing soon, but what can we expect from the tiny drone? Here's everything we know so far.",
+            "url": "https://www.techradar.com/news/dji-mavic-mini-2-release-date-price-and-everything-we-know-so-far",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9GFb7AC7uEjSyo8eaefHaf-1200-80.jpg",
+            "publishedAt": "2020-10-17T09:00:00Z",
+            "content": "The original DJI Mavic Mini is less than a year old, but there are already strong rumors about a DJI Mavic Mini 2 successor launching soon.\r\nWe're big fans of the Mavic Mini, which currently sits top\u2026 [+4476 chars]"
+        }
+    ]
+}

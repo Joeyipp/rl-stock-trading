@@ -1,0 +1,487 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "HomePod's first jailbreak opens the door to unofficial features",
+            "description": "Apple\u2019s HomePod smart speaker hasn\u2019t been a target for jailbreakers like the iPhone or iPad, but it\u2019s now more of a priority. As 9to5Mac reports, coder L1ngL1ng and the Checkra1n team have jailbroken the original HomePod for the first time. It\u2019s currently \u201cpa\u2026",
+            "url": "https://www.engadget.com/apple-homepod-jailbreak-211829177.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fff719e00-2d03-11eb-bf89-458e3a752ae2&client=amp-blogside-v2&signature=03756e4e36c76597eaf2a6f0268705cb8b683459",
+            "publishedAt": "2020-11-22T21:18:29Z",
+            "content": "Apple\u2019s HomePod smart speaker hasn\u2019t been a target for jailbreakers like the iPhone or iPad, but it\u2019s now more of a priority. As 9to5Macreports, coder L1ngL1ng and the Checkra1n team have jailbroken \u2026 [+459 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Apple releases iOS 14.2.1 to fix bugs found in the 5G iPhone 12 series, but you're not worried - The Queens County Citizen",
+            "description": "Apple releases iOS 14.2.1 to fix bugs found in the 5G iPhone 12 series, but you're not worried\u00a0\u00a0The Queens County CitizenView Full coverage on Google News",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3F1ZWVuc2NpdGl6ZW4uY2EvMjAyMC8xMS8yMS9hcHBsZS1yZWxlYXNlcy1pb3MtMTQtMi0xLXRvLWZpeC1idWdzLWZvdW5kLWluLXRoZS01Zy1pcGhvbmUtMTItc2VyaWVzLWJ1dC15b3VyZS1ub3Qtd29ycmllZC_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-22T03:34:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Nicole Lee",
+            "title": "The Sonos Beam is $100 off for Black Friday",
+            "description": "Sonos\u2019 line of multi-room WiFi-connected speakers are some of the best in the business, but they do tend to be pretty expensive. Fortunately, a selection of them will be on sale thanks to this week\u2019s Black Friday deals. Of special note is the Sonos Beam, whic\u2026",
+            "url": "https://www.engadget.com/sonos-beam-sub-move-black-friday-sale-140027007.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F885d33e0-2b11-11eb-abed-21b67b3df491&client=amp-blogside-v2&signature=e53f21d0d9f3022887e1ff818c54e475e4b2331e",
+            "publishedAt": "2020-11-22T13:30:27Z",
+            "content": "Buy Sonos Beam at Amazon - $299Buy Sonos Move at Amazon - $299Buy Sonos Sub at Amazon - $599\r\nWe gave the Beam a score of 85 when we reviewed it a couple of years ago, and it was our mid-range pick f\u2026 [+1731 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Jae Thomas",
+            "title": "The new Amazon Echo is already $30 off",
+            "description": "SAVE $30: Save on the all-new fourth generation Amazon Echo this Black Friday, and get it for only $69.99 starting on Nov. 22.\u00a0\n\nSometimes it just feels like you need an assistant. Daily life is as hectic as ever, between working from home and virtual learnin\u2026",
+            "url": "https://mashable.com/shopping/nov-22-black-friday-amazon-echo/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F20%252F1d%252Ff76efde26c0145dc941068773fd260e1.c2846.jpg%252F1200x630.jpg?signature=WPs3WJXgcF_wWbkzvZLzkIMWaTY=",
+            "publishedAt": "2020-11-22T14:50:25Z",
+            "content": "SAVE $30: Save on the all-newfourth generation Amazon Echo this Black Friday, and get it for only $69.99 starting on Nov. 22.\u00a0\r\nSometimes it just feels like you need an assistant. Daily life is as he\u2026 [+1641 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Eliana Dockterman",
+            "title": "The 10 Best Podcasts of 2020",
+            "description": "The best podcasts this year responded to the unique moment, offering vital news, ways to stay healthy, and even a few means of escape.",
+            "url": "https://time.com/5907401/best-podcasts-2020/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/11/best-podcasts-2020.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2020-11-22T14:00:38Z",
+            "content": "This year, the time I spent listening to podcasts increased exponentially\u2014from an already perhaps excessive baseline. I was desperate for information and desperate for comfort. I zigged and zagged fr\u2026 [+15863 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph Menn",
+            "title": "Top Biden adviser seen as making tech regulation more likely - Reuters",
+            "description": "President-elect Joe Biden\u2019s top technology adviser helped craft California's landmark online privacy law and recently condemned a controversial federal statute that protects internet companies from liability, indicators of how the Biden administration may com\u2026",
+            "url": "https://www.reuters.com/article/us-usa-biden-tech-idUSKBN2820DC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542059149&r=LYNXMPEGAL07I&w=800",
+            "publishedAt": "2020-11-22T12:12:00Z",
+            "content": "SAN FRANCISCO (Reuters) - President-elect Joe Bidens top technology adviser helped craft Californias landmark online privacy law and recently condemned a controversial federal statute that protects i\u2026 [+3479 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph Menn",
+            "title": "Top Biden adviser seen as making tech regulation more likely - Reuters Canada",
+            "description": "President-elect Joe Biden\u2019s top technology adviser helped craft California's landmark online privacy law and recently condemned a controversial federal statute that protects internet companies from liability, indicators of how the Biden administration may com\u2026",
+            "url": "https://ca.reuters.com/article/ctech-us-usa-biden-tech-idCAKBN2820DC-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542059173&r=LYNXMPEGAL07I-OCATC&w=800",
+            "publishedAt": "2020-11-22T12:13:00Z",
+            "content": "SAN FRANCISCO (Reuters) - President-elect Joe Bidens top technology adviser helped craft Californias landmark online privacy law and recently condemned a controversial federal statute that protects i\u2026 [+3755 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "WhiteHat Jr's founder files $2.6M defamation suit against critic",
+            "description": "Karan Bajaj, an Indian entrepreneur who teaches meditation and in his recent book invites others to live a life away from the noise, is going after the most ...",
+            "url": "https://techcrunch.com/2020/11/22/whitehat-jrs-founder-files-2-6m-defamation-suit-against-critic/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XPrPM7a4G8A2tCExKhvoTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzE1/https://s.yimg.com/uu/api/res/1.2/za_9KsuDpCkPxitUWg01lw--~B/aD0zMzAwO3c9NTAyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/240896c454e09944ac38b7a64999add2",
+            "publishedAt": "2020-11-22T17:01:50Z",
+            "content": "Do we finally have blue skies ahead for airline stocks? Its too early to sound the all-clear, but things are certainly looking up. The announcement of the Pfizer (NYSE:PFE) vaccine breakthrough last \u2026 [+11709 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha, Jordan Crook and Darrell Etherington",
+            "title": "Original Content podcast: 'The Crown' introduces its Princess Diana",
+            "description": "\"The Crown,\" Netflix's  lavish historical drama about the reign of Queen Elizabeth II, has returned for a fourth season that focuses on Elizabeth's...",
+            "url": "https://techcrunch.com/2020/11/22/original-content-podcast-the-crown-introduces-its-princess-diana/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/aRIsAMhRsjUvUTTse.A1nQ--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ac35687939e59a290cd8d892add218b7",
+            "publishedAt": "2020-11-22T19:50:07Z",
+            "content": "Do we finally have blue skies ahead for airline stocks? Its too early to sound the all-clear, but things are certainly looking up. The announcement of the Pfizer (NYSE:PFE) vaccine breakthrough last \u2026 [+11709 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "StackCommerce",
+            "title": "Get a lifetime of iMazing iOS Device Manager for $20",
+            "description": "Mobile Apple devices, including the iPhone, iPad and iPod, are well known for their ease of use. Yet, transferring data between these iOS gadgets is a challenge most Apple fans will instantly understand from personal experience, especially as new ite...",
+            "url": "https://www.engadget.com/imazing-ios-device-manager-185524055.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F048d4030-2b86-11eb-bb95-0fa69949e166&client=amp-blogside-v2&signature=cb656ed82dc2105dbe892c016875d9a367ba58ff",
+            "publishedAt": "2020-11-22T18:55:24Z",
+            "content": "With iMazing, you can do a variety of management tasks. For instance, this app allows you to transfer files between any Mac or PC with any iOS device wirelessly or via USB. So, it's easy to share any\u2026 [+1835 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Tina Nguyen",
+            "title": "On Parler, MAGA\u2019s post-election world view blossoms with no pushback",
+            "description": "The rapidly expanding social-media site has given Trump backers a platform to simply dismiss the post-election reality and reinforce baseless voter-fraud conspiracies.",
+            "url": "https://www.politico.com/news/2020/11/22/parler-maga-election-echo-chamber-439056",
+            "urlToImage": "https://static.politico.com/d3/6b/1ec31e79428cb5d8698c37f6075d/webp.net-resizeimage%20(4).jpg",
+            "publishedAt": "2020-11-22T11:52:53Z",
+            "content": "In the aftermath of Trumps defeat, the app rocketed to the top of the Google and Apple app stores, a reaction, in part, to the heightened fact-checking Twitter was conducting on the untrue voter frau\u2026 [+6527 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Dylan Haas",
+            "title": "This Echo Show 5 and Blink Mini bundle is already $75 off for Black Friday",
+            "description": "SAVE $75: Amazon's most feature-packed Alexa smart speaker, the Echo Show 5, comes bundled with a Blink Mini security camera at a $75 discount for Black Friday, making it all just $49.99.\n\nSmart speakers are always a Black Friday hot ticket item, and this yea\u2026",
+            "url": "https://mashable.com/shopping/nov-22-black-friday-echo-show-5-blink-mini-bundle/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F20%252F17%252Ff1e619f1c9ec4eeeb5bded4a252e65d8.bd863.png%252F1200x630.png?signature=Pvei4-LaHx90XD2odUXO06d5HaE=",
+            "publishedAt": "2020-11-22T13:33:00Z",
+            "content": "SAVE $75: Amazon's most feature-packed Alexa smart speaker, the Echo Show 5, comes bundled with a Blink Mini security camera at a $75 discount for Black Friday, making it all just $49.99.\r\nSmart spea\u2026 [+1396 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph Menn",
+            "title": "Top Biden adviser seen as making tech regulation more likely - Reuters",
+            "description": "President-elect Joe Biden\u2019s top technology adviser helped craft California's landmark online privacy law and recently condemned a controversial federal statute that protects internet companies from liability, indicators of how the Biden administration may com\u2026",
+            "url": "https://in.reuters.com/article/us-usa-biden-tech-idUSKBN2820DC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542059149&r=LYNXMPEGAL07I&w=800",
+            "publishedAt": "2020-11-22T12:12:00Z",
+            "content": "SAN FRANCISCO (Reuters) - President-elect Joe Bidens top technology adviser helped craft Californias landmark online privacy law and recently condemned a controversial federal statute that protects i\u2026 [+3479 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph Menn",
+            "title": "Top Biden adviser seen as making tech regulation more likely - Reuters India",
+            "description": "President-elect Joe Biden\u2019s top technology adviser helped craft California's landmark online privacy law and recently condemned a controversial federal statute that protects internet companies from liability, indicators of how the Biden administration may com\u2026",
+            "url": "https://in.reuters.com/article/usa-biden-tech-idINKBN2820DS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542060436&r=LYNXMPEGAL07X&w=800",
+            "publishedAt": "2020-11-22T12:47:00Z",
+            "content": "SAN FRANCISCO (Reuters) - President-elect Joe Bidens top technology adviser helped craft Californias landmark online privacy law and recently condemned a controversial federal statute that protects i\u2026 [+3755 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Valentina Palladino",
+            "title": "Withings' Steel HR smartwatch is 30 percent off ahead of Black Friday",
+            "description": "While we take smartwatch designs like those of the Apple Watch and Samsung\u2019s Galaxy Watches for granted now, they\u2019re still a bit polarizing. Not everyone wants such a techie timepiece and that\u2019s where Withings\u2019 smartwatches come into play. That compa...",
+            "url": "https://www.engadget.com/withings-steel-hr-steel-hr-sport-body-plus-smart-scale-early-black-friday-deals-110020848.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fddc71e70-28e8-11eb-a6f9-6aae1e469ecf&client=amp-blogside-v2&signature=2969459fa7e48247861b397edd403f42422ef8ea",
+            "publishedAt": "2020-11-22T11:00:20Z",
+            "content": "Both of these smartwatches actually tell time using a standard analog dial, but Withings includes a sub-dial that shows your progress towards your move goal for the day. There\u2019s also a circular digit\u2026 [+1447 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "StackCommerce",
+            "title": "Save 46% on a stacked streaming service for sports fans",
+            "description": "If you don't have Sky but miss watching live sports, TV, or breaking news coverage, consider subscribing to fuboTV. Never heard of it? Well, we bet you've heard of CBS, FOX, NBC, ESPN, AMC, NFL Network, MSNBC, MTV, Nickelodeon, TLC, and Discovery, all of whic\u2026",
+            "url": "https://mashable.com/uk/shopping/nov-22-fubotv-streaming-service/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F22%252Fde%252F8c616cac55934d0a87d7bb3ac0cad004.68b1f.jpg%252F1200x630.jpg?signature=zrr9YDlZMzu2BA7hF-8iTL3ViCA=",
+            "publishedAt": "2020-11-22T06:10:00Z",
+            "content": "TL;DR: A one-month subscription to fuboTV is on sale for \u00a326.36 as of Nov. 22, saving you 46% on list price.\r\nIf you don't have Sky but miss watching live sports, TV, or breaking news coverage, consi\u2026 [+1020 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Hank Gilman",
+            "title": "Socialism Is Bad Until a Capitalist Like David Perdue Gets Paid | Opinion",
+            "description": "Socialism in Georgia, and will businesses dole out COVID shots to employees? Plus Jamie Dimon weighs in on COVID bailout talks. He has a plan.",
+            "url": "https://www.newsweek.com/socialism-bad-until-capitalist-like-david-perdue-gets-paid-opinion-1547747",
+            "urlToImage": "https://d.newsweek.com/en/full/1672726/hank-column-perdue.jpg",
+            "publishedAt": "2020-11-22T12:00:01Z",
+            "content": "This week a mix of good and bad. Good news: We'll get a COVID-19 vaccine fairly soon. Bad news: President Trump, and the star of the Borat sequel, Rudy Giuliani, are still stalking the nation. Good n\u2026 [+8675 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Alex Perry",
+            "title": "Apple promises Xbox Series X controller support on iPhone in update",
+            "description": "New game consoles means new game controllers which means new compatibility updates for iPhones and iPads.",
+            "url": "https://mashable.com/article/apple-microsoft-xbox-series-x-controller-compatibility/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F22%252Ff1%252Fc64a599b62234aa4bf7b4a21d7a4856f.9d364.png%252F1200x630.png?signature=WTNP17gkXNMMw1jlOpjKk0WUpvc=",
+            "publishedAt": "2020-11-22T16:49:05Z",
+            "content": "Microsoft's Xbox controllers have generally been easy to use on non-Xbox devices over the years, and Apple confirmed the same will be true with the new Xbox Series X gamepad in the future.\r\nThe folks\u2026 [+1835 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Original Content podcast: \u2018The Crown\u2019 introduces its Princess Diana \u2013 TechCrunch",
+            "description": "\u201cThe Crown,\u201d Netflix\u2019s lavish historical drama about the reign of Queen Elizabeth II, has returned for a fourth season that focuses on Elizabeth\u2019s relationship with Prime Minister Margaret Thatcher, and on Prince Charles\u2019 troubled marriage to Diana, Princess \u2026",
+            "url": "http://techcrunch.com/2020/11/22/original-content-podcast-the-crown-introduces-its-princess-diana/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/TheCrown_403_Unit_01270.jpg?w=600",
+            "publishedAt": "2020-11-22T19:50:16Z",
+            "content": "\u201cThe Crown,\u201d Netflix\u2019s lavish historical drama about the reign of Queen Elizabeth II, has returned for a fourth season that focuses on Elizabeth\u2019s relationship with Prime Minister Margaret Thatcher, \u2026 [+1613 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "xCoolBoox",
+            "title": "Show HN: Text Me That iOS",
+            "description": "Hey everybody,I have never posted this application anywhere before.But for some reason this morning, I am having the courage to show it.https://apps.apple.com/us/app/text-me-that/id1329223000I built this application to suffice my needs for a reminder app. I\u2019v\u2026",
+            "url": "https://news.ycombinator.com/item?id=25178946",
+            "urlToImage": null,
+            "publishedAt": "2020-11-22T17:00:53Z",
+            "content": "Hey everybody,I have never posted this application anywhere before.\r\nBut for some reason this morning, I am having the courage to show it.\r\nhttps://apps.apple.com/us/app/text-me-that/id1329223000\r\nI \u2026 [+1371 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Stackcommerce",
+            "title": "Snag a refurbished iPad for $120 with this early Black Friday deal",
+            "description": "Snag a refurbished iPad for $120 with this early Black Friday dealmashable.com",
+            "url": "https://mashable.com/shopping/nov-22-refurbished-apple-ipad-4/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F22%252Fa7%252Fe5fbc96cc5464cbfa8841c7b763b0582.480a7.png%252F1200x630.png?signature=EI7mvQYQutYw6FPtF8WuX8RpMY8=",
+            "publishedAt": "2020-11-22T10:04:05Z",
+            "content": "TL;DR: Save money on a refurbished iPad 4, on sale for only $119.97 as of Nov. 22.\u00a0\r\nIf youre looking for an iPad but working with a budget, look no further. Whether you want to surprise your kiddo w\u2026 [+1695 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "Week in Review: Venture-backed loneliness \u2013 TechCrunch",
+            "description": "Hello everyone and welcome back to Week in Review! Natasha here, subbing in for Lucas while he\u2019s out. This week, we\u2019ll talk about loneliness raising money and how Zoom fatigue is fueling innovation. For everyone celebrating, happy holidays! Keep on the lookou\u2026",
+            "url": "http://techcrunch.com/2020/11/22/week-in-review-venture-backed-loneliness/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/04-metaverse-part-4.jpg?w=753",
+            "publishedAt": "2020-11-22T14:16:25Z",
+            "content": "Hello everyone and welcome back to Week in Review! Natasha here, subbing in for Lucas while hes out. This week, well talk about loneliness raising money and how Zoom fatigue is fueling innovation.\r\nF\u2026 [+4136 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Casey Barber, CNN",
+            "title": "Who cares about turkey? Thanksgiving main dishes for smaller groups and (sacrilegious) non-turkey lovers",
+            "description": "You might not want a whole roast turkey for a gaggle of reasons this Thanksgiving. If the idea of not eating turkey doesn't ruffle your feathers, let yourself off the hook. Here are ideas for cooks who want to mix up tradition -- and are likely hosting small \u2026",
+            "url": "https://www.cnn.com/2020/11/22/health/small-thanksgiving-dinner-main-dishes-wellness/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201118165922-01-thanksgiving-food-no-turkey-super-tease.jpg",
+            "publishedAt": "2020-11-22T14:04:22Z",
+            "content": "(CNN)You might not want a whole roast turkey on your table for a gaggle of reasons this Thanksgiving.\r\nA turkey breast is the most obvious option for those who enjoy the traditional feast but don't n\u2026 [+4598 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph Menn",
+            "title": "Top Biden adviser seen as making tech regulation more likely",
+            "description": "President-elect Joe Biden\u2019s top technology adviser helped craft California's landmark online privacy law and recently condemned a controversial federal statute that protects internet companies from liability, indicators of how the Biden administration may com\u2026",
+            "url": "https://uk.reuters.com/article/uk-usa-biden-tech-idUKKBN2820DM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542059275&r=LYNXMPEGAL07H&w=800",
+            "publishedAt": "2020-11-22T12:00:00Z",
+            "content": "SAN FRANCISCO (Reuters) - President-elect Joe Bidens top technology adviser helped craft Californias landmark online privacy law and recently condemned a controversial federal statute that protects i\u2026 [+3755 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Kevin Lynch",
+            "title": "MotoGP live stream 2020: how to watch Portugal Grand Prix from anywhere",
+            "description": "Curtain comes down on exhilarating season with finale at Portimao. Follow our guide to find out how to get a MotoGP Portugal live stream and watch the action online.",
+            "url": "https://www.techradar.com/news/motogp-live-stream-2020-how-to-watch-portugal-grand-prix-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/EaWYhcMvLhaVYsAeoDB2Jd-1200-80.jpg",
+            "publishedAt": "2020-11-22T11:11:01Z",
+            "content": "With the riders' title in the bag, Joan Mir could set a unique piece of MotoGP history today - read on for full details on how to watch all the Portugal GP action online with a MotoGP live stream, no\u2026 [+6286 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Falcons vs Saints live stream: how to watch the NFL week 11 game from anywhere today",
+            "description": "Here's how to get an Atlanta Falcons vs New Orleans Saints live stream and watch the NFL action online this Sunday in a key NFC South clash.",
+            "url": "https://www.techradar.com/news/falcons-vs-saints-live-stream-how-to-watch-the-nfl-week-11-game-from-anywhere-today",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eNjj6KytQUcHaEyjYYj7Vh-1200-80.jpg",
+            "publishedAt": "2020-11-22T16:07:06Z",
+            "content": "After a really disappointing start to the season, the Saints are on a run of six victories in a row and have wrestled top spot in the NFC South out of the Bucs' hands. This is the first of a quartet \u2026 [+9574 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Steelers vs Jaguars live stream: how to watch the NFL week 11 game online anywhere now",
+            "description": "Here's how to get a Pittsburgh Steelers vs Jacksonville Jaguars live stream and watch all the NFL action online this Sunday wherever you are right now.",
+            "url": "https://www.techradar.com/news/steelers-vs-jaguars-live-stream-how-to-watch-the-nfl-week-11-game-online-anywhere-now",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gS98jKrT59HuCYndC4BDRU-1200-80.jpg",
+            "publishedAt": "2020-11-22T16:03:15Z",
+            "content": "Come on, this isn't fair. The 9-0 Steelers' favorable mid-season mini-series of fixtures comes to an end with a visit to Jacksonville today, to face a Jags team that hasn't recorded a single victory \u2026 [+9766 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Eagles vs Browns live stream: how to watch the NFL week 11 game from anywhere today",
+            "description": "Here's how to get a Philadelphia Eagles vs Cleveland Browns live stream and watch NFL Week 11 action online from anywhere today.",
+            "url": "https://www.techradar.com/news/eagles-vs-browns-live-stream-how-to-watch-nfl-week-11-game-from-anywhere-now",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uAgPZzdWgUtbYHJoDhzT7j-1200-80.jpg",
+            "publishedAt": "2020-11-22T16:01:32Z",
+            "content": "If the Browns were in the NFC East they'd be the runaway leaders. As it is though, they're tied in second in the AFC North with a 6-3 record, and the Eagles lead their rotten division with a 3-5-1 re\u2026 [+9675 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Dolphins vs Broncos live stream: how to watch NFL week 11 game from anywhere today",
+            "description": "Our guide explains how to get a Miami Dolphins vs Denver Broncos live stream and watch all the NFL action online this Sunday wherever you are.",
+            "url": "https://www.techradar.com/news/dolphins-vs-broncos-live-stream-how-to-watch-nfl-week-11-game-from-anywhere-today",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uxVkuHekkNEX2MjrYSq5CY-1200-80.jpg",
+            "publishedAt": "2020-11-22T19:06:35Z",
+            "content": "Fins fans have had to be patient, but Brian Flores' rebuilding effort down in Florida is really starting to come good. After a sluggish start to the season they've now won five in a row, and could cl\u2026 [+9317 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Patriots vs Texans live stream: how to watch NFL week 11 game online from anywhere",
+            "description": "Here's how to get a New England Patriots vs Houston Texans live stream and watch all the NFL action online this Sunday wherever you are right now.",
+            "url": "https://www.techradar.com/news/patriots-vs-texans-live-stream-how-to-watch-nfl-week-11-game-online-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bCbyLTCacJFZZjLAVPPU2V-1200-80.jpg",
+            "publishedAt": "2020-11-22T16:06:07Z",
+            "content": "The Pats and Texans will both be hoping for slightly better playing conditions today than they got last week, though they did seem to work in New England's favor as they rushed to their biggest victo\u2026 [+9478 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Tabitha Baker",
+            "title": "Titans vs Ravens live stream: how to watch the NFL week 11 game from anywhere today",
+            "description": "Follow our guide to find a Titans vs Ravens live stream this Sunday and watch NFL week 11 action online as Baltimore seek revenge against Tennessee.",
+            "url": "https://www.techradar.com/news/titans-vs-ravens-live-stream-how-to-watch-the-nfl-week-11-game-from-anywhere-today",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YBHuKSQtC9Fr9BBjNUjMzF-1200-80.jpg",
+            "publishedAt": "2020-11-22T16:06:53Z",
+            "content": "The Ravens and the Titans will face off for the first time since 2019's playoffs upset today, as both teams sit level in the AFC standings after a tumultuous start to the 2020 season. The Tennessee T\u2026 [+9645 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Thiem vs Medvedev live stream: how to watch free ATP Final tennis from anywhere",
+            "description": "The Austrian and Russian are part of the new generation of men's tennis stars - here's how to get a 2020 ATP Finals live stream today for this huge Thiem vs Medvedev final.",
+            "url": "https://www.techradar.com/news/thiem-vs-medvedev-live-stream-how-to-watch-free-atp-final-2020-tennis-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5e37ogcvKioN3nt6ipbKmW-1200-80.jpg",
+            "publishedAt": "2020-11-22T16:14:26Z",
+            "content": "Is this the moment men's tennis has been waiting for? The new generation triumphed over the old on Saturday, to set up an ATP Finals final that will see the silver trophy end up in the grasp of a bra\u2026 [+7952 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Packers vs Colts live stream: how to watch the NFL week 11 game from anywhere today",
+            "description": "Here's how to get a Green Bay Packers vs Indianapolis Colts live stream and watch the NFL Week 11 action online from anywhere this Sunday.",
+            "url": "https://www.techradar.com/news/packers-vs-colts-live-stream-how-to-watch-nfl-week-11-game-from-anywhere-now",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tbWdzQChoLFtNGMo6SA8ZA-1200-80.jpg",
+            "publishedAt": "2020-11-22T19:21:05Z",
+            "content": "The Packers are in action at Lucas Oil Stadium this afternoon, where they'll be hosted by the Colts in what could be a brilliant match-up. Green Bay have a slightly more handsome record but put in an\u2026 [+10118 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Chiefs vs Raiders live stream: how to watch NFL Sunday Night Football from anywhere",
+            "description": "Where to find a Kansas City Chiefs vs Las Vegas Raiders live stream and watch the NFL online for tonight's week 11 Sunday Night Football game.",
+            "url": "https://www.techradar.com/news/chiefs-vs-raiders-live-stream-how-to-watch-nfl-sunday-night-football-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/kZsqcRypRBSGHwPWESdpSd-1200-80.jpg",
+            "publishedAt": "2020-11-22T23:17:25Z",
+            "content": "We all know what happened the last time these two faced off. Week 5 produced the first major shock of the season, and Andy Reid has gone all Michael Jordan in the build-up to today's rematch, getting\u2026 [+10220 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Haley Henschel",
+            "title": "Best Black Friday deals on Amazon: Nintendo Switch, AirPods, 4K TVs",
+            "description": "Best Black Friday deals on Amazon: Nintendo Switch, AirPods, 4K TVsmashable.com",
+            "url": "https://mashable.com/shopping/black-friday-deals-amazon/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F22%252F84%252F6d315422f8354ceeba53f7d6ece4dcc2.b346a.png%252F1200x630.png?signature=aFNNJ-ni8DFzwjBRn1seISld_7o=",
+            "publishedAt": "2020-11-22T10:04:05Z",
+            "content": "Here are the best Black Friday deals so far:\r\nAfter a weird, month-and-a-half-long limbo period following its rescheduled Prime Day event, Amazon's 2020 Black Friday sale is officially, finally on.\r\n\u2026 [+5674 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Scotland vs France live stream: how to watch Autumn Nations Cup rugby online anywhere",
+            "description": "French after revenge after their Six Nations defeat to the Scots - here's how to get a Scotland vs France live stream and watch Autumn Nations Cup rugby wherever you are in the world.",
+            "url": "https://www.techradar.com/news/scotland-vs-france-live-stream-how-to-watch-autumn-nations-cup-2020-rugby-online-anywhere-now",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Nd6kGCrKqPiontZ4TMXywQ-1200-80.jpg",
+            "publishedAt": "2020-11-22T12:13:38Z",
+            "content": "A pivotal weekend in the Autumn Nations Cup concludes with Scotland vs France, a game that will likely determine the winner of Group B. It's Les Tricolores' first game of the tournament, but they cur\u2026 [+6195 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Kevin Lynch",
+            "title": "UFC 255 live stream: how to watch Figueiredo vs Perez online from anywhere tonight",
+            "description": "Follow our guide to find a UFC 255 live stream and watch every right from tonight's Figueiredo vs Perez card online and from anywhere in the world.",
+            "url": "https://www.techradar.com/news/ufc-255-live-stream-how-to-watch-figueiredo-vs-perez-online-from-anywhere-tonight",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zqhnUQG3yqu2inbDUR6gVc-1200-80.jpg",
+            "publishedAt": "2020-11-22T01:03:02Z",
+            "content": "Brazils\u00a0Deiveson Figueiredo will be looking to solidify his status as one of MMAs big guns, with the first defence of his\u00a0flyweight\u00a0title taking place this Saturday against up-and-coming\u00a0Alex Perez a\u2026 [+8408 chars]"
+        }
+    ]
+}

@@ -1,0 +1,968 @@
+{
+    "status": "ok",
+    "totalResults": 74,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Russia detains Aeroflot executive on suspicion of passing secrets to Britain: Russian news agencies - Reuters",
+            "description": "Russian security services have detained a London-based executive of flagship airline Aeroflot on suspicion of passing state secrets to Britain, Russian news agencies reported, citing sources.",
+            "url": "https://www.reuters.com/article/us-russia-britain-espionage-idUSKBN27T1A5",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T10:58:43Z",
+            "content": "By Reuters Staff\r\nMOSCOW (Reuters) - Russian security services have detained a London-based executive of flagship airline Aeroflot on suspicion of passing state secrets to Britain, Russian news agenc\u2026 [+1440 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Russia detains Aeroflot executive on suspicion of passing secrets to Britain: Russian news agencies - Reuters Canada",
+            "description": "Russian security services have detained a London-based executive of flagship airline Aeroflot on suspicion of passing state secrets to Britain, Russian news agencies reported, citing sources.",
+            "url": "https://ca.reuters.com/article/us-russia-britain-espionage-idCAKBN27T1A5",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T11:04:43Z",
+            "content": "By Reuters Staff\r\nMOSCOW (Reuters) - Russian security services have detained a London-based executive of flagship airline Aeroflot on suspicion of passing state secrets to Britain, Russian news agenc\u2026 [+1440 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China Oct airline passenger numbers at 88.3% of year-earlier level - Reuters",
+            "description": "China's aviation regulator said on Friday that October's total passenger numbers were 50.32 million, or 88.3% of the level a year earlier.",
+            "url": "https://www.reuters.com/article/china-aviation-idUSB9N2HU02B",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T02:45:36Z",
+            "content": "By Reuters Staff\r\nBEIJING, Nov 13 (Reuters) - Chinas aviation regulator said on Friday that Octobers total passenger numbers were 50.32 million, or 88.3% of the level a year earlier.\r\nThat compared w\u2026 [+152 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "French finance minister says compromise can be reached over U.S.-EU trade sanctions - Reuters.com",
+            "description": "French Finance Minister Bruno Le Maire said on Friday he thinks a compromise can be reached over sanctions the United States and the European Union have imposed on each other over civil aviation subsidies for Boeing Co <BA.N> and Airbus <AIR.PA>.",
+            "url": "https://uk.reuters.com/article/us-usa-trade-eu-france-idUSKBN27T2RZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541156037&r=LYNXMPEGAC1LQ&w=800",
+            "publishedAt": "2020-11-13T19:55:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: French Economy and Finance Minister Bruno Le Maire speaks during a news conference on the country's COVID-19 situation at the French Health Ministry in Paris, France Nov\u2026 [+1903 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "French finance minister says compromise can be reached over U.S.-EU trade sanctions - Reuters UK",
+            "description": "French Finance Minister Bruno Le Maire said on Friday he thinks a compromise can be reached over sanctions that the United States and the European Union have imposed on each other over civil aviation subsidies for Boeing Co <BA.N> and Airbus <AIR.PA>.",
+            "url": "https://uk.reuters.com/article/uk-usa-trade-eu-france-idUKKBN27T2S1",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541156112&r=LYNXMPEGAC1LR&w=800",
+            "publishedAt": "2020-11-13T19:55:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Bruno Le Maire, French Minister of the Economy, Finance, and Recovery, wearing a protective face mask, leaves following the weekly cabinet meeting at the Elysee Palace i\u2026 [+529 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "French finance minister says compromise can be reached over U.S.-EU trade sanctions - Reuters India",
+            "description": "French Finance Minister Bruno Le Maire said on Friday he thinks a compromise can be reached over sanctions the United States and the European Union have imposed on each other over civil aviation subsidies for Boeing Co <BA.N> and Airbus <AIR.PA>.",
+            "url": "https://in.reuters.com/article/us-usa-trade-eu-france-idINKBN27T2RZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541156037&r=LYNXMPEGAC1LQ&w=800",
+            "publishedAt": "2020-11-13T19:56:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: French Economy and Finance Minister Bruno Le Maire speaks during a news conference on the country's COVID-19 situation at the French Health Ministry in Paris, France Nov\u2026 [+1903 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Oliver Griffin",
+            "title": "Colombian airline Avianca Holdings third-quarter net loss widens on falling income - Reuters",
+            "description": "Avianca Holdings' <AVT_p.CN> third-quarter net loss widened significantly following a substantial fall in income due to the impact of the coronavirus pandemic, the Colombian flagship airline reported.",
+            "url": "https://www.reuters.com/article/us-avianca-results-idUSKBN27T1ZF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541119298&r=LYNXMPEGAC12Z&w=800",
+            "publishedAt": "2020-11-13T14:56:00Z",
+            "content": "FILE PHOTO: A logo of aviation company Avianca is pictured at the headquarters building in Bogota, Colombia August 29, 2019. REUTERS/Luisa Gonzalez/File Photo\r\nBOGOTA (Reuters) - Avianca Holdings' AV\u2026 [+1239 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "RPT-Gategroup reaches debt deal with RRJ, Temesek and lenders - Reuters UK",
+            "description": "Swiss airline caterer Gategroup Holding, shareholders RRJ Capital and Temasek as well as the company's lenders have reached an agreement in principle to back a debt restructuring, the Glattbrugg-based company said on Friday.",
+            "url": "https://uk.reuters.com/article/gategroup-debt-restructuring-idUKL1N2HZ25U",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T18:50:00Z",
+            "content": "By Reuters Staff\r\n(Adds more readers, no changes to text)\r\nZURICH, Nov 13 (Reuters) - Swiss airline caterer Gategroup Holding, shareholders RRJ Capital and Temasek as well as the companys lenders hav\u2026 [+1335 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Natalia Zinets",
+            "title": "Ukraine says Iran dragging its feet in plane crash investigation - Reuters India",
+            "description": "Ukraine has said Iran is dragging its feet on investigating the downing of a Ukrainian airliner near Tehran in January by not sharing information and not responding to requests for cooperation.",
+            "url": "https://in.reuters.com/article/iran-crash-ukraine-idINKBN27T1PF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541113378&r=LYNXMPEGAC0Z7&w=800",
+            "publishedAt": "2020-11-13T13:31:00Z",
+            "content": "KYIV (Reuters) - Ukraine has said Iran is dragging its feet on investigating the downing of a Ukrainian airliner near Tehran in January by not sharing information and not responding to requests for c\u2026 [+2197 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UK to make announcement on travel quarantine 'very soon' - minister - Reuters UK",
+            "description": "Britain's transport minister said he would be making an announcement on changes to the country's 14-day quarantine rule for travellers into the country \"very soon\", giving hope to airlines desperate for travel to restart.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-britain-travel-idUKKBN27T0PY",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541078119&r=LYNXMPEGAC0E7&w=800",
+            "publishedAt": "2020-11-13T07:33:00Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - Britains transport minister said he would be making an announcement on changes to the countrys 14-day quarantine rule for travellers into the country very soon, g\u2026 [+317 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Elida Moreno",
+            "title": "UPDATE 1-Panama's Copa Airlines to resume flights to Venezuela late November - Reuters",
+            "description": "Panama's Copa Airlines said on Thursday that it would resume flights to Venezuela on Nov. 24 following an eight-month suspension because of measures to curb the spread of the novel coronavirus.",
+            "url": "https://www.reuters.com/article/panama-copa-airlines-idUSL1N2HZ00W",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T00:43:00Z",
+            "content": "(Adds details from statement)\r\nPANAMA CITY, Nov 12 (Reuters) - Panamas Copa Airlines said on Thursday that it would resume flights to Venezuela on Nov. 24 following an eight-month suspension because \u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UK to make announcement on travel quarantine 'very soon': minister - Reuters India",
+            "description": "Britain's transport minister said he would be making an announcement on changes to the country's 14-day quarantine rule for travellers into the country \"very soon\", giving hope to airlines desperate for travel to restart.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-britain-travel-idINKBN27T0QN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541078560&r=LYNXMPEGAC0EE&w=800",
+            "publishedAt": "2020-11-13T07:40:00Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - Britains transport minister said he would be making an announcement on changes to the countrys 14-day quarantine rule for travellers into the country very soon, g\u2026 [+317 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Elida Moreno",
+            "title": "UPDATE 1-Panama's Copa Airlines to resume flights to Venezuela late November - Reuters India",
+            "description": "Panama's Copa Airlines said on Thursday that it would resume flights to Venezuela on Nov. 24 following an eight-month suspension because of measures to curb the spread of the novel coronavirus.",
+            "url": "https://www.reuters.com/article/panama-copa-airlines-idINL1N2HZ00W",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T00:45:00Z",
+            "content": "(Adds details from statement)\r\nPANAMA CITY, Nov 12 (Reuters) - Panamas Copa Airlines said on Thursday that it would resume flights to Venezuela on Nov. 24 following an eight-month suspension because \u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Daniel Oberhaus",
+            "title": "SpaceX Is Ready to Launch Its First Official Crewed Mission",
+            "description": "Saturday\u2019s SpaceX launch will mark the return of regular crewed launches in the US after nearly a decade hiatus.",
+            "url": "https://www.wired.com/story/spacex-launches-first-official-crewed-mission/",
+            "urlToImage": "https://media.wired.com/photos/5fadc25b8aac28e278bc2386/191:100/w_1280,c_limit/science_spacex_crew_RTX887SQ.jpg",
+            "publishedAt": "2020-11-13T13:00:00Z",
+            "content": "Earlier this summer, SpaceX launched NASA astronauts Bob Behnken and Doug Hurley on a historic mission to the International Space Station. It was the first time that a private launch company had ever\u2026 [+4125 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alex Davies",
+            "title": "Insider Transportation: Starlink's pricing predicament, top electric aviation startups, how much Uber pays, and more",
+            "description": "Summary List Placement\n\nConsidering that after 17 years, Tesla is only now on the verge of posting its first annual profit, you could say Elon Musk knows how to navigate the long road of taking a business from red to black. But that may not make the struggle \u2026",
+            "url": "https://www.businessinsider.com/spacex-starlink-pricing-uber-salaries-electric-aviation-startups-2020-11",
+            "urlToImage": "https://i.insider.com/5fad8d791e8d500019813303?width=1200&format=jpeg",
+            "publishedAt": "2020-11-13T12:59:00Z",
+            "content": "Considering that after 17 years, Tesla is only now on the verge of posting its first annual profit, you could say Elon Musk knows how to navigate the long road of taking a business from red to black.\u2026 [+2676 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Panama's Copa Airlines to resume flights to Venezuela late November - Reuters",
+            "description": "Panama's Copa Airlines said on Thursday that it would resume flights to Venezuela on Nov. 24 following an eight-month suspension because of measures to curb the spread of the novel coronavirus. (Reporting by Elida Moreno; writing by Stefanie Eschenbacher; edi\u2026",
+            "url": "https://www.reuters.com/article/panama-copa-airlines-idUSS0N2EF00Y",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T00:18:00Z",
+            "content": "By Reuters Staff\r\nPANAMA CITY, Nov 12 (Reuters) - Panamas Copa Airlines said on Thursday that it would resume flights to Venezuela on Nov. 24 following an eight-month suspension because of measures t\u2026 [+131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Crvena Zvezda mts Belgrade - Real Madrid Highlights | Turkish Airlines EuroLeague, RS Round 8 - EUROLEAGUE BASKETBALL",
+            "description": "<ol><li>Crvena Zvezda mts Belgrade - Real Madrid Highlights | Turkish Airlines EuroLeague, RS Round 8\u00a0\u00a0EUROLEAGUE BASKETBALL\r\n</li><li>Laso: \u201cIm happy to get the victory knowing how difficult it is to win here.\u201d\u00a0\u00a0Real Madrid\r\n</li><li>View Full coverage on Go\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X2pDb3lHTTBaYVHSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-13T20:42:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Nikkei snaps eight-day winning streak as COVID-19 cases surge - Reuters",
+            "description": "Japan's Nikkei share average ended lower on Friday, snapping eight consecutive sessions of gains, as investor sentiment was knocked by concerns around resurging new cases of the novel coronavirus both at home and abroad.",
+            "url": "https://in.reuters.com/article/japan-stocks-idUSL1N2HZ0C0",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T06:46:00Z",
+            "content": "By Reuters Staff\r\nTOKYO, Nov 13 (Reuters) - Japans Nikkei share average ended lower on Friday, snapping eight consecutive sessions of gains, as investor sentiment was knocked by concerns around resur\u2026 [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Nikkei snaps eight-day winning streak as COVID-19 cases surge - Reuters",
+            "description": "Japan's Nikkei share average ended lower on Friday, snapping eight consecutive sessions of gains, as investor sentiment was knocked by concerns around resurging new cases of the novel coronavirus both at home and abroad.",
+            "url": "https://www.reuters.com/article/japan-stocks-idUSL1N2HZ0C0",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T06:48:22Z",
+            "content": "By Reuters Staff\r\nTOKYO, Nov 13 (Reuters) - Japans Nikkei share average ended lower on Friday, snapping eight consecutive sessions of gains, as investor sentiment was knocked by concerns around resur\u2026 [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Nikkei off 29-1/2-year high as coronavirus fears sap sentiment - Reuters UK",
+            "description": "Japan's Nikkei share average retreated slightly from a near 29-1/2-year high on Friday, tracking Wall Street lower, as investor sentiment was knocked by concerns around resurging new cases of the novel coronavirus both at home and abroad.",
+            "url": "https://uk.reuters.com/article/japan-stocks-midday-idUKL1N2HZ04Y",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T02:45:00Z",
+            "content": "By Reuters Staff\r\nTOKYO, Nov 13 (Reuters) - Japans Nikkei share average retreated slightly from a near 29-1/2-year high on Friday, tracking Wall Street lower, as investor sentiment was knocked by con\u2026 [+1491 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Nikkei off 29-1/2-year high as coronavirus fears sap sentiment - Reuters",
+            "description": "Japan's Nikkei share average retreated slightly from a near 29-1/2-year high on Friday, tracking Wall Street lower, as investor sentiment was knocked by concerns around resurging new cases of the novel coronavirus both at home and abroad.",
+            "url": "https://www.reuters.com/article/japan-stocks-midday-idUSL1N2HZ04Y",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T02:48:21Z",
+            "content": "By Reuters Staff\r\nTOKYO, Nov 13 (Reuters) - Japans Nikkei share average retreated slightly from a near 29-1/2-year high on Friday, tracking Wall Street lower, as investor sentiment was knocked by con\u2026 [+1491 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Drones light up Seoul sky with messages of hope amid COVID-19 - Reuters UK",
+            "description": "More than 300 drones lit up the sky over Seoul on Friday in a show the government said was meant to give \"comfort and hope\" to residents enduring the coronavirus pandemic.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-southkorea-drones-idUKKBN27T1EN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541101436&r=LYNXMPEGAC0RS&w=800",
+            "publishedAt": "2020-11-13T11:27:00Z",
+            "content": "By Reuters Staff\r\nSEOUL (Reuters) - More than 300 drones lit up the sky over Seoul on Friday in a show the government said was meant to give comfort and hope to residents enduring the coronavirus pan\u2026 [+1245 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-UK Stocks-Factors to watch on Nov 13 - Reuters UK",
+            "description": "Nov 13 - Britain's FTSE 100 index is seen opening 69 points lower at 6,270 on Friday, according to financial bookmakers, with futures down 1.14% ahead of cash market open.",
+            "url": "https://uk.reuters.com/article/britain-stocks-factors-idUKL4N2HZ209",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T08:00:00Z",
+            "content": "By Reuters Staff\r\n(Adds company news items, futures)\r\nNov 13 - Britains FTSE 100 index is seen opening 69 points lower at 6,270 on Friday, according to financial bookmakers, with futures down 1.14% a\u2026 [+1119 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-UK Stocks-Factors to watch on Nov 13 - Reuters UK",
+            "description": "Nov 13 - Britain's FTSE 100 index is seen opening 69 points lower at 6,270 on Friday, according to financial bookmakers, with futures down 1.14% ahead of cash market open.",
+            "url": "https://www.reuters.com/article/britain-stocks-factors-idUKL4N2HZ209",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T08:05:52Z",
+            "content": "By Reuters Staff\r\n(Adds company news items, futures)\r\nNov 13 - Britains FTSE 100 index is seen opening 69 points lower at 6,270 on Friday, according to financial bookmakers, with futures down 1.14% a\u2026 [+1119 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "New Zealand reopens Auckland city centre after COVID-19 scare, mask-wearing urged - Reuters India",
+            "description": "New Zealand reopened downtown Auckland on Friday after contact tracing of a new coronavirus case revealed it was linked to a known case from a border isolation facility, reversing an earlier call for people to work from home.",
+            "url": "https://in.reuters.com/article/health-coronavirus-newzealand-idINKBN27T0E2",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T03:30:00Z",
+            "content": "By Reuters Staff\r\nWELLINGTON (Reuters) - New Zealand reopened downtown Auckland on Friday after contact tracing of a new coronavirus case revealed it was linked to a known case from a border isolatio\u2026 [+1171 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Factbox: List of 31 Chinese companies designated by the U.S. as military-backed - Reuters UK",
+            "description": "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military.",
+            "url": "https://uk.reuters.com/article/uk-usa-china-securities-companies-factbo-idUKKBN27T09E",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541056621&r=LYNXMPEGAC04D&w=800",
+            "publishedAt": "2020-11-13T02:15:35Z",
+            "content": "By Reuters Staff\r\n(Reuters) - The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chines\u2026 [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Factbox: List of 31 Chinese companies designated by the U.S. as military-backed - Reuters UK",
+            "description": "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military.",
+            "url": "https://www.reuters.com/article/uk-usa-china-securities-companies-factbo-idUKKBN27T09E",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541056621&r=LYNXMPEGAC04D&w=800",
+            "publishedAt": "2020-11-13T02:12:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chines\u2026 [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Factbox: List of 31 Chinese companies designated by the U.S. as military-backed - Reuters Canada",
+            "description": "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military.",
+            "url": "https://ca.reuters.com/article/ctech-us-usa-china-securities-companies-idCAKBN27T081-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541057197&r=LYNXMPEGAC03X-OCATC&w=800",
+            "publishedAt": "2020-11-13T02:07:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chines\u2026 [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Factbox: List of 31 Chinese companies designated by the U.S. as military-backed - Reuters",
+            "description": "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military.",
+            "url": "https://www.reuters.com/article/us-usa-china-securities-companies-factbo-idUSKBN27T081",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541055833&r=LYNXMPEGAC03X&w=800",
+            "publishedAt": "2020-11-13T02:02:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chines\u2026 [+1764 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Drones light up Seoul sky with messages of hope amid COVID-19 - Reuters",
+            "description": "More than 300 drones lit up the sky over Seoul on Friday in a show the government said was meant to give \"comfort and hope\" to residents enduring the coronavirus pandemic.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-southkorea-drones-idUSKBN27T1EN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541101436&r=LYNXMPEGAC0RS&w=800",
+            "publishedAt": "2020-11-13T11:36:56Z",
+            "content": "By Reuters Staff\r\nPeople take pictures as drones fly in formation showing messages of hope, amid the coronavirus disease (COVID-19) outbreak, in Seoul, South Korea November 13, 2020. REUTERS/Kim Hong\u2026 [+1431 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "New Zealand reopens Auckland city centre after COVID-19 scare, mask-wearing urged - Reuters UK",
+            "description": "New Zealand reopens Auckland city centre after COVID-19 scare, mask-wearing urged\u00a0\u00a0Reuters UK",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-newzealand-idUKKBN27T0DB",
+            "urlToImage": null,
+            "publishedAt": "2020-11-13T03:29:00Z",
+            "content": "FILE PHOTO: A person wearing a face mask sits at a bus stop next to posted safety guidelines in Auckland, New Zealand, August 31, 2020. REUTERS/Fiona Goodall\r\nWorld News\r\nReuters Staff\r\nWELLINGTON (R\u2026 [+1484 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lawrence Delevingne",
+            "title": "Asian stocks dip as virus spread tamps vaccine hopes - Reuters Canada",
+            "description": "Stocks in Asia were poised to pull back after markets in the United States and Europe sold off on concerns over rising coronavirus infections.",
+            "url": "https://ca.reuters.com/article/us-global-markets-idCAKBN27T01M",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541048921&r=LYNXMPEGAC00V&w=800",
+            "publishedAt": "2020-11-13T00:26:54Z",
+            "content": "By Lawrence Delevingne\r\nBOSTON (Reuters) - Stocks in Asia were poised to pull back after markets in the United States and Europe sold off on concerns over rising coronavirus infections.\r\nFILE PHOTO: \u2026 [+2500 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX to launch astronaut crew in first operational mission - Reuters UK",
+            "description": "Elon Musk\u2019s SpaceX is poised to send a crew of four astronauts to the International Space Station on Saturday evening in NASA\u2019s first operational mission using the Crew Dragon capsule.",
+            "url": "https://uk.reuters.com/article/uk-space-exploration-spacex-idUKKBN27T2RV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541156002&r=LYNXMPEGAC1LK&w=800",
+            "publishedAt": "2020-11-13T19:55:00Z",
+            "content": "WASHINGTON (Reuters) - Elon Musks SpaceX is poised to send a crew of four astronauts to the International Space Station on Saturday evening in NASAs first operational mission using the Crew Dragon ca\u2026 [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX to launch astronaut crew in first operational mission - Reuters Canada",
+            "description": "Elon Musk\u2019s SpaceX is poised to send a crew of four astronauts to the International Space Station on Saturday evening in NASA\u2019s first operational mission using the Crew Dragon capsule.",
+            "url": "https://ca.reuters.com/article/us-space-exploration-spacex-idCAKBN27T2N4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541147728&r=LYNXMPEGAC1J9&w=800",
+            "publishedAt": "2020-11-13T18:22:00Z",
+            "content": "By Joey Roulette\r\nWASHINGTON (Reuters) - Elon Musks SpaceX is poised to send a crew of four astronauts to the International Space Station on Saturday evening in NASAs first operational mission using \u2026 [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX to launch astronaut crew in first operational mission - Reuters India",
+            "description": "Elon Musk\u2019s SpaceX is poised to send a crew of four astronauts to the International Space Station on Saturday evening in NASA\u2019s first operational mission using the Crew Dragon capsule.",
+            "url": "https://in.reuters.com/article/us-space-exploration-spacex-idINKBN27T2N4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541145935&r=LYNXMPEGAC1HT&w=800",
+            "publishedAt": "2020-11-13T18:16:00Z",
+            "content": "WASHINGTON (Reuters) - Elon Musks SpaceX is poised to send a crew of four astronauts to the International Space Station on Saturday evening in NASAs first operational mission using the Crew Dragon ca\u2026 [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lawrence Delevingne",
+            "title": "GLOBAL MARKETS-Asian stocks dip as virus spread tamps vaccine hopes - Reuters UK",
+            "description": "Stocks in Asia were poised to pull back after markets in the United States and Europe sold off on concerns over rising coronavirus infections.",
+            "url": "https://uk.reuters.com/article/uk-global-markets-idUKKBN27T027",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541048420&r=LYNXMPEGAC016&w=800",
+            "publishedAt": "2020-11-13T00:14:00Z",
+            "content": "BOSTON (Reuters) - Stocks in Asia were poised to pull back after markets in the United States and Europe sold off on concerns over rising coronavirus infections.\r\nFILE PHOTO: A man wearing a face mas\u2026 [+2600 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX to launch astronaut crew in first operational mission - Reuters",
+            "description": "Elon Musk\u2019s SpaceX is poised to send a crew of four astronauts to the International Space Station on Saturday evening in NASA\u2019s first operational mission using the Crew Dragon capsule.",
+            "url": "https://www.reuters.com/article/us-space-exploration-spacex-idUSKBN27T2N4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541145935&r=LYNXMPEGAC1HT&w=800",
+            "publishedAt": "2020-11-13T18:20:59Z",
+            "content": "WASHINGTON (Reuters) - Elon Musks SpaceX is poised to send a crew of four astronauts to the International Space Station on Saturday evening in NASAs first operational mission using the Crew Dragon ca\u2026 [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "'Difficult issues remain': UK, EU will resume trade talks on Monday - Reuters UK",
+            "description": "Britain and the European Union will resume trade talks in Brussels on Monday after so far failing to close gaps between their positions on two of the thorniest issues that have long dogged the negotiations: competition rules and fishing.",
+            "url": "https://uk.reuters.com/article/us-britain-eu-idUKKBN27T1R2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541112062&r=LYNXMPEGAC0YS&w=800",
+            "publishedAt": "2020-11-13T13:10:00Z",
+            "content": "By Reuters Staff\r\nSmall toy figures are seen in front of UK and European Union displayed flags in this illustration picture, October 17, 2019. REUTERS/Dado Ruvic/Illustration\r\nLONDON (Reuters) - Brit\u2026 [+2212 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "S.Korea stocks bounce back, Samsung Elec jumps to record high - Reuters",
+            "description": "S.Korea stocks bounce back, Samsung Elec jumps to record high\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/southkorea-markets-close-idUSAZN21TR00",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T07:31:31Z",
+            "content": "By Reuters Staff\r\n* KOSPI closes up 0.7%; adds 3.2% for the week\r\n* Foreigners net buyers for 7th straight session\r\n* KRW edges down 0.1% vs USD; up 0.4% for the week\r\n* South Korea benchmark bond yi\u2026 [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Marc Jones",
+            "title": "Early vaccine could limit some ratings damage: S&P Global - Reuters Canada",
+            "description": "An early coronavirus vaccine could limit some of the damage country and company credit ratings are facing, S&P Global said on Friday, although more progress is needed before the downgrade warning levels can be lowered.",
+            "url": "https://ca.reuters.com/article/us-global-ratings-vaccine-idCAKBN27T2CU",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541133604&r=LYNXMPEGAC1BO&w=800",
+            "publishedAt": "2020-11-13T16:37:00Z",
+            "content": "LONDON (Reuters) - An early coronavirus vaccine could limit some of the damage country and company credit ratings are facing, S&amp;P Global said on Friday, although more progress is needed before th\u2026 [+2503 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Marc Jones",
+            "title": "Early vaccine could limit some ratings damage - S&P Global - Reuters UK",
+            "description": "An early coronavirus vaccine could limit some of the damage country and company credit ratings are facing, S&P Global said on Friday, although more progress is needed before the downgrade warning levels can be lowered.",
+            "url": "https://uk.reuters.com/article/uk-global-ratings-vaccine-idUKKBN27T2FU",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541136648&r=LYNXMPEGAC1DP&w=800",
+            "publishedAt": "2020-11-13T16:57:00Z",
+            "content": "LONDON (Reuters) - An early coronavirus vaccine could limit some of the damage country and company credit ratings are facing, S&amp;P Global said on Friday, although more progress is needed before th\u2026 [+2428 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Dhara Ranasinghe, Ritvik Carvalho, Elizabeth Howcroft",
+            "title": "Give me a W, V, and a K: describing the post-COVID economic outlook - Reuters",
+            "description": "What appeared to be a sharp V-shaped growth rebound from the first pandemic lockdown, now seems like a \"W\" -- these are among the myriad of letters and signs economists are using to describe the outlook for a world turned upside down by COVID-19.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-economy-graphic-idUSKBN27T15J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541093556&r=LYNXMPEGAC0MV&w=800",
+            "publishedAt": "2020-11-13T10:15:00Z",
+            "content": "LONDON (Reuters) - What appeared to be a sharp V-shaped growth rebound from the first pandemic lockdown, now seems like a W -- these are among the myriad of letters and signs economists are using to \u2026 [+3707 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EMERGING MARKETS-Asian stocks drop as virus worries offset vaccine-led recovery hopes - Reuters",
+            "description": "* Malaysia, Singapore, Thailand, Indonesia set for weekly gains * Rupiah up over 3% over 2 weeks on Biden's win, vaccine news * Shanghai stocks fall 1% on U.S. investment ban Nov 13 (Reuters) - Most emerging stocks in Asia fell on Friday as worries over surgi\u2026",
+            "url": "https://www.reuters.com/article/emerging-markets-asia-idUSL4N2HZ1S7",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T07:38:00Z",
+            "content": "By Reuters Staff\r\n* Malaysia, Singapore, Thailand, Indonesia set for weekly\r\ngains \r\n * Rupiah up over 3% over 2 weeks on Biden's win, vaccine\r\nnews\r\n * Shanghai stocks fall 1% on U.S. investment ban\u2026 [+3005 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EMERGING MARKETS-Asian stocks drop as virus worries offset vaccine-led recovery hopes - Reuters UK",
+            "description": "* Malaysia, Singapore, Thailand, Indonesia set for weekly gains * Rupiah up over 3% over 2 weeks on Biden's win, vaccine news * Shanghai stocks fall 1% on U.S. investment ban Nov 13 (Reuters) - Most emerging stocks in Asia fell on Friday as worries over surgi\u2026",
+            "url": "https://uk.reuters.com/article/emerging-markets-asia-idUKL4N2HZ1ZS",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T07:40:00Z",
+            "content": "By Reuters Staff\r\n* Malaysia, Singapore, Thailand, Indonesia set for weekly\r\ngains \r\n * Rupiah up over 3% over 2 weeks on Biden's win, vaccine\r\nnews\r\n * Shanghai stocks fall 1% on U.S. investment ban\u2026 [+3005 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By John Walton, CNN",
+            "title": "What the 737 MAX's return to the sky will mean for passengers",
+            "description": "Would you fly on the Boeing 737 MAX? That question is going to become all too real for passengers in the near future when the aircraft that's been grounded for some 600 days after two deadly crashes returns to service.",
+            "url": "https://www.cnn.com/travel/article/737-max-return-passenger-impact/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201018100440-boeing-737-max-american-airlines-super-tease.jpg",
+            "publishedAt": "2020-11-13T13:26:17Z",
+            "content": "John Walton, CNNPublished 13th November 2020\r\n(CNN) Would you fly on the Boeing 737 MAX? That question is going to become all too real for passengers in the near future when the aircraft that's been \u2026 [+7369 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Guy Faulconbridge",
+            "title": "Factbox: Dominic Cummings: UK PM Johnson's cardinal of Brexit - Reuters",
+            "description": "Dominic Cummings, British Prime Minister Boris Johnson's most powerful adviser, will leave his post at the heart of Downing Street when Brexit is done at year-end, after an internal battle over who should be Johnson's chief of staff.",
+            "url": "https://www.reuters.com/article/us-britain-politics-cummings-factbox-idUSKBN27T11C",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541089429&r=LYNXMPEGAC0KE&w=800",
+            "publishedAt": "2020-11-13T09:40:10Z",
+            "content": "LONDON (Reuters) - Dominic Cummings, British Prime Minister Boris Johnsons most powerful adviser, will leave his post at the heart of Downing Street when Brexit is done at year-end, after an internal\u2026 [+4273 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Amy Gunia",
+            "title": "COVID-19 Is Reaching the Last Coronavirus-Free Nations on Earth",
+            "description": "COVID-19 is reaching the Pacific islands, the last nations without coronavirus. Vanuatu, Marshall Islands and Solomon Islands report their first cases.",
+            "url": "https://time.com/5910456/pacific-islands-covid-19-vanuatu/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/11/vanuatu-covid.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2020-11-13T07:44:49Z",
+            "content": "Eight months after the World Health Organization declared a global pandemic, COVID-19 is reaching the last places on Earth that remained untouched by the coronavirus.\r\nOn Wednesday, Vanuatu, a Pacifi\u2026 [+7166 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Susie Neilson",
+            "title": "SpaceX's next astronaut mission for NASA has been delayed until Sunday due to wind and issues with the rocket-booster recovery",
+            "description": "Summary List Placement\n\nSpaceX's next astronaut mission for NASA has been delayed due to a combination of weather conditions and a technical issue, according to NASA.\nThe mission, known as Crew-1, was slated to lift off from Cape Canaveral, Florida, on Saturd\u2026",
+            "url": "https://www.businessinsider.com/spacex-crew-1-nasa-astronaut-launch-delayed-wind-2020-11",
+            "urlToImage": "https://i.insider.com/5fac63a698669500182b5855?width=1200&format=jpeg",
+            "publishedAt": "2020-11-13T21:59:00Z",
+            "content": "SpaceX's next astronaut mission for NASA has been delayed due to a combination of weather conditions and a technical issue, according to NASA.\r\nThe mission, known as Crew-1, was slated to lift off fr\u2026 [+4166 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "David Child",
+            "title": "'Erratic' American Airlines Passenger Arrested for Making 'Alarming Statements' During Flight",
+            "description": "No one was injured in the incident, police said, with the man taken into custody after the plane landed safely.",
+            "url": "https://www.newsweek.com/erratic-american-airlines-passenger-arrested-making-alarming-statements-during-flight-1547177",
+            "urlToImage": "https://d.newsweek.com/en/full/1669696/american-airlines-boeing-787-9-dreamliner.jpg",
+            "publishedAt": "2020-11-13T12:09:19Z",
+            "content": "A passenger who exhibited \"erratic behavior\" and made \"alarming statements\" onboard an American Airlines flight to Philadelphia has been taken into custody over the incident.\r\nPhiladelphia police sai\u2026 [+2355 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aila Slisco",
+            "title": "COVID Test Kits Now Available as Frequent Flier Reward on Hawaiian Airlines",
+            "description": "Hawaiian Airlines began offering COVID-19 testing kits as a frequent flier reward for would-be travelers on Thursday as cases of the virus continued to spike throughout the country.",
+            "url": "https://www.newsweek.com/covid-test-kits-now-available-frequent-flier-reward-hawaiian-airlines-1547103",
+            "urlToImage": "https://d.newsweek.com/en/full/1669546/hawaiian-airlines-airplane.jpg",
+            "publishedAt": "2020-11-13T05:10:27Z",
+            "content": "Hawaiian Airlines announced Thursday that travelers can now redeem frequent flier miles for COVID-19 test kits.\r\nThe airline said the kits, which can be exchanged for 14,000 frequent flier miles, wil\u2026 [+3168 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Harlan Vaughn",
+            "title": "Chase Ink Business Cash card review: A no-annual-fee business card with a best-ever bonus worth $750 and strong earning categories",
+            "description": "Summary List PlacementInk Business Cash\u00ae Credit CardTable of Contents: Masthead Sticky\nReview: Is the Chase Ink Business Cash credit card right for you?\nThere are lots of credit cards for small-business owners to choose from, but rarely do we see a sign-up bo\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/chase-ink-business-cash-credit-card-review",
+            "urlToImage": "https://i.insider.com/5fadb7921e8d500019813444?width=1200&format=jpeg",
+            "publishedAt": "2020-11-13T20:24:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+12486 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "Here's which airlines are blocking middle seats for Thanksgiving travel",
+            "description": "Airlines are slowly starting to ditch blocking the middle seat as new scientific studies show it's not as effective asmasks and air filters on airplanes.",
+            "url": "https://www.businessinsider.com/airlines-blocking-middle-seats-for-thanksgiving-travel-2020-10",
+            "urlToImage": "https://i.insider.com/5f985d300c60aa00190d4938?width=1200&format=jpeg",
+            "publishedAt": "2020-11-13T18:16:04Z",
+            "content": "US airlines are facing a crossroads this holiday season as to whether they should block middle seats or open them booking as a travel-hungry populace ponders a return to the skies to visit family, fr\u2026 [+4923 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rebecca Ungarino",
+            "title": "Here are the DoorDash investors who may be set for a windfall as it readies its IPO, from giant asset managers like Fidelity to retirement funds for companies like Costco",
+            "description": "Summary List Placement\n\nThe San Francisco-based delivery startup DoorDash on Friday filed paperwork to go public, detailing its investors in a filing with the Securities and Exchange Commission and shedding more light on who is set to benefit from its initial\u2026",
+            "url": "https://www.businessinsider.com/doordash-investors-ipo-t-rowe-fidelity-pensions-initial-public-offering-2020-11",
+            "urlToImage": "https://i.insider.com/5faea8554652d40019744394?width=1200&format=jpeg",
+            "publishedAt": "2020-11-13T19:42:54Z",
+            "content": "The San Francisco-based delivery startup DoorDash on Friday filed paperwork to go public, detailing its investors in a filing with the Securities and Exchange Commission and shedding more light on wh\u2026 [+4333 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Meghan Roos",
+            "title": "California, Oregon, Washington Issue Advisory Discouraging Travel Two Weeks Before Thanksgiving",
+            "description": "Those who do travel across state lines are encouraged to quarantine for 14 days.",
+            "url": "https://www.newsweek.com/california-oregon-washington-issue-advisory-discouraging-travel-two-weeks-before-thanksgiving-1547364",
+            "urlToImage": "https://d.newsweek.com/en/full/1669979/los-angeles-international-airport.jpg",
+            "publishedAt": "2020-11-13T21:15:00Z",
+            "content": "The governors in California, Oregon and Washington issued a joint travel advisory on Friday in response to the rising numbers of coronavirus cases in their states.\r\nThe state leaders announced the jo\u2026 [+3474 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Jeffrey Kluger",
+            "title": "A Fond Farewell to Trump\u2019s NASA Administrator",
+            "description": "Jim Bridenstine was an unlikely choice for NASA boss since his background was politics, not aerospace. But his tenure was a ringing success",
+            "url": "https://time.com/5911864/nasa-bridenstine/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/11/Bridenstine.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2020-11-13T19:09:14Z",
+            "content": "There were plenty of reasons to wince back in 2017 when U.S. President Donald Trump announced he was appointing Jim Bridenstine as NASA administrator. A former Republican congressman from Oklahoma, B\u2026 [+3267 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Josh Smith",
+            "title": "The Best Holiday Gift Ideas Under $25",
+            "description": "The best gifts you can give in 2020 for under $25.",
+            "url": "https://www.newsweek.com/best-holiday-gift-ideas-under-25-1542998",
+            "urlToImage": "https://d.newsweek.com/en/full/1661057/best-gifts-under-25-2020-planetags.jpg",
+            "publishedAt": "2020-11-13T17:00:01Z",
+            "content": "The best gift ideas under $25 show that you care without breaking the bank. Whether you are trying to stay under a gift exchange limit or watching your budget, you can still give a fantastic gift for\u2026 [+7622 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Zoe Drewett",
+            "title": "How Long Will the 'Biden Bounce' Last for Britain's Stock Market?",
+            "description": "Analysts say Donald Trump's refusal to concede defeat to president-elect Joe Biden is a \"minor problem\".",
+            "url": "https://www.newsweek.com/how-long-will-biden-bounce-last-britains-stock-market-1546627",
+            "urlToImage": "https://d.newsweek.com/en/full/1668866/city-london-banking-district-during-covid.jpg",
+            "publishedAt": "2020-11-13T08:03:45Z",
+            "content": "Global stock markets soared on the back of the presidential election, followed by the breakthrough news from Pfizer and BioNTech in the race to find a COVID vaccine.\r\nOn Wall Street, stocks returned \u2026 [+5220 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "Billionaire investor Bill Ackman likely lost more money on Warren Buffett's Berkshire Hathaway than 'anyone in the world'",
+            "description": "\"We were expecting Buffett to be super aggressive as markets came in, and we were surprised that he was not more so,\" the Pershing Square chief said.",
+            "url": "https://www.businessinsider.com/bill-ackman-pershing-square-warren-buffett-berkshire-hathaway-losses-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5ecfb4765af6cc6df15c2da5?format=jpeg",
+            "publishedAt": "2020-11-13T12:08:37Z",
+            "content": "Billionaire investor Bill Ackman stomached a 10% loss on his investment in Warren Buffett's Berkshire Hathaway.\r\nREUTERS/Shannon Stapleton\r\n<ul><li>Bill Ackman discussed his loss-making investment in\u2026 [+3635 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by C\u00e9line Gounder, Ben Michaelis and Robert Cialdini",
+            "title": "How to avoid being the Grinch who stole Thanksgiving",
+            "description": "Dr. C\u00e9line Gounder and psychologists Ben Michaelis and Robert Cialdini write that while the safest option is to celebrate Thanksgivnig within household bubbles or virtually, many Americans are planning to join large gatherings. For those families, there are w\u2026",
+            "url": "https://www.cnn.com/2020/11/13/opinions/covid-thanksgiving-gounder-michaelis-cialdini/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191006145252-thanksgiving-dinner-stock-super-tease.jpg",
+            "publishedAt": "2020-11-13T19:16:25Z",
+            "content": "C\u00e9line Gounder is an internist, infectious diseases specialist, and epidemiologist at the New York University Grossman School of Medicine and Bellevue Hospital Center. She's the host of the podcast \"\u2026 [+11208 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Jennifer Yellin",
+            "title": "Are you using the best credit card for your holiday shopping?",
+            "description": "The holidays are just around the corner, and it's important to use a credit card that offers the best benefits when you're doing your holiday shopping.",
+            "url": "https://www.cnn.com/2020/11/13/cnn-underscored/best-credit-cards-holiday-shopping/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201112104843-underscored-black-couple-holiday-shopping-online-with-credit-card-super-169.jpg",
+            "publishedAt": "2020-11-13T18:33:27Z",
+            "content": "CNN Underscored reviews financial products such as credit cards and bank accounts based on their overall value. We may receive a commission through the LendingTree affiliate network if you apply and \u2026 [+13796 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Rocket Report: SpaceX set for second crew launch, Chinese firm reaches orbit",
+            "description": "\"The market needs to evolve. It's a tough business.\"",
+            "url": "https://arstechnica.com/science/2020/11/rocket-report-spacex-set-for-second-crew-launch-chinese-firm-reaches-orbit/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/GettyImages-1284593599-760x380.jpg",
+            "publishedAt": "2020-11-13T12:00:49Z",
+            "content": "Enlarge/ China's new carrier rocket CERES-1, developed by the Beijing-based high-tech company Galactic Energy, blasts off from the Jiuquan Satellite Launch Center on November 7, 2020.\r\n1 with 1 poste\u2026 [+12815 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 2-Creditor bank considering deal for Asiana Airlines to be sold to Korean Air's parent",
+            "description": "South Korea's Hanjin Group, owner of the nation's largest airline Korean Air Lines Co Ltd , is in talks to acquire debt-ridden Asiana Airlines Inc , local media reported on Thursday, citing unnamed investment banking sources.",
+            "url": "https://uk.reuters.com/article/us-asiana-airlines-m-a-hanjin-group-idUKKBN27T045",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541051806&r=LYNXMPEGAC022&w=800",
+            "publishedAt": "2020-11-13T03:59:57Z",
+            "content": "By Reuters Staff\r\nSEOUL (Reuters) - Asiana Airlines Inc's 020560.KS main creditor said on Friday it was considering a deal for the debt-ridden carrier to be sold to the parent company of rival Korean\u2026 [+2026 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Russia detains Aeroflot executive on suspicion of passing secrets to Britain - Russian news agencies",
+            "description": "Russian security services have detained a London-based executive of flagship airline Aeroflot <AFLT.MM> on suspicion of passing state secrets to Britain, Russian news agencies reported, citing sources.",
+            "url": "https://uk.reuters.com/article/uk-russia-britain-espionage-idUKKBN27T1B4",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T10:57:25Z",
+            "content": "By Reuters Staff\r\nMOSCOW (Reuters) - Russian security services have detained a London-based executive of flagship airline Aeroflot AFLT.MM on suspicion of passing state secrets to Britain, Russian ne\u2026 [+1449 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Barbara Shecter",
+            "title": "'An earthquake is coming': Insolvency second wave looms as once-strong businesses falter",
+            "description": "As the second wave of the coronavirus pandemic was taking hold in Canada, with Toronto once again prohibiting indoor dining, Peter Tsebelis\u00a0and his team at King Street Company Inc. decided they had little choice but to file for creditor protection. It was a s\u2026",
+            "url": "https://financialpost.com/news/economy/an-earthquake-is-coming-insolvency-second-wave-looms-as-once-strong-businesses-falter",
+            "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/11/vw1113closing.jpg",
+            "publishedAt": "2020-11-13T14:15:37Z",
+            "content": "Shayne Kukulowicz a partner at Cassels Brock &amp; Blackwell LLP, and chair of the firms restructuring and insolvency group, said some proceeding could cure operational or balance sheet issues and a \u2026 [+1996 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Caitlin Oprysko",
+            "title": "Lyft\u2019s new lobbying team includes former Biden aide",
+            "description": "Gyms and restaurants add lobbyists for relief push \u2014 Progressives issue warnings about Biden transition teams",
+            "url": "https://www.politico.com/newsletters/politico-influence/2020/11/13/lyfts-new-lobbying-team-includes-former-biden-aide-791654",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-11-13T19:44:23Z",
+            "content": "With Daniel Lippman\r\nLYFTS NEXT MOVES: Lyft has hired another team of lobbyists fresh off its victory in last weeks Prop 22 campaign in California, including TheGROUPs Sudafi Henry, who served as the\u2026 [+11164 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UK to make announcement on travel quarantine 'very soon': minister",
+            "description": "Britain's transport minister said he would be making an announcement on changes to the country's 14-day quarantine rule for travellers into the country \"very soon\", giving hope to airlines desperate for travel to restart.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-travel-idUSKBN27T0QN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541078560&r=LYNXMPEGAC0EE&w=800",
+            "publishedAt": "2020-11-13T07:37:26Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - Britains transport minister said he would be making an announcement on changes to the countrys 14-day quarantine rule for travellers into the country very soon, g\u2026 [+317 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Elida Moreno",
+            "title": "UPDATE 1-Panama's Copa Airlines to resume flights to Venezuela late November",
+            "description": "Panama's Copa Airlines said on Thursday that it would resume flights to Venezuela on Nov. 24 following an eight-month suspension because of measures to curb the spread of the novel coronavirus.",
+            "url": "https://uk.reuters.com/article/panama-copa-airlines-idUKL1N2HZ00W",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-13T00:42:28Z",
+            "content": "(Adds details from statement)\r\nPANAMA CITY, Nov 12 (Reuters) - Panamas Copa Airlines said on Thursday that it would resume flights to Venezuela on Nov. 24 following an eight-month suspension because \u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "New Zealand reopens Auckland city centre after COVID-19 scare, mask-wearing urged",
+            "description": "New Zealand reopened downtown Auckland on Friday after contact tracing of a new coronavirus case revealed it was linked to a known case from a border isolation facility, reversing an earlier call for people to work from home.",
+            "url": "https://www.reuters.com/article/health-coronavirus-newzealand-int-idUSKBN27T0D7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541060902&r=LYNXMPEGAC072&w=800",
+            "publishedAt": "2020-11-13T03:22:30Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A person wearing a face mask sits at a bus stop next to posted safety guidelines in Auckland, New Zealand, August 31, 2020. REUTERS/Fiona Goodall\r\nWELLINGTON (Reuters) -\u2026 [+1330 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Drones light up Seoul sky with messages of hope amid COVID-19",
+            "description": "More than 300 drones lit up the sky over Seoul on Friday in a show the government said was meant to give \"comfort and hope\" to residents enduring the coronavirus pandemic.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-southkorea-drones-idUKKBN27T1EN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541101436&r=LYNXMPEGAC0RS&w=800",
+            "publishedAt": "2020-11-13T11:58:14Z",
+            "content": "By Reuters Staff\r\nSEOUL (Reuters) - More than 300 drones lit up the sky over Seoul on Friday in a show the government said was meant to give comfort and hope to residents enduring the coronavirus pan\u2026 [+1245 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "NASA\u2019s head of human spaceflight, Kathryn Lueders, will join us at TC Sessions: Space \u2013 TechCrunch",
+            "description": "NASA\u2019s human spaceflight program took big strides in 2020 with the official kick-off of the commercial crew program with SpaceX, and on plans to return humans to the surface of the Moon via the Artemis program. NASA Associate Administrator of the Human Explor\u2026",
+            "url": "http://techcrunch.com/2020/11/13/nasas-head-of-human-spaceflight-kathy-lueders-will-join-us-at-tc-sessions-space/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/space-2020-lueders.jpg?w=711",
+            "publishedAt": "2020-11-13T16:46:03Z",
+            "content": "NASA\u2019s human spaceflight program took big strides in 2020 with the official kick-off of the commercial crew program with SpaceX, and on plans to return humans to the surface of the Moon via the Artem\u2026 [+1993 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Drones light up Seoul sky with messages of hope amid COVID-19",
+            "description": "More than 300 drones lit up the sky over Seoul on Friday in a show the government said was meant to give \"comfort and hope\" to residents enduring the coronavirus pandemic.",
+            "url": "https://ca.reuters.com/article/us-health-coronavirus-southkorea-drones-idCAKBN27T1EN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541101436&r=LYNXMPEGAC0RS&w=800",
+            "publishedAt": "2020-11-13T11:36:12Z",
+            "content": "By Reuters Staff\r\nPeople take pictures as drones fly in formation showing messages of hope, amid the coronavirus disease (COVID-19) outbreak, in Seoul, South Korea November 13, 2020. REUTERS/Kim Hong\u2026 [+1431 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marika Gerken, CNN",
+            "title": "Friday the 13th: How it came to be and why it's considered unlucky",
+            "description": "How did Friday the 13th come to hold such unlucky energy?",
+            "url": "https://www.cnn.com/2020/11/13/us/friday-the-13th-how-it-came-to-be-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/120712132001-thirteenth-floor-super-tease.jpg",
+            "publishedAt": "2020-11-13T13:40:22Z",
+            "content": "(CNN)At least once a year, the calendar dates align to give us a Friday the 13th. Airline ticket prices tend to dip (when we're not in a pandemic), your superstitious boss avoids important meetings a\u2026 [+4165 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "'Difficult issues remain': UK, EU will resume trade talks on Monday",
+            "description": "Britain and the European Union will resume trade talks in Brussels on Monday after so far failing to close gaps between their positions on two of the thorniest issues that have long dogged the negotiations: competition rules and fishing.",
+            "url": "https://ca.reuters.com/article/us-britain-eu-idCAKBN27T1R2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541112062&r=LYNXMPEGAC0YS&w=800",
+            "publishedAt": "2020-11-13T13:17:41Z",
+            "content": "By Reuters Staff\r\nSmall toy figures are seen in front of UK and European Union displayed flags in this illustration picture, October 17, 2019. REUTERS/Dado Ruvic/Illustration\r\nLONDON (Reuters) - Brit\u2026 [+2212 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Dhara Ranasinghe, Ritvik Carvalho, Elizabeth Howcroft",
+            "title": "Give me a W, V, and a K: describing the post-COVID economic outlook",
+            "description": "What appeared to be a sharp V-shaped growth rebound from the first pandemic lockdown, now seems like a \"W\" -- these are among the myriad of letters and signs economists are using to describe the outlook for a world turned upside down by COVID-19.",
+            "url": "https://ca.reuters.com/article/us-health-coronavirus-economy-graphic-idCAKBN27T15J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541093556&r=LYNXMPEGAC0MV&w=800",
+            "publishedAt": "2020-11-13T10:15:25Z",
+            "content": "By Dhara Ranasinghe, Ritvik Carvalho, Elizabeth Howcroft\r\nLONDON (Reuters) - What appeared to be a sharp V-shaped growth rebound from the first pandemic lockdown, now seems like a W -- these are amon\u2026 [+3765 chars]"
+        }
+    ]
+}

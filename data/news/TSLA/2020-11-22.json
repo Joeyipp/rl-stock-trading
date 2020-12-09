@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Brittany Chang",
+            "title": "This Swedish startup created an electric, autonomous freight vehicle that it says will hit roads next year",
+            "description": "Summary List Placement\n\nEinride created the Pod, an autonomous electric heavy cargo transport vehicle.\nThere are, of course, other automakers and startups venturing into the autonomous cargo delivery segment. However, according to\u00a0 Einride's CEO and founder R\u2026",
+            "url": "https://www.businessinsider.com/einride-electric-autonomous-cargo-transport-vehicles-available-next-year-2020-11",
+            "urlToImage": "https://i.insider.com/5fb2cd091c741f0019aca0f0?width=1200&format=jpeg",
+            "publishedAt": "2020-11-22T13:19:00Z",
+            "content": "Einride created the Pod, an autonomous electric heavy cargo transport vehicle.\r\nThere are, of course, other automakers and startups venturing into the autonomous cargo delivery segment. However, acco\u2026 [+1405 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "After Math: Microsoft turns the big 3-5",
+            "description": "Happy birthday, Microsoft! The venerated PC producer is currently celebrating three and a half decades of existence, but that\u2019s not the only tech news we\u2019ve been following. Here are some top headlines from past week. \r\n Engadget\r\n Facebook labeled 180 million\u2026",
+            "url": "https://www.engadget.com/after-math-microsoft-turns-the-big-35-163017108.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F3a6e9c20-2b69-11eb-9f3d-3847aa80bb59&client=amp-blogside-v2&signature=3452e35fe042cc31e4ec04708ae6ac8eb5c03520",
+            "publishedAt": "2020-11-22T16:30:17Z",
+            "content": "Of course, Facebook\u2019s Instagram subsidiary isn\u2019t exactly a paragon of data security either. FB\u2019s legal team spent last week suing the pants off of a third-party developer owner who\u2019d gotten caught sc\u2026 [+1392 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Comparing Tesla Giga Texas to Giga Shanghai and Giga Berlin",
+            "description": "Joe Tegtmeyer has videos on the construction of Tesla Giga Texas. There has been four months of construction of the Tesla Texas factory. The Texas factory is ahead of where GigaBerlin was after four...\n\n[[ This is a content summary only. Visit my website for \u2026",
+            "url": "https://www.nextbigfuture.com/2020/11/comparing-tesla-giga-texas-to-giga-shanghai-and-giga-berlin.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-21-at-7.24.52-PM-1024x548.jpg",
+            "publishedAt": "2020-11-22T03:39:11Z",
+            "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology\u2026 [+593 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Marguerite Ward)",
+            "title": "The vaccine breakthroughs at Moderna and Pfizer are the latest examples of how immigrants have been driving billions in American innovation for decades",
+            "description": "The cofounder of Moderna \u2014 who came to the US on a visa \u2014 says the \"immigrant mindset\" is a powerful force in the science and tech community.",
+            "url": "https://www.businessinsider.com/moderna-chairman-coronavirus-vaccine-power-of-immigrants-2020-11",
+            "urlToImage": "https://i.insider.com/5fb6d4eb50e71a00115564d0?width=1200&format=jpeg",
+            "publishedAt": "2020-11-22T15:00:00Z",
+            "content": "On Monday, Moderna, a Cambridge, Massachusetts-based biotechnology company, announced that its mRNA-1273 vaccine, developed in partnership with the US government, appeared to be 94.5% effective again\u2026 [+7114 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Akin Oyedele",
+            "title": "A Wall Street strategist breaks down why bitcoin's latest surge past $18,000 is sniffing out a major downward spiral in the stock market's hottest trade",
+            "description": "Summary List Placement\n\nJust a few months ago, experts were warning that investors who overlooked the risk of inflation were doing so at their own peril.\u00a0\nAnd who could blame the unbelievers? After all, the longest expansionary cycle in history and trillions \u2026",
+            "url": "https://www.businessinsider.com/stock-market-crash-bitcoin-surge-risks-meltdown-deflation-albert-edwards-2020-11",
+            "urlToImage": "https://i.insider.com/5fb821e932f2170011f70666?width=1200&format=jpeg",
+            "publishedAt": "2020-11-22T11:05:00Z",
+            "content": "Just a few months ago, experts were warning that investors who overlooked the risk of inflation were doing so at their own peril.\u00a0\r\nAnd who could blame the unbelievers? After all, the longest expansi\u2026 [+3849 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Timothy B. Lee",
+            "title": "It\u2019s a great time to buy an electric car",
+            "description": "Electric vehicle customers today enjoy a wide selection\u2014and a $7,500 tax credit.",
+            "url": "https://arstechnica.com/cars/2020/11/its-a-great-time-to-buy-an-electric-car/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/IMG_5627-760x380.jpg",
+            "publishedAt": "2020-11-22T14:35:20Z",
+            "content": "Enlarge/ Our electric 2019 Kia Niro.\r\n25 with 17 posters participating\r\nOn Friday the 13th my wife and I went to a Kia dealership to take delivery of a Kia Niro. Taking one of the last 2019 Niros on \u2026 [+8710 chars]"
+        }
+    ]
+}

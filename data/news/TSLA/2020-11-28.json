@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla could widen release of 'self-driving' software in two weeks - Reuters India",
+            "description": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
+            "url": "https://in.reuters.com/article/tesla-selfdriving-idINKBN28806A",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201128&t=2&i=1542726700&r=LYNXMPEGAR045&w=800",
+            "publishedAt": "2020-11-28T03:47:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Tesla Inc CEO Elon Musk speaks onstage during a delivery event for Tesla China-made Model 3 cars at its factory in Shanghai, China January 7, 2020. REUTERS/Aly Song/File\u2026 [+653 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla could widen release of 'self-driving' software in two weeks - Reuters UK",
+            "description": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
+            "url": "https://www.reuters.com/article/us-tesla-selfdriving-idUKKBN288053",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201128&t=2&i=1542725623&r=LYNXMPEGAR032&w=800",
+            "publishedAt": "2020-11-28T03:19:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Tesla logo is seen at the entrance to Tesla Motors' showroom in Manhattan's Meatpacking District in New York City, U.S., December 14, 2017. REUTERS/Brendan McDermid/\u2026 [+657 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla could widen release of 'self-driving' software in two weeks - Reuters UK",
+            "description": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
+            "url": "https://uk.reuters.com/article/uk-tesla-selfdriving-idUKKBN288051",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201128&t=2&i=1542725547&r=LYNXMPEGAR02W&w=800",
+            "publishedAt": "2020-11-28T03:19:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Tesla is seen on a store in Paris, France, October 30, 2020. REUTERS/Charles Platiau/File Photo\r\n(Reuters) - Tesla Inc Chief Executive Officer Elon Musk said\u2026 [+585 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew DeBord",
+            "title": "Tesla is in just the right position to compete in the world's biggest electric-car markets \u2014\u00a0and justify its insane market cap",
+            "description": "Summary List PlacementTesla has minted a staggeringly high market capitalization for a carmaker that's on track to sell just a half-million vehicles in 2020: nearly $550 billion.\nThat makes Tesla not just the world's most valuable automaker but one of the pla\u2026",
+            "url": "https://www.businessinsider.com/tesla-ideal-position-to-compete-in-worlds-biggest-ev-markets-2020-11",
+            "urlToImage": "https://i.insider.com/5dd7df74fd9db25ea8205f93?width=1200&format=jpeg",
+            "publishedAt": "2020-11-28T12:54:00Z",
+            "content": "Tesla has minted a staggeringly high market capitalization for a carmaker that's on track to sell just a half-million vehicles in 2020: nearly $550 billion.\r\nThat makes Tesla not just the world's mos\u2026 [+4453 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla FOMO Fires Up Wall Street\u2019s $300 Billion Custom-Index Boom - Bloomberg",
+            "description": "<ol><li>Tesla FOMO Fires Up Wall Street\u2019s $300 Billion Custom-Index Boom\u00a0\u00a0Bloomberg\r\n</li><li>Tesla Model B E-Bike Concept Steers Independently\u00a0\u00a0Torque News\r\n</li><li>Tesla could widen release of 'self-driving' software in two weeks\u00a0\u00a0Reuters\r\n</li><li>Electri\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=31346410-3194-11eb-9c2d-ad5e3843feda&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMS0yOC90ZXNsYS1mb21vLWZpcmVzLXVwLXdhbGwtc3RyZWV0LXMtMzAwLWJpbGxpb24tY3VzdG9tLWluZGV4LWJvb20=",
+            "urlToImage": null,
+            "publishedAt": "2020-11-28T12:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "podcast@cnet.com (CNET.com), CNET",
+            "title": "Twitter verification is coming back, Elon Musk now the second richest person",
+            "description": "In this week's top stories, Twitter is set to relaunch its public verification program and wants your feedback, Elon Musk has officially become the world's second richest person and Santa Claus is now available for Zoom calls up until Christmas Eve.",
+            "url": "http://feedproxy.google.com/~r/allcnetvideopodcasts/~3/WNVZYDabeKg/TT201128_559417_740.mp4",
+            "urlToImage": null,
+            "publishedAt": "2020-11-28T11:00:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Tesla may offer remote access to your car's Autopilot cameras",
+            "description": "As helpful as Tesla\u2019s Sentry Mode may be, it doesn\u2019t provide much insight from the car\u2019s cameras until there\u2019s an incident. What if you could take a peek at any moment? You just might. Electrek reports that code sleuth Green has discovered hints at r...",
+            "url": "https://www.engadget.com/tesla-remote-autopilot-sentry-camera-access-224816342.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F90b7ffd0-31c8-11eb-b6b1-92e59f06d4f4&client=amp-blogside-v2&signature=95b9ad6e7cc6f9dcf8412b16ecf614d5fe13ee3a",
+            "publishedAt": "2020-11-28T22:48:16Z",
+            "content": "As helpful as Tesla\u2019s Sentry Mode may be, it doesn\u2019t provide much insight from the car\u2019s cameras until there\u2019s an incident. What if you could take a peek at any moment? You just might. Electrekreport\u2026 [+604 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla could widen release of 'self-driving' software in two weeks",
+            "description": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
+            "url": "https://ca.reuters.com/article/us-tesla-selfdriving-idCAKBN288053",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201128&t=2&i=1542725623&r=LYNXMPEGAR032&w=800",
+            "publishedAt": "2020-11-28T03:21:11Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Tesla logo is seen at the entrance to Tesla Motors' showroom in Manhattan's Meatpacking District in New York City, U.S., December 14, 2017. REUTERS/Brendan McDermid/\u2026 [+657 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla could widen release of 'self-driving' software in two weeks",
+            "description": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
+            "url": "https://uk.reuters.com/article/us-tesla-selfdriving-idUKKBN288053",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201128&t=2&i=1542725623&r=LYNXMPEGAR032&w=800",
+            "publishedAt": "2020-11-28T03:21:11Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Tesla logo is seen at the entrance to Tesla Motors' showroom in Manhattan's Meatpacking District in New York City, U.S., December 14, 2017. REUTERS/Brendan McDermid/\u2026 [+657 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "acollman@businessinsider.com (Ashley Collman)",
+            "title": "Facing the first loss of their voting lives, young Republicans are surprisingly hopeful, but want the GOP to work for Gen Z",
+            "description": "Five leaders of college Republican groups told Business Insider what they thought of President Donald Trump's election loss.",
+            "url": "https://www.businessinsider.com/how-gen-z-college-republicans-want-gop-to-change-2020-11",
+            "urlToImage": "https://i.insider.com/5fbd3b6632f2170011f70eb1?width=1200&format=jpeg",
+            "publishedAt": "2020-11-28T10:40:00Z",
+            "content": "Perhaps the biggest blow a US political party can suffer is having a one-term president \u2014 so you may think young Republicans these days are downbeat about the future. But that doesn't seem to be the \u2026 [+8048 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "Here's what Janet Yellen's appointment as US Treasury Secretary would mean for markets",
+            "description": "Markets seem to have confidence in Biden's choice for Treasury Secretary, as evidenced by the record-breaking rally on Wall Street this week.",
+            "url": "https://www.businessinsider.com/janet-yellen-appointment-treasury-secretary-means-for-markets-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fbe9f6a037cbd0018612573?format=jpeg",
+            "publishedAt": "2020-11-28T12:00:00Z",
+            "content": "AP Images\r\nJanet Yellen is President-Elect Joe Biden's apparent selection as Treasury Secretary.\r\nIf her nomination is confirmed by the Senate, she would be the first woman to have led the Federal Re\u2026 [+4608 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Hitting the Books: How autonomous EVs could help solve climate change",
+            "description": "Climate change is far and away the greatest threat of the modern human era \u2014 a crisis that will only get worse the longer we dither \u2014 with American car culture as a major contributor to the nation\u2019s greenhouse emissions.  In his latest book, Our Livable World\u2026",
+            "url": "https://www.engadget.com/hitting-the-books-our-livable-world-marc-schaus-diversion-books-163013416.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fa818eab0-2f4b-11eb-b7f5-91b4fd592959&client=amp-blogside-v2&signature=5d3e77a21e26d662eb6313d3313cf2aa4a638142",
+            "publishedAt": "2020-11-28T16:30:13Z",
+            "content": "In terms of our worst areas for carbon emissions, transportation and electricity production easily top the list. According to the American Environmental Protection Agency (EPA), transportation alone \u2026 [+12485 chars]"
+        }
+    ]
+}

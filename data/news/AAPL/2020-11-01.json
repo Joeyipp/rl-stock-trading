@@ -1,0 +1,565 @@
+{
+    "status": "ok",
+    "totalResults": 43,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "David Nield",
+            "title": "Why It Matters Which Charger You Use for Your Phone",
+            "description": "Not all charging cables, bricks, and pads are made equally, especially when it comes to the long-term health of your battery.",
+            "url": "https://www.wired.com/story/phone-charger-tips/",
+            "urlToImage": "https://media.wired.com/photos/5f9c90ee4300a8c7fc0750c2/191:100/w_1280,c_limit/Gear_charger_1206906966.jpg",
+            "publishedAt": "2020-11-01T12:00:00Z",
+            "content": "As with normal charging, to get the best results from fast charging you need both the charger and the phone to support ityou can't just plug the OnePlus 8T into any charger and see that full 65-W spe\u2026 [+2438 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Pixel 5 teardown shows how a metal phone supports wireless charging",
+            "description": "Want to know how Google\u2019s Pixel 5 supports wireless charging despite a predominantly metal body? Google explained the essence of how it works, but a video teardown at PBKReviews (via 9to5Google) has eliminated the mystery altogether. There\u2019s a large cutout in\u2026",
+            "url": "https://www.engadget.com/google-pixel-5-teardown-wireless-charging-211634647.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fd7ffa140-1c83-11eb-bfcf-0ffda215eb7c&client=amp-blogside-v2&signature=ba1e334c87082ac6e1b36ed6c51c3f87919db9e4",
+            "publishedAt": "2020-11-01T21:16:34Z",
+            "content": "Want to know how Google\u2019s Pixel 5 supports wireless charging despite a predominantly metal body? Google explained the essence of how it works, but a video teardown at PBKReviews (via 9to5Google) has \u2026 [+698 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Huawei reportedly bets on Shanghai chip plant to overcome US trade ban",
+            "description": "Huawei might have a way to avoid some of the worst consequences of tightening US trade restrictions, provided it\u2019s willing to be patient. Financial Times sources claim Huawei is planning a dedicated chip factory in Shanghai that would make parts for its core \u2026",
+            "url": "https://www.engadget.com/huawei-shanghai-chip-plant-us-trade-ban-164557554.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-07%2F978242e0-9bf5-11e9-bfbb-c3a412457679&client=amp-blogside-v2&signature=037453c3ae46c679daf308b5fb5ad7802f3f9a82",
+            "publishedAt": "2020-11-01T16:45:57Z",
+            "content": "Between this and a stockpile of chips, Huawei could theoretically keep its telecom hardware business running with relatively little disruption. While its chips from 2021 onward might lag behind inter\u2026 [+756 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Samsung unveils the next chip for mid-range Galaxy phones on November 12th",
+            "description": "Samsung\u2019s next big wave of Galaxy phones is still a ways off, but that isn\u2019t stopping the company from drumming up hype \u2014 even for the chips that will power those phones. SamMobile reports that Samsung\u2019s Chinese branch has teased a launch event for its Exynos\u2026",
+            "url": "https://www.engadget.com/samsung-exynos-1080-chip-teaser-225915584.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fc90f9ac0-1c95-11eb-9fbf-d04a6ec952d9&client=amp-blogside-v2&signature=2d03ebaf4a145c1f95d8ff1859b3a445ab576cee",
+            "publishedAt": "2020-11-01T22:59:15Z",
+            "content": "That doesn\u2019t necessarily mean it will be slow. One early test result suggested the 1080 might be faster than the Snapdragon 865. While it\u2019s good to be skeptical of pre-release benchmark data, it sugg\u2026 [+593 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ned Desmond",
+            "title": "Apple\u306e\u30a2\u30af\u30bb\u30b7\u30d3\u30ea\u30c6\u30a3\u30ea\u30b5\u30fc\u30c1\u8cac\u4efb\u8005\u3084\u76f2\u308d\u3046\u306e\u969c\u304c\u3044\u8005\u6a29\u5229\u5f01\u8b77\u58eb\u306a\u3069\u304c\u30d0\u30fc\u30c1\u30e3\u30eb\u30a4\u30d9\u30f3\u30c8\u306eSight Tech Global\u306b\u767b\u5834",
+            "description": "\u5148\u65e5\u300112\u67082\u301c3\u65e5\u306e<a target=\"_blank\" href=\"https://sighttechglobal.com/\" rel=\"noopener\">Sight Tech Global</a>\u3067\u304a\u5c4a\u3051\u3059\u308b\u30bb\u30c3\u30b7\u30e7\u30f3\u306b\u3064\u3044\u3066<a target=\"_blank\" href=\"https://techcrunch.com/2020/10/07/heres-the-curtain-raise-on-the-sight-tech-global-agenda/\" rel=\"noopener\">10\u306e\u30c6\u30fc\u30de\u3092\u307e\u305a\u767a\u2026",
+            "url": "https://jp.techcrunch.com/2020/11/01/2020-10-28-apples-jeff-bigham-disability-rights-lawyer-haben-girma-author-sara-hendren-and-more-to-join-sight-tech-global/",
+            "urlToImage": "https://techcrunchjp.files.wordpress.com/2020/10/sight-tech-global-speakers1.jpg?w=1024",
+            "publishedAt": "2020-11-01T00:30:44Z",
+            "content": "1223Sight Tech Global10Sight Tech GlobalAI3Sight Tech Global\r\nDesigning for everyone: Accessibility innovation at Apple\r\nAppleSarah HerrlingerJeffrey Bigham\r\nAI/MLMatthew PanzarinoTechCrunch\r\nInventi\u2026 [+555 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Tom Bedford",
+            "title": "Apple One: should you buy the new Apple subscription service, and if so, which tier? - TechRadar",
+            "description": "Apple One: should you buy the new Apple subscription service, and if so, which tier?\u00a0\u00a0TechRadar",
+            "url": "https://www.techradar.com/news/apple-one-should-you-buy-the-new-apple-subscription-service-and-if-so-which-tier",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JtPFrXE7KDFKxPpboomekK-1200-80.jpg",
+            "publishedAt": "2020-11-01T16:00:00Z",
+            "content": "Two months after its grand reveal, Apple One is here. It's a new super-subscription-service that bundles together some of Apple's individual subscription apps into one big package, with a reduced cos\u2026 [+6511 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ArtsJournal2",
+            "title": "As A Big Company\u2019s Streaming Service Turns One, It\u2019s Falling Behind",
+            "description": "Apple TV Plus\u2019s big problem? No back catalog. It has 400 times fewer movies than Netflix. But that\u2019s not really the point: \u201cApple TV Plus doesn\u2019t need to be Netflix to help Apple achieve its primary goal of creating a services ecosystem that is just tantalizi\u2026",
+            "url": "http://feedproxy.google.com/~r/Artsjournal/~3/CEtRyn2I1_w/as-a-big-companys-streaming-service-turns-one-its-falling-behind.html",
+            "urlToImage": null,
+            "publishedAt": "2020-11-01T19:30:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Alex Perry",
+            "title": "Motorola changes Razr shipping to prevent phones from showing up with fingerprints",
+            "description": "Admit it: You'd be a little grossed out if a new smartphone you ordered showed up with someone else's fingerprints smudged all over it. For some Motorola Razr customers, that's been the reality. But Motorola says it's making changes.\nAs The Verge noted Thursd\u2026",
+            "url": "https://mashable.com/article/motorola-razr-fingerprints-shipping/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F01%252F24%252F2bf02d7ebf464bd5a112c5edaa3e9c43.ca3c8.jpg%252F1200x630.jpg?signature=u19yQnY7aRyYGkt4vvLTI29pkzs=",
+            "publishedAt": "2020-11-01T18:18:08Z",
+            "content": "Admit it: You'd be a little grossed out if a new smartphone you ordered showed up with someone else's fingerprints smudged all over it. For some Motorola Razr customers, that's been the reality. But \u2026 [+1324 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kim Lyons",
+            "title": "No, Sean Connery did not write a mean letter to Steve Jobs",
+            "description": "A fake letter from Sean Connery to Apple co-founder Steve Jobs is making the rounds on social media following the actor\u2019s death on Saturday. Just to reiterate: it\u2019s fake, the product of humor site Scoopertino, which posts satirical articles about Apple.",
+            "url": "https://www.theverge.com/2020/11/1/21544566/sean-connery-fake-mean-letter-steve-jobs-apple",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XS7cW71XdvNjRffy9aCCAXpH048=/0x209:3000x1780/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19437223/51937382.jpg.jpg",
+            "publishedAt": "2020-11-01T18:06:47Z",
+            "content": "Following the James Bond actors death, the long-debunked letter has resurfaced\r\nThe late Steve Jobs \r\nPhoto by Justin Sullivan/Getty Images\r\nA fake letter from Sean Connery to Apple co-founder Steve \u2026 [+1557 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Marley Jay",
+            "title": "Buy these 13 stocks that are set to crush expectations and rally after their earnings, Jefferies says \u2014 including a top pick that could surge 79%",
+            "description": "Summary List Placement\n\nWith the election coming and COVID-19 cases rising, if ever there were a time that earnings season looked like it might be a pleasant distraction, this is that time.\nBut some companies and investors are going to have a much better time\u2026",
+            "url": "https://www.businessinsider.com/stock-picks-to-buy-q3-earnings-companies-to-rally-jefferies-2020-11",
+            "urlToImage": "https://i.insider.com/5e1383bf855cc26f140d7217?width=1200&format=jpeg",
+            "publishedAt": "2020-11-01T11:36:00Z",
+            "content": "With the election coming and COVID-19 cases rising, if ever there were a time that earnings season looked like it might be a pleasant distraction, this is that time.\r\nBut some companies and investors\u2026 [+1077 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "podcast@cnet.com (CNET.com), CNET",
+            "title": "Apple Maps vs. Google Maps cycling",
+            "description": "Cycling navigation is new to Apple Maps on iOS 14, but can it replace Google on an iPhone and Apple Watch?",
+            "url": "http://feedproxy.google.com/~r/allcnetvideopodcasts/~3/4vtJiryCvsY/APPLE_VS_GOOGLE_MAPS_CYCLING_546258_740.mp4",
+            "urlToImage": null,
+            "publishedAt": "2020-11-01T13:00:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "leadicicco@businessinsider.com (Lisa Eadicicco)",
+            "title": "The most exciting new tech gadgets of 2020 are designed for the future, not today",
+            "description": "From 5G to new HDMI connectivity standards, the most anticipated gadgets of 2020 are based on tech that's either a rare find or not quite ready.",
+            "url": "https://www.businessinsider.com/apple-iphone-12-xbox-series-x-ps5-launch-future-tech-2020-10",
+            "urlToImage": "https://i.insider.com/5f90f4c72121130018740110?width=1200&format=jpeg",
+            "publishedAt": "2020-11-01T15:30:00Z",
+            "content": "The technology industry is synonymous with change and forward-looking products. But in 2020, that approach may have been taken a bit too literally.\r\nTechnologies that have long been buzzwords or dist\u2026 [+8423 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Avery Hartmans",
+            "title": "Employees at global software firm Zoho have turned the company's Austin headquarters into a fully functioning farm. It's become a respite during the pandemic, and could serve as a model for a new way of working.",
+            "description": "Summary List Placement\n\nAt the outer limits of Travis County, Texas, sits a 360-acre plot of land that's home to grazing cattle, an old farmhouse, and the beginnings of a fully functioning farm.\u00a0\nIt may not look like it from the outside, but this is the US he\u2026",
+            "url": "https://www.businessinsider.com/zoho-austin-headquarters-farm-coronavirus-pandemic-2020-11",
+            "urlToImage": "https://i.insider.com/5f9b1ff569331a0011bc62a1?width=1200&format=jpeg",
+            "publishedAt": "2020-11-01T14:28:00Z",
+            "content": "At the outer limits of Travis County, Texas, sits a 360-acre plot of land that's home to grazing cattle, an old farmhouse, and the beginnings of a fully functioning farm.\u00a0\r\nIt may not look like it fr\u2026 [+6499 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Swati Pandey",
+            "title": "Oil hits five-month lows, Asian shares extend losses on renewed virus fears - Reuters",
+            "description": "Asian shares bounced off one-month lows on Monday helped by Chinese factory activity expanding at its fastest pace in a decade, while oil prices skidded as many Western countries slid back into coronavirus-driven lockdowns.",
+            "url": "https://www.reuters.com/article/us-global-markets-idINKBN27I01J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201102&t=2&i=1539611403&r=LYNXMPEGA100W&w=800",
+            "publishedAt": "2020-11-01T23:42:00Z",
+            "content": "SYDNEY (Reuters) - Asian shares bounced off one-month lows on Monday helped by Chinese factory activity expanding at its fastest pace in a decade, while oil prices skidded as many Western countries s\u2026 [+3874 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Did Time Go Back? Correct Time for Atlanta, Houston, New York, Los Angeles After Daylight Saving Time Ends",
+            "description": "Waking up this morning some people have a mutual question on their mind: is it really the time my clock says it is or is it actually an hour earlier?",
+            "url": "https://www.newsweek.com/did-time-go-back-correct-time-atlanta-houston-new-york-los-angeles-after-daylight-saving-time-1542872",
+            "urlToImage": "https://d.newsweek.com/en/full/1660486/did-time-go-back-daylight-saving-time.jpg",
+            "publishedAt": "2020-11-01T07:00:02Z",
+            "content": "Waking up this morning some people have a mutual question on their mind: Is it really the time my clock says it is, or is it actually an hour earlier?\r\nAt 2 a.m. today, daylight saving time ended and\u2026 [+3550 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "iCloud outage takes down backups and photos for some users",
+            "description": "If you\u2019ve been having problems syncing data across your Apple devices, you\u2019re not alone. Apple is reporting (via 9to5Mac) outages across several of its iCloud services, including backups, calendars, Find My, photos and even sign-ins. The company only...",
+            "url": "https://www.engadget.com/icloud-backup-calendar-photos-outage-181155887.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2018-11%2Fcdca2e70-eb84-11e8-9ea4-181243a2465a&client=amp-blogside-v2&signature=23da32f494dfef7428b5876cdf1a344315b00f01",
+            "publishedAt": "2020-11-01T18:11:55Z",
+            "content": "If you\u2019ve been having problems syncing data across your Apple devices, you\u2019re not alone. Apple is reporting (via 9to5Mac) outages across several of its iCloud services, including backups, calendars, \u2026 [+336 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Original Content podcast: Bill Murray\u2019s charm can\u2019t hide the sadness of \u2018On the Rocks\u2019",
+            "description": "\u201cOn the Rocks,\u201d a new film on Apple TV+, focuses on a troubled marriage between Laura (a writer played by Rashida Jones) and Dean (a startup executive played by Marlon Wayans). When Laura begins to suspect Dean of cheating on her, she turns to her father Feli\u2026",
+            "url": "http://techcrunch.com/2020/11/01/original-content-podcast-bill-murrays-charm-cant-hide-the-sadness-of-on-the-rocks/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/OTR_F0311F_f.jpg?w=741",
+            "publishedAt": "2020-11-01T14:00:40Z",
+            "content": "\u201cOn the Rocks,\u201d a new film on Apple TV+, focuses on a troubled marriage between Laura (a writer played by Rashida Jones) and Dean (a startup executive played by Marlon Wayans). When Laura begins to s\u2026 [+1528 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Randall, Svea Herbst-Bayliss",
+            "title": "RPT-Wall St Week Ahead-Big tech stocks may face post-election headwinds, no matter who wins - Reuters",
+            "description": "Some investors are betting the technology and communications stocks that drove a massive rebound in U.S. markets this year will face a tougher slog in coming months, no matter whether Republican President Donald Trump or Democratic challenger Joe Biden wins T\u2026",
+            "url": "https://www.reuters.com/article/usa-stocks-weekahead-idUSL1N2HL33B",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-01T13:03:00Z",
+            "content": "(Repeats column originally published on Oct 30, no changes)\r\nNEW YORK, Oct 30 (Reuters) - Some investors are betting the technology and communications stocks that drove a massive rebound in U.S. mark\u2026 [+3986 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Randall, Svea Herbst-Bayliss",
+            "title": "RPT-Wall St Week Ahead-Big tech stocks may face post-election headwinds, no matter who wins - Reuters",
+            "description": "Some investors are betting the technology and communications stocks that drove a massive rebound in U.S. markets this year will face a tougher slog in coming months, no matter whether Republican President Donald Trump or Democratic challenger Joe Biden wins T\u2026",
+            "url": "https://www.reuters.com/article/usa-stocks-weekahead-idUKL1N2HL33B",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-01T13:01:00Z",
+            "content": "(Repeats column originally published on Oct 30, no changes)\r\nNEW YORK, Oct 30 (Reuters) - Some investors are betting the technology and communications stocks that drove a massive rebound in U.S. mark\u2026 [+3986 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Nick Rego",
+            "title": "Samsung Galaxy Tab S7 Plus vs Galaxy Tab S7: which Android tablet is best for you? - TechRadar",
+            "description": "Samsung Galaxy Tab S7 Plus vs Galaxy Tab S7: which Android tablet is best for you?\u00a0\u00a0TechRadar",
+            "url": "https://www.techradar.com/news/samsung-galaxy-tab-s7-plus-vs-galaxy-tab-s7-which-android-tablet-is-best-for-you",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YzfftyaGWkGdhfKzt4pGP3-1200-80.jpg",
+            "publishedAt": "2020-11-01T11:00:00Z",
+            "content": "The Samsung Galaxy Tab S7 series means serious business. Both the Galaxy Tab S7 Plus and Galaxy Tab S7 have a whole lot of power in them, and though the differences between them might seem negligible\u2026 [+7243 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Swati Pandey",
+            "title": "Asian shares rebound on strong China data, oil on slippery slope - Reuters",
+            "description": "Asian shares bounced off one-month lows on Monday on solid data from China showing factory activity expanded at its fastest pace in a decade while oil prices skidded as many Western countries slid back into coronavirus-driven lockdowns.",
+            "url": "https://www.reuters.com/article/uk-global-markets-idUSKBN27I00U",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201102&t=2&i=1539610649&r=LYNXMPEGA100J&w=800",
+            "publishedAt": "2020-11-01T23:22:00Z",
+            "content": "SYDNEY (Reuters) - Asian shares bounced off one-month lows on Monday on solid data from China showing factory activity expanded at its fastest pace in a decade while oil prices skidded as many Wester\u2026 [+3696 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Alex Perry",
+            "title": "T-Mobile TVision review: Still waiting for the perfect replacement for cable",
+            "description": "As if there weren't already enough ways to pay for linear television, T-Mobile is busting through the wall to join the party.\nThe latest service offering from the so-called \"Un-Carrier\" is TVision, a streaming linear TV alternative along the lines of YouTube \u2026",
+            "url": "https://mashable.com/review/t-mobile-tvision-review/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F01%252F47%252F544803a3bc584034ac6f1e13a8c42087.83b6e.jpg%252F1200x630.jpg?signature=kMQLgv7TmwglqB1q7hrWvkZlBPw=",
+            "publishedAt": "2020-11-01T14:00:00Z",
+            "content": "As if there weren't already enough ways to pay for linear television, T-Mobile is busting through the wall to join the party.\r\nThe latest service offering from the so-called \"Un-Carrier\" is TVision, \u2026 [+6860 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Rachel Kraus",
+            "title": "You might be able to test out Dark Mode in the Facebook app right now",
+            "description": "Dark mode devotees, listen up!\nFacebook caught up with the times earlier in 2020 when it announced that it would begin bringing a dark mode version of the app to iPhone. And so the company started very limited tests of the new, more eyeball-friendly design in\u2026",
+            "url": "https://mashable.com/article/facebook-ios-app-dark-mode/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F01%252F0b%252F727e69395d604b29882e1991133e5681.7bd70.jpg%252F1200x630.jpg?signature=ZH83vslL_Saaz5kbm5N_mvZ5MAo=",
+            "publishedAt": "2020-11-01T23:13:28Z",
+            "content": "Dark mode devotees, listen up!\r\nFacebook caught up with the times earlier in 2020 when it announced that it would begin bringing a dark mode version of the app to iPhone. And so the company started v\u2026 [+1034 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "These 3 trades are an investor's best bet for hedging against a split government, JPMorgan strategist says",
+            "description": "Treasurys are typically the best safe haven for such scenarios, but yields are too low for effective hedging, said JPMorgan strategist John Normand.",
+            "url": "https://www.businessinsider.com/election-hedging-investing-strategy-3-trades-split-government-jpmorgan-2020-10",
+            "urlToImage": "https://images2.markets.businessinsider.com/5f9c18d76f5b310011724636?format=jpeg",
+            "publishedAt": "2020-11-01T13:05:00Z",
+            "content": "Morry Gash-Pool/Getty Images\r\n<ul><li>Investors looking to hedge against a divided government following the 2020 elections will need to look beyond buying Treasurys, JPMorgan strategist John Normand \u2026 [+3230 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Julia Alexander",
+            "title": "Apple TV Plus one year later: still on trial",
+            "description": "Apple debuted its highly talked-about streaming service, Apple TV Plus, one year ago today. Since then, Apple has found a few hits like The Morning Show and Ted Lasso, but it\u2019s still not where it needs to be \u2014 especially as a selling point for Apple\u2019s new App\u2026",
+            "url": "https://www.theverge.com/21541153/apple-tv-plus-one-year-anniversary-bundle-apple-one-price-trial",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/VkEvmCg46bHevpixNv0uKGNx2co=/0x797:5568x3712/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19189703/1132789740.jpg.jpg",
+            "publishedAt": "2020-11-01T13:12:49Z",
+            "content": "Apple needs to deliver on its Apple TV Plus ambitions\r\nPhoto by Noah Berger / AFP / Getty Images\r\nOutside of excited Apple executives, no one thought much of Apple TV Plus. Even with $6 billion alloc\u2026 [+6218 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Jennimai Nguyen",
+            "title": "How to get paid for hosting Zoom and Facebook classes",
+            "description": "Before the pandemic hit, people used to go to fitness and cooking classes in person. Nowadays, such contact is unfathomable, but it doesn\u2019t mean that you can\u2019t still host classes and make money.\nThanks to a new feature on Facebook \u2014 and also on Zoom \u2014 anyone \u2026",
+            "url": "https://mashable.com/article/how-to-make-money-on-zoom-and-facebook-classes/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F01%252F57%252F94f6badc48644fbb8635ad0675c0803f.e7de8.jpg%252F1200x630.jpg?signature=OaJU_omrDroD3xc-IiY_rZG7Nz8=",
+            "publishedAt": "2020-11-01T12:00:00Z",
+            "content": "Before the pandemic hit, people used to go to fitness and cooking classes in person. Nowadays, such contact is unfathomable, but it doesnt mean that you cant still host classes and make money.\r\nThank\u2026 [+7904 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Anna Palmer and Jake Sherman",
+            "title": "POLITICO Playbook: NEW polls: Two days out, race tightens in Florida and Pennsylvania",
+            "description": "And President Donald Trump is blitzing a handful of swing states as Joe Biden rallies in Pennsylvania.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/11/01/new-polls-two-days-out-race-tightens-in-florida-and-pennsylvania-490766",
+            "urlToImage": "https://static.politico.com/f1/5d/22e368e044afaf663221aaf6c762/201101-trump-ap-773.jpg",
+            "publishedAt": "2020-11-01T15:57:15Z",
+            "content": "President Donald Trump is campaigning in Michigan, Iowa, North Carolina, Georgia and Florida on Sunday as Joe Biden focuses squarely on Pennsylvania with Election Day two days away. | Gene J. Puskar/\u2026 [+30859 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Alex Hughes",
+            "title": "Should you buy the new iPhone 12 Mini or Pro Max directly from Apple?",
+            "description": "Apple's second batch of iPhone 12 devices is here but is the Apple website where you should get it from?",
+            "url": "https://www.techradar.com/news/should-you-buy-the-new-iphone-12-mini-or-pro-max-directly-from-apple",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4eqYkaFxcqcorxuTuXiV2N-1200-80.jpg",
+            "publishedAt": "2020-11-01T15:00:10Z",
+            "content": "All four devices have been revealed, two have gone to pre-orders and now, it's just days until the final two devices will be available for pre-order, with both the Mini and Pro Max launching this Fri\u2026 [+1951 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "David Nield",
+            "title": "Moto G 5G leaks suggest another budget 5G Motorola handset is on the way",
+            "description": "We've already seen the Moto G 5G Plus, and it looks as though the non-Plus version will be out soon.",
+            "url": "https://www.techradar.com/news/moto-g-5g-leaks-suggest-another-budget-5g-motorola-handset-is-on-the-way",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tsewcAAUBCZpxBr9KyQWfP-1200-80.jpg",
+            "publishedAt": "2020-11-01T14:30:46Z",
+            "content": "We've seen the Moto G 5G Plus already this year (called the Motorola One 5G in the US), and if the rumors are correct then the standard Moto G 5G is going to be the next affordable 5G phone to arrive\u2026 [+1780 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "U.S. will 'vigorously defend' TikTok executive order despite ruling",
+            "description": "The U.S Commerce Department said on Sunday it would \"vigorously defend\" an executive order that seeks to bar transactions with Chinese-owned short video-sharing app TikTok after a federal judge halted the action.",
+            "url": "https://uk.reuters.com/article/us-usa-tiktok-ban-idUKKBN27H1R7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201101&t=2&i=1539600682&r=LYNXMPEGA01AG&w=800",
+            "publishedAt": "2020-11-01T20:48:17Z",
+            "content": "WASHINGTON (Reuters) - The U.S Commerce Department said on Sunday it would vigorously defend an executive order that seeks to bar transactions with Chinese-owned short video-sharing app TikTok after \u2026 [+1938 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "U.S. will 'vigorously defend' TikTok executive order despite ruling",
+            "description": "The U.S Commerce Department said on Sunday it would \"vigorously defend\" an executive order that seeks to bar transactions with Chinese-owned short video-sharing app TikTok after a federal judge halted the action.",
+            "url": "https://ca.reuters.com/article/us-usa-tiktok-ban-idCAKBN27H1R7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201101&t=2&i=1539600682&r=LYNXMPEGA01AG&w=800",
+            "publishedAt": "2020-11-01T20:54:15Z",
+            "content": "By David Shepardson\r\nWASHINGTON (Reuters) - The U.S Commerce Department said on Sunday it would vigorously defend an executive order that seeks to bar transactions with Chinese-owned short video-shar\u2026 [+1959 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "U.S. will 'vigorously defend' TikTok executive order despite ruling",
+            "description": "The U.S Commerce Department said on Sunday it would \"vigorously defend\" an executive order that seeks to bar transactions with Chinese-owned short video-sharing app TikTok after a federal judge halted the action.",
+            "url": "https://www.reuters.com/article/usa-tiktok-ban-idUSKBN27H1R9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201101&t=2&i=1539601013&r=LYNXMPEGA01AI&w=800",
+            "publishedAt": "2020-11-01T20:54:15Z",
+            "content": "WASHINGTON (Reuters) - The U.S Commerce Department said on Sunday it would vigorously defend an executive order that seeks to bar transactions with Chinese-owned short video-sharing app TikTok after \u2026 [+1969 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Patriots vs Bills live stream: how to watch NFL week 8 game online from anywhere",
+            "description": "How to watch a Patriots vs Bills live stream today and catch all the NFL action online this as struggling New England face AFC East leaders Buffalo.",
+            "url": "https://www.techradar.com/news/patriots-vs-bills-live-stream-how-to-watch-nfl-week-8-game-online-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CTqP7PTMJtjSJagFs2PqFP-1200-80.jpg",
+            "publishedAt": "2020-11-01T16:05:48Z",
+            "content": "The Bills have never beaten AFC rivals New England under current head coach Sean McDermott, but theyve got a golden opportunity to end that 0-8 streak today. The Pats are coming off a triple whammy o\u2026 [+9679 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Vikings vs Packers live stream: how to watch the NFL week 8 game online from anywhere",
+            "description": "Here's how to get a Minnesota Vikings vs Green Bay Packers live stream and watch all the NFL action online this Sunday wherever you are.",
+            "url": "https://www.techradar.com/news/vikings-vs-packers-live-stream-how-to-watch-the-nfl-week-8-game-online-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8kwg64G3BEMzHM2cd8KRh7-1200-80.jpg",
+            "publishedAt": "2020-11-01T16:06:21Z",
+            "content": "The Vikings have had a bye week to regroup and, perhaps more importantly, get out of the firing line after a dreadful 1-5 start to the season. But they're right back in the deep end this Sunday, with\u2026 [+9606 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Jets vs Chiefs live stream: how to watch NFL week 8 game online from anywhere",
+            "description": "How to watch a Jets vs Chiefs live stream today and catch all the NFL action online, as Mahomes and KC look to avoid a New York-sized banana skin.",
+            "url": "https://www.techradar.com/news/jets-vs-chiefs-live-stream-how-to-watch-nfl-week-8-game-online-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GHTi6F3gaqTGSqFB8EaJmD-1200-80.jpg",
+            "publishedAt": "2020-11-01T16:12:47Z",
+            "content": "Youd be hard pressed to find a bigger mismatch in the NFL this or any other week. The reigning Super Bowl champs host the winless, hapless, seemingly pointless Jets at Arrowhead Stadium today - and i\u2026 [+9583 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Chargers vs Broncos live stream: how to watch NFL week 8 game online from anywhere",
+            "description": "How to watch a Chargers vs Broncos live stream today and catch all the NFL action online this Sunday as the AFC West rivals do battle at Mile High.",
+            "url": "https://www.techradar.com/news/chargers-vs-broncos-live-stream-how-to-watch-nfl-week-8-game-online-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6n73YiCBkLNaZPpPpj3V6-1200-80.jpg",
+            "publishedAt": "2020-11-01T18:55:11Z",
+            "content": "Weve got a tasty one to look forward to this afternoon as the Chargers and Broncos, both of whom are 2-4, battle it out at the bottom of AFC West. LA are coming into this one off the back of their bi\u2026 [+9675 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Randall, Svea Herbst-Bayliss",
+            "title": "RPT-Wall St Week Ahead-Big tech stocks may face post-election headwinds, no matter who wins",
+            "description": "Some investors are betting the technology and communications stocks that drove a massive rebound in U.S. markets this year will face a tougher slog in coming months, no matter whether Republican President Donald Trump or Democratic challenger Joe Biden wins T\u2026",
+            "url": "https://uk.reuters.com/article/usa-stocks-weekahead-idUKL1N2HL33B",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-01T14:00:00Z",
+            "content": "(Repeats column originally published on Oct 30, no changes)\r\nNEW YORK, Oct 30 (Reuters) - Some investors are betting the technology and communications stocks that drove a massive rebound in U.S. mark\u2026 [+3986 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Saints vs Bears live stream: how to watch NFL week 8 online from anywhere now",
+            "description": "Here's where to find a New Orleans Saints vs Chicago Bears live stream and watch all the action from this NFL week 8 game online today.",
+            "url": "https://www.techradar.com/news/saints-vs-bears-live-stream-how-to-watch-nfl-week-8-online-from-anywhere-now",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nnnpyYkPHc3SF2anvi7aNd-1200-80.jpg",
+            "publishedAt": "2020-11-01T19:15:40Z",
+            "content": "Week 7 could hardly have gone any more differently for these two franchises, with New Orleans blowing the Panthers out of the water despite missing some key personnel, while Chicagos offense went MIA\u2026 [+9809 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Tabitha Baker",
+            "title": "Steelers vs Ravens live stream: how to watch the NFL week 8 game online from anywhere",
+            "description": "Here's how to watch the NFL week 8 online and get a Steelers vs Ravens live stream today as undefeated Pittsburgh faces off against 5-1 Baltimore.",
+            "url": "https://www.techradar.com/news/steelers-vs-ravens-live-stream-how-to-watch-the-nfl-week-8-game-online-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/h7zmxE3iFmYvuWGSjuyF2a-1200-80.jpg",
+            "publishedAt": "2020-11-01T16:10:42Z",
+            "content": "The Steelers are now the only team repping an undefeated record in the NFL, which means week 8's game against the Ravens is going to be a tense one. The two teams are both well known for their rock s\u2026 [+10053 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "49ers vs Seahawks live stream: how to watch NFL week 8 online from anywhere now",
+            "description": "How to get a San Francisco 49ers vs Seattle Seahawks live stream and watch all the action online as the NFC West heats up real good.",
+            "url": "https://www.techradar.com/news/49ers-vs-seahawks-live-stream-how-to-watch-nfl-week-8-online-from-anywhere-now",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/k7MyVDkaCL7E6igWRm7j7B-1200-80.jpg",
+            "publishedAt": "2020-11-01T19:33:43Z",
+            "content": "A week ago this would have looked like the sea bird equivalent of a walk in the park for Seattle, but we cant help but get excited over the 49ers Week 7 demolition of the Pats. If that was a sign of \u2026 [+10384 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Cowboys vs Eagles live stream: how to watch NFL week 8 online from anywhere",
+            "description": "Follow our guide to get a Dallas Cowboys vs Philadelphia Eagles live stream and watch the NFL online for tonight's Sunday Night Football game.",
+            "url": "https://www.techradar.com/news/cowboys-vs-eagles-live-stream-how-to-watch-nfl-week-8-online-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HnWZsic3HN3HDtPNGaA6LV-1200-80.jpg",
+            "publishedAt": "2020-11-01T23:22:07Z",
+            "content": "Life without Dak Prescott is going exactly as many feared it would for Dallas. Theyre 0-2 without him, having conceded 63 points and scored just 13, and in today's Sunday Night Football primetime mat\u2026 [+10136 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Henry St Leger",
+            "title": "Here's why I'm finally upgrading my laptop on Black Friday",
+            "description": "After years of clinging to my Asus Zenbook, I can't avoid upgrading any longer and Black Friday is simply the best time to do it.",
+            "url": "https://www.techradar.com/news/heres-why-im-finally-upgrading-my-laptop-on-black-friday",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YbjzqvPpJ6x57ZqGmAKfTd-1200-80.jpg",
+            "publishedAt": "2020-11-01T14:00:09Z",
+            "content": "Its surprising how you can get used to having a gadget around. Having bought into the Asus ZenBook range back in 2015, for the last couple of years Ive been putting off upgrading the sleek, compact l\u2026 [+3677 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Nick Rego",
+            "title": "Nissan Sunny 2020: this isn't the car you learned how to drive in",
+            "description": "The Nissan Sunny has always been a straightforward vehicle for getting from one point to the other, but now packs an impressive amount of tech for its price point.",
+            "url": "https://www.techradar.com/news/nissan-sunny-2020-review-this-isnt-the-car-you-learned-how-to-drive-in",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/H55GeqWvLPC5Dc8UaFfCW5-1200-80.jpg",
+            "publishedAt": "2020-11-01T12:20:03Z",
+            "content": "When you think of the trusty Nissan Sunny, you think of only two things in the UAE driving school cars, and taxis. The joys of learning how to drive in the 90s in a yellow Nissan Sunny are not lost o\u2026 [+4318 chars]"
+        }
+    ]
+}

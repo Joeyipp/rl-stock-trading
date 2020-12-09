@@ -1,0 +1,448 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Breakingviews - Nio mania reaches Tesla's extra gear - Reuters",
+            "description": "Breakingviews - Nio mania reaches Tesla's extra gear\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-nio-results-breakingviews-idUSKBN27Y0HV",
+            "urlToImage": null,
+            "publishedAt": "2020-11-18T05:49:00Z",
+            "content": "A NIO ES8 electric SUV is displayed at its store in Beijing, China August 20, 2020. REUTERS/Tingshu Wang \r\nBreakingviews\r\nKatrina Hamlin\r\nHONG KONG (Reuters Breakingviews) - Nios rapid rise confirms \u2026 [+2660 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "Tesla surges for second day ahead of S&P 500 debut - Reuters",
+            "description": "Shares of Tesla <TSLA.O> surged 10% to end near a record high on Wednesday, extending a two day rally after it was announced the electric car maker will join the S&P 500.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-tesla-idUSKBN27Y2XB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201118&t=2&i=1541685747&r=LYNXMPEGAH1RK&w=800",
+            "publishedAt": "2020-11-18T21:26:00Z",
+            "content": "FILE PHOTO: The Tesla logo is seen on a car at Tesla's new showroom in Manhattan's Meatpacking District in New York City, U.S., Dec. 14, 2017. REUTERS/Brendan McDermid/File Photo\r\n(Reuters) - Shares \u2026 [+1104 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman, David Shepardson",
+            "title": "GM will announce boosted spending plans for EVs on Thursday-sources - Reuters",
+            "description": "General Motors Co will roll out details of an expanded and accelerated electric vehicle strategy on Thursday in an effort to convince investors it can be a serious competitor to Tesla Inc, people familiar with the plans said.",
+            "url": "https://www.reuters.com/article/us-gm-evs-idUSKBN27Y1BP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201118&t=2&i=1541616838&r=LYNXMPEGAH0RP&w=800",
+            "publishedAt": "2020-11-18T11:13:00Z",
+            "content": "(Reuters) - General Motors Co will roll out details of an expanded and accelerated electric vehicle strategy on Thursday in an effort to convince investors it can be a serious competitor to Tesla Inc\u2026 [+2718 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman, David Shepardson",
+            "title": "GM will announce boosted spending plans for EVs on Thursday: sources - Reuters Canada",
+            "description": "General Motors Co will roll out details of an expanded and accelerated electric vehicle strategy on Thursday in an effort to convince investors it can be a serious competitor to Tesla Inc, people familiar with the plans said.",
+            "url": "https://ca.reuters.com/article/us-gm-evs-idCAKBN27Y1BP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201118&t=2&i=1541617055&r=LYNXMPEGAH0RP&w=800",
+            "publishedAt": "2020-11-18T11:13:00Z",
+            "content": "By Ben Klayman, David Shepardson\r\n(Reuters) - General Motors Co will roll out details of an expanded and accelerated electric vehicle strategy on Thursday in an effort to convince investors it can be\u2026 [+2642 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Panasonic, Equinor, Hydro consider battery production in Norway - Reuters India",
+            "description": "Panasonic, Equinor and Norsk Hydro will explore opportunities to set up a lithium-ion battery production business in Norway, targeting auto makers as potential customers, the firms said on Wednesday.",
+            "url": "https://in.reuters.com/article/norway-batteries-idINKBN27Y12Q",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201118&t=2&i=1541606683&r=LYNXMPEGAH0LZ&w=800",
+            "publishedAt": "2020-11-18T09:32:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Electric cars are parked in Oslo, Norway January 2, 2019. REUTERS/Terje Solsvik/File Photo\r\nOSLO (Reuters) - Panasonic, Equinor and Norsk Hydro will explore opportunitie\u2026 [+1249 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jonathan Shieber",
+            "title": "Panasonic explores a European battery deal with Norway\u2019s largest energy and industrial companies",
+            "description": "Panasonic, one of the world\u2019s largest manufacturers of lithium ion batteries, has signed a preliminary agreement with the Nordic energy company, Equinor, and engineering and industrial company, Norsk Hydro, to collaborate on building a battery business in Nor\u2026",
+            "url": "http://techcrunch.com/2020/11/17/panasonic-explores-a-european-battery-deal-with-norways-largest-energy-and-industrial-companies/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1051143208.jpg?w=600",
+            "publishedAt": "2020-11-18T06:51:10Z",
+            "content": "Panasonic, one of the world\u2019s largest manufacturers of lithium ion batteries, has signed a preliminary agreement with the Nordic energy company, Equinor, and engineering and industrial company, Norsk\u2026 [+2162 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "GM to leverage driver data as it jumps back into the insurance business",
+            "description": "General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the connected-car era. The service, called OnStar Insurance, will offer bundled auto, home and renters\u2019 insuran\u2026",
+            "url": "http://techcrunch.com/2020/11/18/gm-to-leverage-driver-data-as-it-jumps-back-into-the-insurance-business/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/Chevrolet-OnStar-Santa-01.jpg?w=600",
+            "publishedAt": "2020-11-18T23:05:59Z",
+            "content": "General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the connected-car era.\r\nThe service, called OnStar \u2026 [+2643 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Musk Guns for Gates's No. 2 Wealth Ranking With Tesla on a Tear",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-18/musk-guns-for-gates-s-no-2-wealth-ranking-with-tesla-on-a-tear",
+            "urlToImage": null,
+            "publishedAt": "2020-11-18T22:25:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Heekyong Yang, Hyunjoo Jin",
+            "title": "Hyundai faces lawsuit over EV fires as GM launches recall - Reuters India",
+            "description": "Hyundai Motor Co is being sued over a string of battery fires in its electric vehicles (EVs), just as General Motors Co recalls nearly 70,000 EVs with batteries from the same maker, LG Chem Ltd.",
+            "url": "https://in.reuters.com/article/autos-electric-hyundai-motor-lg-chem-idINKBN27Y1PS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201118&t=2&i=1541630596&r=LYNXMPEGAH0ZL&w=800",
+            "publishedAt": "2020-11-18T13:13:00Z",
+            "content": "SEOUL (Reuters) - Hyundai Motor Co is being sued over a string of battery fires in its electric vehicles (EVs), just as General Motors Co recalls nearly 70,000 EVs with batteries from the same maker,\u2026 [+5258 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tina Bellon",
+            "title": "General Motors launches use-based auto insurance with OnStar vehicle data - Reuters",
+            "description": "General Motors Co on Wednesday launched an auto insurance program with the help of its OnStar subsidiary, joining a growing field of companies hoping to cash in on the vast amounts of data generated by increasingly automated and connected cars.",
+            "url": "https://www.reuters.com/article/gm-insurance-idUSL1N2I32XL",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-18T14:00:00Z",
+            "content": "Nov 18 (Reuters) - General Motors Co on Wednesday launched an auto insurance program with the help of its OnStar subsidiary, joining a growing field of companies hoping to cash in on the vast amounts\u2026 [+2219 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Culp",
+            "title": "Wall Street oscillates as vaccine hopes wrestle with shutdown threats - Reuters",
+            "description": "U.S. stocks lost substantial ground at the close of a see-saw session on Wednesday as investors weighed encouraging vaccine developments against surging COVID-19 infections and lockdowns.",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSL1N2I42PG",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-18T21:04:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window) (Updates to market close)\r\nNEW YORK, Nov 18 (Reuters) - U.S. stocks lost substantial groun\u2026 [+2326 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "'A Charlie Brown Christmas' will air on PBS, in spite of Apple TV+ rights exclusive",
+            "description": "Call it a holiday miracle.  Apple  today announced that animated holiday classics \u201cA Charlie Brown Thanksgiving\u201d and \u201cA Charlie Brown Christmas\u201d will, indeed...",
+            "url": "https://techcrunch.com/2020/11/18/a-charlie-brown-christmas-will-air-on-pbs-in-spite-of-apple-tv-rights-exclusive/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_dQF5dpqSIHO2K_kQjg2Rw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI1/https://s.yimg.com/uu/api/res/1.2/DHlP1RIXLpM_9sWJb8r4mA--~B/aD0xODAwO3c9MzIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/cbe68ac25b740653f43aae984c32e3e7",
+            "publishedAt": "2020-11-18T22:05:55Z",
+            "content": "(Bloomberg Opinion) -- In an anecdote often attributed to President John F. Kennedys father, the moment he knew to get out of the 1920s stock market boom was when he started receiving share tips from\u2026 [+4382 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman, Paul Lienert",
+            "title": "Rivian CEO eyes smaller electric vehicles for China, Europe - Reuters",
+            "description": "Electric vehicle startup Rivian, which is backed by Amazon and Ford Motor Co, on Wednesday said it plans to follow up its first two products, a full-size pickup and SUV, with smaller models targeted at China and Europe where it may eventually build some vehic\u2026",
+            "url": "https://www.reuters.com/article/autos-rivian-evs-idUSL1N2HZ2QF",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-18T23:44:00Z",
+            "content": "DETROIT, Nov 18 (Reuters) - Electric vehicle startup Rivian, which is backed by Amazon and Ford Motor Co, on Wednesday said it plans to follow up its first two products, a full-size pickup and SUV, w\u2026 [+2803 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman, Paul Lienert",
+            "title": "Rivian CEO eyes smaller electric vehicles for China, Europe - Reuters",
+            "description": "Electric vehicle startup Rivian, which is backed by Amazon <AMZN.O> and Ford Motor Co <F.N>, on Wednesday said it plans to follow up its first two products, a full-size pickup and SUV, with smaller models targeted at China and Europe where it may eventually b\u2026",
+            "url": "https://www.reuters.com/article/us-autos-rivian-evs-idUSKBN27Y33D",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201118&t=2&i=1541696023&r=LYNXMPEGAH1W7&w=800",
+            "publishedAt": "2020-11-18T23:46:00Z",
+            "content": "DETROIT (Reuters) - Electric vehicle startup Rivian, which is backed by Amazon AMZN.O and Ford Motor Co F.N, on Wednesday said it plans to follow up its first two products, a full-size pickup and SUV\u2026 [+2907 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew DeBord",
+            "title": "Ford's new CEO says the E-Transit cargo van's measly 126-mile range is just right for its target consumer: fleet buyers who don't care about road trips (F)",
+            "description": "Summary List Placement\n\nWith a storied history and beloved nameplates like the Mustang and F-150, Ford is among the best-known automakers on the planet. But for all that, it holds less than a 15% share in the ultra-competitive American passenger market.\u00a0\nThe \u2026",
+            "url": "https://www.businessinsider.com/ford-ceo-explains-why-consumer-and-commercial-ev-customers-different-2020-11",
+            "urlToImage": "https://i.insider.com/5fb419bd402d49001924f5a3?width=1200&format=jpeg",
+            "publishedAt": "2020-11-18T14:26:00Z",
+            "content": "With a storied history and beloved nameplates like the Mustang and F-150, Ford is among the best-known automakers on the planet. But for all that, it holds less than a 15% share in the ultra-competit\u2026 [+2893 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Morgan Stanley Turns Bullish on Tesla for First Time Since 2017",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-18/morgan-stanley-turns-bullish-on-tesla-for-first-time-since-2017",
+            "urlToImage": null,
+            "publishedAt": "2020-11-18T07:42:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mcoulter@businessinsider.com (Martin Coulter)",
+            "title": "10 things in tech you need to know today",
+            "description": "Donald Trump fired a top cybersecurity official and Amazon started selling prescription drugs.",
+            "url": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-november-18-2020-11",
+            "urlToImage": "https://i.insider.com/5ed11f2a191824763421e043?width=1200&format=jpeg",
+            "publishedAt": "2020-11-18T07:53:19Z",
+            "content": "Good morning! This is the tech news you need to know this Wednesday. Sign up here to get this email in your inbox every morning.\r\nHave an Amazon Alexa device? Listen to this update by searching \"Busi\u2026 [+1877 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "GM to leverage driver data as it jumps back into the insurance business",
+            "description": "General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the...",
+            "url": "https://techcrunch.com/2020/11/18/gm-to-leverage-driver-data-as-it-jumps-back-into-the-insurance-business/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/jbEBNOqbF8GQRLVbv8VCGQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/2e506784f7ae72746f7edca5a02f98e2",
+            "publishedAt": "2020-11-18T23:05:59Z",
+            "content": "General Motors is launching an insurance service, returning to a business that it abandoned more than a decade ago, but this time more in step with the connected-car era.\r\nThe service, called OnStar \u2026 [+2643 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dave Mosher",
+            "title": "A Texas superintendent reveals how \u2014 and why \u2014 he got SpaceX to turn his rural school district into a Starlink satellite-internet laboratory",
+            "description": "Summary List PlacementWhen it rolled out a big test of its Starlink satellite-internet project this summer, SpaceX decided to make Ector County Independent School District, a rural education system in western Texas, a vital experiment.\nSuperintendent Scott Mu\u2026",
+            "url": "https://www.businessinsider.com/spacex-starlink-satellite-internet-ector-county-independent-school-district-agreement-2020-11",
+            "urlToImage": "https://i.insider.com/5f46972989aff80028ab8183?width=1200&format=jpeg",
+            "publishedAt": "2020-11-18T16:33:56Z",
+            "content": "When it rolled out a big test of its Starlink satellite-internet project this summer, SpaceX decided to make Ector County Independent School District, a rural education system in western Texas, a vit\u2026 [+7040 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Melia Russell",
+            "title": "The tech elite are abandoning Silicon Valley in droves because of 'monoculture' and high taxes \u2014 here's where they're headed",
+            "description": "Summary List PlacementThe tech diaspora is spreading.\nFor the better part of a decade, tech founders and investors who earned their fortunes in San Francisco and the peninsula to the south have been decamping for more politically diverse and affordable areas.\u2026",
+            "url": "https://www.businessinsider.com/silicon-valley-tech-elite-is-leaving-san-francisco-2018-3",
+            "urlToImage": "https://i.insider.com/5fb567d87b94e80011de9c58?width=1200&format=jpeg",
+            "publishedAt": "2020-11-18T21:39:00Z",
+            "content": "The tech diaspora is spreading.\r\nFor the better part of a decade, tech founders and investors who earned their fortunes in San Francisco and the peninsula to the south have been decamping for more po\u2026 [+1075 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "GM is following Tesla's example and launching its own insurance with OnStar",
+            "description": "A slew of buzzy \"insur-tech\" firms have forced old-guard automakers and insurers alike to evolve.",
+            "url": "https://www.businessinsider.com/gm-follows-tesla-with-onstar-car-insurance-product-2020-11",
+            "urlToImage": "https://i.insider.com/5fb572cd50e71a0011555fd9?width=1200&format=jpeg",
+            "publishedAt": "2020-11-18T19:28:48Z",
+            "content": "General Motors is the latest company to get into the data-driven insurance game.\r\nThe automaker on Wednesday announced plans to offer insurance plans through OnStar, and in the process waded into an \u2026 [+1617 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "Billionaire Mike Novogratz says Bitcoin will hit $65,000 \u2014 and tells Game of Thrones star Maisie Williams to buy the world's most popular cryptocurrency",
+            "description": "Bitcoin's market cap has hit a new all-time high of $337 billion, surpassing a previous record of $328 billion set in December 2017.",
+            "url": "https://www.businessinsider.com/billionaire-mike-novogratz-bitcoin-65k-game-of-thrones-maisie-williams-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fb4d6b8e74fa70018b8310e?format=jpeg",
+            "publishedAt": "2020-11-18T09:11:18Z",
+            "content": "Mike Novogratz/Bloomberg\r\nBillionaire investor Mike Novogratz predicted the price of Bitcoin will hit $65,000 while offering\u00a0advice to Game of Thrones star Maisie Williams on Twitter.\r\nThe actor took\u2026 [+1962 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "acaldwell@businessinsider.com (Aj Caldwell)",
+            "title": "How an independent engineer built an electric Porsche that's quicker than a Tesla",
+            "description": "Engineer Bisi Ezerioha converted a run down, gas Porsche 935 into an electric build that can outperform a Tesla Model S in 0-60 acceleration.",
+            "url": "https://www.businessinsider.com/electric-porsche-911-quicker-tesla-model-s-2020-11",
+            "urlToImage": "https://i.insider.com/5fb5916332f2170011f6fe44?width=1200&format=jpeg",
+            "publishedAt": "2020-11-18T21:52:52Z",
+            "content": "The following is a transcript of the video.\r\nBisi Ezerioha: The sheer acceleration is unmatched. Does 0 to 60 in 2.06 seconds, and has much better performance than any Tesla out there. My name is Bis\u2026 [+4260 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Lucy Harley-McKeown",
+            "title": "Bitcoin Price Surges as Optimistic Investors Seek 'Hype Assets' After Vaccine, Election News",
+            "description": "The last time Bitcoin saw a spike of this magnitude was 2017, when price gains were largely fuelled by a swell in consumer interest, with markets closely matching trends in online search engines. This time, some analysts say it's different.",
+            "url": "https://www.newsweek.com/bitcoin-price-btc-cryptocurrency-investors-vaccine-election-1548327",
+            "urlToImage": "https://d.newsweek.com/en/full/1671763/bitcoins.jpg",
+            "publishedAt": "2020-11-18T13:15:07Z",
+            "content": "Ubiquitous cryptocurrency Bitcoin hit a three-year high this week, as optimistic investors headed for riskier assets amid positive COVID-19 vaccine news and increased certainty about the future of th\u2026 [+3100 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Morgan Stanley says Tesla will surge 22% from current levels, its first bullish call on the stock since 2017",
+            "description": "Morgan Stanley's upgrade is derived in large part from the inclusion of Tesla services revenue into its valuation of the electric car maker.",
+            "url": "https://www.businessinsider.com/tesla-stock-price-morgan-stanley-will-surge-from-current-levels-2020-11",
+            "urlToImage": "https://i.insider.com/5fb53488e74fa70018b8318e?width=1200&format=jpeg",
+            "publishedAt": "2020-11-18T17:21:22Z",
+            "content": "<ul><li>Tesla traded higher on Wednesday after Morgan Stanley upgraded the electric vehicle manufacturer to \"Overweight\" from \"Equal-weight\" for the first time since 2017.</li><li>Morgan Stanley sees\u2026 [+3224 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Carla Marinucci, Jeremy B. White, Graph Massara and Mackenzie Hawkins",
+            "title": "Photos surface of FRENCH LAUNDRY blowout \u2014 MAUI WOWIE: Uproar over junket during pandemic \u2014 ISSA targets KAMALA HARRIS \u2014 CA pols\u2019 \u2018let them eat cake\u2019 moments \u2014 Stockton\u2019s TUBBS defeated",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/11/18/maui-wowie-uproar-over-junket-during-pandemic-will-amtrak-joe-bail-out-high-speed-rail-issa-targets-kamala-harris-voters-regretting-prop-22-ca-pols-let-them-eat-cake-moments-stocktons-tubbs-defeated-490927",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-11-18T14:19:46Z",
+            "content": "Presented by American Land Title Association\r\nTHE BUZZ PAGING MARIE ANTOINETTE: Gov. Gavin Newsom and the California Legislature have no doubt heard the story of the French queen who found herself on\u2026 [+20485 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "Tesla surges for second day ahead of S&P 500 debut",
+            "description": "Shares of Tesla <TSLA.O> surged 10% to end near a record high on Wednesday, extending a two day rally after it was announced the electric car maker will join the S&P 500.",
+            "url": "https://ca.reuters.com/article/us-usa-stocks-tesla-idCAKBN27Y2XB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201118&t=2&i=1541686716&r=LYNXMPEGAH1RK&w=800",
+            "publishedAt": "2020-11-18T21:24:23Z",
+            "content": "By Noel Randewich\r\nFILE PHOTO: The Tesla logo is seen on a car at Tesla's new showroom in Manhattan's Meatpacking District in New York City, U.S., Dec. 14, 2017. REUTERS/Brendan McDermid/File Photo\r\n\u2026 [+1123 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman, David Shepardson",
+            "title": "GM will announce boosted spending plans for EVs on Thursday-sources",
+            "description": "General Motors Co will roll out details of an expanded and accelerated electric vehicle strategy on Thursday in an effort to convince investors it can be a serious competitor to Tesla Inc, people familiar with the plans said.",
+            "url": "https://uk.reuters.com/article/gm-evs-idUKL1N2I32CR",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-18T11:00:00Z",
+            "content": "Nov 18 (Reuters) - General Motors Co will roll out details of an expanded and accelerated electric vehicle strategy on Thursday in an effort to convince investors it can be a serious competitor to Te\u2026 [+2467 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Balakumar K",
+            "title": "Is Musk's Starlink coming to India? Looks so",
+            "description": "SpaceX has asked the Indian government to facilitate approvals for the use of satellite technology to further internet access in remote rural areas.",
+            "url": "https://www.techradar.com/in/news/is-musks-starlink-coming-to-india-looks-so",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/R28gUrGU5ZPrfgqhPPGU4S-1200-80.jpg",
+            "publishedAt": "2020-11-18T09:12:22Z",
+            "content": "Does the Elon Musk-led SpaceX has investments plans for India through Starlink? Well, looks like it is the case. \u00a0\u00a0\r\nThe company has written to the Telecom Regulatory Authority of India (TRAI) for fa\u2026 [+3408 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Megan Rose Dickey",
+            "title": "Welcome raises $12 million to be the \u2018Ritz Carlton for event platforms\u2019 \u2013 TechCrunch",
+            "description": "On the heels of Hopin\u2019s $125 million funding round, a newcomer in the virtual events space is gaining steam. Welcome, led by co-founder and CEO Roberto Ortiz, is positioning itself as the \u201cRitz Carlton for virtual events,\u201d Ortiz told me. Today, it\u2019s announcin\u2026",
+            "url": "http://techcrunch.com/2020/11/18/welcome-raises-12-million-to-be-the-ritz-carlton-for-event-platforms/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/02-welcome_greenroom.jpg?w=711",
+            "publishedAt": "2020-11-18T14:01:45Z",
+            "content": "On the heels of Hopin\u2019s $125 million funding round, a newcomer in the virtual events space is gaining steam. Welcome, led by co-founder and CEO Roberto Ortiz, is positioning itself as the \u201cRitz Carlt\u2026 [+2447 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Nick Carey",
+            "title": "UK electric van startup Arrival to get U.S. listing at $5.4 bln valuation",
+            "description": "British electric van startup Arrival has agreed to merge with CIIG Merger Corp to get a U.S. listing at a market valuation of about $5.4 billion, it said on Wednesday.",
+            "url": "https://uk.reuters.com/article/us-ciig-merger-corp-m-a-arrival-idUKKBN27Y1PH",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-18T13:00:00Z",
+            "content": "LONDON (Reuters) - British electric van startup Arrival has agreed to merge with CIIG Merger Corp to get a U.S. listing at a market valuation of about $5.4 billion, it said on Wednesday.\r\nCIIG is a s\u2026 [+1881 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Nick Carey",
+            "title": "UK electric van startup Arrival to get U.S. listing at $5.4 bln valuation",
+            "description": "British electric van startup Arrival has agreed to merge with CIIG Merger Corp to get a U.S. listing at a market valuation of about $5.4 billion, it said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-ciig-merger-corp-m-a-arrival-idUSKBN27Y1PH",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-18T13:00:00Z",
+            "content": "LONDON (Reuters) - British electric van startup Arrival has agreed to merge with CIIG Merger Corp to get a U.S. listing at a market valuation of about $5.4 billion, it said on Wednesday.\r\nCIIG is a s\u2026 [+1881 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tina Bellon",
+            "title": "General Motors launches use-based auto insurance with OnStar vehicle data",
+            "description": "General Motors Co on Wednesday launched an auto insurance program with the help of its OnStar subsidiary, joining a growing field of companies hoping to cash in on the vast amounts of data generated by increasingly automated and connected cars.",
+            "url": "https://uk.reuters.com/article/gm-insurance-idUKL1N2I32XL",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-18T14:00:00Z",
+            "content": "Nov 18 (Reuters) - General Motors Co on Wednesday launched an auto insurance program with the help of its OnStar subsidiary, joining a growing field of companies hoping to cash in on the vast amounts\u2026 [+2219 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman, Paul Lienert",
+            "title": "Rivian CEO eyes smaller electric vehicles for China, Europe",
+            "description": "Electric vehicle startup Rivian, which is backed by Amazon <AMZN.O> and Ford Motor Co <F.N>, on Wednesday said it plans to follow up its first two products, a full-size pickup and SUV, with smaller models targeted at China and Europe where it may eventually b\u2026",
+            "url": "https://uk.reuters.com/article/uk-autos-rivian-evs-idUKKBN27Y33F",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201118&t=2&i=1541696059&r=LYNXMPEGAH1W8&w=800",
+            "publishedAt": "2020-11-18T23:46:29Z",
+            "content": "DETROIT (Reuters) - Electric vehicle startup Rivian, which is backed by Amazon AMZN.O and Ford Motor Co F.N, on Wednesday said it plans to follow up its first two products, a full-size pickup and SUV\u2026 [+2906 chars]"
+        }
+    ]
+}

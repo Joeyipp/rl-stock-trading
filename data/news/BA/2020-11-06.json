@@ -1,0 +1,903 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Klaus Lauer",
+            "title": "Germany agrees to give COVID-hit airports financial aid - Reuters UK",
+            "description": "Germany agreed on Friday to offer more aid to its airports to try to save jobs and preserve infrastructure as the COVID-19 pandemic continues to wreak havoc on the aviation industry.",
+            "url": "https://uk.reuters.com/article/us-germany-aviation-idUKKBN27M1AQ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540244077&r=LYNXMPEGA50S8&w=800",
+            "publishedAt": "2020-11-06T10:45:00Z",
+            "content": "BERLIN (Reuters) - Germany agreed on Friday to offer more aid to its airports to try to save jobs and preserve infrastructure as the COVID-19 pandemic continues to wreak havoc on the aviation industr\u2026 [+2389 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Klaus Lauer",
+            "title": "Germany agrees to give COVID-hit airports financial aid - Reuters",
+            "description": "Germany agreed on Friday to offer more aid to its airports to try to save jobs and preserve infrastructure as the COVID-19 pandemic continues to wreak havoc on the aviation industry.",
+            "url": "https://www.reuters.com/article/us-germany-aviation-idUSKBN27M1AQ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T10:47:00Z",
+            "content": "BERLIN (Reuters) - Germany agreed on Friday to offer more aid to its airports to try to save jobs and preserve infrastructure as the COVID-19 pandemic continues to wreak havoc on the aviation industr\u2026 [+2161 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Singapore Airlines sinks to record quarterly loss on pandemic, impairments - Reuters India",
+            "description": "* Airline blames pandemic impact, fleet impairment charges (Adds company comment, further earnings figures, context, shares)",
+            "url": "https://www.reuters.com/article/singapore-air-results-idINL1N2HS0Q0",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T11:44:00Z",
+            "content": "By Reuters Staff\r\n* Q2 net loss S$2.34 bln vs S$94.5 mln profit year ago\r\n* Revenue falls 81% to S$783.8 mln\r\n* Airline blames pandemic impact, fleet impairment charges (Adds company comment, further\u2026 [+2996 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Thai Airways seeks buyers for 34 used planes as part of restructuring plan - Reuters",
+            "description": "Thai Airways International PCL said on Friday it was looking for potential buyers for 34 used Airbus SE and Boeing Co planes as part of its restructuring plan.",
+            "url": "https://www.reuters.com/article/thai-airways-fleet-idUSL1N2HS07C",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T03:10:00Z",
+            "content": "By Reuters Staff\r\nSYDNEY, Nov 6 (Reuters) - Thai Airways International PCL said on Friday it was looking for potential buyers for 34 used Airbus SE and Boeing Co planes as part of its restructuring p\u2026 [+1010 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.N. aviation agency asks Iran to expedite investigation of downed jet - Reuters",
+            "description": "The International Civil Aviation Organization (ICAO) on Friday asked Iran to expedite the investigation into the downing of a Ukrainian airliner in January.",
+            "url": "https://www.reuters.com/article/us-iran-crash-idUSKBN27M2YG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540319090&r=LYNXMPEGA51V4&w=800",
+            "publishedAt": "2020-11-06T23:32:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - The International Civil Aviation Organization (ICAO) on Friday asked Iran to expedite the investigation into the downing of a Ukrainian airliner in January.\r\nThe recomme\u2026 [+457 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.N. aviation agency asks Iran to expedite investigation of downed jet - Reuters India",
+            "description": "The International Civil Aviation Organization (ICAO) on Friday asked Iran to expedite the investigation into the downing of a Ukrainian airliner in January.",
+            "url": "https://in.reuters.com/article/uk-iran-crash-idINKBN27M2YF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540318612&r=LYNXMPEGA51V3&w=800",
+            "publishedAt": "2020-11-06T23:40:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - The International Civil Aviation Organization (ICAO) on Friday asked Iran to expedite the investigation into the downing of a Ukrainian airliner in January.\r\nThe recomme\u2026 [+457 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa to start rapid pre-flight coronavirus tests in Germany - Reuters",
+            "description": "Lufthansa is to start trialling rapid pre-flight coronavirus antigen tests in Germany next week, which passengers will need to pass in order to fly.",
+            "url": "https://www.reuters.com/article/health-coronavirus-lufthansa-idUSL1N2HS0W2",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T12:56:00Z",
+            "content": "By Reuters Staff\r\nBERLIN, Nov 6 (Reuters) - Lufthansa is to start trialling rapid pre-flight coronavirus antigen tests in Germany next week, which passengers will need to pass in order to fly.\r\nOnly \u2026 [+1187 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.N. aviation agency asks Iran to expedite investigation of downed jet - Reuters UK",
+            "description": "The International Civil Aviation Organization (ICAO) on Friday asked Iran to expedite the investigation into the downing of a Ukrainian airliner in January.",
+            "url": "https://uk.reuters.com/article/uk-iran-crash-idUKKBN27M2YF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540318612&r=LYNXMPEGA51V3&w=800",
+            "publishedAt": "2020-11-06T23:38:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - The International Civil Aviation Organization (ICAO) on Friday asked Iran to expedite the investigation into the downing of a Ukrainian airliner in January.\r\nThe recomme\u2026 [+457 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tim Hepher",
+            "title": "Airbus monthly jet deliveries surge in October to near-2019 level - Reuters India",
+            "description": "Europe's Airbus <AIR.PA> booked 72 jet deliveries in October, approaching last year's monthly pace for the first time since the start of the coronavirus crisis and easing concerns over a cash-depleting overhang of unwanted jets.",
+            "url": "https://in.reuters.com/article/uk-airbus-deliveries-idINKBN27M2K3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540316678&r=LYNXMPEGA51PG&w=800",
+            "publishedAt": "2020-11-06T23:10:00Z",
+            "content": "PARIS (Reuters) - Europe's Airbus AIR.PA booked 72 jet deliveries in October, approaching last year's monthly pace for the first time since the start of the coronavirus crisis and easing concerns ove\u2026 [+2325 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Small group of Southwest workers receive warnings of first-ever furloughs - Reuters",
+            "description": "Southwest Airlines <LUV.N> said on Friday it has sent furlough notices to 42 parts inventory workers after the union representing them refused to discuss pay cuts the airline argues it needs from all employees to offset $1 billion in overstaffing costs.",
+            "url": "https://www.reuters.com/article/us-southwest-jobs-idUSKBN27M2LQ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540297243&r=LYNXMPEGA51L5&w=800",
+            "publishedAt": "2020-11-06T18:39:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Southwest Airlines planes are seen at LAX airport in Los Angeles, California, United States, October 22, 2015. REUTERS/Lucy Nicholson/File Photo\r\nCHICAGO (Reuters) - Sou\u2026 [+1240 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "LATAM Airlines posts $573 mln loss because of coronavirus restrictions - Reuters India",
+            "description": "LATAM Airlines, the continent's largest carrier, said on Friday it lost $573 million in the third quarter, as the company continues a bankruptcy restructuring process that started in May because of the coronavirus pandemic.",
+            "url": "https://www.reuters.com/article/latam-airlines-results-idINL1N2HS2XK",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T22:45:00Z",
+            "content": "By Reuters Staff\r\nSANTIAGO, Nov 6 (Reuters) - LATAM Airlines, the continents largest carrier, said on Friday it lost $573 million in the third quarter, as the company continues a bankruptcy restructu\u2026 [+750 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "David Slotnick",
+            "title": "Southwest plans to furlough workers for the first time in its 53-year history as COVID-19 continues to pummel the airline industry (LUV)",
+            "description": "Summary List Placement\n\nSouthwest Airlines plans to furlough employees for the first time in its 53-year history, Business Insider has learned.\nIn a presentation to staff on Friday, CEO Gary Kelly said the company would furlough 42 specialists in its maintena\u2026",
+            "url": "https://www.businessinsider.com/southwest-airlines-furloughs-first-ever-coronavirus-2020-11",
+            "urlToImage": "https://i.insider.com/5fa597dff7d1cb0019e3a474?width=1200&format=jpeg",
+            "publishedAt": "2020-11-06T19:19:20Z",
+            "content": "Southwest Airlines plans to furlough employees for the first time in its 53-year history, Business Insider has learned.\r\nIn a presentation to staff on Friday, CEO Gary Kelly said the company would fu\u2026 [+1595 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "LATAM Airlines posts $573 million loss because of coronavirus restrictions - Reuters",
+            "description": "LATAM Airlines <LTM.SN>, the continent's largest carrier, said on Friday it lost $573 million in the third quarter, as the company continues a bankruptcy restructuring process that started in May because of the coronavirus pandemic.",
+            "url": "https://www.reuters.com/article/us-latam-airlines-results-idUSKBN27M2XY",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540316732&r=LYNXMPEGA51UQ&w=800",
+            "publishedAt": "2020-11-06T23:08:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Passengers wait to check in for their flights at the departure area of Latam airlines inside of the Commodore Arturo Merino Benitez International Airport in Santiago, Ch\u2026 [+934 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-EasyJet scales back flying capacity due to lockdowns - Reuters India",
+            "description": "British airline easyJet said recently announced lockdowns in England, Germany and France had forced it to scale back its already reduced flying schedule, and it would now fly no more than 20% of capacity for the rest of the year.",
+            "url": "https://in.reuters.com/article/easyjet-outlook-idINL8N2HS1WZ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T07:34:00Z",
+            "content": "By Reuters Staff\r\n(Adds detail, background)\r\nLONDON, Nov 6 (Reuters) - British airline easyJet said recently announced lockdowns in England, Germany and France had forced it to scale back its already\u2026 [+1552 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EasyJet scales back flying capacity due to lockdowns - Reuters UK",
+            "description": "British airline easyJet <EZJ.L> said recently announced lockdowns in England, Germany and France had forced it to scale back its already reduced flying schedule, and it would now fly no more than 20% of capacity for the rest of the year.",
+            "url": "https://www.reuters.com/article/uk-easyjet-outlook-idUKKBN27M0RD",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540222390&r=LYNXMPEGA50GY&w=800",
+            "publishedAt": "2020-11-06T07:14:00Z",
+            "content": "By Reuters Staff\r\nThe company logo is seen on the tail of an Easyjet plane at Manchester Airport in Manchester, Britain January 20, 2020. REUTERS/Phil Noble\r\nLONDON (Reuters) - British airline easyJe\u2026 [+1654 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EasyJet scales back flying capacity due to lockdowns - Reuters",
+            "description": "British airline easyJet <EZJ.L> said recently announced lockdowns in England, Germany and France had forced it to scale back its already reduced flying schedule, and it would now fly no more than 20% of capacity for the rest of the year.",
+            "url": "https://www.reuters.com/article/us-easyjet-outlook-idUSKBN27M0RC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540222725&r=LYNXMPEGA50GX&w=800",
+            "publishedAt": "2020-11-06T07:17:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: An EasyJet aircraft taxis after landing at Terminal 1, marking the official opening of the new Berlin-Brandenburg Airport (BER) \"Willy Brandt\", in Schoenefeld, near Berl\u2026 [+1797 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Airbus monthly jet deliveries surge in October to near 2019 level - Reuters",
+            "description": "Airbus delivered 72 aircraft in October, nearly matching its tally in the same month last year, as it focuses on stabilising cash generation to weather the coronavirus crisis.",
+            "url": "https://www.reuters.com/article/airbus-deliveries-idUSL1N2HS25Y",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T19:56:00Z",
+            "content": "By Reuters Staff\r\n(Adds details, background)\r\nPARIS, Nov 6 (Reuters) - Airbus delivered 72 aircraft in October, nearly matching its tally in the same month last year, as it focuses on stabilising cas\u2026 [+2130 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa could need more money next year - Spiegel cites government document - Reuters UK",
+            "description": "The German government believes flag carrier airline Lufthansa could need more money next year, Der Spiegel magazine reported, citing an internal government document.",
+            "url": "https://uk.reuters.com/article/uk-lufthansa-bailout-idUKKBN27M19Y",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540241649&r=LYNXMPEGA50R3&w=800",
+            "publishedAt": "2020-11-06T10:39:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Lufthansa logo is pictured at Frankfurt Airport in Frankfurt, Germany, September 21, 2020. REUTERS/Ralph Orlowski\r\nBERLIN (Reuters) - The German government believes \u2026 [+756 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa could need more money next year - Spiegel cites govt document - Reuters India",
+            "description": "The German government believes flag carrier airline Lufthansa could need more money next year, Der Spiegel magazine reported, citing an internal government document.",
+            "url": "https://in.reuters.com/article/us-lufthansa-bailout-idINKBN27M19S",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T10:34:00Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - The German government believes flag carrier airline Lufthansa could need more money next year, Der Spiegel magazine reported, citing an internal government docume\u2026 [+617 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UK airports could close without government support: industry body - Reuters",
+            "description": "British airports urged the Prime Minister to provide bespoke support for the sector, warning that without it some could shut, ruining government hopes for UK trade as the country seeks new economic ties beyond the European Union.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-airports-idUSKBN27M1SV",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T13:42:00Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - British airports urged the Prime Minister to provide bespoke support for the sector, warning that without it some could shut, ruining government hopes for UK trad\u2026 [+1645 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UK airports could close without government support - industry body - Reuters UK",
+            "description": "British airports urged the Prime Minister to provide bespoke support for the sector, warning that without it some could shut, ruining government hopes for UK trade as the country seeks new economic ties beyond the European Union.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-britain-airports-idUKKBN27M1T9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540261826&r=LYNXMPEGA511D&w=800",
+            "publishedAt": "2020-11-06T13:47:00Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - British airports urged the Prime Minister to provide bespoke support for the sector, warning that without it some could shut, ruining government hopes for UK trad\u2026 [+1645 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU likely to impose tariffs on $4 billion U.S. imports next week - Reuters",
+            "description": "The European Union is likely to impose tariffs on $4 billion of U.S. imports next week after an award by the World Trade Organization in a dispute over subsidies for aircraft maker Boeing <BA.N>, EU diplomats said on Friday.",
+            "url": "https://www.reuters.com/article/us-wto-aircraft-eu-idUSKBN27M2C9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540281476&r=LYNXMPEGA51E9&w=800",
+            "publishedAt": "2020-11-06T16:45:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A worker adjusts European Union and U.S. flags at the start of the 2nd round of EU-US trade negotiations for Transatlantic Trade and Investment Partnership at the EU Com\u2026 [+550 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stella Qiu",
+            "title": "Airbus in tussle over jet deliveries to China - sources - Reuters India",
+            "description": "Chinese airlines are shunning some deliveries of Airbus aircraft, citing fears of coronavirus infection for their staff in the latest tussle over efforts to keep delayed deliveries on track despite the pandemic, industry sources said.",
+            "url": "https://in.reuters.com/article/airbus-china-deliveries-idINL8N2HS627",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T15:34:00Z",
+            "content": "BEIJING, Nov 6 (Reuters) - Chinese airlines are shunning some deliveries of Airbus aircraft, citing fears of coronavirus infection for their staff in the latest tussle over efforts to keep delayed de\u2026 [+1795 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Alexander Winning",
+            "title": "UPDATE 1-SAA's $665 million bailout does not cover aircraft lessors, other creditors - Reuters India",
+            "description": "UPDATE 1-SAA's $665 million bailout does not cover aircraft lessors, other creditors\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/safrica-saa-idINL1N2HS0MF",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T11:44:00Z",
+            "content": "* SAA operations mothballed since late September\r\n* Given $665 mln bailout in mid-term budget\r\n* That doesnt cover lessors, other creditors\r\n* More money may be needed from state budget (Adds governm\u2026 [+2104 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stella Qiu",
+            "title": "Airbus in tussle over jet deliveries to China - sources - Reuters UK",
+            "description": "Chinese airlines are shunning some deliveries of Airbus <AIR.PA> aircraft, citing fears of coronavirus infection for their staff in the latest tussle over efforts to keep delayed deliveries on track despite the pandemic, industry sources said.",
+            "url": "https://uk.reuters.com/article/uk-airbus-china-deliveries-idUKKBN27M24X",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540274363&r=LYNXMPEGA519T&w=800",
+            "publishedAt": "2020-11-06T15:42:00Z",
+            "content": "BEIJING (Reuters) - Chinese airlines are shunning some deliveries of Airbus AIR.PA aircraft, citing fears of coronavirus infection for their staff in the latest tussle over efforts to keep delayed de\u2026 [+1855 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stella Qiu",
+            "title": "Airbus in tussle over jet deliveries to China - sources - Reuters UK",
+            "description": "Chinese airlines are shunning some deliveries of Airbus <AIR.PA> aircraft, citing fears of coronavirus infection for their staff in the latest tussle over efforts to keep delayed deliveries on track despite the pandemic, industry sources said.",
+            "url": "https://www.reuters.com/article/uk-airbus-china-deliveries-idUKKBN27M24X",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540274363&r=LYNXMPEGA519T&w=800",
+            "publishedAt": "2020-11-06T15:42:00Z",
+            "content": "BEIJING (Reuters) - Chinese airlines are shunning some deliveries of Airbus AIR.PA aircraft, citing fears of coronavirus infection for their staff in the latest tussle over efforts to keep delayed de\u2026 [+1855 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EasyJet scales back flying capacity due to lockdowns - Reuters UK",
+            "description": "British airline easyJet <EZJ.L> said recently announced lockdowns in England, Germany and France had forced it to scale back its already reduced flying schedule, and it would now fly no more than 20% of capacity for the rest of the year.",
+            "url": "https://in.reuters.com/article/uk-easyjet-outlook-idUKKBN27M0RD",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540222390&r=LYNXMPEGA50GY&w=800",
+            "publishedAt": "2020-11-06T07:14:00Z",
+            "content": "By Reuters Staff\r\nThe company logo is seen on the tail of an Easyjet plane at Manchester Airport in Manchester, Britain January 20, 2020. REUTERS/Phil Noble\r\nLONDON (Reuters) - British airline easyJe\u2026 [+410 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Airbus delivered 72 aircraft in October, nearing year-ago total - Reuters India",
+            "description": "Airbus delivered 72 aircraft in October, nearing year-ago total\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/airbus-deliveries-idINL1N2HS23E",
+            "urlToImage": null,
+            "publishedAt": "2020-11-06T18:33:54Z",
+            "content": "Company News\r\nReuters Staff\r\nPARIS, Nov 6 (Reuters) - Airbus delivered 72 aircraft in October, almost matching its performance in the same month last year as the European planemaker continues to focu\u2026 [+680 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-UK Stocks-Factors to watch on Nov. 6 - Reuters UK",
+            "description": "Britain's FTSE 100 index is seen opening 21 points lower at 5,885 on Friday, according to financial bookmakers, with futures down 0.2% ahead of cash market open.",
+            "url": "https://uk.reuters.com/article/britain-stocks-factors-idUKL4N2HS239",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T07:48:00Z",
+            "content": "By Reuters Staff\r\n(Adds company news items, futures)\r\nNov 6 (Reuters) - Britains FTSE 100 index is seen opening 21 points lower at 5,885 on Friday, according to financial bookmakers, with futures dow\u2026 [+1569 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UK Stocks-Factors to watch on Nov 6 - Reuters UK",
+            "description": "Britain's FTSE 100 index is seen opening 21 points lower at 5,885 on Friday, according to financial bookmakers. * SAINSBURY: British supermarket Sainsbury's said it could have to cut its range of offering in Northern Ireland unless it gets clarity on the prov\u2026",
+            "url": "https://www.reuters.com/article/britain-stocks-factors-idUKL4N2HS1HQ",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T05:22:00Z",
+            "content": "By Reuters Staff\r\nNov 6 (Reuters) - Britain's FTSE 100 index is seen opening 21 points\r\nlower at 5,885 on Friday, according to financial bookmakers.\r\n* SAINSBURY: British supermarket Sainsbury's said\u2026 [+1912 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "France sees smoother trade ties with U.S. if Biden triumphs, says minister - Reuters Africa",
+            "description": "France expects smoother trade relations with the United States should Democratic contender Joe Biden win the presidential vote, with greater alignment on sustainable development and more multilateral cooperation, trade minister Franck Riester said.",
+            "url": "https://www.reuters.com/article/us-usa-election-biden-france-idUSKBN27M1PX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540257751&r=LYNXMPEGA50ZM&w=800",
+            "publishedAt": "2020-11-06T13:18:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: French Culture Minister Franck Riester speaks at the Elysee Palace in Paris, France May 6, 2020 following a video conference between the French president and several art\u2026 [+2014 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "France sees smoother trade ties with U.S. if Biden triumphs, says minister - Reuters UK",
+            "description": "France expects smoother trade relations with the United States should Democratic contender Joe Biden win the presidential vote, with greater alignment on sustainable development and more multilateral cooperation, trade minister Franck Riester said.",
+            "url": "https://uk.reuters.com/article/uk-usa-election-biden-france-idUKKBN27M1QS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540258550&r=LYNXMPEGA5105&w=800",
+            "publishedAt": "2020-11-06T13:25:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: French Culture Minister Franck Riester speaks at the Elysee Palace in Paris, France May 6, 2020 following a video conference between the French president and several art\u2026 [+2014 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Giulia Paravicini, Dawit Endeshaw",
+            "title": "U.N. chief 'deeply alarmed' by armed clashes in Ethiopia's Tigray - Reuters",
+            "description": "The head of the United Nations said he was deeply alarmed by fighting in Ethiopia's northern Tigray region, where federal troops have been exchanging fire with the powerful ethnic faction that led the ruling coalition for decades.",
+            "url": "https://www.reuters.com/article/us-ethiopia-conflict-idUSKBN27M0OW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540219494&r=LYNXMPEGA50FT&w=800",
+            "publishedAt": "2020-11-06T06:43:00Z",
+            "content": "ADDIS ABABA (Reuters) - The head of the United Nations said he was deeply alarmed by fighting in Ethiopias northern Tigray region, where federal troops have been exchanging fire with the powerful eth\u2026 [+2128 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Devik Jain",
+            "title": "UPDATE 1-FTSE 100 falls on virus concerns, Brexit uncertainty - Reuters",
+            "description": "* FTSE 100 down 0.8%, FTSE 250 falls 0.4% (Adds comment; updates share prices)",
+            "url": "https://www.reuters.com/article/britain-stocks-idUSL4N2HS2IY",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T10:20:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window)\r\n* EU Commissioner sees 50/50 chance of Brexit deal\r\n* EasyJet falls on scaling back flyin\u2026 [+2081 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Douglas Busvine",
+            "title": "Amid coronavirus carnage, one German travel tech startup goes for growth - Reuters Canada",
+            "description": "Many of Europe's travel tech companies have suffered setbacks as the coronavirus pandemic has forced governments to restrict people's movements, but amid the carnage one German startup is pushing ahead with its growth plans.",
+            "url": "https://ca.reuters.com/article/ctech-us-tech-limehome-idCAKBN27M11B-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540232605&r=LYNXMPEGA50MO-OCATC&w=800",
+            "publishedAt": "2020-11-06T09:05:00Z",
+            "content": "By Douglas Busvine\r\nBERLIN (Reuters) - Many of Europes travel tech companies have suffered setbacks as the coronavirus pandemic has forced governments to restrict peoples movements, but amid the carn\u2026 [+2518 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Douglas Busvine",
+            "title": "Amid coronavirus carnage, one German travel tech startup goes for growth - Reuters",
+            "description": "Many of Europe's travel tech companies have suffered setbacks as the coronavirus pandemic has forced governments to restrict people's movements, but amid the carnage one German startup is pushing ahead with its growth plans.",
+            "url": "https://www.reuters.com/article/tech-limehome-idUSL4N2HQ3AO",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T09:00:00Z",
+            "content": "* Contactless hotel startup Limehome expands into Spain\r\n* Tops up funding round to 31 million euros\r\n* Occupancy running at 85% since first wave of pandemic\r\nBERLIN, Nov 6 (Reuters) - Many of Europe\u2026 [+2510 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Douglas Busvine",
+            "title": "Amid coronavirus carnage, one German travel tech startup goes for growth - Reuters",
+            "description": "Many of Europe's travel tech companies have suffered setbacks as the coronavirus pandemic has forced governments to restrict people's movements, but amid the carnage one German startup is pushing ahead with its growth plans.",
+            "url": "https://www.reuters.com/article/tech-limehome-idUSKBN27M132",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540234701&r=LYNXMPEGA50NL&w=800",
+            "publishedAt": "2020-11-06T09:27:00Z",
+            "content": "BERLIN (Reuters) - Many of Europes travel tech companies have suffered setbacks as the coronavirus pandemic has forced governments to restrict peoples movements, but amid the carnage one German start\u2026 [+2499 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Douglas Busvine",
+            "title": "Amid coronavirus carnage, one German travel tech startup goes for growth - Reuters India",
+            "description": "Many of Europe's travel tech companies have suffered setbacks as the coronavirus pandemic has forced governments to restrict people's movements, but amid the carnage one German startup is pushing ahead with its growth plans.",
+            "url": "https://in.reuters.com/article/tech-limehome-idINKBN27M132",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540234701&r=LYNXMPEGA50NL&w=800",
+            "publishedAt": "2020-11-06T09:29:00Z",
+            "content": "BERLIN (Reuters) - Many of Europes travel tech companies have suffered setbacks as the coronavirus pandemic has forced governments to restrict peoples movements, but amid the carnage one German start\u2026 [+2499 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "EU set to impose tariffs on $4 billion US goods next week - Reuters India",
+            "description": "EU set to impose tariffs on $4 billion US goods next week\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/us-wto-aircraft-eu-idINKBN27M2C9",
+            "urlToImage": null,
+            "publishedAt": "2020-11-06T17:24:00Z",
+            "content": "FILE PHOTO: A worker adjusts European Union and U.S. flags at the start of the 2nd round of EU-US trade negotiations for Transatlantic Trade and Investment Partnership at the EU Commission headquarte\u2026 [+2961 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Giulia Paravicini, Dawit Endeshaw",
+            "title": "Ethiopia says military push has limited aims, as U.N. sounds alarm - Reuters India",
+            "description": "Ethiopia's federal military operations in the north have \"clear, limited and achievable objectives\", Prime Minister Abiy Ahmed said on Friday, after the head of the United Nations said he was deeply alarmed by fighting in the country's Tigray region.",
+            "url": "https://in.reuters.com/article/ethiopia-conflict-idINKBN27M12S",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540234435&r=LYNXMPEGA50ND&w=800",
+            "publishedAt": "2020-11-06T09:24:00Z",
+            "content": "ADDIS ABABA (Reuters) - Ethiopias federal military operations in the north have clear, limited and achievable objectives, Prime Minister Abiy Ahmed said on Friday, after the head of the United Nation\u2026 [+2669 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Giulia Paravicini, Dawit Endeshaw",
+            "title": "Ethiopia says military push has limited aims, as U.N. sounds alarm - Reuters India",
+            "description": "Ethiopia's federal military operations in the north have \"clear, limited and achievable objectives\", Prime Minister Abiy Ahmed said on Friday, after the head of the United Nations said he was deeply alarmed by fighting in the country's Tigray region.",
+            "url": "https://www.reuters.com/article/ethiopia-conflict-idINKBN27M12S",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540234435&r=LYNXMPEGA50ND&w=800",
+            "publishedAt": "2020-11-06T09:24:00Z",
+            "content": "ADDIS ABABA (Reuters) - Ethiopias federal military operations in the north have clear, limited and achievable objectives, Prime Minister Abiy Ahmed said on Friday, after the head of the United Nation\u2026 [+2669 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sruthi Shankar",
+            "title": "UPDATE 1-European stocks lose steam after five-day rally - Reuters UK",
+            "description": "UPDATE 1-European stocks lose steam after five-day rally\u00a0\u00a0Reuters UK",
+            "url": "https://uk.reuters.com/article/europe-stocks-idUKL4N2HS2I8",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T09:42:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window)\r\n* Travel sectors hit as lockdown fears back on radar\r\n* Tech stocks pare this weeks stron\u2026 [+3130 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "Smallest job gains in five months expected as U.S. labor market momentum wanes - Reuters",
+            "description": "U.S. employers likely hired the fewest workers in five months in October, in what would be clearest indication yet that the end of fiscal stimulus and exploding new COVID-19 infections were sapping momentum from the economic recovery.",
+            "url": "https://www.reuters.com/article/us-usa-economy-idUSKBN27M0IJ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540212643&r=LYNXMPEGA50C3&w=800",
+            "publishedAt": "2020-11-06T05:07:00Z",
+            "content": "WASHINGTON (Reuters) - U.S. employers likely hired the fewest workers in five months in October, in what would be clearest indication yet that the end of fiscal stimulus and exploding new COVID-19 in\u2026 [+5354 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "U.S. job growth slows in October; part-time workers increase - Reuters",
+            "description": "The U.S. economy created the fewest jobs in five months in October and more Americans are working part time, the clearest evidence yet that the recovery from the pandemic recession was slowing as fiscal stimulus ends and new COVID-19 cases explode.",
+            "url": "https://www.reuters.com/article/usa-economy-idUSKBN27M20I",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540269166&r=LYNXMPEGA5179&w=800",
+            "publishedAt": "2020-11-06T15:02:00Z",
+            "content": "WASHINGTON (Reuters) - The U.S. economy created the fewest jobs in five months in October and more Americans are working part time, the clearest evidence yet that the recovery from the pandemic reces\u2026 [+4422 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonnelle Marte, Ann Saphir",
+            "title": "Uneven U.S. job market recovery points to need for focused fiscal aid - Reuters India",
+            "description": "The big decline in the U.S. unemployment rate last month suggests the economy needs less a broad pandemic relief package than targeted support for hard-hit sectors, even as an unprecedented surge in COVID-19 cases raises questions about the durability of the \u2026",
+            "url": "https://in.reuters.com/article/us-usa-economy-fiscal-idINKBN27M2QK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540303689&r=LYNXMPEGA51PB&w=800",
+            "publishedAt": "2020-11-06T20:00:00Z",
+            "content": "NEW YORK/SAN FRANCISCO (Reuters) - The big decline in the U.S. unemployment rate last month suggests the economy needs less a broad pandemic relief package than targeted support for hard-hit sectors,\u2026 [+4414 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonnelle Marte, Ann Saphir",
+            "title": "Uneven U.S. job market recovery points to need for focused fiscal aid - Reuters Africa",
+            "description": "The big decline in the U.S. unemployment rate last month suggests the economy needs less a broad pandemic relief package than targeted support for hard-hit sectors, even as an unprecedented surge in COVID-19 cases raises questions about the durability of the \u2026",
+            "url": "https://www.reuters.com/article/us-usa-economy-fiscal-idUSKBN27M2QK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540303396&r=LYNXMPEGA51P7&w=800",
+            "publishedAt": "2020-11-06T20:01:00Z",
+            "content": "NEW YORK/SAN FRANCISCO (Reuters) - The big decline in the U.S. unemployment rate last month suggests the economy needs less a broad pandemic relief package than targeted support for hard-hit sectors,\u2026 [+4318 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Zachary Karabell",
+            "title": "If We Don\u2019t Move Fast, the Economy Is Going to Get Much Worse",
+            "description": "It now appears likely that Joe Biden will be the next president of the United States, but the frenzy of Election Day and the subsequent uncertainty has obscured an urgent economic reality: the failure of Democrats in the House, Republicans in the Senate and P\u2026",
+            "url": "https://time.com/5908218/economy-stimulus-going-to-get-worse/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/11/covid-jobs-economy.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2020-11-06T21:55:07Z",
+            "content": "It now appears likely that Joe Biden will be the next president of the United States, but the frenzy of Election Day and the subsequent uncertainty has obscured an urgent economic reality: the failur\u2026 [+6050 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Rocket Report: SLS has technical problems, Vector\u2014yes, Vector\u2014is back",
+            "description": "\"We thought there was tremendous value.\"",
+            "url": "https://arstechnica.com/science/2020/11/rocket-report-sls-has-technical-problems-vector-yes-vector-is-back/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/NROL101-Nov-4-2020-3442-HDR-1-760x380.jpg",
+            "publishedAt": "2020-11-06T12:00:12Z",
+            "content": "Enlarge/ Atlas V on SLC-41 after being scrubbed due to an unexpected system response from remotely commanded ground system liquid oxygen valves.\r\n1 with 1 posters participating\r\nWelcome to Edition 3.\u2026 [+9777 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "\u30d5\u30ed\u30ea\u30c0\u306e\u4f4f\u6c11\u304c\u7a7a\u98db\u3076\u30bf\u30af\u30b7\u30fcLilium Jet\u3092\u3044\u3061\u65e9\u304f\u898b\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u7406\u7531",
+            "description": "\u30d5\u30ed\u30ea\u30c0\u306f\u3001\u304a\u304b\u3057\u306a\u30cb\u30e5\u30fc\u30b9\u306e\u51fa\u6240\u3068\u3057\u3066\u540d\u9ad8\u3044\u3002\u3053\u306e\u6570\u9031\u9593\u3060\u3051\u3067\u3082\u3001\u30ac\u30ec\u30fc\u30b8\u306b\u30ef\u30cb\u304c\u3044\u308b\u3068\u5973\u6027\u304c\u901a\u5831\u3057\u305f\u304c\u3001\u305d\u308c\u306f<a target=\"_blank\" href=\"https://www.news18.com/news/buzz/florida-woman-calls-911-after-she-sees-an-alligator-in-her-garage-turns-out-to-be-a-pool-floatie-2868391.html\" rel=\"noopener\">\u30d7\u30fc\u30eb\u306e\u6d6e\u304d\u5177\u3060\u3063\u305f\u3068\u304b</a>\uff08N\u2026",
+            "url": "https://jp.techcrunch.com/2020/11/06/2020-11-05-why-florida-residents-may-soon-be-seeing-jet-powered-flying-taxis/",
+            "urlToImage": "https://techcrunchjp.files.wordpress.com/2020/11/screen-shot-2020-11-05-at-2.33.52-pm.png?w=1024",
+            "publishedAt": "2020-11-06T07:00:57Z",
+            "content": "News18MSNCBS\r\n5Lilium Aviation5200100Orland Business Journal\r\nOrlando Sentinel BusinessJetLilium250026101701800020209ShiftedLilium\r\nLilium202595\r\nLiliumTeslaBaillie Gifford2020635003637500388\r\nAtomic\u2026 [+164 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "How to use travel credits when booking a flight on all 11 major US airlines",
+            "description": "Flyers who canceled flights during the pandemic are likely sitting on travel credit that can be used for future travel.",
+            "url": "https://www.businessinsider.com/using-travel-credit-book-flights-airlines-step-by-step-guide-2020-10",
+            "urlToImage": "https://i.insider.com/5fa02bb16f5b310011724cbc?width=1200&format=jpeg",
+            "publishedAt": "2020-11-06T17:01:24Z",
+            "content": "If you voluntarily canceled a flight during the pandemic, chances are that you received a travel or flight credit and not a cash refund.\u00a0\r\nIssuing a credit is the preferred method for airlines instea\u2026 [+1012 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles, CNN Business",
+            "title": "Virgin Galactic's Richard Branson wants to be the first 'space billionaire' to actually travel to space",
+            "description": "Richard Branson, the thrill-seeking British billionaire, founded Virgin Galactic in 2004 on the promise that a privately developed spacecraft would make it possible for hundreds of people to become astronauts, no NASA training required. And if a 2,500-mile-pe\u2026",
+            "url": "https://www.cnn.com/2020/11/06/tech/richard-branson-virgin-galactic-space-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201106101631-01-richard-branson-file-restricted-super-tease.jpg",
+            "publishedAt": "2020-11-06T21:43:42Z",
+            "content": "New York (CNN Business)Richard Branson, the thrill-seeking British billionaire, founded Virgin Galactic in 2004 on the promise that a privately developed spacecraft would make it possible for hundred\u2026 [+5490 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Associated Press",
+            "title": "Unemployment drops to 6.9% and U.S. adds a solid 638,000 jobs",
+            "description": "The gain suggested that a tentative economic recovery may remain intact even in the face of a surging viral outbreak.",
+            "url": "https://www.politico.com/news/2020/11/06/unemployment-drops-us-adds-jobs-434650",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/D.vPMPUtXRs9J2fEDzmsoA--~B/aD03NzM7dz0xMTYwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/politico_453/73de396aa15b8309d75d203f6b08d2ea",
+            "publishedAt": "2020-11-06T13:59:08Z",
+            "content": "WASHINGTON U.S. employers added 638,000 jobs in October, a solid pace though far fewer than needed to regain most of the jobs lost to the pandemic recession just as new viral cases are setting record\u2026 [+8495 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dan Miller",
+            "title": "The latest online shopping portal bonuses can get you thousands of American, Alaska, Delta, Southwest, and United airline miles from your holiday spending",
+            "description": "Summary List Placement\n\u00a0\n<ul>\n<li>Online shopping portals offer\u00a0an easy way to earn loads of bonus points, miles, or cash back for purchases you'd make anyway \u2014 in addition to what you'd earn from a rewards credit card.</li>\n<li>Through mid-November, some air\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/online-shopping-portal-bonus-promotions",
+            "urlToImage": "https://i.insider.com/5fa595df1df1d5001821957d?width=1200&format=jpeg",
+            "publishedAt": "2020-11-06T22:38:21Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+6026 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "rpickrell@businessinsider.com (Ryan Pickrell)",
+            "title": "The FAA has a no-fly zone in place over Biden's home in Delaware, and it's completely normal",
+            "description": "A one-mile-radius no-fly zone will be in effect over the president-elect's residence in Wilmington, Delaware until next week, according to the FAA.",
+            "url": "https://www.businessinsider.com/faa-restricts-airspace-over-bidens-home-in-delaware-2020-11",
+            "urlToImage": "https://i.insider.com/5fa58e7ef7d1cb0019e3a43f?width=1200&format=jpeg",
+            "publishedAt": "2020-11-06T19:58:37Z",
+            "content": "The Federal Aviation Administration (FAA) has restricted the airspace over President-elect Joe Biden's home in Wilmington, Delaware.\r\nTemporary flight restrictions (TFR) first went info effect Wednes\u2026 [+2200 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa to start rapid pre-flight coronavirus tests in Germany",
+            "description": "Lufthansa <LHAG.DE> is to start trialling rapid pre-flight coronavirus antigen tests in Germany next week, which passengers will need to pass in order to fly.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-lufthansa-idUKKBN27M1O6",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540256204&r=LYNXMPEGA50YN&w=800",
+            "publishedAt": "2020-11-06T12:59:38Z",
+            "content": "By Reuters Staff\r\nBERLIN (Reuters) - Lufthansa LHAG.DE is to start trialling rapid pre-flight coronavirus antigen tests in Germany next week, which passengers will need to pass in order to fly.\r\nOnly\u2026 [+1134 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "RPT-Lufthansa to start rapid pre-flight coronavirus tests in Germany",
+            "description": "Lufthansa is to start trialling rapid pre-flight coronavirus antigen tests in Germany next week, which passengers will need to pass in order to fly.",
+            "url": "https://uk.reuters.com/article/health-coronavirus-germany-lufthansa-tes-idUKL1N2HS10M",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-06T12:57:42Z",
+            "content": "By Reuters Staff\r\n(Repeats with correct slug, no changes to text)\r\nBERLIN, Nov 6 (Reuters) - Lufthansa is to start trialling rapid pre-flight coronavirus antigen tests in Germany next week, which pas\u2026 [+1236 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thomas Pallini",
+            "title": "A new Whole Foods policy has Canadians fighting back as employees are banned from wearing a national symbol in remembrance of veterans (AMZN)",
+            "description": "Summary List PlacementWhole Foods' new dress code is sparking controversy in Canada as it prohibits employees from wearing a popular remembrance symbol for veterans, CBC is reporting. Workers will be barred from wearing poppies as the country prepares to cele\u2026",
+            "url": "https://www.businessinsider.com/whole-foods-prohibiting-employees-from-wearing-poppies-in-canada-2020-11",
+            "urlToImage": "https://i.insider.com/5fa56d36f7d1cb0019e3a321?width=1200&format=jpeg",
+            "publishedAt": "2020-11-06T17:27:37Z",
+            "content": "Whole Foods' new dress code is sparking controversy in Canada as it prohibits employees from wearing a popular remembrance symbol for veterans, CBC is reporting. Workers will be barred from wearing p\u2026 [+2578 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Small group of Southwest workers receive warnings of first-ever furloughs",
+            "description": "Southwest Airlines <LUV.N> said on Friday it has sent furlough notices to 42 parts inventory workers after the union representing them refused to discuss pay cuts the airline argues it needs from all employees to offset $1 billion in overstaffing costs.",
+            "url": "https://uk.reuters.com/article/us-southwest-jobs-idUKKBN27M2LQ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540297243&r=LYNXMPEGA51L5&w=800",
+            "publishedAt": "2020-11-06T18:50:47Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Southwest Airlines planes are seen at LAX airport in Los Angeles, California, United States, October 22, 2015. REUTERS/Lucy Nicholson/File Photo\r\nCHICAGO (Reuters) - Sou\u2026 [+1240 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "LATAM Airlines posts $573 mln loss because of coronavirus restrictions",
+            "description": "LATAM Airlines <LTM.SN>, the continent's largest carrier, said on Friday it lost $573 million in the third quarter, as the company continues a bankruptcy restructuring process that started in May because of the coronavirus pandemic.",
+            "url": "https://uk.reuters.com/article/us-latam-airlines-results-idUKKBN27M2XY",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540316732&r=LYNXMPEGA51UQ&w=800",
+            "publishedAt": "2020-11-06T22:43:59Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Passengers wait to check in for their flights at the departure area of Latam airlines inside of the Commodore Arturo Merino Benitez International Airport in Santiago, Ch\u2026 [+934 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Airbus monthly jet deliveries surge in October to near 2019 level",
+            "description": "Airbus delivered 72 aircraft in October, nearly matching its tally in the same month last year, as it focuses on stabilising cash generation to weather the coronavirus crisis.",
+            "url": "https://uk.reuters.com/article/uk-airbus-deliveries-idUKKBN27M2K3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540304198&r=LYNXMPEGA51PG&w=800",
+            "publishedAt": "2020-11-06T19:54:26Z",
+            "content": "By Reuters Staff\r\nPARIS (Reuters) - Airbus delivered 72 aircraft in October, nearly matching its tally in the same month last year, as it focuses on stabilising cash generation to weather the coronav\u2026 [+2022 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Philip Blenkinsop",
+            "title": "EU set to impose tariffs on $4 billion U.S. goods next week",
+            "description": "The European Union is likely to impose tariffs on $4 billion of U.S. imports including planes and plane parts next week in retaliation over U.S. subsidies for aircraft maker Boeing <BA.N>, EU diplomats said on Friday.",
+            "url": "https://ca.reuters.com/article/us-wto-aircraft-eu-idCAKBN27M2C9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540288857&r=LYNXMPEGA51E9&w=800",
+            "publishedAt": "2020-11-06T17:39:09Z",
+            "content": "By Philip Blenkinsop\r\nBRUSSELS (Reuters) - The European Union is likely to impose tariffs on $4 billion of U.S. imports including planes and plane parts next week in retaliation over U.S. subsidies f\u2026 [+2741 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Singapore Airlines posts record $1.7 bln loss in Q2 on pandemic impact",
+            "description": "Singapore Airlines Ltd <SIAL.SI> on Friday reported a record S$2.34 billion ($1.74 billion) net loss for the July-September quarter, dragged down by a pandemic-induced fall in passenger traffic and impairment charges on the carrying values of older generation\u2026",
+            "url": "https://uk.reuters.com/article/us-singapore-air-results-idUKKBN27M1CE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540244006&r=LYNXMPEGA50S3&w=800",
+            "publishedAt": "2020-11-06T10:57:56Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Singapore Airlines plane sits on the tarmac at Singapore's Changi Airport March 11, 2020. REUTERS/Edgar Su\r\nSINGAPORE (Reuters) - Singapore Airlines Ltd SIAL.SI on Fri\u2026 [+725 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Singapore Airlines posts record $1.7 bln loss in Q2 on pandemic impact",
+            "description": "Singapore Airlines Ltd <SIAL.SI> on Friday reported a record S$2.34 billion ($1.74 billion) net loss for the July-September quarter, dragged down by a pandemic-induced fall in passenger traffic and impairment charges on the carrying values of older generation\u2026",
+            "url": "https://www.reuters.com/article/us-singapore-air-results-idUSKBN27M1CE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540244006&r=LYNXMPEGA50S3&w=800",
+            "publishedAt": "2020-11-06T10:57:56Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Singapore Airlines plane sits on the tarmac at Singapore's Changi Airport March 11, 2020. REUTERS/Edgar Su\r\nSINGAPORE (Reuters) - Singapore Airlines Ltd SIAL.SI on Fri\u2026 [+725 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "France sees smoother trade ties with U.S. if Biden triumphs, says minister",
+            "description": "France expects smoother trade relations with the United States should Democratic contender Joe Biden win the presidential vote, with greater alignment on sustainable development and more multilateral cooperation, trade minister Franck Riester said.",
+            "url": "https://ca.reuters.com/article/us-usa-election-biden-france-idCAKBN27M1PX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540257751&r=LYNXMPEGA50ZM&w=800",
+            "publishedAt": "2020-11-06T13:18:04Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: French Culture Minister Franck Riester speaks at the Elysee Palace in Paris, France May 6, 2020 following a video conference between the French president and several art\u2026 [+2014 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Giulia Paravicini, Dawit Endeshaw",
+            "title": "U.N. chief 'deeply alarmed' by armed clashes in Ethiopia's Tigray",
+            "description": "The head of the United Nations said he was deeply alarmed by fighting in Ethiopia's northern Tigray region, where federal troops have been exchanging fire with the powerful ethnic faction that led the ruling coalition for decades.",
+            "url": "https://ca.reuters.com/article/us-ethiopia-conflict-idCAKBN27M0OW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540219494&r=LYNXMPEGA50FT&w=800",
+            "publishedAt": "2020-11-06T06:42:51Z",
+            "content": "By Giulia Paravicini, Dawit Endeshaw\r\nADDIS ABABA (Reuters) - The head of the United Nations said he was deeply alarmed by fighting in Ethiopias northern Tigray region, where federal troops have been\u2026 [+2166 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Giulia Paravicini, Dawit Endeshaw",
+            "title": "Ethiopia says military push has limited aims, as U.N. sounds alarm",
+            "description": "Ethiopia's federal military operations in the north have \"clear, limited and achievable objectives\", Prime Minister Abiy Ahmed said on Friday, after the head of the United Nations said he was deeply alarmed by fighting in the country's Tigray region.",
+            "url": "https://uk.reuters.com/article/uk-ethiopia-conflict-idUKKBN27M0OS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540219801&r=LYNXMPEGA50FV&w=800",
+            "publishedAt": "2020-11-06T12:55:30Z",
+            "content": "ADDIS ABABA (Reuters) - Ethiopias federal military operations in the north have clear, limited and achievable objectives, Prime Minister Abiy Ahmed said on Friday, after the head of the United Nation\u2026 [+2637 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "U.S. job growth slows in October; part-time workers increase",
+            "description": "The U.S. economy created the fewest jobs in five months in October and more Americans are working part time, the clearest evidence yet that the recovery from the pandemic recession was slowing as fiscal stimulus ends and new COVID-19 cases explode.",
+            "url": "https://uk.reuters.com/article/uk-usa-economy-idUKKBN27M0I7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540212295&r=LYNXMPEGA50BW&w=800",
+            "publishedAt": "2020-11-06T14:55:42Z",
+            "content": "WASHINGTON (Reuters) - The U.S. economy created the fewest jobs in five months in October and more Americans are working part time, the clearest evidence yet that the recovery from the pandemic reces\u2026 [+4457 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "Smallest job gains in five months expected as U.S. labor market momentum wanes",
+            "description": "U.S. employers likely hired the fewest workers in five months in October, in what would be clearest indication yet that the end of fiscal stimulus and exploding new COVID-19 infections were sapping momentum from the economic recovery.",
+            "url": "https://ca.reuters.com/article/us-usa-economy-idCAKBN27M0IJ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540212643&r=LYNXMPEGA50C3&w=800",
+            "publishedAt": "2020-11-06T05:08:46Z",
+            "content": "By Lucia Mutikani\r\nWASHINGTON (Reuters) - U.S. employers likely hired the fewest workers in five months in October, in what would be clearest indication yet that the end of fiscal stimulus and explod\u2026 [+5373 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jonnelle Marte, Ann Saphir",
+            "title": "Uneven U.S. job market recovery points to need for focused fiscal aid",
+            "description": "The big decline in the U.S. unemployment rate last month suggests the economy needs less a broad pandemic relief package than targeted support for hard-hit sectors, even as an unprecedented surge in COVID-19 cases raises questions about the durability of the \u2026",
+            "url": "https://uk.reuters.com/article/us-usa-economy-fiscal-idUKKBN27M2QK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201106&t=2&i=1540303689&r=LYNXMPEGA51PB&w=800",
+            "publishedAt": "2020-11-06T19:53:31Z",
+            "content": "NEW YORK/SAN FRANCISCO (Reuters) - The big decline in the U.S. unemployment rate last month suggests the economy needs less a broad pandemic relief package than targeted support for hard-hit sectors,\u2026 [+4414 chars]"
+        }
+    ]
+}

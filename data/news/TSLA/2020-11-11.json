@@ -1,0 +1,357 @@
+{
+    "status": "ok",
+    "totalResults": 27,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "BMW unveils electric SUV to challenge Tesla, plans US launch in early 2022 - Reuters",
+            "description": "BMW unveils electric SUV to challenge Tesla, plans US launch in early 2022\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-autos-electric-bmw-idUSKBN27R1T6",
+            "urlToImage": null,
+            "publishedAt": "2020-11-11T13:25:00Z",
+            "content": "FILE PHOTO: The BMW logo is seen on a steering wheel during the media day of the 41st Bangkok International Motor Show after the Thai government eased measures to prevent the spread of the coronaviru\u2026 [+515 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dave Mosher",
+            "title": "Analysts say SpaceX may be losing thousands of dollars on every Starlink satellite-internet dish in its push to expand the project's global reach",
+            "description": "Summary List Placement\n\nSpaceX is running circles around its competitors with Starlink, a satellite-internet project the company has rapidly deployed and is proving to rival even terrestrial broadband services.\nIn just under a year, SpaceX, founded by Elon Mu\u2026",
+            "url": "https://www.businessinsider.com/spacex-starlink-satellite-dish-internet-user-terminal-cost-phased-array-2020-11",
+            "urlToImage": "https://i.insider.com/5fa991301df1d50018219a48?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T17:11:33Z",
+            "content": "SpaceX is running circles around its competitors with Starlink, a satellite-internet project the company has rapidly deployed and is proving to rival even terrestrial broadband services.\r\nIn just und\u2026 [+7425 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph White",
+            "title": "BMW unveils electric SUV to challenge Tesla, plans U.S. launch in early 2022 - Reuters",
+            "description": "German luxury automaker BMW AG unveiled on Wednesday an electric sport utility vehicle (SUV) called the BMW iX, planned to go on sale in the United States in early 2022 to compete with Tesla Inc and other rivals.",
+            "url": "https://www.reuters.com/article/autos-electric-bmw-idUSKBN27R1W5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540848547&r=LYNXMPEGAA136&w=800",
+            "publishedAt": "2020-11-11T14:02:00Z",
+            "content": "FILE PHOTO: The BMW logo is seen on a steering wheel during the media day of the 41st Bangkok International Motor Show after the Thai government eased measures to prevent the spread of the coronaviru\u2026 [+1330 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph White",
+            "title": "BMW unveils electric SUV to challenge Tesla, plans U.S. launch in early 2022 - Reuters",
+            "description": "Germany luxury automaker BMW AG on Wednesday unveiled an electric sport utility vehicle called the BMW iX, planned to go on sale in early 2022 to compete with Tesla Inc and other rivals.",
+            "url": "https://www.reuters.com/article/autos-electric-bmw-idUSL1N2HX14I",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T13:21:00Z",
+            "content": "DETROIT, Nov 11 (Reuters) - Germany luxury automaker BMW AG on Wednesday unveiled an electric sport utility vehicle called the BMW iX, planned to go on sale in early 2022 to compete with Tesla Inc an\u2026 [+134 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Mercedes-Benz Berlin plant head to join Tesla, union says - Reuters UK",
+            "description": "The head of the Berlin engine plant run by Mercedes-Benz has defected to rival Tesla <TSLA.O>, German union IG Metall said on Wednesday, calling on employees to protest over his departure.",
+            "url": "https://uk.reuters.com/article/uk-tesla-germany-mercedes-idUKKBN27R2HL",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540870031&r=LYNXMPEGAA1F9&w=800",
+            "publishedAt": "2020-11-11T17:06:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Mercedes-Benz logo is seen on a car in front of the Mercedes-Benz Museum in Stuttgart, Germany February 11, 2020. REUTERS/Andreas Gebert/File Photo\r\nFRANKFURT (Reute\u2026 [+1807 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph White",
+            "title": "BMW unveils electric SUV to challenge Tesla, plans U.S. launch in early 2022 - Reuters UK",
+            "description": "German luxury automaker BMW AG <BMWG.DE> unveiled on Wednesday an electric sport utility vehicle (SUV) called the BMW iX, planned to go on sale in the United States in early 2022 to compete with Tesla Inc <TSLA.O> and other rivals.",
+            "url": "https://uk.reuters.com/article/uk-autos-electric-bmw-idUKKBN27R1TI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540844499&r=LYNXMPEGAA102&w=800",
+            "publishedAt": "2020-11-11T13:28:00Z",
+            "content": "FILE PHOTO: The BMW logo is seen on a steering wheel during the media day of the 41st Bangkok International Motor Show after the Thai government eased measures to prevent the spread of the coronaviru\u2026 [+1372 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Darrell Etherington",
+            "title": "Honda to mass-produce Level 3 autonomous cars by March",
+            "description": "Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equip\u2026",
+            "url": "http://techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/honda-legend-profile.jpg?w=711",
+            "publishedAt": "2020-11-11T15:57:49Z",
+            "content": "Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Leg\u2026 [+1519 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Rivian is making its hands-free driver assistance system standard in \u201cevery vehicle\u201d it builds",
+            "description": "Electric automaker Rivian will makes its hands-free driver assistance system standard in every vehicle it builds, including its first two vehicles \u2014 the RT1 pickup truck and R1S SUV \u2014 that are coming to market in 2021. Details about the system, which is brand\u2026",
+            "url": "http://techcrunch.com/2020/11/11/rivian-is-making-its-hands-free-driver-assistance-system-standard-in-every-vehicle-it-builds/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-11-at-3.41.30-PM.jpg?w=642",
+            "publishedAt": "2020-11-11T23:29:30Z",
+            "content": "Electric automaker Rivian will makes its hands-free driver assistance system standard in every vehicle it builds, including its first two vehicles the RT1 pickup truck and R1S SUV that are coming to \u2026 [+2008 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Stan Schroeder",
+            "title": "BMW iX is an electric SUV with 300-mile range and fast charging",
+            "description": "BMW's iNext electric vehicle concept, unveiled in September 2018, is turning into a real car: the BMW iX.\u00a0\nOn Wednesday, the company unveiled the new SUV (or, as BMW calls it, SAV \u2014 Sports Activity Vehicle). It's far from launch, but the design BMW revealed i\u2026",
+            "url": "https://mashable.com/article/bmw-ix/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F11%252F7b%252F20e41a034f2841e1abb3bd13049c6661.b9959.jpg%252F1200x630.jpg?signature=f-iwrdSQ_Gk7e4jr2M_FHGYsol8=",
+            "publishedAt": "2020-11-11T16:33:01Z",
+            "content": "BMW's iNext electric vehicle concept, unveiled in September 2018, is turning into a real car: the BMW iX.\u00a0\r\nOn Wednesday, the company unveiled the new SUV (or, as BMW calls it, SAV Sports Activity Ve\u2026 [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "China leads global auto industry recovery from virus with October sales rising 12.5% - Reuters UK",
+            "description": "Vehicle sales in China rose 12.5% in October from the same month a year earlier, the seventh straight monthly rise as the world's biggest vehicle market leads the global industry in recovering from lows hit during the COVID-19 pandemic.",
+            "url": "https://www.reuters.com/article/uk-china-autos-idUKKBN27R0NX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540805294&r=LYNXMPEGAA0BM&w=800",
+            "publishedAt": "2020-11-11T07:01:00Z",
+            "content": "FILE PHOTO: Newly manufactured cars are seen at a port in Dalian, Liaoning province, China April 10, 2020. China Daily via REUTERS \r\nBEIJING (Reuters) - Vehicle sales in China rose 12.5% in October f\u2026 [+1595 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "UPDATE 2-China leads global auto industry recovery from virus with Oct sales rising 12.5% - Reuters India",
+            "description": "UPDATE 2-China leads global auto industry recovery from virus with Oct sales rising 12.5%\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/china-autos-idINL1N2HX0BG",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-11T06:33:00Z",
+            "content": "* September, October are key months for car sales\r\n* EVs, trucks sales continue to surge\r\n* Toyota, Honda have raised profit outlook on China sales growth (Adds industry background)\r\nBEIJING, Nov 11 \u2026 [+1712 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Honda says will be first to mass produce level 3 autonomous cars - Reuters India",
+            "description": "Japan's Honda Motor Co <7267.T> said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic.",
+            "url": "https://in.reuters.com/article/us-honda-autonomous-level3-idINKBN27R0LV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540802730&r=LYNXMPEGAA0AT&w=800",
+            "publishedAt": "2020-11-11T06:57:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Honda logo is seen during the first press day of the Paris auto show, in Paris, France, October 2, 2018. REUTERS/Regis Duvignau\r\nTOKYO (Reuters) - Japan's Honda Moto\u2026 [+1553 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Honda says will be first to mass produce level 3 autonomous cars - Reuters",
+            "description": "Japan's Honda Motor Co said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic.",
+            "url": "https://www.reuters.com/article/honda-autonomous-level3-idUSKBN27R0M7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540803398&r=LYNXMPEGAA0AY&w=800",
+            "publishedAt": "2020-11-11T06:32:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Honda logo is seen during the first press day of the Paris auto show, in Paris, France, October 2, 2018. REUTERS/Regis Duvignau/File photo\r\nTOKYO (Reuters) - Japans \u2026 [+1536 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Bangeman",
+            "title": "The iX is BMW\u2019s new flagship electric vehicle",
+            "description": "The BMW iX should have an EPA-approved range of 300 miles.",
+            "url": "https://arstechnica.com/cars/2020/11/the-ix-is-bmws-new-flagship-electric-vehicle/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/ix4-760x380.jpg",
+            "publishedAt": "2020-11-11T16:11:31Z",
+            "content": "4 with 4 posters participating\r\n<ul><li>\r\n</li><li>\r\n A big, honkin' black grille hides the lidar and cameras. \r\n</li><li>\r\n Massive displays are a thing in BEVs now. And hexagonal steering wheels ar\u2026 [+3397 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tim Kelly",
+            "title": "Nissan's prospects brighten as China rebounds, but struggle ahead for weakened car maker - Reuters UK",
+            "description": "Nissan Motor Co <7201.T> could trim its forecast for a full-year loss when it reports quarterly results on Thursday, analyst estimates show, as a recovery in China marks a rare bright spot for the Japanese automaker weakened by scandal and the pandemic.",
+            "url": "https://uk.reuters.com/article/uk-nissan-results-preview-idUKKBN27R0DV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540796101&r=LYNXMPEGAA06G&w=800",
+            "publishedAt": "2020-11-11T04:39:00Z",
+            "content": "Tokyo (Reuters) - Nissan Motor Co 7201.T could trim its forecast for a full-year loss when it reports quarterly results on Thursday, analyst estimates show, as a recovery in China marks a rare bright\u2026 [+3552 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tim Kelly",
+            "title": "Nissan's prospects brighten as China rebounds, but struggle ahead for weakened car maker - Reuters Canada",
+            "description": "Nissan Motor Co <7201.T> could trim its forecast for a full-year loss when it reports quarterly results on Thursday, analyst estimates show, as a recovery in China marks a rare bright spot for the Japanese automaker weakened by scandal and the pandemic.",
+            "url": "https://ca.reuters.com/article/us-nissan-results-preview-idCAKBN27R0DX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540817315&r=LYNXMPEGAA0FP&w=800",
+            "publishedAt": "2020-11-11T09:20:00Z",
+            "content": "Tokyo (Reuters) - Nissan Motor Co 7201.T could trim its forecast for a full-year loss when it reports quarterly results on Thursday, analyst estimates show, as a recovery in China marks a rare bright\u2026 [+3425 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hugh Langley",
+            "title": "Google's antitrust lawsuit will soon land in the hands of the Biden administration. Here's why experts think the new government may pursue it even more aggressively. (GOOGL)",
+            "description": "Summary List Placement\n\nOn December 14 2016, a group of Silicon Valley luminaries entered Trump Tower to meet with the then-president-elect. The lineup, which included Tesla CEO Elon Musk, Apple CEO Tim Cook, Alphabet's then-CEO Larry Page and its executive c\u2026",
+            "url": "https://www.businessinsider.com/biden-president-google-justice-department-antitrust-lawsuit-2020-11",
+            "urlToImage": "https://i.insider.com/5fab0b31f24e720018a2ab73?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T13:06:00Z",
+            "content": "On December 14 2016, a group of Silicon Valley luminaries entered Trump Tower to meet with the then-president-elect. The lineup, which included Tesla CEO Elon Musk, Apple CEO Tim Cook, Alphabet's the\u2026 [+4403 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mmcfalljohnsen@businessinsider.com (Morgan McFall-Johnsen)",
+            "title": "NASA finally certified SpaceX to fly astronauts on its Crew Dragon spaceship, just days before its next launch",
+            "description": "SpaceX is officially certified to launch people into space on a Falcon 9 rocket and fly them in the Crew Dragon ship. It's set to do that on Saturday.",
+            "url": "https://www.businessinsider.com/nasa-certifies-spacex-fly-astronauts-crew-dragon-spaceship-2020-11",
+            "urlToImage": "https://i.insider.com/5fab2b83f24e720018a2abdc?width=1200&format=jpeg",
+            "publishedAt": "2020-11-11T00:35:00Z",
+            "content": "SpaceX is about to launch four astronauts in the world's first human-rated commercial spacecraft.\r\nThis won't be SpaceX's first human mission. NASA astronauts Bob Behnken and Doug Hurley climbed aboa\u2026 [+3714 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "NASA has officially certified SpaceX for operational space flights",
+            "description": "NASA has officially approved the SpaceX Crew Dragon capsule and Falcon 9 rocket for regular astronaut flights to and from the International Space Station.  The agency has signed the Human Rating Certification Plan for SpaceX\u2019s crew transportation system, maki\u2026",
+            "url": "https://www.engadget.com/nasa-certifies-spacex-crew-dragon-falcon-9-astronaut-flights-124026445.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F9e049500-240c-11eb-adfe-f56b2def1714&client=amp-blogside-v2&signature=8001c9b00502ef774ce0175be54059e4e5481c9d",
+            "publishedAt": "2020-11-11T12:40:26Z",
+            "content": "\u201cThis certification milestone is an incredible achievement from NASA and SpaceX that highlights the progress we can make working together with commercial industry.\u201d\r\nSpaceX had to prove that its syst\u2026 [+1783 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "BMW launches its new flagship iX electric SUV with 300 miles of range",
+            "description": "As a technological flagship, the iX will incorporate several technologies that will be featured in upcoming vehicles, including electric powertrains and driver interface.",
+            "url": "https://www.theverge.com/2020/11/11/21558833/bmw-ix-inext-electric-suv-range-price-specs",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mkWOfp3_rI_MRhJAmYC25H5Rr6o=/0x584:8155x4854/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22028572/The_first_BMW_iX_Highlights_2.jpg",
+            "publishedAt": "2020-11-11T16:28:16Z",
+            "content": "BMW unveiled its next electric vehicle, the iX SUV, with 300 miles of range and gorgeous minimal interior. The iX is BMWs technological flagship, meaning it incorporates multiple technologies that wi\u2026 [+6851 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "James Vincent",
+            "title": "Pope Francis urges followers to pray that AI and robots \u2018always serve mankind\u2019",
+            "description": "Pope Francis has asked believers to pray that AI and robots \u201calways serve mankind\u201d as one of his monthly prayer intentions. The pope is not necessarily worried about superintelligent AI killing humans, but about how the technology can replicate and exacerbate\u2026",
+            "url": "https://www.theverge.com/2020/11/11/21560076/pope-francis-ai-for-good-pray-serve-mankind",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/V35WbJlFLM9wFKx4IW6j24z7Rtw=/0x425:4050x2545/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22028498/1282816903.jpg",
+            "publishedAt": "2020-11-11T14:28:41Z",
+            "content": "The pope is worried about AI-driven inequality\r\nPhoto by Grzegorz Galazka / Mondadori Portfolio via Getty Images\r\nPope Francis has asked believers around the world to pray that robots and artificial \u2026 [+2324 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Flying taxi startup Lilium will build a hub for its electric aircraft in Florida",
+            "description": "Lilium, a flying taxi startup from Germany, says it will build a 56,000-square-feet \u201cvertiport\u201d for its electric aircraft in Orlando, Florida. The company aims to have its small vehicles flying above the state starting in 2025.",
+            "url": "https://www.theverge.com/2020/11/11/21558670/lilium-jet-flying-taxi-orlando-vertiport-hub-evtol",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/pRV65MunCo5lD4RDm8QmBgEuf9U=/0x322:3508x2159/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16278407/Lilium_eVTOL_R001_screen.jpg",
+            "publishedAt": "2020-11-11T15:00:00Z",
+            "content": "The $25 million, 56,000-square-foot vertiport will be located in Orlando\r\nImage: Lilium\r\nOne of Germanys premier flying taxi startups just gained a foothold in the US. Lilium, the five-year-old ventu\u2026 [+5241 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Mercedes-Benz Berlin plant head to join Tesla, union says",
+            "description": "The head of the Berlin engine plant run by Mercedes-Benz has defected to rival Tesla, German union IG Metall said on Wednesday, calling on employees to protest over his departure.",
+            "url": "https://ca.reuters.com/article/us-tesla-germany-mercedes-idCAKBN27R2HN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540869956&r=LYNXMPEGAA1FB&w=800",
+            "publishedAt": "2020-11-11T17:04:26Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Mercedes-Benz logo is seen on a car in front of the Mercedes-Benz Museum in Stuttgart, Germany February 11, 2020. REUTERS/Andreas Gebert\r\nFRANKFURT (Reuters) - The h\u2026 [+1779 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joseph White",
+            "title": "BMW unveils electric SUV to challenge Tesla, plans U.S. launch in early 2022",
+            "description": "German luxury automaker BMW AG unveiled on Wednesday an electric sport utility vehicle (SUV) called the BMW iX, planned to go on sale in the United States in early 2022 to compete with Tesla Inc and other rivals.",
+            "url": "https://ca.reuters.com/article/us-autos-electric-bmw-idCAKBN27R1T6",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540844091&r=LYNXMPEGAA0ZP&w=800",
+            "publishedAt": "2020-11-11T13:23:37Z",
+            "content": "By Joseph White\r\nFILE PHOTO: The BMW logo is seen on a steering wheel during the media day of the 41st Bangkok International Motor Show after the Thai government eased measures to prevent the spread \u2026 [+1349 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Carla Marinucci, Jeremy B. White, Graph Massara and Mackenzie Hawkins",
+            "title": "ROUDA concedes to STEEL \u2014 EMHOFF to leave LA law firm \u2014 NEWSOM issues pardons \u2014 COVID surge shuts cities, counties again \u2014 FRESNO mayor tests positive for Covid",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/11/11/rouda-concedes-to-steel-emhoff-to-leave-la-law-firm-newsom-issues-pardons-covid-surge-shuts-cities-counties-down-again-becerra-guardedly-optimistic-about-aca-and-scotus-fresno-mayor-tests-positive-for-covid-490866",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-11-11T14:18:16Z",
+            "content": "THE BUZZ THE STATE OF RESISTANCE GOES TO COURT:California Attorney General Xavier Becerra got his star turn Tuesday leading a coalition of 20 states plus the District of Columbia in defending the Aff\u2026 [+18622 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun, Brenda Goh",
+            "title": "UPDATE 2-China leads global auto industry recovery from virus with Oct sales rising 12.5%",
+            "description": "Vehicle sales in China rose 12.5% in October from the same month a year earlier, the seventh straight monthly rise as the world's biggest vehicle market leads the global industry in recovering from lows hit during the COVID-19 pandemic.",
+            "url": "https://uk.reuters.com/article/uk-china-autos-idUKKBN27R0NX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540805294&r=LYNXMPEGAA0BM&w=800",
+            "publishedAt": "2020-11-11T06:55:52Z",
+            "content": "FILE PHOTO: Newly manufactured cars are seen at a port in Dalian, Liaoning province, China April 10, 2020. China Daily via REUTERS \r\nBEIJING (Reuters) - Vehicle sales in China rose 12.5% in October f\u2026 [+1595 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Honda says will be first to mass produce level 3 autonomous cars",
+            "description": "Japan's Honda Motor Co <7267.T> said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic.",
+            "url": "https://uk.reuters.com/article/uk-honda-autonomous-level3-idUKKBN27R0NS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540805295&r=LYNXMPEGAA0BH&w=800",
+            "publishedAt": "2020-11-11T06:56:38Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The Honda logo is seen during the first press day of the Paris auto show, in Paris, France, October 2, 2018. REUTERS/Regis Duvignau\r\nTOKYO (Reuters) - Japan's Honda Moto\u2026 [+1553 chars]"
+        }
+    ]
+}

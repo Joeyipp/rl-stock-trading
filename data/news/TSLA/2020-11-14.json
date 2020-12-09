@@ -1,0 +1,188 @@
+{
+    "status": "ok",
+    "totalResults": 14,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew DeBord",
+            "title": "Joe Biden's election could give Elon Musk could get the carbon tax he's wanted for years (TSLA)",
+            "description": "Summary List Placement\n\nIn 2015, Elon Musk gave a speech at the Sorbonne in Paris, calling for world leaders to put a price on pollution.\u00a0\n\"We need to go from having an untaxed negative externality, which is effectively a hidden carbon subsidy of enormous siz\u2026",
+            "url": "https://www.businessinsider.com/elon-musk-might-get-a-carbon-tax-from-president-biden-2020-11",
+            "urlToImage": "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg",
+            "publishedAt": "2020-11-14T13:24:00Z",
+            "content": "In 2015, Elon Musk gave a speech at the Sorbonne in Paris, calling for world leaders to put a price on pollution.\u00a0\r\n\"We need to go from having an untaxed negative externality, which is effectively a \u2026 [+4023 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX launch of crew on first 'operational' mission delayed by weather - Reuters India",
+            "description": "NASA and high-tech entrepreneur Elon Musk's rocket company SpaceX announced on Friday a 24-hour weather delay of their planned launch of four astronauts into orbit for NASA's first full-fledged human mission using a privately owned spacecraft.",
+            "url": "https://in.reuters.com/article/space-exploration-spacex-idINKBN27U06W",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201114&t=2&i=1541185204&r=LYNXMPEGAD041&w=800",
+            "publishedAt": "2020-11-14T03:42:00Z",
+            "content": "WASHINGTON (Reuters) - NASA and high-tech entrepreneur Elon Musks rocket company SpaceX announced on Friday a 24-hour weather delay of their planned launch of four astronauts into orbit for NASAs fir\u2026 [+3167 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "GM recalls 68,000 Chevy Bolt EVs after reports of battery fires",
+            "description": "You might need to take your Chevy Bolt in for major service. Detroit News and The Verge report that GM is recalling 68,677 Bolt EVs (50,900 in the US) to help it identify the causes of five battery fires between 2017 and 2019. The car maker has found some com\u2026",
+            "url": "https://www.engadget.com/gm-recalls-chevy-bolt-over-battery-fire-reports-230044311.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F20d1c600-26ca-11eb-abd7-c41845eff043&client=amp-blogside-v2&signature=10241b7eaf8e967cce69052d186a1525beb37cf7",
+            "publishedAt": "2020-11-14T23:00:44Z",
+            "content": "GM will try to \u201creduce the risk\u201d of fires by flashing the Bolt\u2019s firmware to limit charges to 90 percent capacity. The update should be available starting November 17th. The company should have a mor\u2026 [+621 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Elon Musk raises questions about accuracy of Covid tests - CNBC Television",
+            "description": "<ol><li>Elon Musk raises questions about accuracy of Covid tests\u00a0\u00a0CNBC Television\r\n</li><li>Musk says took four COVID-19 tests; two were positive, two negative\u00a0\u00a0Fox Business\r\n</li><li>Tesla (TSLA) Elon Musk Covid-19: 'Something Extremely Bogus Is Going On' in\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SFBJWUxpaTRYZGfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-14T00:46:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Chris Taylor",
+            "title": "One simple tweak to California's car culture could help save the world",
+            "description": "For climate campaigners, California is a conundrum. It has the lowest carbon emissions per household of any state, but also hosts America's largest gas-guzzling car culture. Transportation accounts for 40 percent (and rising) of the state's total emissions. C\u2026",
+            "url": "https://mashable.com/article/electric-vehicles-charging-gas-stations/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F14%252F68%252Ff3ed59a350bc4a55bf19f152d6709662.72c24.jpg%252F1200x630.jpg?signature=6fdkJx7MPkjUBVgNF2Ncm58CbkI=",
+            "publishedAt": "2020-11-14T14:00:00Z",
+            "content": "For climate campaigners, California is a conundrum. It has the lowest carbon emissions per household of any state, but also hosts America's largest gas-guzzling car culture. Transportation accounts f\u2026 [+7714 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Elon Musk's Wild Testing Ride",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/newsletters/2020-11-14/elon-musk-s-wild-testing-ride",
+            "urlToImage": null,
+            "publishedAt": "2020-11-14T12:30:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Elon Musk Has Conflicting COVID Tests and Starts Twitter Debate",
+            "description": "Elon Musk is 49 so his risks are very low with COVID. Elon is a multi-billionaire and will be able to get the best treatments. Elon said he had the symptoms of a typical cold with nothing unusual so...\n\n[[ This is a content summary only. Visit my website for \u2026",
+            "url": "https://www.nextbigfuture.com/2020/11/elon-musk-has-conflicting-covid-tests-and-starts-twitter-debate.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2018/09/elon-musk-tesla-gras-1024x576.jpg",
+            "publishedAt": "2020-11-14T01:40:14Z",
+            "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology\u2026 [+593 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Elon Musk Says He 'Most Likely' Has Moderate Case of Covid - Bloomberg",
+            "description": "<ol><li>Elon Musk Says He 'Most Likely' Has Moderate Case of Covid\u00a0\u00a0Bloomberg\r\n</li><li>Elon Musk raises questions about accuracy of Covid tests\u00a0\u00a0CNBC Television\r\n</li><li>Elon Musk said he tested positive and negative for Covid-19\u2014here's what you need to kno\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=934067d0-26e5-11eb-9652-cfc88b682dac&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMS0xNS9lbG9uLW11c2stdHdlZXRzLWhlLW1vc3QtbGlrZWx5LWhhcy1tb2RlcmF0ZS1jYXNlLW9mLWNvdmlkLTE5P3NybmQ9YWxs",
+            "urlToImage": null,
+            "publishedAt": "2020-11-15T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Elon Musk Says He 'Most Likely' Has Moderate Case of Covid - Bloomberg",
+            "description": "<ol><li>Elon Musk Says He 'Most Likely' Has Moderate Case of Covid\u00a0\u00a0Bloomberg\r\n</li><li>Elon Musk raises questions about accuracy of Covid tests\u00a0\u00a0CNBC Television\r\n</li><li>Elon Musk said he tested positive and negative for Covid-19\u2014here's what you need to kno\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ad4eb710-26e7-11eb-936d-17e991397b31&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMS0xNS9lbG9uLW11c2stdHdlZXRzLWhlLW1vc3QtbGlrZWx5LWhhcy1tb2RlcmF0ZS1jYXNlLW9mLWNvdmlkLTE5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-15T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "COVID FRIDAY THE 13TH: RECORD TESTS, RECORD CASES, RECORD HOSPITALIZATIONS...",
+            "description": "COVID FRIDAY THE 13TH: RECORD TESTS, RECORD CASES, RECORD HOSPITALIZATIONS...\r\n\n \n \n \n (First column, 1st story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Can Biden convince red states to wear masks?\r\nAide sees localized restrictions, not national lockdown...\r\nBefor\u2026",
+            "url": "http://feedproxy.google.com/~r/DrudgeReportFeed/~3/jxN_m9Atpqs/Emvfx8LVEAAWtKZ",
+            "urlToImage": null,
+            "publishedAt": "2020-11-14T00:22:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tyler Sonnemaker",
+            "title": "Uber is reportedly in talks to sell its self-driving vehicle division to a startup run by former Uber, Tesla, and Google executives and backed by Amazon (UBER)",
+            "description": "Summary List Placement\n\nUber is looking to get rid of its self-driving vehicle division, Advanced Technologies Group (ATG), and AV startup Aurora Innovation is a likely candidate to acquire it, TechCrunch reported Friday.\nSources told TechCrunch that Uber \"ha\u2026",
+            "url": "https://www.businessinsider.com/uber-deal-talks-sell-atg-autonomous-vehicle-business-aurora-2020-11",
+            "urlToImage": "https://i.insider.com/5faf1ae11c741f0019ac9d40?width=1200&format=jpeg",
+            "publishedAt": "2020-11-14T00:32:35Z",
+            "content": "Uber is looking to get rid of its self-driving vehicle division, Advanced Technologies Group (ATG), and AV startup Aurora Innovation is a likely candidate to acquire it, TechCrunch reported Friday.\r\n\u2026 [+4016 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tlevin@businessinsider.com (Tim Levin)",
+            "title": "BMW just unveiled its flagship electric SUV with 500 horsepower and 300 miles of range coming in 2022 \u2014 see the iX",
+            "description": "The BMW iX is set to deliver Tesla-rivaling performance, but it comes with an already controversial design.",
+            "url": "https://www.businessinsider.com/bmw-ix-electric-suv-first-look-photos-specs-details-2020-11",
+            "urlToImage": "https://i.insider.com/5faed6f9402d49001924edf3?width=1200&format=jpeg",
+            "publishedAt": "2020-11-14T13:32:00Z",
+            "content": "BMW hasn't launched a new electric vehicle in the US in quite some time.\r\nIt brought the i3 hatchback to market seven years ago when the mainstream EV market was still in its earliest stages. Since t\u2026 [+885 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Elon Musk Says He 'Most Likely' Has Moderate Case of Covid - Bloomberg",
+            "description": "Elon Musk Says He 'Most Likely' Has Moderate Case of Covid\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-11-15/elon-musk-tweets-he-most-likely-has-moderate-case-of-covid-19?srnd=all",
+            "urlToImage": null,
+            "publishedAt": "2020-11-15T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Joey Roulette",
+            "title": "SpaceX launch of crew on first 'operational' mission delayed by weather",
+            "description": "NASA and high-tech entrepreneur Elon Musk's rocket company SpaceX announced on Friday a 24-hour weather delay of their planned launch of four astronauts into orbit for NASA's first full-fledged human mission using a privately owned spacecraft.",
+            "url": "https://uk.reuters.com/article/us-space-exploration-spacex-idUKKBN27T2N4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201113&t=2&i=1541155634&r=LYNXMPEGAC1L9&w=800",
+            "publishedAt": "2020-11-14T02:54:04Z",
+            "content": "WASHINGTON (Reuters) - NASA and high-tech entrepreneur Elon Musks rocket company SpaceX announced on Friday a 24-hour weather delay of their planned launch of four astronauts into orbit for NASAs fir\u2026 [+3160 chars]"
+        }
+    ]
+}

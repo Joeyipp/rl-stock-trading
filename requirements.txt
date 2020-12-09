@@ -1,0 +1,13 @@
+numpy
+pandas
+sklearn
+matplotlib
+tensorflow==1.15
+gym
+stable_baselines
+mpi4py
+newsapi-python
+wordcloud
+nltk
+h5py<3.0.0
+keras==2.3.1

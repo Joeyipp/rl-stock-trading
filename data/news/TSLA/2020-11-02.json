@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kate Duffy",
+            "title": "SpaceX's Starlink internet beta is giving some users blistering download speeds of more than 160 Mbps",
+            "description": "Summary List Placement\n\nSpaceX tried to lower expectations when it launched its Starlink satellite internet beta on October 26 \u2014 but some users say they're already hitting download speeds of more than 160 megabits per second, which is faster than 95% of US co\u2026",
+            "url": "https://www.businessinsider.com/starlink-internet-satellite-public-beta-speed-spacex-mbps-elon-musk-2020-11",
+            "urlToImage": "https://i.insider.com/5f9fef3669331a0011bc69f4?width=1200&format=jpeg",
+            "publishedAt": "2020-11-02T11:42:40Z",
+            "content": "SpaceX tried to lower expectations when it launched its Starlink satellite internet beta on October 26 \u2014 but some users say they're already hitting download speeds of more than 160 megabits per secon\u2026 [+1794 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tarmo Virki",
+            "title": "Estonia's Skeleton Technologies raises $48 million to fuel growth - Reuters UK",
+            "description": "Estonian energy storage technology maker Skeleton Technologies said on Tuesday it has raised 41.3 million euros ($48 million) from a group of investors in one of the largest cleantech investment rounds in Europe this year.",
+            "url": "https://uk.reuters.com/article/electric-power-estonia-idUKL1N2HO53X",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-02T23:36:00Z",
+            "content": "TALLINN, Nov 3 (Reuters) - Estonian energy storage technology maker Skeleton Technologies said on Tuesday it has raised 41.3 million euros ($48 million) from a group of investors in one of the larges\u2026 [+1170 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Maze, a notorious ransomware group, says it\u2019s shutting down",
+            "description": "One of the most active and notorious data-stealing ransomware groups, Maze, says it is \u201cofficially closed.\u201d The announcement came as a waffling statement, riddled with spelling mistakes, and published on its website on the dark web, which for the past year ha\u2026",
+            "url": "http://techcrunch.com/2020/11/02/maze-ransomware-group-shutting-down/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1039545254.jpg?w=656",
+            "publishedAt": "2020-11-02T18:20:13Z",
+            "content": "One of the most active and notorious data-stealing ransomware groups, Maze, says it is \u201cofficially closed.\u201d\r\nThe announcement came as a waffling statement, riddled with spelling mistakes, and publish\u2026 [+3630 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Honda Joins Fiat in Tapping Tesla for Europe Emission Compliance",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-02/honda-joins-fiat-in-tapping-tesla-for-europe-emission-compliance",
+            "urlToImage": null,
+            "publishedAt": "2020-11-02T11:33:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "The Station: Waymo makes it safety case, AV partnerships abound and the rising cost of FSD",
+            "description": "It was a busy week in the world of transportation, particularly around automated vehicle technology. The city released October 30 a \"Request for Expressions of Interest\" for its pilot scooter program as well as a separate request for companies that provide an\u2026",
+            "url": "http://techcrunch.com/2020/11/02/the-station-waymo-makes-it-safety-case-av-partnerships-abound-and-the-rising-cost-of-fsd/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1142125645.jpg?w=618",
+            "publishedAt": "2020-11-02T16:12:15Z",
+            "content": "The Station is a weekly newsletter dedicated to all things transportation.\u00a0Sign up here just click The Station to receive it every Saturday in your inbox.\r\nWelcome back to The Station, a newsletter d\u2026 [+12761 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "Nio surges 12% to record highs after doubling its electric car deliveries in October (NIO)",
+            "description": "Summary List Placement\n\n<ul>\n<li>Nio hit record highs on Monday after it revealed October deliveries that more than doubled the same month of 2019.\u00a0</li>\n<li>Year-to-date, Nio has delivered 31,430 vehicles as of October 31, representing 111% year-over-year gr\u2026",
+            "url": "https://www.businessinsider.com/nio-stock-price-record-doubles-car-deliveries-in-october-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fa004e069331a0011bc6a18?format=jpeg",
+            "publishedAt": "2020-11-02T14:15:00Z",
+            "content": "NIO ES8 electric SUVs are seen displayed at the second media day for the Shanghai auto show in Shanghai\r\nReuters\r\n<ul><li>Nio hit record highs on Monday after it revealed October deliveries that more\u2026 [+2198 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Maze, a notorious ransomware group, says it's shutting down",
+            "description": "One of the most active and notorious data-stealing ransomware groups, Maze, says it is \"officially closed.\" Where typical ransomware groups would infect a victim with file-encrypting malware and hold the files for a ransom, Maze gained its notoriety for first\u2026",
+            "url": "https://techcrunch.com/2020/11/02/maze-ransomware-group-shutting-down/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5ftLQWqtev.9wBd5reeLHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjE5/https://s.yimg.com/uu/api/res/1.2/bId8wEuuEtepFjFJSAVJIw--~B/aD0yMTk0O3c9MzYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/d892387ea54fec3dce32e9f6558456e5",
+            "publishedAt": "2020-11-02T18:20:13Z",
+            "content": "One of the most active and notorious data-stealing ransomware groups, Maze, says it is \"officially closed.\"\r\nThe announcement came as a waffling statement, riddled with spelling mistakes, and publish\u2026 [+3631 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "The Station: Waymo makes it safety case, AV partnerships abound and the rising cost of FSD",
+            "description": "It was a busy week in the world of transportation, particularly around automated vehicle technology. The city released October 30 a \"Request for Expressions of Interest\" for its pilot scooter program as well as a separate request for companies that provide an\u2026",
+            "url": "https://techcrunch.com/2020/11/02/the-station-waymo-makes-it-safety-case-av-partnerships-abound-and-the-rising-cost-of-fsd/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/l4POvQMjjz.glMJI3aVQ.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjk0/https://s.yimg.com/uu/api/res/1.2/0JSlRkIoMwZuWp.hAMIpJQ--~B/aD0yMzQzO3c9MzYyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/0eeab8205322858dea2325514fb55241",
+            "publishedAt": "2020-11-02T16:12:15Z",
+            "content": "The Station is a weekly newsletter dedicated to all things transportation.\u00a0Sign up here just click The Station to receive it every Saturday in your inbox.\r\nWelcome back to The Station, a newsletter d\u2026 [+12982 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles, CNN Business",
+            "title": "Here's how NASA fared under Trump",
+            "description": "President Donald Trump ignited a months-long political battle in 2017 when he appointed Jim Bridenstine, a Republican congressman from Oklahoma, to run NASA.",
+            "url": "https://www.cnn.com/2020/11/02/tech/nasa-jim-bridenstine-report-card-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201030142558-jim-bridenstine-0930-super-tease.jpg",
+            "publishedAt": "2020-11-02T15:37:53Z",
+            "content": "New York (CNN Business)President Donald Trump ignited a months-long political battle in 2017 when he appointed Jim Bridenstine, a Republican congressman from Oklahoma, to run NASA.\r\nThe space agency \u2026 [+9299 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ian Carlos Campbell",
+            "title": "Valve\u2019s Gabe Newell is sending a gnome to space",
+            "description": "As an eccentric way to thank the country of New Zealand, Gabe Newell, the president of game company Valve, is launching a gnome into space. The launch of the gnome will be live streamed by aerospace company Rocket Lab and Newell says he\u2019ll donate $1 dollar pe\u2026",
+            "url": "https://www.theverge.com/2020/11/2/21546596/valve-gabe-newell-gnome-space-new-zealand-rocket-labs",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hSOr4FZha_kjMJcELdjyh1ecnks=/0x297:2673x1696/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22008277/Gnome_Chompski_3.jpg",
+            "publishedAt": "2020-11-02T23:29:21Z",
+            "content": "Completing the longest-ever gnome-run for charity\r\nImage: Valve\r\nGabe Newell, president of Valve, the video game company behind the Half-Life series and game marketplace Steam, is thanking the countr\u2026 [+3333 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "Dow rallies 310 points after posting biggest weekly slide since March",
+            "description": "\"The stock market will undoubtedly take a wait and see attitude\" until election results materialize, Marc Chaikin, founder of Chaikin Analytics, said.",
+            "url": "https://www.businessinsider.com/stock-market-news-today-indexes-presidential-election-fomc-meeting-oil-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fa00af86f5b310011724bb6?format=jpeg",
+            "publishedAt": "2020-11-02T14:42:00Z",
+            "content": "Drew Angerer/Getty Images\r\n<ul><li>US stocks gained on Monday, as investors looked to rebound from the market's worst week since March.</li><li>Equities are set to face heightened volatility as elect\u2026 [+4505 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Sam Mintz and Stephanie Beasley",
+            "title": "Is a transportation policy power shift coming?",
+            "description": "China requires pre-flight tests \u2014 U.S. Chamber under pressure on Chinese drone ban opposition",
+            "url": "https://www.politico.com/newsletters/weekly-transportation/2020/11/02/is-a-transportation-policy-power-shift-coming-791335",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-11-02T15:00:17Z",
+            "content": "Editors Note: Weekly Transportation is a weekly version of POLITICO Pros daily Transportation policy newsletter, Morning Transportation. POLITICO Pro is a policy intelligence platform that combines t\u2026 [+11507 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "SpaceX Starlink beta tester takes user terminal into forest, gets 120Mbps",
+            "description": "\"It feels like it's from the future... I am amazed at how well it works.\"",
+            "url": "https://arstechnica.com/information-technology/2020/11/spacex-starlink-beta-tester-takes-user-terminal-into-forest-gets-120mbps/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/starlink-forest-1-760x380.jpeg",
+            "publishedAt": "2020-11-02T21:09:32Z",
+            "content": "11 with 10 posters participating\r\nSpaceX Starlink beta users are starting to share their experiences, confirming that the satellite service can provide fast broadband speeds and low latencies in remo\u2026 [+6774 chars]"
+        }
+    ]
+}

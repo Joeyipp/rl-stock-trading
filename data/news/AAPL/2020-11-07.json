@@ -1,0 +1,695 @@
+{
+    "status": "ok",
+    "totalResults": 53,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Whitson Gordon",
+            "title": "Yes, You Should Be Using Apple Pay or Google Pay",
+            "description": "Hear us out: Paying with a smartphone is actually more secure and more efficient than using a credit card.",
+            "url": "https://www.wired.com/story/you-should-use-apple-pay-google-pay/",
+            "urlToImage": "https://media.wired.com/photos/5fa5cde506e9afd2b38e20c3/191:100/w_1280,c_limit/Gear-Apple_new-iphone-se-wallet-screen_04152020.jpg",
+            "publishedAt": "2020-11-07T13:00:00Z",
+            "content": "When Apple Pay was first announced back in 2014, it seemed like a revolutionary idea that would take a while to catch on. Six years later, a little under half the iPhone users out there are paying wi\u2026 [+3303 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ian Carlos Campbell",
+            "title": "The iPhone\u2019s ultrawide camera could get a big boost in 2021, says Kuo",
+            "description": "Analyst Ming-Chi Kuo says the 2021 iPhones will feature the same design and sizes introduced with the iPhone 12, but with an improved ultrawide camera on the high-end models. The new ultrawide would feature an improved aperture of f/1.8 and a 6P (six-element)\u2026",
+            "url": "https://www.theverge.com/2020/11/6/21553255/apple-iphone-13-camera-2021-ming-chi-kuo-analyst-prediction",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ry9W3_IOfmqZdQBrBFINaoY7728=/0x138:2040x1206/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21973374/akrales_201018_4238_0293.0.jpg",
+            "publishedAt": "2020-11-07T01:32:37Z",
+            "content": "An iPhone 13 Pro Max might have a wide-angle advantage\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nThe iPhone 12 has just barely launched, but we already have some idea what next years lineup could\u2026 [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Fan-made browser that enables Stadia on iOS is back on the App Store",
+            "description": "Stadium is available for download on the Apple App Store again. The free fan-made browser gives you a way to play Stadia, Google\u2019s cloud gaming service, on iPhones and iPads and was first released back in September. Unfortunately, Apple pulled the app down in\u2026",
+            "url": "https://www.engadget.com/stadium-1-2-google-stadia-ios-043601999.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fb95d22f0-20aa-11eb-b794-a4d2b818a275&client=amp-blogside-v2&signature=4d3eb9566250dc4d19a453894370826d5598906f",
+            "publishedAt": "2020-11-07T04:36:01Z",
+            "content": "Stadium is available for download on the Apple App Store again. The free fan-made browser gives you a way to play Stadia, Google\u2019s cloud gaming service, on iPhones and iPads and was first released ba\u2026 [+927 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brian Barrett",
+            "title": "Update iOS Right Now to Fix Some Bad Security Bugs",
+            "description": "Plus: Ransomware hits Capcom, the US seizes Iranian domains, and more of the week's top security news.",
+            "url": "https://www.wired.com/story/update-ios-ransomware-iran-security-news/",
+            "urlToImage": "https://media.wired.com/photos/5fa57c7bc529acf3a833873c/191:100/w_1280,c_limit/Security_RU-1220596262.jpg",
+            "publishedAt": "2020-11-07T14:00:00Z",
+            "content": "Congratulations, the week that somehow lasted four months is finally over. At the time of writing this post, the Associated Press still hadn't called a winner in the United States presidential electi\u2026 [+4097 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Brazilian telecoms snub U.S. official over Huawei 5G pressure: media - Reuters India",
+            "description": "Brazil's top four telecom companies have decide not to meet with a visiting senior U.S. official who has advocated excluding China's Huawei Technologies Co from the Brazilian 5G equipment market, two local newspapers reported on Friday.",
+            "url": "https://in.reuters.com/article/us-usa-brazil-5g-idINKBN27M2YP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540320642&r=LYNXMPEGA6002&w=800",
+            "publishedAt": "2020-11-07T00:00:00Z",
+            "content": "By Reuters Staff\r\nBRASILIA (Reuters) - Brazils top four telecom companies have decide not to meet with a visiting senior U.S. official who has advocated excluding Chinas Huawei Technologies Co from t\u2026 [+1924 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Berkshire operating results fall even as Apple boosts profit - Reuters",
+            "description": "Berkshire Hathaway Inc on Saturday posted a lower operating profit as the coronavirus pandemic was expected to weigh on some of its businesses, though gains in stocks such as Apple Inc fueled a big quarterly net profit.",
+            "url": "https://www.reuters.com/article/berkshire-results-idUSL1N2HT09W",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-07T13:12:00Z",
+            "content": "By Reuters Staff\r\nNov 7 (Reuters) - Berkshire Hathaway Inc on Saturday posted a lower operating profit as the coronavirus pandemic was expected to weigh on some of its businesses, though gains in sto\u2026 [+149 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Berkshire operating results fall even as Apple boosts profit - Reuters",
+            "description": "Berkshire Hathaway Inc on Saturday posted a lower operating profit as the coronavirus pandemic was expected to weigh on some of its businesses, though gains in stocks such as Apple Inc fueled a big quarterly net profit.",
+            "url": "https://www.reuters.com/article/us-berkshire-results-idUSKBN27N0FX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540353450&r=LYNXMPEGA60BM&w=800",
+            "publishedAt": "2020-11-07T13:12:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Berkshire Hathaway Chairman Warren Buffett walks through the exhibit hall as shareholders gather to hear from the billionaire investor at Berkshire Hathaway Inc's annual\u2026 [+406 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Berkshire operating results fall even as Apple boosts profit - Reuters UK",
+            "description": "Berkshire Hathaway Inc <BRKa.N> on Saturday posted a lower operating profit as the coronavirus pandemic was expected to weigh on some of its businesses, though gains in stocks such as Apple Inc <AAPL.O> fueled a big quarterly net profit.",
+            "url": "https://uk.reuters.com/article/uk-berkshire-results-idUKKBN27N0GV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540355924&r=LYNXMPEGA60CB&w=800",
+            "publishedAt": "2020-11-07T14:12:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Berkshire Hathaway Chairman Warren Buffett walks through the exhibit hall as shareholders gather to hear from the billionaire investor at Berkshire Hathaway Inc's annual\u2026 [+858 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Berkshire operating results fall even as Apple boosts profit - Reuters UK",
+            "description": "Berkshire Hathaway Inc on Saturday posted a lower operating profit as the coronavirus pandemic was expected to weigh on some of its businesses, though gains in stocks such as Apple Inc fueled a big quarterly net profit.",
+            "url": "https://uk.reuters.com/article/us-berkshire-results-idUKKBN27N0FX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540353450&r=LYNXMPEGA60BM&w=800",
+            "publishedAt": "2020-11-07T14:12:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Berkshire Hathaway Chairman Warren Buffett walks through the exhibit hall as shareholders gather to hear from the billionaire investor at Berkshire Hathaway Inc's annual\u2026 [+837 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Berkshire operating results fall even as Apple boosts profit - Reuters India",
+            "description": "Berkshire Hathaway Inc on Saturday posted a lower operating profit as the coronavirus pandemic was expected to weigh on some of its businesses, though gains in stocks such as Apple Inc fueled a big quarterly net profit.",
+            "url": "https://in.reuters.com/article/berkshire-results-idINKBN27N0G3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540353570&r=LYNXMPEGA60BN&w=800",
+            "publishedAt": "2020-11-07T13:20:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Berkshire Hathaway shareholders attends a cocktail reception hosted by Berkshire-owned Borsheim's jewelry store on the weekend of the company's annual meeting in Omaha M\u2026 [+789 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Brunnstrom, Humeyra Pamuk",
+            "title": "China unlikely to find Biden a soft touch - Reuters",
+            "description": "In his unsuccessful campaign for re-election, President Donald Trump repeatedly warned that a victory for Joe Biden would be a win for China and that Beijing would \"own America.\"",
+            "url": "https://www.reuters.com/article/us-usa-election-china-biden-idUSKBN27N0XP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540386005&r=LYNXMPEGA60RS&w=800",
+            "publishedAt": "2020-11-07T21:12:00Z",
+            "content": "WASHINGTON (Reuters) - In his unsuccessful campaign for re-election, President Donald Trump repeatedly warned that a victory for Joe Biden would be a win for China and that Beijing would own America.\u2026 [+5187 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Brunnstrom, Humeyra Pamuk",
+            "title": "China unlikely to find Biden a soft touch - Reuters",
+            "description": "In his unsuccessful campaign for re-election, President Donald Trump repeatedly warned that a victory for Joe Biden would be a win for China and that Beijing would \"own America.\"",
+            "url": "https://www.reuters.com/article/usa-election-china-biden-idUSL8N2HL0BU",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-07T20:53:00Z",
+            "content": "WASHINGTON, Nov 7 (Reuters) - In his unsuccessful campaign for re-election, President Donald Trump repeatedly warned that a victory for Joe Biden would be a win for China and that Beijing would own A\u2026 [+5151 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Apple iPhone 12: We're positive on 5G: Analyst on the success of iPhone 12 lineup with 5G - Yahoo Finance",
+            "description": "<ol><li>Apple iPhone 12: We're positive on 5G: Analyst on the success of iPhone 12 lineup with 5G\u00a0\u00a0Yahoo Finance\r\n</li><li>Apple's MagSafe Duo Charger and Leather Sleeve iPhone 12 case cost $169 in Canada\u00a0\u00a0MobileSyrup\r\n</li><li>Which of the iPhone 12 devices \u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZmlsTW9kLUV0ZnPSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-11-07T15:44:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "VC and former politician Steve Westly is feeling electrified right now; here\u2019s why",
+            "description": "A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for roughly 30 years, so he\u2019s feeling optimistic right now, with \u2026",
+            "url": "http://techcrunch.com/2020/11/06/vc-and-former-politician-steve-westly-is-feeling-electrified-right-now-heres-why/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-151293701.jpg?w=589",
+            "publishedAt": "2020-11-07T00:20:46Z",
+            "content": "A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for r\u2026 [+8488 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Randall",
+            "title": "Analysis: High-flying U.S. tech stocks get post-election lift, near new highs - Reuters India",
+            "description": "A weaker-than-expected election performance by Democrats and fears of new coronavirus restrictions have prompted investors to double down on high-flying technology stocks, which have come roaring back in recent days to put the Nasdaq within striking distance \u2026",
+            "url": "https://in.reuters.com/article/usa-election-markets-tax-analysis-idINKBN27N03T",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540327834&r=LYNXMPEGA602D&w=800",
+            "publishedAt": "2020-11-07T02:45:00Z",
+            "content": "NEW YORK (Reuters) - A weaker-than-expected election performance by Democrats and fears of new coronavirus restrictions have prompted investors to double down on high-flying technology stocks, which \u2026 [+3860 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ashley Stewart and Alex Nicoll",
+            "title": "Big Tech corporate counsel salaries revealed: How much Google, Amazon, and Apple are paying their lawyers (AMZN, GOOG, AAPL)",
+            "description": "Summary List Placement\n\nAs Big Tech companies like Google, Amazon and Apple face mounting scrutiny from antitrust regulators, Business Insider analyzed foreign visa filings to find out how much they pay the internal lawyers representing them in competition an\u2026",
+            "url": "https://www.businessinsider.com/google-amazon-apple-lawyer-corporate-counsel-salaries-2020-11",
+            "urlToImage": "https://i.insider.com/5fa4480c1df1d5001821918a?width=1200&format=jpeg",
+            "publishedAt": "2020-11-07T16:00:00Z",
+            "content": "As Big Tech companies like Google, Amazon and Apple face mounting scrutiny from antitrust regulators, Business Insider analyzed foreign visa filings to find out how much they pay the internal lawyers\u2026 [+1218 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Jae Thomas",
+            "title": "25 charging cables on sale to replace the one you'll inevitably lose",
+            "description": "With every iPhone purchase comes a short, flimsy charging cable that you're all but guaranteed to lose. Sure, it'll keep the lights on, but it's nothing to write home about.\u00a0You'll be onto the next cable in no time.\u00a0\nWhether you need an unbreakable braided co\u2026",
+            "url": "https://mashable.com/shopping/nov-7-apple-charging-cables/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F07%252F75%252F7abb2277f85249b9af87290fcb7af089.bb40f.jpg%252F1200x630.jpg?signature=xFuxR2kaFBLkPyVKDjig2q3GXZE=",
+            "publishedAt": "2020-11-07T10:00:00Z",
+            "content": "With every iPhone purchase comes a short, flimsy charging cable that you're all but guaranteed to lose. Sure, it'll keep the lights on, but it's nothing to write home about.\u00a0You'll be onto the next c\u2026 [+4120 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Breakingviews columnists",
+            "title": "Breakingviews - Corporate America prepares for life in purple - Reuters",
+            "description": "American companies have had plenty of time to consider what a Joe Biden presidency will mean for them \u2013 thanks in part to an abundance of polls predicting a landslide that didn\u2019t quite happen. But the drawn-out election results, and the ongoing uncertainty ov\u2026",
+            "url": "https://www.reuters.com/article/us-usa-election-companies-breakingviews-idUSKBN27N0NV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540367749&r=LYNXMPEGA60HO&w=800",
+            "publishedAt": "2020-11-07T17:33:00Z",
+            "content": "NEW YORK/SAN FRANCISCO (Reuters Breakingviews) - American companies have had plenty of time to consider what a Joe Biden presidency will mean for them thanks in part to an abundance of polls predicti\u2026 [+12381 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Richard Lawler",
+            "title": "Unreleased Nokia N95 follow-up pops up on YouTube",
+            "description": "YouTuber Mr. Mobile shows off HMD's prototype phone that could've served as a sequel to the classic Nokia N95.",
+            "url": "https://www.engadget.com/nokia-n95-prototype-hmd-003147027.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CVYkoW7mr01DhLIy2S1QAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzYz/https://s.yimg.com/uu/api/res/1.2/wni4_64iCvq8LAHigVcVDA--~B/aD0yMDQ0O3c9MzAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-11/e324af60-208a-11eb-9fff-96b417916eff",
+            "publishedAt": "2020-11-07T00:31:49Z",
+            "content": "Remember the Nokia N95? The Symbian-equipped dual-slider marked a peak design moment of the pre-iPhone era, and as such is a perfect target for YouTuber Mr. Mobile aka Michael Fisher to feature in hi\u2026 [+1302 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Desire Athow",
+            "title": "This Android wrist PC is probably more powerful than an iPhone 7, but it has one huge flaw - TechRadar",
+            "description": "This Android wrist PC is probably more powerful than an iPhone 7, but it has one huge flaw\u00a0\u00a0TechRadar",
+            "url": "https://www.techradar.com/news/this-android-wrist-pc-is-probably-more-powerful-than-an-iphone-7-but-with-one-huge-flaw",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UjUysHKbZ53s6CXcAXHqpK-1200-80.jpg",
+            "publishedAt": "2020-11-07T22:00:00Z",
+            "content": "TicWris Max 4G smartwatch - $143.99 at Gearbest\r\n(\r\n\u00a3115/AU$208)\r\nThe TicWris Max is likely to divide opinion; its form factor is unwieldy, but it will certainly turn heads. It also boasts 4G connect\u2026 [+1665 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jason Aten",
+            "title": "Apple's privacy 'nutrition labels' are about to make people very uneasy about the apps they use every day",
+            "description": "Summary List Placement\n\nApple has long made a point of emphasizing that it believes \"privacy is a fundamental human right.\" As a result, the iPhone maker doesn't track what you do on your devices or online in order to show you ads.\u00a0\nUnfortunately, the same ca\u2026",
+            "url": "https://www.businessinsider.com/apples-privacy-nutrition-labels-app-store-make-people-uneasy-2020-11",
+            "urlToImage": "https://i.insider.com/5fa5a85ef7d1cb0019e3a4cb?width=1200&format=jpeg",
+            "publishedAt": "2020-11-07T14:00:00Z",
+            "content": "Apple has long made a point of emphasizing that it believes \"privacy is a fundamental human right.\" As a result, the iPhone maker doesn't track what you do on your devices or online in order to show \u2026 [+4586 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Warren Buffett's Berkshire Hathaway swings back into action, spending a net $4.8 billion on stocks and a record $9 billion on buybacks in the 3rd quarter",
+            "description": "Summary List Placement\n<ul>\n<li>Warren Buffett's Berkshire Hathaway reported third-quarter earnings on Saturday.</li>\n<li>The billionaire investor's company bought back a record $9 billion of its shares, and spent a net $4.8 billion on stocks after selling a \u2026",
+            "url": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-q3-earnings-stock-purchases-buybacks-2020-11",
+            "urlToImage": "https://i.insider.com/5f49246ccd2fec00296a4c9b?width=1200&format=jpeg",
+            "publishedAt": "2020-11-07T14:37:50Z",
+            "content": "<ul><li>Warren Buffett's Berkshire Hathaway reported third-quarter earnings on Saturday.</li><li>The billionaire investor's company bought back a record $9 billion of its shares, and spent a net $4.8\u2026 [+2921 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "info@podcastone.com, Adam Carolla",
+            "title": "Carolla Classics: Beet Bracelet Invention + DFG",
+            "description": "Highlights from the history of The Adam Carolla Show:\n\n1. Getting out of work with Jo Koy (2014)\n2. Teresa and Bryan (2010)\n3. Deaf Frat Guy on Lou Ferrigno and Celebrity Apprentice (2012)\n4. Beet Bracelet Invention (20140)\n5. Ben Stiller Rotten Tomatoes (201\u2026",
+            "url": "http://feedproxy.google.com/~r/TheAdamCarollaPodcast/~3/cWGn8ScxI1Y/2020-11-07Classics_jnlw_f50edc16.mp3",
+            "urlToImage": null,
+            "publishedAt": "2020-11-07T08:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Haley Henschel",
+            "title": "Kohl's finally dropped its 2020 Black Friday ad \u2014 and it was worth the wait",
+            "description": "Kohl's released its 2020 Black Friday ad on Nov. 6, kicking off its holiday sale with a handful of early deals (including the following three) that are live online and in stores through Nov. 10:\n<ul>\n<li>BEST AUDIO DEAL: Beats Powerbeats Pro Totally Wireless \u2026",
+            "url": "https://mashable.com/shopping/kohls-black-friday-ad-scan-preview-2020/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F11%252F07%252F0f%252F850443d941d14d8ba722aee0a1672191.31525.png%252F1200x630.png?signature=xboRViO5wENXI6n_nd3aBvnVBDU=",
+            "publishedAt": "2020-11-07T10:05:00Z",
+            "content": "Kohl's released its 2020 Black Friday ad on Nov. 6, kicking off its holiday sale with a handful of early deals (including the following three) that are live online and in stores through Nov. 10:\r\nKoh\u2026 [+4210 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Engadget",
+            "title": "The Morning After: PlayStation 5 review",
+            "description": "One day after our review of the new Xboxes, we\u2019re back with impressions of the PlayStation 5, and surprise, it\u2019s also very good at playing great looking games in 4K. However, as Devindra Hardawar explains, the details are where comparisons get tricky...",
+            "url": "https://www.engadget.com/ps5-review-n95-reboot-tma-150537689.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F0ce35760-2109-11eb-afff-7c47c293c781&client=amp-blogside-v2&signature=15b6189e0b36752a05f582fbcf70ad54d251d011",
+            "publishedAt": "2020-11-07T15:05:37Z",
+            "content": "One day after our review of the new Xboxes, we\u2019re back with impressions of the PlayStation 5, and surprise, it\u2019s also very good at playing great looking games in 4K. However, as Devindra Hardawar exp\u2026 [+2269 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Eric Eldon",
+            "title": "The gig economy, cannabis and car data are tech-election winners in 2020 - TechCrunch",
+            "description": "As the US settles in for some new form of national gridlock, state and local propositions are busy defining how technology businesses will be allowed to work (legally) in the US.",
+            "url": "http://techcrunch.com/2020/11/07/car-data-cannabis-and-the-gig-economy-are-tech-election-winners-in-2020/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1229135593.jpg?w=595",
+            "publishedAt": "2020-11-07T19:00:35Z",
+            "content": "Editors note:\u00a0Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT).\u00a0Subscribe here.\r\nThe US is settling in for some new form of national \u2026 [+11080 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "podcast@cnet.com (CNET.com), CNET",
+            "title": "Another Apple event in 2020! Here's everything we know",
+            "description": "The three new Macs we're expecting at Apple's \"One more thing\" Nov. 10 event, along with a few other possibilities they may surprise us with.",
+            "url": "http://feedproxy.google.com/~r/allcnetvideopodcasts/~3/cjmNG4teZwA/20AN11107_NovemberEventPreviewFinal_549542_740.mp4",
+            "urlToImage": null,
+            "publishedAt": "2020-11-07T13:00:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Save on Apple\u2019s AirPods and AirPods Pro this weekend",
+            "description": "This weekend\u2019s best deals include Apple\u2019s AirPods wireless earbuds for $100 at Amazon and Costco, as well as refurbished AirPods Pro for $180 at Back Market. You can also save $50 off the new Apple Watch SE at Target.",
+            "url": "https://www.theverge.com/good-deals/2020/11/7/21552489/apple-airpods-pro-watch-se-amazon-fire-tablet-8-10-sale-deal-target-refurbished",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/GHi8l6vQupF-uis858bDIrkCLj4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15993021/akrales_190327_3315_0012.jpg",
+            "publishedAt": "2020-11-07T14:00:00Z",
+            "content": "Plus, get $50 off the Apple Watch SE. Amazons Fire tablets are also discounted\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nPhoto by Amelia Hol\u2026 [+2424 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kim Lyons",
+            "title": "Fortnite players who make in-game purchases can get two months of Disney Plus for free",
+            "description": "Fortnite developer Epic Games announced a new promotion that allows players who make a real-money purchase in-game and are new Disney Plus subscribers to get up to two months of the streaming service for free.",
+            "url": "https://www.theverge.com/2020/11/7/21553969/fortnite-in-game-purchases-disney-plus-free-apple-google",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/KfuXoyLZ7n_C21pABE3_V7jTnIU=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22020587/FN_Social_Disney__Social_1920x1080_FINAL__1_.jpg",
+            "publishedAt": "2020-11-07T14:07:22Z",
+            "content": "Users can buy V-Bucks or make other in-game purchases to qualify for the offer\r\nFortnite developer Epic Games announced a new promotion that allows players who make a real-money purchase in-game and \u2026 [+993 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "VC and former politician Steve Westly is feeling electrified right now; here's why",
+            "description": "A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for roughly 30 years, so he\u2019s feeling optimistic right now, with \u2026",
+            "url": "https://techcrunch.com/2020/11/06/vc-and-former-politician-steve-westly-is-feeling-electrified-right-now-heres-why/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/.tTMm8IfVpSrAFDE3JoJ5g--~B/aD02OTU7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/112f2ab72505f2066ebd7118493de6d9",
+            "publishedAt": "2020-11-07T00:20:46Z",
+            "content": "A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for r\u2026 [+8497 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "This Week in Apps: Elections\u2019 impact on the app store, new app privacy requirements, iOS 14.2 arrives",
+            "description": "Welcome back to This Week in\u00a0Apps, the\u00a0TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with\u00a0a record\u00a0204 billion downloads and $120 billion in consume\u2026",
+            "url": "http://techcrunch.com/2020/11/07/this-week-in-apps-elections-impact-on-the-app-store-new-app-privacy-requirements-ios-14-2-arrives/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753",
+            "publishedAt": "2020-11-07T16:05:54Z",
+            "content": "Welcome back to This Week in\u00a0Apps, the\u00a0TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all.\r\nThe app industry is as hot as ever, wi\u2026 [+11788 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "WIRED Staff",
+            "title": "13 Best Weekend Deals on Gaming, Home, and Audio Gear",
+            "description": "Take your mind off cable news and plunk down with a new, discounted gaming mouse or tablet.",
+            "url": "https://www.wired.com/story/weekend-deals-nov-7-2020/",
+            "urlToImage": "https://media.wired.com/photos/5fa5aa2f9d236583d3ba99a7/191:100/w_1280,c_limit/Gear-Active-Rugged-airpods-case---credit-Nomad.jpg",
+            "publishedAt": "2020-11-07T12:00:00Z",
+            "content": "<li>Amazon Fire HD 10 for $80 ($70 off): This tablet isn't the best option for kids (that'd be the smaller Fire HD 8), but the Fire HD 10 is a great screen to have around when you want to catch up on\u2026 [+1678 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ydzhanova@businessinsider.com (Yelena Dzhanova,William Antonelli)",
+            "title": "Police cordoned off Trump Tower in New York City after Biden won the presidency",
+            "description": "After major US media news outlets called the presidential race for Biden, police secured a portion of Manhattan's Fifth Avenue near Trump Tower.",
+            "url": "https://www.businessinsider.com/police-trump-tower-new-york-city-biden-won-2020-11",
+            "urlToImage": "https://i.insider.com/5fa6e85ef7d1cb0019e3a63f?width=1200&format=jpeg",
+            "publishedAt": "2020-11-07T19:04:15Z",
+            "content": "Police in New York City closed off the area surrounding Trump Tower following news of Joe Biden's presidential victory.\r\nBarricades sectioned off five city blocks to cars and people around Trump Towe\u2026 [+1557 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Laura Grace Tarpley",
+            "title": "One review: Keep your checking and savings in the same account and earn a high APY on your savings",
+            "description": "Summary List Placement\u00a0<ul>\n<li>One is an online banking platform that keeps your checking and savings in one account by creating savings \"pockets.\"</li>\n<li>You'll earn 1% APY on your Savings Pocket on balances up to $5,000, or up to $25,000 if you enroll in\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/one-finance-review",
+            "urlToImage": "https://i.insider.com/5f91f34babcd0c0018d69373?width=1200&format=jpeg",
+            "publishedAt": "2020-11-07T12:25:00Z",
+            "content": "Personal Finance Insider writes about products, strategies, and tips to help you make smart decisions with your money. We may receive a small commission from our partners, like American Express, but \u2026 [+4648 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Alex Hughes",
+            "title": "What's the cheapest way to get iPhone 12 Mini deals on pre-order?",
+            "description": "iPhone 12 Mini deals have landed but what is the cheapest option available if you're looking to pre-order?",
+            "url": "https://www.techradar.com/news/whats-the-cheapest-way-to-get-iphone-12-mini-deals-on-pre-order",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RqYAbLrXm7V5N8kXbfnexU-1200-80.jpg",
+            "publishedAt": "2020-11-07T13:00:42Z",
+            "content": "For a lot of people, the best iPhone out there just became available to pre-order. And no, we're not talking about the iPhone 12 Pro Max, Apple's best phone in terms of specs, we're talking about the\u2026 [+3468 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "David Nield",
+            "title": "iPhone 13 tipped to feature a major camera upgrade",
+            "description": "One of the most well-informed Apple analysts makes some predictions about what the iPhone 13 will bring.",
+            "url": "https://www.techradar.com/news/iphone-13-tipped-to-feature-a-major-camera-upgrade",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/xhZ7qj7vf25Ep878LSVZpC-1200-80.jpg",
+            "publishedAt": "2020-11-07T12:00:33Z",
+            "content": "With all four models of the iPhone 12 now launched and available to buy, those in the business of leaks and predictions are turning their attention towards the iPhone 13 which should arrive around Se\u2026 [+1669 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Mo Harber-Lamond",
+            "title": "Bag free AirPods with this incredible iPhone SE deal on EE for Black Friday",
+            "description": "This early Black Friday deal from EE gets you a cracking deal on the brand-new iPhone SE, plus a free pair of AirPods to boot.",
+            "url": "https://www.techradar.com/uk/news/bag-free-airpods-with-this-incredible-iphone-se-deal-on-ee-for-black-friday",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZnzdqmEVpEN8jRd64rXaKJ-1200-80.jpg",
+            "publishedAt": "2020-11-07T08:47:58Z",
+            "content": "Apple's bargain iPhone SE has proved somewhat of a sensation, with critics and users alike praising it's combination of performance and value. And now, we're starting to see some serious iPhone SE de\u2026 [+1258 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Berkshire operating results fall even as Apple boosts profit",
+            "description": "Berkshire Hathaway Inc on Saturday posted a lower operating profit as the coronavirus pandemic was expected to weigh on some of its businesses, though gains in stocks such as Apple Inc fueled a big quarterly net profit.",
+            "url": "https://ca.reuters.com/article/us-berkshire-results-idCAKBN27N0FX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540353450&r=LYNXMPEGA60BM&w=800",
+            "publishedAt": "2020-11-07T13:21:53Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Berkshire Hathaway Chairman Warren Buffett walks through the exhibit hall as shareholders gather to hear from the billionaire investor at Berkshire Hathaway Inc's annual\u2026 [+837 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Adam Marshall",
+            "title": "Google Pixel 4a deal: get a free 43-inch OLED TV from EE with this epic offer",
+            "description": "That's one heck of a freebie, thanks to EE and Black Friday - Google Pixel 4a deals just got even better.",
+            "url": "https://www.techradar.com/uk/news/google-pixel-4a-deal-get-a-free-43-inch-oled-tv-from-ee-with-this-epic-offer",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ciRGe3g5ZU4KxDRBainqwR-1200-80.jpg",
+            "publishedAt": "2020-11-07T17:24:12Z",
+            "content": "We've been banging the drum for Google Pixel 4a deals since the day they came out just a few months ago. They immediately offered some genuinely affordable tariffs on a mid-range phone we really rate\u2026 [+1647 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Mackenzie Frazier",
+            "title": "Black Friday Apple sale: the 2019 AirPods hit lowest price ever in epic early deal",
+            "description": "Black Friday Apple deals have arrived at Amazon and you can score the 2019 AirPods on sale for just $99.",
+            "url": "https://www.techradar.com/news/black-friday-apple-sale-airpods-early-deal",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q5Xz4cgcAtoD744yZs3zDB-1200-80.jpg",
+            "publishedAt": "2020-11-07T17:37:03Z",
+            "content": "One of the best early Black Friday deals we've seen, Amazon has the 2019 AirPods on sale for a record-low price of just $99. That's a $60 discount and an incredible Black Friday deal to snag before t\u2026 [+2354 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "James Peckham",
+            "title": "Incredible Apple Watch SE deal brings the price below $230 ahead of Black Friday",
+            "description": "This early Black Friday deal has taken $50 off the Apple Watch SE at a variety of retailers.",
+            "url": "https://www.techradar.com/news/incredible-apple-watch-se-deal-brings-the-price-below-dollar230-ahead-of-black-friday",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jZbB5SBEdesNjF8zYBtMsC-1200-80.jpg",
+            "publishedAt": "2020-11-07T18:00:49Z",
+            "content": "The Apple Watch SE is only a month or so old, but the discounts have already started ahead of Black Friday and Cyber Monday with the smartwatch dropping in price at Amazon, Target and Walmart.\r\nThe p\u2026 [+3956 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Mackenzie Frazier",
+            "title": "Walmart Black Friday sale: day two deals on TVs, Apple Watch, Instant Pot, and more",
+            "description": "Walmart Black Friday deals have dropped thanks to the 'Deals for Day's sale that includes huge discounts on TVs, Apple Watch, Instant Pot, AirPods, and more.",
+            "url": "https://www.techradar.com/news/Walmart-black-friday-sale-day-two-deals-tvs-apple-watch-instant-pot",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WSpWgVJv3iGNtmu2tXLnED-1200-80.jpg",
+            "publishedAt": "2020-11-07T14:02:42Z",
+            "content": "Score early Walmart Black Friday deals at the retailers 'Deals for Days' sale that relaunched today. The Walmart Black Friday sale originally began on Wednesday, and the retailer has released a secon\u2026 [+6101 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Brunnstrom, Humeyra Pamuk",
+            "title": "China unlikely to find Biden a soft touch",
+            "description": "In his unsuccessful campaign for re-election, President Donald Trump repeatedly warned that a victory for Joe Biden would be a win for China and that Beijing would \"own America.\"",
+            "url": "https://uk.reuters.com/article/uk-usa-election-china-biden-idUKKBN27N0XE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540385094&r=LYNXMPEGA60RB&w=800",
+            "publishedAt": "2020-11-07T20:52:15Z",
+            "content": "WASHINGTON (Reuters) - In his unsuccessful campaign for re-election, President Donald Trump repeatedly warned that a victory for Joe Biden would be a win for China and that Beijing would own America.\u2026 [+5244 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "David Nield",
+            "title": "Netflix is testing a more traditional TV channel approach in France",
+            "description": "If you're in France you'll be able to tune into Netflix Direct this month, a programmed showcase of content.",
+            "url": "https://www.techradar.com/news/netflix-is-testing-a-more-traditional-tv-channel-approach-in-france",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JsAdwCphBDLArUHaz6vpGG-1200-80.jpg",
+            "publishedAt": "2020-11-07T16:00:07Z",
+            "content": "Having upended the way that we watch movies and television shows, Netflix is now experimenting with a more traditional TV channel-style approach by putting on a programmed schedule of shows.\r\nAt the \u2026 [+1660 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "James Laird",
+            "title": "Nadal vs Zverev live stream: how to watch Paris Masters 2020 semi-final from anywhere",
+            "description": "Rafa is just one win away from the final, so follow our guide to get a Nadal vs Zverev live stream and watch ATP tennis from the Paris Masters online today.",
+            "url": "https://www.techradar.com/news/nadal-vs-zverev-live-stream-how-to-watch-paris-masters-2020-semi-final-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2M7QnDkGF6a4iYgbQR6sUT-1200-80.jpg",
+            "publishedAt": "2020-11-07T13:29:41Z",
+            "content": "It's a potential classic on the cards at the Paris Masters today as top-seed Rafael Nadal faces no. 4 seed Alexander Zverev in the semi-final of the prestigious hard court tournament. Rafa has never \u2026 [+6983 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Mackenzie Frazier",
+            "title": "Black Friday deal alert: the Roku Ultra LT is on sale for just $48 at Walmart",
+            "description": "Walmart's Black Friday deals have arrived and we've spotted the powerful Roku Ultra LT on sale for just $48.",
+            "url": "https://www.techradar.com/news/black-friday-deal-alert-the-roku-ultra-lt-is-on-sale-for-just-dollar48-at-walmart",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KriRLuGiMxhGnyzZdWCZbf-1200-80.jpg",
+            "publishedAt": "2020-11-07T14:30:02Z",
+            "content": "If you're looking for a cheap and powerful streaming device, then you're in luck. The Walmart 'Deals for Days' sale is happening now, and you score an early Black Friday deal on the Roku Ultra LT. St\u2026 [+2254 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Gareth Beavis",
+            "title": "These cheap wireless earbuds for $20 are a must-buy from Walmart's Black Friday sale",
+            "description": "Need some cheap wireless earbuds for your gym bag? These early Black Friday deals are an easy win.",
+            "url": "https://www.techradar.com/news/these-cheap-wireless-earbuds-for-dollar20-are-a-must-buy-from-walmarts-black-friday-sale",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7nTRZFwmA9ZMG3UndBubnD-1200-80.jpg",
+            "publishedAt": "2020-11-07T17:30:01Z",
+            "content": "Coming in at just $20, which is 33% off the (already super-low) original price, the Jlab Audio Go Air earbuds are a real steal in Walmarts early Black Friday deals.\r\nIf youre looking for a pair of th\u2026 [+2248 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Tabitha Baker",
+            "title": "Walmart Black Friday deals: this Gourmia air fryer is now just $49",
+            "description": "Walmart's Black Friday deals are offering up excellent low prices on must-have kitchen accessories.",
+            "url": "https://www.techradar.com/news/walmart-black-friday-deals-this-gourmia-air-fryer-is-now-just-dollar49",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GaRPDAgwf4zuVWBp3gHzk3-1200-80.jpg",
+            "publishedAt": "2020-11-07T15:30:28Z",
+            "content": "We're into the second wave of Walmart Black Friday deals now, and if you're after some gadgets to keep your kitchen exciting you'll be glad to know there's plenty small accessories on sale in these e\u2026 [+2134 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Tabitha Baker",
+            "title": "Walmart Black Friday deals: this Respawn gaming chair is now under $150",
+            "description": "Walmart's Black Friday deals are dropping this Respawn gaming chair down below $150, but hurry this offer won't last long.",
+            "url": "https://www.techradar.com/news/walmart-black-friday-deals-this-respawn-gaming-chair-is-now-under-dollar150",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pfXEsUyteffRAc7C6G2peZ-1200-80.jpg",
+            "publishedAt": "2020-11-07T20:21:54Z",
+            "content": "If you're spending more time at your PC desk this year, Walmart's Black Friday deals are offering the perfect saving to keep gamers and those working from home comfortable this winter.\u00a0\r\nThe Respawn \u2026 [+1909 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Randall",
+            "title": "Analysis: High-flying U.S. tech stocks get post-election lift, near new highs",
+            "description": "A weaker-than-expected election performance by Democrats and fears of new coronavirus restrictions have prompted investors to double down on high-flying technology stocks, which have come roaring back in recent days to put the Nasdaq within striking distance \u2026",
+            "url": "https://www.reuters.com/article/usa-election-markets-tax-analysis-idUSKBN27N03T",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540327834&r=LYNXMPEGA602D&w=800",
+            "publishedAt": "2020-11-07T02:41:44Z",
+            "content": "NEW YORK (Reuters) - A weaker-than-expected election performance by Democrats and fears of new coronavirus restrictions have prompted investors to double down on high-flying technology stocks, which \u2026 [+3860 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "James Laird",
+            "title": "Clemson vs Notre Dame live stream: how to watch NCAA college football from anywhere",
+            "description": "How to get a Clemson vs Notre Dame live stream and watch college football online in what could be the game of the season today.",
+            "url": "https://www.techradar.com/news/clemson-vs-notre-dame-live-stream-how-to-watch-ncaa-college-football-2020-from-anywhere",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8mTKRDwbttF9FupkqrTPhL-1200-80.jpg",
+            "publishedAt": "2020-11-07T22:28:14Z",
+            "content": "Arguably the biggest game of the NCAA football season so far, No. 1 ranked Clemson face No. 4 Notre Dame at South Bend this Saturday - but they'll be doing so without star quarterback Trevor Lawrence\u2026 [+7714 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Mackenzie Frazier",
+            "title": "Black Friday TV deals at Walmart: 4K TVs starting at just $199.99",
+            "description": "Black Friday TV deals have arrived at the Walmart early sale and we've rounded up the best 4K TVs that start at just $199.99.",
+            "url": "https://www.techradar.com/news/black--friday-tv-deals-walmart-4k-tvs-199",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zvLmiqsorRHhdmpUSjfyLL-1200-80.jpg",
+            "publishedAt": "2020-11-07T15:55:04Z",
+            "content": "If you're looking to snag an early Black Friday TV deal, then you're in luck. Walmart's just launched its 'Deal for Days' sale, which includes massive savings on a range of 4K TVs with prices startin\u2026 [+3594 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "James Rogerson",
+            "title": "Samsung Galaxy Note 21: what we want to see",
+            "description": "The Samsung Galaxy Note 21 probably won't land until August, but we're already hearing about it.",
+            "url": "https://www.techradar.com/news/samsung-galaxy-note-21",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qTi8Nfp7DN6dq95jYXNFFh-1200-80.jpg",
+            "publishedAt": "2020-11-07T07:00:48Z",
+            "content": "The Samsung Galaxy Note 20 hasnt been out long at the time of writing, but you can bet Samsung is already working on the Samsung Galaxy Note 21 (or Galaxy Note 30 as it might be called).\r\nUnsurprisin\u2026 [+5414 chars]"
+        }
+    ]
+}

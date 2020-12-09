@@ -1,0 +1,1007 @@
+{
+    "status": "ok",
+    "totalResults": 77,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Boeing reports more 737 MAX cancellations, deliveries fall - Reuters India",
+            "description": "Boeing Co lost another three orders for its grounded 737 MAX jetliner in September, and delivered 11 total aircraft to customers, less than half the number from the same month a year ago, company data showed on Tuesday.",
+            "url": "https://in.reuters.com/article/boeing-deliveries-idINKBN26Y2AE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537289890&r=LYNXMPEG9C1CR&w=800",
+            "publishedAt": "2020-10-13T15:18:00Z",
+            "content": "SEATTLE (Reuters) - Boeing Co lost another three orders for its grounded 737 MAX jetliner in September, and delivered 11 total aircraft to customers, less than half the number from the same month a y\u2026 [+1826 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Boeing reports more 737 MAX cancellations, deliveries fall - Reuters Africa",
+            "description": "Boeing Co <BA.N> lost another three orders for its grounded 737 MAX jetliner in September, and delivered 11 total aircraft to customers, less than half the number from the same month a year ago, company data showed on Tuesday.",
+            "url": "https://www.reuters.com/article/us-boeing-deliveries-idUSKBN26Y29S",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537288063&r=LYNXMPEG9C1C1&w=800",
+            "publishedAt": "2020-10-13T15:05:00Z",
+            "content": "SEATTLE (Reuters) - Boeing Co BA.N lost another three orders for its grounded 737 MAX jetliner in September, and delivered 11 total aircraft to customers, less than half the number from the same mont\u2026 [+1853 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Anshuman Daga, Liz Lee",
+            "title": "Explainer: Malaysia Airlines' survival in doubt as political support dims - Reuters India",
+            "description": "Malaysia Airlines is struggling to make payments owed to creditors and lessors amid the coronavirus pandemic that has forced it to slash its operations.",
+            "url": "https://in.reuters.com/article/malaysia-airlines-politics-idINKBN26Y12J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537243157&r=LYNXMPEG9C0KP&w=800",
+            "publishedAt": "2020-10-13T08:48:00Z",
+            "content": "SINGAPORE/KUALA LUMPUR (Reuters) - Malaysia Airlines is struggling to make payments owed to creditors and lessors amid the coronavirus pandemic that has forced it to slash its operations.\r\nFILE PHOTO\u2026 [+4368 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Anshuman Daga, Liz Lee",
+            "title": "Explainer: Malaysia Airlines' survival in doubt as political support dims - Reuters India",
+            "description": "Malaysia Airlines is struggling to make payments owed to creditors and lessors amid the coronavirus pandemic that has forced it to slash its operations.",
+            "url": "https://www.reuters.com/article/malaysia-airlines-politics-idINKBN26Y12J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537243157&r=LYNXMPEG9C0KP&w=800",
+            "publishedAt": "2020-10-13T08:53:00Z",
+            "content": "SINGAPORE/KUALA LUMPUR (Reuters) - Malaysia Airlines is struggling to make payments owed to creditors and lessors amid the coronavirus pandemic that has forced it to slash its operations.\r\nFILE PHOTO\u2026 [+4368 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sergio Goncalves",
+            "title": "Portugal expects to send TAP restructuring plan to Brussels in November - Reuters India",
+            "description": "A restructuring plan for Portugal's flag carrier TAP will be sent to the European Commission in November, the secretary of state for the treasury said on Tuesday, which if approved will buy the airline time to repay a huge bailout loan.",
+            "url": "https://in.reuters.com/article/us-portugal-tap-idINKBN26Y20X",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537278212&r=LYNXMPEG9C16O&w=800",
+            "publishedAt": "2020-10-13T13:58:00Z",
+            "content": "LISBON (Reuters) - A restructuring plan for Portugals flag carrier TAP will be sent to the European Commission in November, the secretary of state for the treasury said on Tuesday, which if approved \u2026 [+1806 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sergio Goncalves",
+            "title": "Portugal expects to send TAP restructuring plan to Brussels in November - Reuters UK",
+            "description": "A restructuring plan for Portugal's flag carrier TAP will be sent to the European Commission in November, the secretary of state for the treasury said on Tuesday, which if approved will buy the airline time to repay a huge bailout loan.",
+            "url": "https://uk.reuters.com/article/us-portugal-tap-idUKKBN26Y20X",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537278212&r=LYNXMPEG9C16O&w=800",
+            "publishedAt": "2020-10-13T13:56:00Z",
+            "content": "LISBON (Reuters) - A restructuring plan for Portugals flag carrier TAP will be sent to the European Commission in November, the secretary of state for the treasury said on Tuesday, which if approved \u2026 [+1806 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China's biggest air show postponed because of COVID-19 pandemic - Reuters UK",
+            "description": "China's International Aviation and Aerospace Exhibition, the country's biggest air show, has been postponed because of the COVID-19 pandemic, the show's organiser said on Tuesday.",
+            "url": "https://www.reuters.com/article/uk-china-airshow-idUKKBN26Y04C",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-13T01:58:00Z",
+            "content": "By Reuters Staff\r\nBEIJING (Reuters) - Chinas International Aviation and Aerospace Exhibition, the countrys biggest air show, has been postponed because of the COVID-19 pandemic, the shows organiser s\u2026 [+1079 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Israel sees commercial aviation deal with UAE within days - Reuters",
+            "description": "Israel sees commercial aviation deal with UAE within days\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/us-emirates-israel-aviation-idUSKBN26Y1M1",
+            "urlToImage": null,
+            "publishedAt": "2020-10-13T12:00:00Z",
+            "content": "FILE PHOTO: Israeli model May Tager, holding an Israeli flag, poses with Dubai-resident model Anastasia, holding an Emirati flag, during a photoshoot for FIX's Princess Collection in Dubai, United Ar\u2026 [+2049 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Allison Lampert",
+            "title": "UPDATE 1-Top shareholder in Air Canada, Transat calls revised buyout offer 'reasonable' - Reuters",
+            "description": "The biggest shareholder in Air Canada and Transat A.T. Inc said on Tuesday that AC's revised offer for the Canadian tour operator was \"a very reasonable one,\" given the turmoil in the aviation industry.",
+            "url": "https://www.reuters.com/article/transat-at-ma-air-canada-idUSL1N2H4255",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-13T22:00:00Z",
+            "content": "(Updates with comment from largest shareholder in Air Canada and Transat)\r\nMONTREAL, Oct 13 (Reuters) - The biggest shareholder in Air Canada and Transat A.T. Inc said on Tuesday that ACs revised off\u2026 [+2325 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Israel's El Al Airlines to resume more passenger flights to US, Europe - Reuters",
+            "description": "Israel's El Al Airlines to resume more passenger flights to US, Europe\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/el-al-arlns-flights-int-idUSKBN26Y2C5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-13T15:25:00Z",
+            "content": "FILE PHOTO: The Israeli flag carrier El Al's airliner carrying Israeli and U.S. delegates approaches to land at Abu Dhabi International Airport, in Abu Dhabi, United Arab Emirates August 31, 2020. RE\u2026 [+1559 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "China's biggest air show postponed because of COVID-19 pandemic - Reuters",
+            "description": "China's biggest air show postponed because of COVID-19 pandemic\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/china-airshow-idUSKBN26Y0A9",
+            "urlToImage": null,
+            "publishedAt": "2020-10-13T03:09:00Z",
+            "content": "Transportation\r\nReuters Staff\r\nBEIJING (Reuters) - Chinas International Aviation and Aerospace Exhibition, the countrys biggest air show, has been postponed because of the COVID-19 pandemic, the show\u2026 [+1285 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "Delta Air delays target to halt cash burn but has $1.3 billion leftover payroll aid - Reuters",
+            "description": "Delta Air Lines <DAL.N> said on Tuesday it does not expect to plug a daily cash bleed due to the COVID-19 pandemic until next spring, although it has at its disposal $1.3 billion in leftover federal aid for employees' payroll.",
+            "url": "https://www.reuters.com/article/us-delta-air-results-idUSKBN26Y1P7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537268675&r=LYNXMPEG9C0Z8&w=800",
+            "publishedAt": "2020-10-13T12:35:00Z",
+            "content": "CHICAGO (Reuters) - Delta Air Lines DAL.N said on Tuesday it does not expect to plug a daily cash bleed due to the COVID-19 pandemic until next spring, although it has at its disposal $1.3 billion in\u2026 [+3305 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU should retaliate in Airbus-Boeing dispute: France - Reuters",
+            "description": "The European Union should go ahead with retaliatory trade tariffs against the United States if Washington does not withdraw its tariffs in an aircraft subsidies dispute, the French government said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-wto-aircraft-france-idUSKBN26Y29I",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537287726&r=LYNXMPEG9C1BW&w=800",
+            "publishedAt": "2020-10-13T15:03:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: European Union flags flutter outside the European Commission headquarters in Brussels, Belgium August 21, 2020. REUTERS/Yves Herman\r\nPARIS (Reuters) - The European Union\u2026 [+792 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Timeline: Highlights of the 16-year Airbus, Boeing trade war - Reuters India",
+            "description": "The World Trade Organization on Tuesday gave the European Union permission to impose tariffs on $4 billion of U.S. goods, but Washington said there was no legal basis to do since a state tax break for Boeing Co had been repealed.",
+            "url": "https://uk.reuters.com/article/usa-trade-eu-chronology-timeline-idINKBN26Y2O3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537312194&r=LYNXMPEG9C1LI&w=800",
+            "publishedAt": "2020-10-13T17:23:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - The World Trade Organization on Tuesday gave the European Union permission to impose tariffs on $4 billion of U.S. goods, but Washington said there was no legal basis to\u2026 [+5651 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Timeline: Highlights of the 16-year Airbus, Boeing trade war - Reuters India",
+            "description": "The World Trade Organization on Tuesday gave the European Union permission to impose tariffs on $4 billion of U.S. goods, but Washington said there was no legal basis to do since a state tax break for Boeing Co <BA.N> had been repealed.",
+            "url": "https://in.reuters.com/article/us-usa-trade-eu-chronology-timeline-idINKBN26Y2MH",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537309361&r=LYNXMPEG9C1KC&w=800",
+            "publishedAt": "2020-10-13T17:09:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - The World Trade Organization on Tuesday gave the European Union permission to impose tariffs on $4 billion of U.S. goods, but Washington said there was no legal basis to\u2026 [+5668 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "TIMELINE-Highlights of the 16-year Airbus, Boeing trade war - Reuters",
+            "description": "The World Trade Organization on Tuesday gave the European Union permission to impose tariffs on $4 billion of U.S. goods, but Washington said there was no legal basis to do since a state tax break for Boeing Co had been repealed.",
+            "url": "https://www.reuters.com/article/usa-trade-eu-chronology-idUSL1N2H4166",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-13T17:00:00Z",
+            "content": "By Reuters Staff\r\nOct 13 (Reuters) - The World Trade Organization on Tuesday gave the European Union permission to impose tariffs on $4 billion of U.S. goods, but Washington said there was no legal b\u2026 [+5480 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU wins right to place tariffs on $4 billion U.S. goods in aircraft spat - Reuters India",
+            "description": "The European Union has won the right to impose tariffs on $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing <BA.N> under a World Trade Organization (WTO) ruling on Tuesday.",
+            "url": "https://in.reuters.com/article/us-wto-aircraft-decision-idINKBN26Y239",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537280972&r=LYNXMPEG9C18A&w=800",
+            "publishedAt": "2020-10-13T14:23:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Grounded Boeing 737 MAX aircraft are seen parked in an aerial photo at Boeing Field in Seattle, Washington, U.S. July 1, 2019.REUTERS/Lindsey Wasson/\r\nBRUSSELS (Reuters)\u2026 [+559 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU wins right to place tariffs on $4 billion U.S. goods in aircraft spat - Reuters UK",
+            "description": "The European Union has won the right to impose tariffs on $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing <BA.N> under a World Trade Organization (WTO) ruling on Tuesday.",
+            "url": "https://www.reuters.com/article/us-wto-aircraft-decision-idUKKBN26Y239",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537280972&r=LYNXMPEG9C18A&w=800",
+            "publishedAt": "2020-10-13T14:06:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Grounded Boeing 737 MAX aircraft are seen parked in an aerial photo at Boeing Field in Seattle, Washington, U.S. July 1, 2019.REUTERS/Lindsey Wasson/\r\nBRUSSELS (Reuters)\u2026 [+559 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU to win right to tariffs on $4 billion in U.S. goods in WTO Boeing case - Reuters",
+            "description": "The European Union is set to win the right to impose tariffs on about $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing <BA.N> under a World Trade Organization (WTO) ruling due on Tuesday.",
+            "url": "https://www.reuters.com/article/us-wto-aircraft-idUSKBN26Y0XV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537237827&r=LYNXMPEG9C0I6&w=800",
+            "publishedAt": "2020-10-13T08:04:00Z",
+            "content": "By Reuters Staff\r\nBRUSSELS/PARIS (Reuters) - The European Union is set to win the right to impose tariffs on about $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing B\u2026 [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU wins right to place tariffs on $4 billion U.S. goods in aircraft spat - Reuters.com",
+            "description": "The European Union has won the right to impose tariffs on $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing <BA.N> under a World Trade Organization (WTO) ruling on Tuesday.",
+            "url": "https://in.reuters.com/article/us-wto-aircraft-decision-idUSKBN26Y239",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537280972&r=LYNXMPEG9C18A&w=800",
+            "publishedAt": "2020-10-13T14:21:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Grounded Boeing 737 MAX aircraft are seen parked in an aerial photo at Boeing Field in Seattle, Washington, U.S. July 1, 2019.REUTERS/Lindsey Wasson/\r\nBRUSSELS (Reuters)\u2026 [+559 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU to win right to tariffs on $4 billion in U.S. goods in WTO Boeing case - Reuters India",
+            "description": "The European Union is set to win the right to impose tariffs on about $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing under a World Trade Organization (WTO) ruling due on Tuesday.",
+            "url": "https://in.reuters.com/article/wto-aircraft-idINKBN26Y0YF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537238769&r=LYNXMPEG9C0IF&w=800",
+            "publishedAt": "2020-10-13T08:13:00Z",
+            "content": "By Reuters Staff\r\nBRUSSELS/PARIS (Reuters) - The European Union is set to win the right to impose tariffs on about $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing u\u2026 [+1944 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Culp",
+            "title": "Wall Street dips on vaccine delay, fading stimulus optimism - Reuters.com",
+            "description": "Wall Street snapped a four-day winning streak on Tuesday, with a halted COVID-19 vaccine trial and an elusive U.S. stimulus agreement weighing on sentiment as third quarter earnings season kicked off.",
+            "url": "https://in.reuters.com/article/usa-stocks-idUSKBN26Y25U",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537285393&r=LYNXMPEG9C1AL&w=800",
+            "publishedAt": "2020-10-13T18:25:00Z",
+            "content": "NEW YORK (Reuters) - Wall Street snapped a four-day winning streak on Tuesday, with a halted COVID-19 vaccine trial and an elusive U.S. stimulus agreement weighing on sentiment as third quarter earni\u2026 [+3172 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. says EU has no legal basis to impose tariffs in aircraft dispute - Reuters UK",
+            "description": "The U.S. government on Tuesday threatened to respond if the European Union imposes tariffs on U.S. imports authorized by the World Trade Organization, arguing that the underlying violation involved a state tax break that was repealed in April.",
+            "url": "https://uk.reuters.com/article/us-wto-aircraft-usa-idUKKBN26Y2BP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537294743&r=LYNXMPEG9C1DA&w=800",
+            "publishedAt": "2020-10-13T15:26:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: U.S. Trade Representative Robert Lighthizer speaks at a Senate Finance Committee hearing on President Donald Trump's 2020 Trade Policy Agenda on Capitol Hill in Washingt\u2026 [+1851 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Allison Lampert",
+            "title": "Transat shares climb nearly 30% on Air Canada's revised buyout deal - Reuters Canada",
+            "description": "Shares in Canadian tour operator Transat A.T. Inc <TRZ.TO> jumped as much as 30% on Tuesday after Air Canada's <AC.TO> revised offer raised optimism the deal once shaken by the COVID-19 pandemic could be completed.",
+            "url": "https://ca.reuters.com/article/us-transat-at-m-a-air-canada-idCAKBN26Y2L3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537307422&r=LYNXMPEG9C1JG&w=800",
+            "publishedAt": "2020-10-13T16:54:00Z",
+            "content": "By Allison Lampert\r\nMONTREAL (Reuters) - Shares in Canadian tour operator Transat A.T. Inc TRZ.TO jumped as much as 30% on Tuesday after Air Canada's AC.TO revised offer raised optimism the deal once\u2026 [+1763 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Still 'many open issues' in EU-UK talks, Finland says - Reuters.com",
+            "description": "There are still \"many open issues\" in EU-UK talks on a new trade deal, Finland's European minister said on Tuesday ahead of a summit of the bloc's leaders this week that is due to decide the next steps in the tortuous process.",
+            "url": "https://www.reuters.com/article/britain-eu-finland-idUSS8N2BX09C",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-13T07:29:00Z",
+            "content": "By Reuters Staff\r\nBRUSSELS, Oct 13 (Reuters) - There are still many open issues in EU-UK talks on a new trade deal, Finlands European minister said on Tuesday ahead of a summit of the blocs leaders t\u2026 [+432 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Still 'many open issues' in EU-UK talks, Finland says - Reuters UK",
+            "description": "There are still \"many open issues\" in EU-UK talks on a new trade deal, Finland's European minister said on Tuesday ahead of a summit of the bloc's leaders this week that is due to decide the next steps in the tortuous process.",
+            "url": "https://uk.reuters.com/article/uk-britain-eu-finland-idUKKBN26Y0VE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537235143&r=LYNXMPEG9C0GW&w=800",
+            "publishedAt": "2020-10-13T07:35:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Finnish Minister for European Affairs Tytti Tuppurainen attends a plenary session on preparations for the next EU leaders' summit, at the European Parliament in Brussels\u2026 [+592 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "PRESS DIGEST- Financial Times - Oct. 13 - Reuters UK",
+            "description": "The following are the top stories in the Financial Times. Reuters has not verified these stories and does not vouch for their accuracy.",
+            "url": "https://uk.reuters.com/article/britain-press-ft-idUKL4N2H400M",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-13T00:25:00Z",
+            "content": "By Reuters Staff\r\nOct 13 (Reuters) - The following are the top stories in the Financial Times. Reuters has not verified these stories and does not vouch for their accuracy.\r\nHeadlines\r\nBoE asks banks\u2026 [+718 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Breakingviews columnists",
+            "title": "Breakingviews - Corona Capital: Bailouts, Vaccines, Deficits - Reuters",
+            "description": "Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-finance-breakingvi-idUSKBN26Y1DD",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537253935&r=LYNXMPEG9C0S4&w=800",
+            "publishedAt": "2020-10-13T10:40:00Z",
+            "content": "HONG KONG/LONDON (Reuters Breakingviews) - Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.\r\nA China Eas\u2026 [+3721 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dan Miller",
+            "title": "4 reasons to apply for the Chase Sapphire Preferred Card now, while it's offering its best-ever welcome bonus",
+            "description": "Summary List Placement\n\u00a0\n<ul>\n<li>The Chase Sapphire Preferred\u00ae Card\r\n is currently offer its best-ever welcome bonus to new cardholders: 80,000 points\r\n after you spend $4,000 in the first three months of account opening.</li>\n<li>The sign-up bonus is worth \u2026",
+            "url": "https://www.businessinsider.com/personal-finance/reasons-to-apply-for-chase-sapphire-preferred-card-now-2020-10",
+            "urlToImage": "https://i.insider.com/5f85acb8c255d800190b988d?width=1200&format=jpeg",
+            "publishedAt": "2020-10-13T14:37:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+5424 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Used vehicles lift US consumer prices, but inflation slowing - Reuters",
+            "description": "Used vehicles lift US consumer prices, but inflation slowing\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/usa-economy-idUSKBN26Y1ZG",
+            "urlToImage": null,
+            "publishedAt": "2020-10-13T13:57:00Z",
+            "content": "APAC\r\nLucia Mutikani\r\nWASHINGTON (Reuters) - U.S. consumer prices increased for a fourth straight month in September, with the cost of cars and trucks rising by the most since 1969, though inflation \u2026 [+3702 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "Used vehicles lift U.S. consumer prices, but inflation slowing - Reuters",
+            "description": "U.S. consumer prices increased for a fourth straight month in September, with the cost of cars and trucks rising by the most since 1969, though inflation is slowing amid labor market slack as the economy gradually recovers from the COVID-19 recession.",
+            "url": "https://www.reuters.com/article/us-usa-economy-idUSKBN26Y1ZI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537278152&r=LYNXMPEG9C16S&w=800",
+            "publishedAt": "2020-10-13T13:57:00Z",
+            "content": "WASHINGTON (Reuters) - U.S. consumer prices increased for a fourth straight month in September, with the cost of cars and trucks rising by the most since 1969, though inflation is slowing amid labor \u2026 [+3304 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Gabriela Baczynska",
+            "title": "Germany says UK must make substantive moves in Brexit talks - Reuters",
+            "description": "A German minister on Tuesday demanded \"substantive\" movement from Britain on fisheries, dispute settlement and state aid rules in post-Brexit trade, saying talks with the European Union were at a critical stage.",
+            "url": "https://www.reuters.com/article/uk-britain-eu-ministers-idUSKBN26Y0VE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537240330&r=LYNXMPEG9C0J7&w=800",
+            "publishedAt": "2020-10-13T08:30:00Z",
+            "content": "BRUSSELS (Reuters) - A German minister on Tuesday demanded substantive movement from Britain on fisheries, dispute settlement and state aid rules in post-Brexit trade, saying talks with the European \u2026 [+1548 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Gabriela Baczynska",
+            "title": "Germany says UK must make substantive moves in Brexit talks - Reuters UK",
+            "description": "A German minister on Tuesday demanded \"substantive\" movement from Britain on fisheries, dispute settlement and state aid rules in post-Brexit trade, saying talks with the European Union were at a critical stage.",
+            "url": "https://uk.reuters.com/article/uk-britain-eu-ministers-idUKKBN26Y0VE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537240330&r=LYNXMPEG9C0J7&w=800",
+            "publishedAt": "2020-10-13T08:27:00Z",
+            "content": "BRUSSELS (Reuters) - A German minister on Tuesday demanded substantive movement from Britain on fisheries, dispute settlement and state aid rules in post-Brexit trade, saying talks with the European \u2026 [+1548 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Garrett M. Graff",
+            "title": "The Man Who Speaks Softly\u2014and Commands a Big Cyber Army",
+            "description": "Meet General Paul Nakasone. He reined in chaos at the NSA and taught the US military how to launch pervasive cyberattacks. And he did it all without you noticing.",
+            "url": "https://www.wired.com/story/general-paul-nakasone-cyber-command-nsa/",
+            "urlToImage": "https://media.wired.com/photos/5f7f700f941317efa4fcd515/191:100/w_1280,c_limit/nakasone_featured.jpg",
+            "publishedAt": "2020-10-13T10:00:00Z",
+            "content": "As ever, the NSA often applied the brakes. The Snowden leaks had exposed many of its secret programs and capabilities, forcing the agency to painstakingly rebuild its exploits and infrastructure arou\u2026 [+3912 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Nikkei claws higher; Apple-related shares shine - Reuters.com",
+            "description": "Japanese shares closed higher on Tuesday as investor sentiment improved after U.S. futures trimmed early losses, while Apple-related issues firmed ahead of an event of the iPhone maker later in the day.",
+            "url": "https://www.reuters.com/article/japan-stocks-idUSL4N2H41H5",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-13T06:39:00Z",
+            "content": "By Reuters Staff\r\nTOKYO, Oct 13 (Reuters) - Japanese shares closed higher on Tuesday as investor sentiment improved after U.S. futures trimmed early losses, while Apple-related issues firmed ahead of\u2026 [+1725 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Gabriela Baczynska",
+            "title": "Germany says UK must make substantive moves in Brexit talks - Reuters UK",
+            "description": "A German minister on Tuesday demanded \"substantive\" movement from Britain on fisheries, dispute settlement and fair competition in post-Brexit trade talks with the European Union, which he said were \"at a very critical stage\".",
+            "url": "https://www.reuters.com/article/uk-britain-eu-ministers-idUKKBN26Y0VE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537240330&r=LYNXMPEG9C0J7&w=800",
+            "publishedAt": "2020-10-13T08:27:00Z",
+            "content": "BRUSSELS (Reuters) - A German minister on Tuesday demanded substantive movement from Britain on fisheries, dispute settlement and fair competition in post-Brexit trade talks with the European Union, \u2026 [+2110 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Gabriela Baczynska",
+            "title": "Germany says UK must move in 'critical stage' of Brexit talks - Reuters India",
+            "description": "A German minister on Tuesday demanded \"substantive\" movement from Britain on fisheries, dispute settlement and fair competition in post-Brexit trade talks with the European Union, which he said were \"at a very critical stage\".",
+            "url": "https://in.reuters.com/article/britain-eu-ministers-idINKBN26Y148",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537245005&r=LYNXMPEG9C0LR&w=800",
+            "publishedAt": "2020-10-13T09:18:00Z",
+            "content": "BRUSSELS (Reuters) - A German minister on Tuesday demanded substantive movement from Britain on fisheries, dispute settlement and fair competition in post-Brexit trade talks with the European Union, \u2026 [+2383 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Una Galani",
+            "title": "Breakingviews - Breakdown: The scramble to secure super-app status - Reuters",
+            "description": "Super-apps are associated with China\u2019s internet giants and hot emerging market upstarts. As rivals like Facebook\u2019s WhatsApp and old-world businesses like India\u2019s Tata seek to burnish their all-in-one mobile application credentials, Breakingviews explains how \u2026",
+            "url": "https://www.reuters.com/article/us-india-companies-breakingviews-idUSKBN26Y0AN",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537214956&r=LYNXMPEG9C065&w=800",
+            "publishedAt": "2020-10-13T03:25:00Z",
+            "content": "LONDON (Reuters Breakingviews) - Super-apps are associated with Chinas internet giants and hot emerging market upstarts. As rivals like Facebooks WhatsApp and old-world businesses like Indias Tata se\u2026 [+5637 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Latest on the worldwide spread of coronavirus - Reuters India",
+            "description": "Johnson & Johnson said it had temporarily paused its COVID-19 vaccine candidate clinical trials due to an unexplained illness in a study participant, delaying one of the high-profile efforts to contain the pandemic.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-latest-idINKBN26Y0HG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537221257&r=LYNXMPEG9C092&w=800",
+            "publishedAt": "2020-10-13T04:58:00Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Johnson &amp; Johnson said it had temporarily paused its COVID-19 vaccine candidate clinical trials due to an unexplained illness in a study participant, delaying one of\u2026 [+2995 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Wilson",
+            "title": "GLOBAL MARKETS-Shares slip as coronavirus worries overshadow positive China data - Reuters UK",
+            "description": "European shares fell on Tuesday as worries over the coronavirus pandemic overshadowed Chinese trade data that pointed to a buoyant recovery, while the U.S. dollar edged away from a three-week low.",
+            "url": "https://uk.reuters.com/article/global-markets-idUKL4N2H4237",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-13T08:30:00Z",
+            "content": "* STOXX 600 down 0.4%\r\n* Airlines, travel and leisure sectors suffer\r\n* Asian shares boosted by strong China data\r\n* Graphic: 2020 asset performance tmsnrt.rs/2yaDPgn\r\n* Graphic: World FX rates in 20\u2026 [+3402 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Vicky Ge Huang",
+            "title": "MORGAN STANLEY: Buy these 44 cheap stocks poised to surge as the economy continues to recover and reopening expands.",
+            "description": "Summary List Placement\n\nSeven months into the coronavirus pandemic, questions still remain around whether the economy is still headed for a V-shaped recovery.\nMorgan Stanley's equity strategy team think it's a firm \"yes.\"\nNewly released economic data includin\u2026",
+            "url": "https://www.businessinsider.com/stock-picks-to-buy-44-cheap-stocks-upside-morgan-stanley-2020-10",
+            "urlToImage": "https://i.insider.com/5f8459dbbab422001979abf1?width=1200&format=jpeg",
+            "publishedAt": "2020-10-13T12:05:00Z",
+            "content": "Seven months into the coronavirus pandemic, questions still remain around whether the economy is still headed for a V-shaped recovery.\r\nMorgan Stanley's equity strategy team think it's a firm \"yes.\"\r\u2026 [+3069 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Airlines Must Defer Jet Deliveries to Avoid Bankruptcy: Cowen Analyst",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-10-13/airlines-must-defer-jet-deliveries-to-avoid-bankruptcy-cowen-video",
+            "urlToImage": null,
+            "publishedAt": "2020-10-13T20:58:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Airlines and Airports Say EU's New Travel Plan Won't Revive Flights",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-13/airlines-airports-say-eu-s-new-travel-plan-won-t-revive-flights",
+            "urlToImage": null,
+            "publishedAt": "2020-10-13T14:32:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Miller, Caroline Copley, Bart H. Meijer",
+            "title": "Countries turn to rapid antigen tests to contain second wave of COVID-19 - Reuters",
+            "description": "Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts to diagnose and trace those infected quickly.",
+            "url": "https://www.reuters.com/article/health-coronavirus-rapid-tests-int-idUSKBN26Y2P9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537315096&r=LYNXMPEG9C1N9&w=800",
+            "publishedAt": "2020-10-13T17:50:00Z",
+            "content": "ZURICH/BERLIN (Reuters) - Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts t\u2026 [+6277 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Miller, Caroline Copley, Bart H. Meijer",
+            "title": "Countries turn to rapid antigen tests to contain second wave of COVID - Reuters UK",
+            "description": "Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts to diagnose and trace those infected quickly.",
+            "url": "https://www.reuters.com/article/uk-health-coronavirus-rapid-tests-idUKKBN26Y2P2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537314091&r=LYNXMPEG9C1MI&w=800",
+            "publishedAt": "2020-10-13T17:37:00Z",
+            "content": "ZURICH/BERLIN (Reuters) - Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts t\u2026 [+6288 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Miller, Caroline Copley",
+            "title": "Countries turn to rapid antigen tests to contain second wave of COVID - Reuters UK",
+            "description": "Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts to diagnose and trace those infected quickly.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-rapid-tests-idUKKBN26Y2P2",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537314091&r=LYNXMPEG9C1MI&w=800",
+            "publishedAt": "2020-10-13T17:37:00Z",
+            "content": "ZURICH/BERLIN (Reuters) - Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts t\u2026 [+6335 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "Boeing's deliveries are still weak as it loses more orders",
+            "description": "The airline industry's troubles continue to hammer Boeing, which once again reported weak deliveries and a shrinking order book in September.",
+            "url": "https://www.cnn.com/2020/10/13/business/boeing-orders-deliveries/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191217121024-01-boeing-737-max-production-file-super-tease.jpg",
+            "publishedAt": "2020-10-13T15:02:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Brad Brooks, Mimi Dwyer, Rich McKay",
+            "title": "Desperate Americans hit by pandemic beg Congress, Trump to pass economic relief bill - Reuters",
+            "description": "Sylvia Padilla spent last Thursday checking food pantries in Lubbock, Texas for groceries to feed herself, her daughter and three-year-old grandson.",
+            "url": "https://www.reuters.com/article/us-usa-economy-stimulus-idUSKBN26Y1AI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537250295&r=LYNXMPEG9C0PR&w=800",
+            "publishedAt": "2020-10-13T10:08:00Z",
+            "content": "(Reuters) - Sylvia Padilla spent last Thursday checking food pantries in Lubbock, Texas for groceries to feed herself, her daughter and three-year-old grandson.\r\nSylvia Padilla poses for a photo outs\u2026 [+6097 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Holly Johnson",
+            "title": "Amex Blue Cash Preferred card review: Earning 6% back at the supermarket is a no-brainer",
+            "description": "Summary List PlacementBlue Cash Preferred\u00ae Card from American ExpressTable of Contents: Masthead Sticky\u00a0\nReview: Is the Blue Cash Preferred the best card for you?\nThe Blue Cash Preferred\u00ae Card from American Express\r\n offers 6% back on your first $6,000 in US \u2026",
+            "url": "https://www.businessinsider.com/personal-finance/american-express-blue-cash-preferred-review",
+            "urlToImage": "https://i.insider.com/5f85d42791aa9e001880b4a1?width=1200&format=jpeg",
+            "publishedAt": "2020-10-13T17:54:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+7196 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Emily Czachor",
+            "title": "One Billion People Have Traveled by Airplane This Year, With Only 44 Documented Cases of Coronavirus Transmission",
+            "description": "The International Air Transport Association found that most documented cases linked to air travel were diagnosed before airlines implemented mask mandates.",
+            "url": "https://www.newsweek.com/one-billion-people-have-traveled-airplane-this-year-only-44-documented-cases-coronavirus-1538723",
+            "urlToImage": "https://d.newsweek.com/en/full/1650618/delta-air-lines.jpg",
+            "publishedAt": "2020-10-13T16:38:27Z",
+            "content": "Roughly 1 billion people have traveled by plane since the beginning of 2020, and just 44 coronavirus cases were confirmed among them, according to the results of a recent study.\r\n\"One of the things a\u2026 [+2983 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "Delta Air delays target to halt cash burn but has $1.3 billion leftover payroll aid - Reuters",
+            "description": "<ol><li>Delta Air delays target to halt cash burn but has $1.3 billion leftover payroll aid\u00a0\u00a0Reuters\r\n</li><li>Delta posts another massive loss, warns recovery could take 2 years or more\u00a0\u00a0CNBC\r\n</li><li>Delta posts $5.4 billion loss in another brutal quarter \u2026",
+            "url": "https://in.reuters.com/article/us-delta-air-results-idUSKBN26Y1P7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537271787&r=LYNXMPEG9C0Z8&w=800",
+            "publishedAt": "2020-10-13T12:35:00Z",
+            "content": "CHICAGO (Reuters) - Delta Air Lines does not expect to plug a daily cash bleed until next spring due to the COVID-19 pandemic, which hit its business harder than expected in the third quarter, Chief \u2026 [+3591 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Lauren M. Johnson, CNN",
+            "title": "A unique pop-up restaurant opening at Singapore's airport sold out in 30 minutes",
+            "description": "A pop-up restaurant in Singapore's Airport sold out 30 minutes after it opened for reservations.",
+            "url": "https://www.cnn.com/travel/article/singapore-pop-up-restaurant-sells-out-in-30-minutes-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201012183305-02-restaurant-a380-super-tease.jpg",
+            "publishedAt": "2020-10-13T04:04:25Z",
+            "content": "(CNN) A pop-up restaurant in Singapore's Airport sold out 30 minutes after it opened for reservations.\r\nSingapore Airlines is responsible for the popular Restaurant A380 pop-up at Changi Airport. The\u2026 [+1385 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hanna Ziady, CNN Business",
+            "title": "EU ready to hit US exports with tariffs over Boeing subsidies if talks fail",
+            "description": "The World Trade Organization has cleared the way for the European Union to impose tariffs on $4 billion worth of US goods, including aircraft and ketchup.",
+            "url": "https://www.cnn.com/2020/10/13/business/eu-tariffs-us-goods/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201013112602-restricted-boeing-airplane-seattle-0930-super-tease.jpg",
+            "publishedAt": "2020-10-13T16:43:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Saloni Sardana",
+            "title": "The WTO has ruled the EU can impose around $4 billion in tariffs on US goods in retaliation for Boeing subsidies",
+            "description": "Summary List Placement\n\n<ul>\n<li>The WTO ruled on Tuesday the EU can impose tariffs on about $4 billion worth of US goods in retaliation for subsidies granted to aircraft maker Boeing.\u00a0</li>\n<li>The US took European countries to WTO in 2004 for subsidies to r\u2026",
+            "url": "https://www.businessinsider.com/wto-ruling-eu-tariffs-trade-us-goods-imports-boeing-airbus-2020-10",
+            "urlToImage": "https://i.insider.com/5f859b31c255d800190b9864?format=jpeg",
+            "publishedAt": "2020-10-13T15:49:33Z",
+            "content": "European Union flags fly outside the European Commission headquarters in Brussels\r\nReuters\r\n<ul><li>The WTO ruled on Tuesday the EU can impose tariffs on about $4 billion worth of US goods in retalia\u2026 [+3148 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "Delta CEO says the airline will stop blocking middle seats in the first half of 2021, even though anxious travelers are loving the extra space",
+            "description": "Delta is currently blocking middle seats until January 6, 2021, but that won't last too much longer as the airline charts a course to profitability.",
+            "url": "https://www.businessinsider.com/delta-to-stop-blocking-middle-seats-first-half-2021-ceo-2020-10",
+            "urlToImage": "https://i.insider.com/5e87c0c2d5873a71950b3125?width=1200&format=jpeg",
+            "publishedAt": "2020-10-13T16:32:00Z",
+            "content": "Delta Air Lines has vowed to block middle seats on its flights longer than any US airline, but passengers shouldn't expect the perk to last too long into 2021.\r\nDuring the airline's third-quarter ear\u2026 [+2596 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Casey Sullivan and Alex Morrell",
+            "title": "Good deals in pandemic-hit companies are proving hard to find. Here's how big investors that raised billions to pounce on corporate distress are changing up their playbooks.",
+            "description": "Summary List Placement\n\nInvestment firms that raised billions to help finance companies reeling from the coronavirus pandemic may have to wait until 2021 or beyond to deploy that capital.\u00a0\nWall Street experts that deal with distressed companies have changed t\u2026",
+            "url": "https://www.businessinsider.com/dislocation-funds-distressed-credit-dry-powder-fundraising-general-atlantic-carlyle-2020-10",
+            "urlToImage": "https://i.insider.com/5f859517c255d800190b9850?width=1200&format=jpeg",
+            "publishedAt": "2020-10-13T13:41:55Z",
+            "content": "Investment firms that raised billions to help finance companies reeling from the coronavirus pandemic may have to wait until 2021 or beyond to deploy that capital.\u00a0\r\nWall Street experts that deal wit\u2026 [+9955 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Stephanie Beasley and Sam Mintz",
+            "title": "A tale of two responses to pandemic travel",
+            "description": "Coronavirus aid talks remain at standstill \u2014 GAO dings FAA on cybersecurity",
+            "url": "https://www.politico.com/newsletters/weekly-transportation/2020/10/13/a-tale-of-two-responses-to-pandemic-travel-790929",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-13T14:00:27Z",
+            "content": "Editors Note: Weekly Transportation is a weekly version of POLITICO Pros daily Transportation policy newsletter, Morning Transportation. POLITICO Pro is a policy intelligence platform that combines t\u2026 [+10790 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Saloni Sardana)",
+            "title": "A chief investment officer says industrial and rail stocks are a good buy if Washington passes a big stimulus bill",
+            "description": "Bryn Mawr's Jeff Mills said: \"Be underweight the mega cap growth trade. That's overvalued, and you will see valuations come down.\"",
+            "url": "https://www.businessinsider.com/industrial-fiscal-stimulus-rail-stocks-value-materials-cruise-valuations-growth-2020-10",
+            "urlToImage": "https://i.insider.com/5f858018c255d800190b982e?format=jpeg",
+            "publishedAt": "2020-10-13T12:09:55Z",
+            "content": "halbergman/Getty Images\r\n<ul><li>Bryn Mawr's chief investment officer Jeff Mills told CNBC's \"Trading Nation\" Monday that investing in material, industrial and rail stocks are likely to yield great r\u2026 [+3997 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Tom O'Connor",
+            "title": "China Threatens U.S. With 'Necessary Reaction' for Selling Weapons to Taiwan, Warns India and Japan Over Territory",
+            "description": "Two congressional aides confirmed to Newsweek that lawmakers received word that three weapons systems were being cleared for sale to Taiwan, aggravating one of several territorial disputes China is engaged in with the U.S. and partners in Asia.",
+            "url": "https://www.newsweek.com/china-threatens-us-necessary-reaction-selling-weapons-taiwan-warns-india-japan-over-1538779",
+            "urlToImage": "https://d.newsweek.com/en/full/1650851/high-mobility-artillery-rocket-system-army.jpg",
+            "publishedAt": "2020-10-13T18:27:52Z",
+            "content": "China has warned it would take new measures in response to a planned U.S. arms sale to Taiwan, a self-ruling island claimed by Beijing, which also called out Washington partners India and Japan over \u2026 [+8760 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sergio Goncalves",
+            "title": "Portugal expects to send TAP restructuring plan to Brussels in November",
+            "description": "A restructuring plan for Portugal's flag carrier TAP will be sent to the European Commission in November, the secretary of state for the treasury said on Tuesday, which if approved will buy the airline time to repay a huge bailout loan.",
+            "url": "https://www.reuters.com/article/us-portugal-tap-idUSKBN26Y20X",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537278212&r=LYNXMPEG9C16O&w=800",
+            "publishedAt": "2020-10-13T13:55:15Z",
+            "content": "LISBON (Reuters) - A restructuring plan for Portugals flag carrier TAP will be sent to the European Commission in November, the secretary of state for the treasury said on Tuesday, which if approved \u2026 [+1806 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Boeing reports more 737 MAX cancellations, deliveries fall",
+            "description": "Boeing Co <BA.N> lost another three orders for its grounded 737 MAX jetliner in September, and delivered 11 total aircraft to customers, less than half the number from the same month a year ago, company data showed on Tuesday.",
+            "url": "https://uk.reuters.com/article/us-boeing-deliveries-idUKKBN26Y29S",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537288063&r=LYNXMPEG9C1C1&w=800",
+            "publishedAt": "2020-10-13T15:00:00Z",
+            "content": "SEATTLE (Reuters) - Boeing Co BA.N lost another three orders for its grounded 737 MAX jetliner in September, and delivered 11 total aircraft to customers, less than half the number from the same mont\u2026 [+1853 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Boeing reports more 737 MAX cancellations, deliveries fall",
+            "description": "Boeing Co <BA.N> lost another three orders for its grounded 737 MAX jetliner in September, and delivered 11 total aircraft to customers, less than half the number from the same month a year ago, company data showed on Tuesday.",
+            "url": "https://ca.reuters.com/article/us-boeing-deliveries-idCAKBN26Y29S",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537288063&r=LYNXMPEG9C1C1&w=800",
+            "publishedAt": "2020-10-13T15:05:08Z",
+            "content": "By Eric M. Johnson\r\nSEATTLE (Reuters) - Boeing Co BA.N lost another three orders for its grounded 737 MAX jetliner in September, and delivered 11 total aircraft to customers, less than half the numbe\u2026 [+1873 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Loren Grush",
+            "title": "NASA astronaut set to launch on Russian rocket as US transitions to private spacecraft",
+            "description": "In the early morning hours of October 14th, three astronauts are set to launch to the International Space Station on a Russian Soyuz rocket out of Kazakhstan. The flight will carry NASA astronaut Kate Rubins, as the US space agency transitions to flying peopl\u2026",
+            "url": "https://www.theverge.com/2020/10/13/21509169/nasa-roscosmos-soyuz-launch-astronaut-kate-rubins-watch-live",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/LNu-ZnV1zB5koD0YS8OtTKQ39y0=/0x138:1920x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21956676/NHQ202010070005_large.jpg",
+            "publishedAt": "2020-10-13T21:00:00Z",
+            "content": "Takeoff is scheduled for 1:45AM ET on Wednesday out of Kazakhstan\r\nNASA astronaut Kate Rubins (L) with Russian cosmonauts Sergey Ryzhikov (C) and Sergey Kud-Sverchkov (R).\r\nImage: NASA\r\nA new crew of\u2026 [+3677 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China's biggest air show postponed because of COVID-19 pandemic",
+            "description": "China's International Aviation and Aerospace Exhibition, the country's biggest air show, has been postponed because of the COVID-19 pandemic, the show's organiser said on Tuesday.",
+            "url": "https://uk.reuters.com/article/uk-china-airshow-idUKKBN26Y04C",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-13T01:57:42Z",
+            "content": "By Reuters Staff\r\nBEIJING (Reuters) - Chinas International Aviation and Aerospace Exhibition, the countrys biggest air show, has been postponed because of the COVID-19 pandemic, the shows organiser s\u2026 [+1079 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Julie Johnsson",
+            "title": "Boeing News: Nearly 1,000 Orders Lost or In Doubt",
+            "description": "Boeing News: Nearly 1,000 Orders Lost or In Doubtbloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-13/boeing-nears-1-000-jet-orders-lost-or-in-doubt-as-slump-worsens",
+            "urlToImage": null,
+            "publishedAt": "2020-10-13T15:31:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU wins right to place tariffs on $4 billion U.S. goods in aircraft spat",
+            "description": "The European Union has won the right to impose tariffs on $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing <BA.N> under a World Trade Organization (WTO) ruling on Tuesday.",
+            "url": "https://ca.reuters.com/article/us-wto-aircraft-decision-idCAKBN26Y239",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537280972&r=LYNXMPEG9C18A&w=800",
+            "publishedAt": "2020-10-13T14:19:46Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Grounded Boeing 737 MAX aircraft are seen parked in an aerial photo at Boeing Field in Seattle, Washington, U.S. July 1, 2019.REUTERS/Lindsey Wasson/\r\nBRUSSELS (Reuters)\u2026 [+559 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU to win right to tariffs on $4 bln in U.S. goods in WTO Boeing case",
+            "description": "The European Union is set to win the right to impose tariffs on about $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing under a World Trade Organization (WTO) ruling due on Tuesday.",
+            "url": "https://www.reuters.com/article/wto-aircraft-idUSKBN26Y0YF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537238769&r=LYNXMPEG9C0IF&w=800",
+            "publishedAt": "2020-10-13T08:00:08Z",
+            "content": "By Reuters Staff\r\nBRUSSELS/PARIS (Reuters) - The European Union is set to win the right to impose tariffs on about $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing u\u2026 [+1944 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "EU to win right to tariffs on $4 bln in U.S. goods in WTO Boeing case",
+            "description": "The European Union is set to win the right to impose tariffs on about $4 billion (3.1 billion pounds) in U.S. goods in retaliation for subsidies granted to planemaker Boeing under a World Trade Organization (WTO) ruling due on Tuesday.",
+            "url": "https://uk.reuters.com/article/us-wto-aircraft-idUKKBN26Y0XV",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537237827&r=LYNXMPEG9C0I6&w=800",
+            "publishedAt": "2020-10-13T08:00:08Z",
+            "content": "By Reuters Staff\r\nBRUSSELS/PARIS (Reuters) - The European Union is set to win the right to impose tariffs on about $4 billion in U.S. goods in retaliation for subsidies granted to planemaker Boeing B\u2026 [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Breakingviews columnists",
+            "title": "Breakingviews - Corona Capital: Oil, Delta, Hunger",
+            "description": "Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-finance-breakingvi-idUSKBN26Y2FW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537297466&r=LYNXMPEG9C1FK&w=800",
+            "publishedAt": "2020-10-13T15:59:51Z",
+            "content": "DALLAS/HONG KONG/LONDON (Reuters Breakingviews) - Corona Capital is a column updated throughout the day by Breakingviews columnists around the world with short, sharp pandemic-related insights.\r\nOil \u2026 [+6263 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "Used vehicles lift U.S. consumer prices, but inflation slowing",
+            "description": "U.S. consumer prices increased for a fourth straight month in September, with the cost of cars and trucks rising by the most since 1969, though inflation is slowing amid labor market slack as the economy gradually recovers from the COVID-19 recession.",
+            "url": "https://uk.reuters.com/article/uk-usa-economy-idUKKBN26Y213",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537278378&r=LYNXMPEG9C16T&w=800",
+            "publishedAt": "2020-10-13T13:56:44Z",
+            "content": "WASHINGTON (Reuters) - U.S. consumer prices increased for a fourth straight month in September, with the cost of cars and trucks rising by the most since 1969, though inflation is slowing amid labor \u2026 [+3365 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Miller, Caroline Copley",
+            "title": "Countries turn to rapid antigen tests to contain second wave of COVID-19",
+            "description": "Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts to diagnose and trace those infected quickly.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-rapid-tests-idUSKBN26Y2PX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537318663&r=LYNXMPEG9C1OS&w=800",
+            "publishedAt": "2020-10-13T17:56:16Z",
+            "content": "ZURICH/BERLIN (Reuters) - Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts t\u2026 [+6260 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Latest on the worldwide spread of coronavirus",
+            "description": "Johnson & Johnson said it had temporarily paused its COVID-19 vaccine candidate clinical trials due to an unexplained illness in a study participant, delaying one of the high-profile efforts to contain the pandemic.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-latest-idUKKBN26Y0HG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537221257&r=LYNXMPEG9C092&w=800",
+            "publishedAt": "2020-10-13T04:53:43Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Johnson &amp; Johnson said it had temporarily paused its COVID-19 vaccine candidate clinical trials due to an unexplained illness in a study participant, delaying one of\u2026 [+2995 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Latest on the worldwide spread of coronavirus",
+            "description": "Johnson & Johnson said it had temporarily paused its COVID-19 vaccine candidate clinical trials due to an unexplained illness in a study participant, delaying one of the high-profile efforts to contain the pandemic.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-latest-idUSKBN26Y0HG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537221257&r=LYNXMPEG9C092&w=800",
+            "publishedAt": "2020-10-13T04:53:43Z",
+            "content": "By Reuters Staff\r\n(Reuters) - Johnson &amp; Johnson said it had temporarily paused its COVID-19 vaccine candidate clinical trials due to an unexplained illness in a study participant, delaying one of\u2026 [+2995 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Gavin Bade",
+            "title": "Biden touts 'Buy American' plan",
+            "description": "OECD warns of digital tax war \u2014&nbsp;Trump slows solar tariff phase-out",
+            "url": "https://www.politico.com/newsletters/weekly-trade/2020/10/13/biden-touts-buy-american-plan-790940",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-13T14:00:19Z",
+            "content": "With help from Doug Palmer, Ximena Bustillo, Mark Scott, Eric Wolff and Barbara Moens.\r\nEditors Note: Weekly Trade is a weekly version of POLITICO Pros daily Trade policy newsletter, Morning Trade. P\u2026 [+11035 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Miller, Caroline Copley",
+            "title": "Countries turn to rapid antigen tests to contain second wave of COVID-19",
+            "description": "Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts to diagnose and trace those infected quickly.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-rapid-tests-idUKKBN26Y2PX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537318663&r=LYNXMPEG9C1OS&w=800",
+            "publishedAt": "2020-10-13T17:56:16Z",
+            "content": "ZURICH/BERLIN (Reuters) - Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts t\u2026 [+6260 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Miller, Caroline Copley",
+            "title": "Countries turn to rapid antigen tests to contain second wave of COVID-19",
+            "description": "Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shortages that have plagued efforts to diagnose and trace those infected quickly.",
+            "url": "https://ca.reuters.com/article/us-health-coronavirus-rapid-tests-idCAKBN26Y2PX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537318663&r=LYNXMPEG9C1OS&w=800",
+            "publishedAt": "2020-10-13T18:07:43Z",
+            "content": "By John Miller, Caroline Copley\r\nZURICH/BERLIN (Reuters) - Countries straining to contain a second wave of COVID-19 are turning to faster, cheaper but less accurate tests to avoid the delays and shor\u2026 [+6293 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Brad Brooks, Mimi Dwyer, Rich McKay",
+            "title": "Desperate Americans hit by pandemic beg Congress, Trump to pass economic relief bill",
+            "description": "Sylvia Padilla spent last Thursday checking food pantries in Lubbock, Texas for groceries to feed herself, her daughter and three-year-old grandson.",
+            "url": "https://ca.reuters.com/article/us-usa-economy-stimulus-idCAKBN26Y1AI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201013&t=2&i=1537250295&r=LYNXMPEG9C0PR&w=800",
+            "publishedAt": "2020-10-13T10:08:21Z",
+            "content": "By Brad Brooks, Mimi Dwyer, Rich McKay\r\n(Reuters) - Sylvia Padilla spent last Thursday checking food pantries in Lubbock, Texas for groceries to feed herself, her daughter and three-year-old grandson\u2026 [+6137 chars]"
+        }
+    ]
+}

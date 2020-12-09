@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "Biden says he would if elected mandate masks in interstate transportation - Reuters India",
+            "description": "Democratic presidential candidate Joe Biden on Friday said he would mandate masks in all interstate U.S. transportation if elected after the Trump administration rejected requirements.",
+            "url": "https://in.reuters.com/article/usa-election-biden-masks-idINKBN279053",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201024&t=2&i=1538672017&r=LYNXMPEG9N030&w=800",
+            "publishedAt": "2020-10-24T03:49:00Z",
+            "content": "WASHINGTON (Reuters) - Democratic presidential candidate Joe Biden on Friday said he would mandate masks in all interstate U.S. transportation if elected after the Trump administration rejected requi\u2026 [+2259 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Marcel Krueger, CNN",
+            "title": "Farewell to the airport that wouldn't die",
+            "description": "Berlin's weary Tegel Airport should've closed years ago, but despite being cramped and outdated, it survived repeated attempts to kill it off. Now, as the end finally nears, the city prepares to bid an affectionate farewell.",
+            "url": "https://www.cnn.com/travel/article/tegel-airport-berlin-closure/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201023171438-berlin-tegel-airport-11-super-tease.jpg",
+            "publishedAt": "2020-10-24T08:45:28Z",
+            "content": "(CNN) While the imminent opening of Berlin's long-delayed Brandenburg Airport will cause many in the city to breathe a sigh of relief, it also means the sad end of an era.\r\nAs Brandenburg cranks into\u2026 [+11381 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Alexandra Garrett",
+            "title": "About 500 Passengers Now Banned From Flying on Delta for Refusing Masks: Report",
+            "description": "\"Wearing a mask is among the simplest and most effective actions we can take to reduce transmission,\" said Delta CEO Ed Bastian.",
+            "url": "https://www.newsweek.com/about-500-passengers-now-banned-flying-delta-refusing-masks-report-1541879",
+            "urlToImage": "https://d.newsweek.com/en/full/1658105/delta-plane.jpg",
+            "publishedAt": "2020-10-24T14:01:54Z",
+            "content": "Delta has banned nearly 500 passengers from future flights for refusing to adhere to the company's face mask requirements.\r\nThe company's CEO, Ed Bastian, revealed this number in an internal memo sen\u2026 [+2396 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "250-300 kW Combat Lasers Now and Scaling to Megawatts",
+            "description": "General Atomics Electromagnetic Systems (GA-EMS) and Boeing are working together to scale 100 kW-class lasers to 250 kW-class High Energy Laser (HEL) weapon system to they can shoot down missiles and...\n\n[[ This is a content summary only. Visit my website for\u2026",
+            "url": "https://www.nextbigfuture.com/2020/10/250-300-kw-combat-lasers-now-and-scaling-to-megawatts.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2020/05/dyneticslasertruck-1024x610.jpg",
+            "publishedAt": "2020-10-24T18:03:34Z",
+            "content": "General Atomics Electromagnetic Systems (GA-EMS) and Boeing are working together to scale 100 kW-class lasers to 250 kW-class High Energy Laser (HEL) weapon system to they can shoot down missiles and\u2026 [+1209 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "One of the largest airlines in the US just ceased operations but most flyers wouldn't even recognize it \u2013 here's why",
+            "description": "Thousands of jobs were lost on October 1 across the aviation industry but that day also saw the disappearance of an entire airline.",
+            "url": "https://www.businessinsider.com/expressjet-airlines-ceases-operations-regional-airline-history-2020-10",
+            "urlToImage": "https://i.insider.com/5f930f96212113001874079c?width=1200&format=jpeg",
+            "publishedAt": "2020-10-24T13:09:00Z",
+            "content": "Major US regional carrier ExpressJet Airlines ceased operations on September 30, the eve of aviation's day of reckoning as federal relief funding through the CARES Act unceremoniously expired.\u00a0\r\nThou\u2026 [+1386 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Marcel Krueger, CNN",
+            "title": "Farewell to the airport that wouldn't die",
+            "description": "Berlin's weary Tegel Airport should've closed years ago, but despite being cramped and outdated, it survived repeated attempts to kill it off. Now, as the end finally nears, the city prepares to bid an affectionate farewell.",
+            "url": "https://www.cnn.com/travel/article/tegel-airport-berlin-closure/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201023171438-berlin-tegel-airport-11-super-tease.jpg",
+            "publishedAt": "2020-10-24T08:33:13Z",
+            "content": "(CNN) While the imminent opening of Berlin's long-delayed Brandenburg Airport will cause many in the city to breathe a sigh of relief, it also means the sad end of an era.\r\nAs Brandenburg cranks into\u2026 [+11381 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Natasha Chen, CNN",
+            "title": "Nearly 70% of US motorcoach employees furloughed, desperate for federal assistance",
+            "description": "Clarence Cox's business, Georgia Coach Lines, was handed down to him by his father and uncle. He was hoping to hand it down to his children. But right now, his 20-plus employees are furloughed, and he's hoping and praying the business can survive through 2020.",
+            "url": "https://www.cnn.com/2020/10/24/business/motorcoach-employees-furloughs/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201024151423-vpx-georgia-coach-line-owner-screengrab-super-tease.jpg",
+            "publishedAt": "2020-10-24T22:11:54Z",
+            "content": "(CNN)Clarence Cox's business, Georgia Coach Lines, was handed down to him by his father and uncle. He was hoping to hand it down to his children. But right now, his 20-plus employees are furloughed, \u2026 [+1016 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "Bombardier's new $9.9 million private jet that has its own private office and near-cross-country range just entered service \u2013 see inside the Learjet 75 Liberty",
+            "description": "Bombardier designed the Learjet 75 Liberty to specifically compete against the best aircraft from Cessna and Embraer in price and performance.",
+            "url": "https://www.businessinsider.com/inside-bombardiers-new-99-million-private-jet-learjet-75-liberty-2020-10",
+            "urlToImage": "https://i.insider.com/5f91a5eeabcd0c0018d6910d?width=1200&format=jpeg",
+            "publishedAt": "2020-10-24T12:21:00Z",
+            "content": "Bombardier's newest private jet is now in service.\u00a0\r\nThe first Learjet 75 Liberty was just delivered to its first customer earlier this month, the latest achievement of Bombardier's powerhouse privat\u2026 [+1124 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Malcolm Ethridge",
+            "title": "I'm a financial planner, and I've figured out the best retirement advice I can give to people in their 40s",
+            "description": "Summary List Placement\u00a0<ul>\n<li>People in their 40s are often pulled between two groups who need them \u2014 their kids and their aging parents.</li>\n<li>But saving for your own retirement is critical \u2014 there is no one else to do it for you.</li>\n<li>By 40, you sh\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/best-retirement-advice-people-in-their-40s-2020-10",
+            "urlToImage": "https://i.insider.com/5f775e190ab50d00184ade0a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-24T12:01:00Z",
+            "content": "Personal Finance Insider writes about products, strategies, and tips to help you make smart decisions with your money. We may receive a small commission from our partners, like American Express, but \u2026 [+4712 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Niket  Nishant",
+            "title": "AmEx issues dismal outlook on business travel spending as profit slumps",
+            "description": "American Express Co on Friday warned that business travel spending would not pick up before early 2022 after reporting underwhelming third-quarter profit due to weak spending on travel and entertainment by its card users.",
+            "url": "https://www.reuters.com/article/american-express-results-idUSKBN2781F7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201023&t=2&i=1538590784&r=LYNXMPEG9M0T3&w=800",
+            "publishedAt": "2020-10-24T03:41:26Z",
+            "content": "(Reuters) - American Express Co on Friday warned that business travel spending would not pick up before early 2022 after reporting underwhelming third-quarter profit due to weak spending on travel an\u2026 [+2474 chars]"
+        }
+    ]
+}

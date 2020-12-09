@@ -1,0 +1,370 @@
+{
+    "status": "ok",
+    "totalResults": 28,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Richard Lawler",
+            "title": "Tesla will start making seven-seater Model Ys next month",
+            "description": "We\u2019ve been hearing about a three-row, seven seat version of Tesla\u2019s Model Y crossover since before it was officially announced, but now Elon Musk says it\u2019s almost here. For those who want to transport more people inside Tesla\u2019s smaller electric SUV, the exec \u2026",
+            "url": "https://www.engadget.com/model-y-third-row-034936015.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F5db8f640-0e99-11eb-9763-8151ea2b9b71&client=amp-blogside-v2&signature=f473dcd8a1263c28522d10907c3b8430778e7573",
+            "publishedAt": "2020-10-15T03:49:36Z",
+            "content": "We\u2019ve been hearing about a three-row, seven seat version of Tesla\u2019s Model Y crossover since before it was officially announced, but now Elon Musk says it\u2019s almost here. For those who want to transpor\u2026 [+797 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Walter Thompson",
+            "title": "Tesla\u2019s decision to scrap its PR department could create a PR nightmare",
+            "description": "This decision will affect the engineers and developers, marketing teams and all employees who put their all into the technology and company image, only to have it eventually misrepresented in the media.",
+            "url": "http://techcrunch.com/2020/10/15/teslas-decision-to-scrap-its-pr-department-could-create-a-pr-nightmare/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1228311098.jpg?w=610",
+            "publishedAt": "2020-10-15T17:46:20Z",
+            "content": "A solid public relations team solves many issues within a company.\r\nIt helps spread important news announcements and topics integral to a company\u2019s success. It communicates with the media in a timely\u2026 [+1225 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Daily Crunch: Stripe acquires Nigeria\u2019s Paystack",
+            "description": "Stripe makes a big acquisition, Google rolls out search improvements and Snapchat adds a TikTok-y feature. This is your Daily Crunch for October 15, 2020. The big story: Stripe acquires Nigeria\u2019s Paystack Stripe has made its biggest acquisition to date. It an\u2026",
+            "url": "http://techcrunch.com/2020/10/15/daily-crunch-stripe-acquires-nigerias-paystack/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/08/Paystack-Founders.jpg?w=653",
+            "publishedAt": "2020-10-15T22:08:04Z",
+            "content": "Stripe makes a big acquisition, Google rolls out search improvements and Snapchat adds a TikTok-y feature. This is your Daily Crunch for October 15, 2020.\r\nThe big story: Stripe acquires Nigeria\u2019s Pa\u2026 [+3012 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Morgan Sung",
+            "title": "Simone Giertz built a photo booth that lets her dog take selfies for treats",
+            "description": "Simone Giertz, like many of us, is spending quarantine by working on her passion projects.\u00a0\nFor the YouTuber and inventor, that project happens to be a photo booth for her dog.\u00a0\nDubbed the \"Queen of Shitty Robots,\" Simone Giertz is known for her innovative, b\u2026",
+            "url": "https://mashable.com/article/simone-giertz-dog-selfie-photo-booth/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F15%252F02%252F5e3b6a4f618b4d5688a92792cc0d36b8.29777.jpg%252F1200x630.jpg?signature=OT1W4QO0wq1x8jhtFEu9bw6do_U=",
+            "publishedAt": "2020-10-15T20:31:52Z",
+            "content": "Simone Giertz, like many of us, is spending quarantine by working on her passion projects.\u00a0\r\nFor the YouTuber and inventor, that project happens to be a photo booth for her dog.\u00a0\r\nDubbed the \"Queen o\u2026 [+1154 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Innoviz sees lower lidar costs accelerating autonomous car development - Reuters UK",
+            "description": "Israeli lidar maker Innoviz Technologies said price reductions for the laser-based sensors will be key to enabling automakers to reach the next level of autonomous driving on a large scale.",
+            "url": "https://uk.reuters.com/article/us-autonomous-innoviz-lidar-idUKKBN27016R",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537559864&r=LYNXMPEG9E0P0&w=800",
+            "publishedAt": "2020-10-15T09:29:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Omer Keilaf, CEO of Israeli firm, Innoviz Technologies, speaks during an interview with Reuters at the Smart Mobility Summit in Tel Aviv, Israel October 30, 2018. REUTER\u2026 [+1351 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Innoviz sees lower lidar costs accelerating autonomous car development - Reuters",
+            "description": "Israeli lidar maker Innoviz Technologies said price reductions for the laser-based sensors will be key to enabling automakers to reach the next level of autonomous driving on a large scale.",
+            "url": "https://www.reuters.com/article/autonomous-innoviz-lidar-int-idUSKBN27017Q",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537562341&r=LYNXMPEG9E0Q8&w=800",
+            "publishedAt": "2020-10-15T09:29:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Omer Keilaf, CEO of Israeli firm, Innoviz Technologies, speaks during an interview with Reuters at the Smart Mobility Summit in Tel Aviv, Israel October 30, 2018. REUTER\u2026 [+1366 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Stan Schroeder",
+            "title": "Elon Musk says Tesla Model S price is going down to...well, you can probably guess",
+            "description": "Elon Musk is having fun with numbers again.\u00a0\nOn Wednesday, the Tesla CEO announced that the price of Tesla Model S will be reduced to $69,420.\u00a0\n\nThe gauntlet has been thrown down! The prophecy will be fulfilledModel S price changes to $69,420 tonight!\r\n\n\u2014 Elo\u2026",
+            "url": "https://mashable.com/article/tesla-model-s-69420/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F15%252Fc0%252F6fb229fce57842668e2ee6ecc62fb17d.07268.png%252F1200x630.png?signature=Mv1buChWyVWi6DjXaDJVH-J0Z24=",
+            "publishedAt": "2020-10-15T07:36:42Z",
+            "content": "Elon Musk is having fun with numbers again.\u00a0\r\nOn Wednesday, the Tesla CEO announced that the price of Tesla Model S will be reduced to $69,420.\u00a0\r\nThe gauntlet has been thrown down! \r\nThe prophecy wil\u2026 [+1329 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Searchers for missing Belle Isle mother call on Elon Musk, Space Force for help - WESH 2 News",
+            "description": "<ol><li>Searchers for missing Belle Isle mother call on Elon Musk, Space Force for help\u00a0\u00a0WESH 2 News\r\n</li><li>Elon Musk's SpaceX launches a satellite that can measure sea level...\u00a0\u00a0AlKhaleej Today\r\n</li><li>Elon Musk's SpaceX is launching a satellite that ca\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9STNxaFo4T3puczTSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T21:39:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Pcmag",
+            "title": "Elon Musk: SpaceX's Starlink Internet Service Will Work In High-Speed Trains - Mashable India",
+            "description": "<ol><li>Elon Musk: SpaceX's Starlink Internet Service Will Work In High-Speed Trains\u00a0\u00a0Mashable India\r\n</li><li>Elon Musk's SpaceX launches a satellite that can measure sea level...\u00a0\u00a0AlKhaleej Today\r\n</li><li>SpaceX Starship: Elon Musk responds to impressive r\u2026",
+            "url": "https://in.mashable.com/tech/17653/elon-musk-spacexs-starlink-internet-service-will-work-in-high-speed-trains",
+            "urlToImage": "https://sm.mashable.com/t/mashable_in/news/m/musk-space/musk-spacexs-starlink-internet-service-will-work-in-high-spe_m2f8.1200.jpg",
+            "publishedAt": "2020-10-15T06:10:00Z",
+            "content": "SpaceXs satellite internet network, Starlink, may deliver broadband to peoples homes and their cars, according to CEO Elon Musk.\u00a0\r\nOn Tuesday, Twitter user Anton Kanerva asked Musk whether Starlinks \u2026 [+1529 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tanza Loudenback",
+            "title": "There are 3 main types of early retirement, and the only difference is how much you spend",
+            "description": "Summary List Placement<ul>\n<li>Financial independence, retire early (FIRE) is often broken down into three categories: FIRE, Lean FIRE, and Fat FIRE.</li>\n<li>Lean FIRE is when someone has saved up 25 times their annual expenses and lives on a \"lean\" budget, \u2026",
+            "url": "https://www.businessinsider.com/personal-finance/what-is-fatfire-vs-leanfire-early-retirement-fire",
+            "urlToImage": "https://i.insider.com/5dc057eee0ee7e03093019d4?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T18:31:00Z",
+            "content": "The FIRE (financial independence, retire early) movement is largely a numbers game.\r\nThe formula is simple: A person needs to save up and invest 25 times their annual spending in order to become fina\u2026 [+4822 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Timothy B. Lee",
+            "title": "The technology behind the iPhone lidar may be coming soon to cars",
+            "description": "How Apple made affordable lidar with no moving parts for the iPhone.",
+            "url": "https://arstechnica.com/cars/2020/10/the-technology-behind-the-iphone-lidar-may-be-coming-soon-to-cars/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/GettyImages-1229061577-760x380.jpg",
+            "publishedAt": "2020-10-15T16:40:29Z",
+            "content": "The story is similar with single photon avalanche diodes. As the name implies, these are sensitive enough to detect a single photon. High sensitivity means they suffer from a lot of noise. As a resul\u2026 [+6571 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Matousek and Alex Nicoll",
+            "title": "REVEALED: How much Tesla pays its employees, from software engineers to product managers (TSLA)",
+            "description": "Summary List Placement\n\nAs Tesla prepares to face competition from a new generation of electric-vehicle startups that are preparing to roll out a host of exciting new vehicles, data that Elon Musk's company has shared with the US government provides a few hin\u2026",
+            "url": "https://www.businessinsider.com/tesla-employees-make-pay-salary-software-engineer-project-manager-2020-10",
+            "urlToImage": "https://i.insider.com/5f872666ea23a5001903d592?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T11:45:00Z",
+            "content": "As Tesla prepares to face competition from a new generation of electric-vehicle startups that are preparing to roll out a host of exciting new vehicles, data that Elon Musk's company has shared with \u2026 [+2372 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Hacked Billboards Can Make Teslas See 'Phantom Objects,' Causing Them to Swerve or Stop Abruptly",
+            "description": "Tesla's Autopilot system relies on vision rather than LIDAR, which means it can be tricked by messages on billboards and projections created by hackers.",
+            "url": "https://www.newsweek.com/hacked-billboards-can-make-teslas-see-phantom-objects-1539478",
+            "urlToImage": "https://d.newsweek.com/en/full/1653142/tesla-model-x-electric-car-dashboard.jpg",
+            "publishedAt": "2020-10-15T15:10:13Z",
+            "content": "Security researchers have demonstrated how Tesla's Autopilot driver-assistance systems can be tricked into changing speed, swerving or stopping abruptly, simply by projecting fake road signs or virtu\u2026 [+2398 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jonathan Shieber",
+            "title": "Proterra, which makes big honkin battery systems and electric buses, raises $200 million",
+            "description": "Proterra, the battery system technology developer for heavy-duty electric vehicles, said it has raised $200 million in a new round of funding. The new cash comes from Cowen Sustainable Investment Advisors, which led the round, along with money from Soros Fund\u2026",
+            "url": "http://techcrunch.com/2020/10/15/proterra-which-makes-big-honkin-battery-systems-and-electric-buses-raises-200-million/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/09/405743.jpeg?w=645",
+            "publishedAt": "2020-10-15T18:14:55Z",
+            "content": "Proterra, the battery system technology developer for heavy-duty electric vehicles, said it has raised $200 million in a new round of funding.\r\nThe new cash comes from Cowen Sustainable Investment Ad\u2026 [+2344 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "Elon Musk says Tesla's 7-seat Model Y will begin production in November, with deliveries in early December",
+            "description": "Elon Musk tweeted that Tesla will start making its Model Y 7-seater in November and plans to be available in 2021.",
+            "url": "https://www.businessinsider.com/tesla-model-y-seven-seater-elon-musk-production-november-2020-10",
+            "urlToImage": "https://i.insider.com/5f8849292a400c0019debce3?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T13:20:51Z",
+            "content": "US electric vehicle company Tesla will start making a seven-seater version of its Model Y in November.\r\nTesla's founder and CEO Elon Musk tweeted on Wednesday that production of the highly-anticipate\u2026 [+805 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh, CNN Business",
+            "title": "Electric car maker Nio was in a slump in March. Its stock is up 1,000% since then",
+            "description": "China's wannabe \"Tesla killer\" is on a wild ride.",
+            "url": "https://www.cnn.com/2020/10/15/investing/nio-stock-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201015113857-nio-file-restricted-super-tease.jpg",
+            "publishedAt": "2020-10-15T12:58:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "Tesla reportedly forgot to pay its water bill, halting construction on its Berlin Gigafactory",
+            "description": "A spokesperson for the local water utility told a German-language newspaper that \"everyone is treated the same, including Tesla.\"",
+            "url": "https://www.businessinsider.com/tesla-water-shut-off-berlin-factory-construction-site-german-reports-2020-10",
+            "urlToImage": "https://i.insider.com/5f8897c5d260780019341a6e?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T18:56:07Z",
+            "content": "Tesla didn't pay an overdue water bill for its construction site in Germany and subsequently had the service shut off temporarily, according to local media reports.\r\nThe company had been warned sever\u2026 [+730 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Room Temperature Superconductor Under Diamond Anvil Pressures",
+            "description": "University of Rochester researchers squeezed carbonaceous sulfur hydride in a diamond anvil and it superconducted at 15 degrees Celsius under 270 gigapascals of pressure. This is about 2.5 million...\n\n[[ This is a content summary only. Visit my website for fu\u2026",
+            "url": "https://www.nextbigfuture.com/2020/10/room-temperature-superconductor-under-diamond-anvil-pressures.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2020/10/diamondsuper.jpg",
+            "publishedAt": "2020-10-15T08:05:08Z",
+            "content": "University of Rochester researchers squeezed carbonaceous sulfur hydride in a diamond anvil and it superconducted at 15 degrees Celsius under 270 gigapascals of pressure. This is about 2.5 million ti\u2026 [+1745 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Matthew DeBord)",
+            "title": "Auto supplier Magna will take a 6% stake in Fisker and build the electric-car startup's first vehicle, the $37,499 Ocean SUV",
+            "description": "CEO and founder Henrik Fisker said the Magna partnership will let Fisker, Inc. bring its Ocean SUV to market for a $37,499 price.",
+            "url": "https://www.businessinsider.com/fisker-deal-with-magna-take-a-stake-in-the-electric-car-startup",
+            "urlToImage": "https://i.insider.com/5f22ca314e52b7600c5f9359?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T14:07:02Z",
+            "content": "Fisker, Inc. has a new deal with a familiar name in the auto industry, Canada-based Magna International.\r\nThe electric-car startup, founded by Henrik Fisker in 2016, announced the partnership on Thur\u2026 [+4146 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jonathan Shieber",
+            "title": "Proterra, which makes big honkin battery systems and electric buses, raises $200 million",
+            "description": "Proterra, the battery system technology developer for heavy-duty electric vehicles, said it has raised $200 million in a new round of funding. The new cash comes from Cowen Sustainable Investment Advisors, which led the round, along with money from Soros Fund\u2026",
+            "url": "https://techcrunch.com/2020/10/15/proterra-which-makes-big-honkin-battery-systems-and-electric-buses-raises-200-million/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/6IDKdNUffpWjarqC7RmsPQ--~B/aD00OTY7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/9935cfae69bc49cd724594cadcb2d3d0",
+            "publishedAt": "2020-10-15T18:14:55Z",
+            "content": "Proterra, the battery system technology developer for heavy-duty electric vehicles, said it has raised $200 million in a new round of funding.\r\nThe new cash comes from Cowen Sustainable Investment Ad\u2026 [+2344 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "High-Temperature Superconductor Cable Will Speed Up Development of Nuclear Fusion",
+            "description": "Commonwealth Fusion Systems new high-temperature superconductor (HTS) cable can be engineered into magnets directly applicable to the high magnetic field approach to fusion. The new HTS cable, called...\n\n[[ This is a content summary only. Visit my website for\u2026",
+            "url": "https://www.nextbigfuture.com/2020/10/high-temperature-superconductor-cable-will-speed-up-development-of-nuclear-fusion.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2020/10/scfusion-e1602746954641-1024x923.jpg",
+            "publishedAt": "2020-10-15T07:33:18Z",
+            "content": "Commonwealth Fusion Systems new high-temperature superconductor (HTS) cable can be engineered into magnets directly applicable to the high magnetic field approach to fusion. The new HTS cable, called\u2026 [+2948 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena, CNN Business",
+            "title": "Fisker finds a partner to make its electric Ocean SUV",
+            "description": "Fisker, a Manhattan Beach, California-based electric car maker is partnering with Magna International, a major contract auto manufacturing company based in Canada, to build its new electric SUV.",
+            "url": "https://www.cnn.com/2020/10/15/business/fisker-ocean-electric-suv-magna-international/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200715160124-02-ev-startups-fisker-super-tease.jpg",
+            "publishedAt": "2020-10-15T22:04:03Z",
+            "content": "(CNN)Fisker, a Manhattan Beach, California-based electric car maker is partnering with Magna International, a major contract auto manufacturing company based in Canada, to build its new electric SUV.\u2026 [+2551 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Alan Levin",
+            "title": "FAA Revamps Space Launch Rules as SpaceX, Blue Origin Expand",
+            "description": "Commercial rocket ventures including Elon Musk\u2019s SpaceX and Jeff Bezos\u2019 Blue Origin should get a clearer path to space under new regulations that oversee non-government launches.",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-15/faa-revamps-space-launch-rules-as-spacex-blue-origin-expand",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T15:00:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Martin Coulter",
+            "title": "10 things in tech you need to know today",
+            "description": "Summary List Placement\n\nGood morning! This is the tech news you need to know this Thursday. Sign up here to get this email in your inbox every morning. Have an Amazon Alexa device? Listen to this update by searching \"Business Insider\" in your flash briefing s\u2026",
+            "url": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-october-15-2020-10",
+            "urlToImage": "https://i.insider.com/5f87f0122a400c0019debc70?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T07:00:28Z",
+            "content": "Good morning! This is the tech news you need to know this Thursday. Sign up here to get this email in your inbox every morning. Have an Amazon Alexa device? Listen to this update by searching \"Busine\u2026 [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "Elon Musk's SpaceX is launching a satellite that can measure rising sea levels to the millimeter from 830 miles above Earth",
+            "description": "SpaceX was contracted by NASA to launch the satellite, which will blast off in a rocket from Vandenberg Air Force Base in California in November.",
+            "url": "https://www.businessinsider.com/elon-musk-spacex-nasa-satellite-track-rising-sea-levels-2020-10",
+            "urlToImage": "https://i.insider.com/5f8821f9ea23a5001903d7f0?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T10:16:38Z",
+            "content": "Elon Musk's SpaceX will launch a satellite on November 10 that can measure rising sea levels from orbit.\r\nThe Sentinel-6 Michael Freilich satellite will update maps of the oceans every 10 days, showi\u2026 [+1170 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tina Bellon, C Nivedita",
+            "title": "UPDATE 3-Tesla's back-to-back price cuts bring sticker on U.S. Model S below $70,000",
+            "description": "U.S. electric vehicle maker Tesla Inc <TSLA.O> cut the price of its Model S \"Long Range\" sedan in the United States to $69,420 (53,334 pounds), its website showed, following a tweet https://bit.ly/2H0JCP0 flagging the cut earlier on Wednesday from Chief Execu\u2026",
+            "url": "https://uk.reuters.com/article/uk-tesla-model-s-idUKKBN26Z2XX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201014&t=2&i=1537485889&r=LYNXMPEG9D1RG&w=800",
+            "publishedAt": "2020-10-15T03:43:37Z",
+            "content": "FILE PHOTO: Tesla Model S drives during electric car E-Rallye Baltica 2019 near Iecava, Latvia July 23, 2019. REUTERS/Ints Kalnins/File Photo\r\n(Reuters) - U.S. electric vehicle maker Tesla Inc TSLA.O\u2026 [+2088 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Anton Shilov",
+            "title": "Nvidia has killed two of its iconic brands - here's why",
+            "description": "With Quadro and Tesla brands gone, Nvidia\u2019s line-up has become a whole lot simpler",
+            "url": "https://www.techradar.com/news/nvidia-has-killed-two-of-its-iconic-brands-heres-why",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nowoFjsupyER9y6rQyC8x9-1200-80.jpg",
+            "publishedAt": "2020-10-15T09:25:06Z",
+            "content": "Nvidia opted not to use its Quadro and Tesla brands for its latest Ampere products, designed for professional graphics and compute applications.\r\nApparently, the company decided to retire both tradem\u2026 [+4593 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Erin Durkin, Anna Gronewold and Jonathan Custodio",
+            "title": "Cuomo threatens city funds over hotspot enforcement \u2014 Politically connected BOE commissioners set for approval \u2014 Downtown residents sue to block homeless shuffle",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/new-york-playbook/2020/10/15/cuomo-threatens-city-funds-over-hotspot-enforcement-politically-connected-boe-commissioners-set-for-approval-downtown-residents-sue-to-block-homeless-shuffle-490611",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-15T11:25:21Z",
+            "content": "Presented by Noom\r\nAdding a new front in Andrew Cuomos perpetual war\r\n with Mayor Bill de Blasio over the response to the pandemic, the governor is now threatening\r\n to withhold state money from the \u2026 [+22312 chars]"
+        }
+    ]
+}

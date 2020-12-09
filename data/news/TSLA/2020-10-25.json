@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew DeBord",
+            "title": "Tesla has sold over $1 billion emissions credits this year \u2014 and that revenue is its reward for taking on massive risk (TSLA)",
+            "description": "Summary List Placement\n\nTesla has sold about $1.2 billion in regulatory credits so far in 2020. These are bought by other automakers who aren't making enough vehicles with electric batteries in them to meet the demands from California and a few other states t\u2026",
+            "url": "https://www.businessinsider.com/tesla-emission-credits-revenue-reward-for-taking-on-risk-2020-10",
+            "urlToImage": "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg",
+            "publishedAt": "2020-10-25T12:44:00Z",
+            "content": "Tesla has sold about $1.2 billion in regulatory credits so far in 2020. These are bought by other automakers who aren't making enough vehicles with electric batteries in them to meet the demands from\u2026 [+5323 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "In just 3 months, Elon Musk\u2019s SpaceX valuation doubled to whopping over $100 billion by Morgan Stanley - The Financial Express",
+            "description": "<ol><li>In just 3 months, Elon Musk\u2019s SpaceX valuation doubled to whopping over $100 billion by Morgan Stanley\u00a0\u00a0The Financial Express\r\n</li><li>SpaceX launches 60 more satellites during 15th Starlink mission\u00a0\u00a0TechCrunch\r\n</li><li>SpaceX adds another 60 satell\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMilgFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9pbmR1c3RyeS9pbi1qdXN0LTMtbW9udGhzLWVsb24tbXVza3Mtc3BhY2V4LXZhbHVhdGlvbi1kb3VibGVkLXRvLXdob3BwaW5nLW92ZXItMTAwLWJpbGxpb24tYnktbW9yZ2FuLXN0YW5sZXkvMjExMzQ4Ny_SAZsBaHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vaW5kdXN0cnkvaW4tanVzdC0zLW1vbnRocy1lbG9uLW11c2tzLXNwYWNleC12YWx1YXRpb24tZG91YmxlZC10by13aG9wcGluZy1vdmVyLTEwMC1iaWxsaW9uLWJ5LW1vcmdhbi1zdGFubGV5LzIxMTM0ODcvbGl0ZS8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-25T12:04:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Melia Russell and Dan DeFrancesco",
+            "title": "As Coinbase mulls a public offering, those who worked with its controversial CEO Brian Armstrong detail his communication quirks that led to an employee exodus",
+            "description": "Summary List PlacementOn a weekend in 2014, Tracy Chou was working out of her favorite coffee shop in San Francisco's Mission District. The star Pinterest engineer had agreed to meet with Brian Armstrong, the founder of a fast-growing digital-currency startup\u2026",
+            "url": "https://www.businessinsider.com/coinbase-brian-armstrong-bitcoin-cryptocurrency-profile-2020-10",
+            "urlToImage": "https://i.insider.com/5f8ddbdc9e9fe4001900a2a3?width=1200&format=jpeg",
+            "publishedAt": "2020-10-25T13:10:00Z",
+            "content": "On a weekend in 2014, Tracy Chou was working out of her favorite coffee shop in San Francisco's Mission District. The star Pinterest engineer had agreed to meet with Brian Armstrong, the founder of a\u2026 [+14634 chars]"
+        }
+    ]
+}

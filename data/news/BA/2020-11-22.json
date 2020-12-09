@@ -1,0 +1,331 @@
+{
+    "status": "ok",
+    "totalResults": 25,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Boeing 737 MAX jets undergo round-the-clock effort to clear inventory - Reuters Canada",
+            "description": "The future of Boeing Co's freshly approved 737 MAX is in the hands of nearly 700 workers toiling behind the gray doors of a three-bay hangar at a desert airport in Washington state.",
+            "url": "https://ca.reuters.com/article/us-boeing-737max-ungrounding-focus-idCAKBN2820DE",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542058782&r=LYNXMPEGAL07B&w=800",
+            "publishedAt": "2020-11-22T12:08:00Z",
+            "content": "By Eric M. Johnson\r\nMOSES LAKE, Wash. (Reuters) - The future of Boeing Cos freshly approved 737 MAX is in the hands of nearly 700 workers toiling behind the gray doors of a three-bay hangar at a dese\u2026 [+5652 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Boeing 737 MAX jets undergo round-the-clock effort to clear inventory - Reuters India",
+            "description": "The future of Boeing Co's freshly approved 737 MAX is in the hands of nearly 700 workers toiling behind the gray doors of a three-bay hangar at a desert airport in Washington state.",
+            "url": "https://in.reuters.com/article/boeing-737max-ungrounding-idINKBN2820DG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542058951&r=LYNXMPEGAL07D&w=800",
+            "publishedAt": "2020-11-22T12:07:00Z",
+            "content": "MOSES LAKE, Wash. (Reuters) - The future of Boeing Cos freshly approved 737 MAX is in the hands of nearly 700 workers toiling behind the gray doors of a three-bay hangar at a desert airport in Washin\u2026 [+5665 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Boeing 737 MAX jets undergo round-the-clock effort to clear inventory - Reuters UK",
+            "description": "The future of Boeing Co's freshly approved 737 MAX is in the hands of nearly 700 workers toiling behind the gray doors of a three-bay hangar at a desert airport in Washington state.",
+            "url": "https://uk.reuters.com/article/uk-boeing-737max-ungrounding-focus-idUKKBN2820DQ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542059189&r=LYNXMPEGAL07L&w=800",
+            "publishedAt": "2020-11-22T12:14:00Z",
+            "content": "MOSES LAKE, Wash. (Reuters) - The future of Boeing Cos freshly approved 737 MAX is in the hands of nearly 700 workers toiling behind the gray doors of a three-bay hangar at a desert airport in Washin\u2026 [+5665 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UAE to announce return schedule for Boeing 737 MAX 'in timely manner' - Reuters",
+            "description": "The United Arab Emirates civil aviation regulator said on Sunday it would announce a return schedule for the Boeing 737 MAX in a timely manner after the United States last week lifted a 20-month-old flight ban on the jet, the state news agency WAM reported.",
+            "url": "https://www.reuters.com/article/boeing-737max-emirates-int-idUSKBN2820NB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542074290&r=LYNXMPEGAL0ER&w=800",
+            "publishedAt": "2020-11-22T17:27:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Grounded Boeing 737 MAX aircraft are seen parked at Boeing facilities at Grant County International Airport in Moses Lake, Washington, U.S. November 17, 2020. REUTERS/Li\u2026 [+812 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Delta hints at the possibility of purchasing Boeing's 737 MAX: FT - Reuters India",
+            "description": "Delta Air Lines Chief Executive Ed Bastian hinted at the possibility of purchasing Boeing Co's 737 MAX, which was recently approved to fly again by U.S. regulators, in an interview to the Financial Times on Sunday.",
+            "url": "https://www.reuters.com/article/health-coronavirus-delta-air-idINL1N2I8096",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-22T15:47:00Z",
+            "content": "By Reuters Staff\r\n(Adds Delta CEOs comments on Boeing)\r\nNov 22 (Reuters) - Delta Air Lines Chief Executive Ed Bastian hinted at the possibility of purchasing Boeing Cos 737 MAX, which was recently ap\u2026 [+1330 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Delta hints at the possibility of purchasing Boeing's 737 MAX - FT - Reuters India",
+            "description": "Delta Air Lines Chief Executive Ed Bastian hinted at the possibility of purchasing Boeing Co's 737 MAX, which was recently approved to fly again by U.S. regulators, in an interview to the Financial Times on Sunday.",
+            "url": "https://in.reuters.com/article/health-coronavirus-delta-air-idINL1N2I8096",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-22T15:47:00Z",
+            "content": "By Reuters Staff\r\n(Adds Delta CEOs comments on Boeing)\r\nNov 22 (Reuters) - Delta Air Lines Chief Executive Ed Bastian hinted at the possibility of purchasing Boeing Cos 737 MAX, which was recently ap\u2026 [+1330 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Delta hints at the possibility of purchasing Boeing's 737 MAX - FT - Reuters UK",
+            "description": "Delta Air Lines Chief Executive Ed Bastian hinted at the possibility of purchasing Boeing Co's 737 MAX, which was recently approved to fly again by U.S. regulators, in an interview to the Financial Times on Sunday.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-delta-air-idUKKBN2820IU",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542068704&r=LYNXMPEGAL0BZ&w=800",
+            "publishedAt": "2020-11-22T15:52:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Ed Bastian, CEO of Delta Air Lines, speaks during a keynote address at the 2019 Consumer Electronics Show (CES) in Las Vegas, Nevada, U.S. January 8, 2019. REUTERS/Steve\u2026 [+1477 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thomas Pallini",
+            "title": "I visited a United Club during the pandemic and saw how the airline is re-imagining the airport lounge as it slowly welcomes back travelers",
+            "description": "Summary List Placement\n\nUnited Airlines is slowly reopening its premium lounges, aptly named United Clubs, across the country as more flyers return to the skies.\nOnly 10 lounges have opened their doors with at least one at each of United's hubs in the US\u00a0 but\u2026",
+            "url": "https://www.businessinsider.com/united-airlines-united-club-visit-pandemic-photos-details-2020-10",
+            "urlToImage": "https://i.insider.com/5f88c21fd260780019341bac?width=1200&format=jpeg",
+            "publishedAt": "2020-11-22T13:41:00Z",
+            "content": "United Airlines is slowly reopening its premium lounges, aptly named United Clubs, across the country as more flyers return to the skies.\r\nOnly 10 lounges have opened their doors with at least one at\u2026 [+1253 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha, Jordan Crook and Darrell Etherington",
+            "title": "Original Content podcast: 'The Crown' introduces its Princess Diana",
+            "description": "\"The Crown,\" Netflix's  lavish historical drama about the reign of Queen Elizabeth II, has returned for a fourth season that focuses on Elizabeth's...",
+            "url": "https://techcrunch.com/2020/11/22/original-content-podcast-the-crown-introduces-its-princess-diana/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/aRIsAMhRsjUvUTTse.A1nQ--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ac35687939e59a290cd8d892add218b7",
+            "publishedAt": "2020-11-22T19:50:07Z",
+            "content": "Do we finally have blue skies ahead for airline stocks? Its too early to sound the all-clear, but things are certainly looking up. The announcement of the Pfizer (NYSE:PFE) vaccine breakthrough last \u2026 [+11709 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "WhiteHat Jr's founder files $2.6M defamation suit against critic",
+            "description": "Karan Bajaj, an Indian entrepreneur who teaches meditation and in his recent book invites others to live a life away from the noise, is going after the most ...",
+            "url": "https://techcrunch.com/2020/11/22/whitehat-jrs-founder-files-2-6m-defamation-suit-against-critic/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XPrPM7a4G8A2tCExKhvoTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzE1/https://s.yimg.com/uu/api/res/1.2/za_9KsuDpCkPxitUWg01lw--~B/aD0zMzAwO3c9NTAyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/240896c454e09944ac38b7a64999add2",
+            "publishedAt": "2020-11-22T17:01:50Z",
+            "content": "Do we finally have blue skies ahead for airline stocks? Its too early to sound the all-clear, but things are certainly looking up. The announcement of the Pfizer (NYSE:PFE) vaccine breakthrough last \u2026 [+11709 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Italy's Benettons name new holding company chairman in motorway tussle with govt - Reuters India",
+            "description": "Italy's Benetton family has ousted Gianni Mion as head of its holding company Edizione, replacing him with well-connected business professor Enrico Laghi, the company said on Sunday, as it tries to solve a long-running dispute over its motorway unit.",
+            "url": "https://www.reuters.com/article/italy-motorways-atlantia-appointment-idINL8N2I80L1",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-22T19:32:00Z",
+            "content": "By Reuters Staff\r\n(Adds details, background)\r\nROME, Nov 22 (Reuters) - Italys Benetton family has ousted Gianni Mion as head of its holding company Edizione, replacing him with well-connected busines\u2026 [+1646 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Italy's Benettons name new holding company chairman in motorway tussle with govt - Reuters India",
+            "description": "Italy's Benetton family has ousted Gianni Mion as head of its holding company Edizione, replacing him with well-connected business professor Enrico Laghi, the company said on Sunday, as it tries to solve a long-running dispute over its motorway unit.",
+            "url": "https://in.reuters.com/article/italy-motorways-atlantia-appointment-idINL8N2I80L1",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-22T19:32:00Z",
+            "content": "By Reuters Staff\r\n(Adds details, background)\r\nROME, Nov 22 (Reuters) - Italys Benetton family has ousted Gianni Mion as head of its holding company Edizione, replacing him with well-connected busines\u2026 [+1646 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Biggest Australian states reopen borders as coronavirus cases ease - Reuters Africa",
+            "description": "Australia's two most populous states reopened their borders on Monday after more than four months, as Victoria stamped out a second coronavirus wave, raising prospects of a quicker return to normal and speedy economic recovery.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-australia-idUSKBN2820U9",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542087715&r=LYNXMPEGAL0IL&w=800",
+            "publishedAt": "2020-11-22T22:41:00Z",
+            "content": "By Reuters Staff\r\nSYDNEY (Reuters) - Australias two most populous states reopened their borders on Monday after more than four months, as Victoria stamped out a second coronavirus wave, raising prosp\u2026 [+1656 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Stephanie Beasley",
+            "title": "CDC recommends pre- and post-flight testing for international air travel",
+            "description": "Those planning to fly should get tested 1 to 3 days prior to the flight and again 3 to 5 days after traveling.",
+            "url": "https://www.politico.com/news/2020/11/22/cdc-flight-testing-international-air-439153",
+            "urlToImage": "https://static.politico.com/83/df/6c9c12944943af65d87669d50c17/20201122-airport-ap-773.jpg",
+            "publishedAt": "2020-11-22T14:23:29Z",
+            "content": "The agency recommended that travelers with known exposure to the virus postpone their trips entirely, get tested and quarantine for 14 days.\r\nThe context: The updated travel recommendations come days\u2026 [+1112 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lin Taylor",
+            "title": "UNICEF says to ship 2 billion COVID vaccines to poor nations in 2021 - Reuters",
+            "description": "Nearly 2 billion doses of COVID-19 vaccines will be shipped and flown to developing countries next year in a \"mammoth operation\", the U.N. children's agency UNICEF said on Monday, as world leaders vowed to ensure the fair distribution of vaccines.",
+            "url": "https://www.reuters.com/article/healthcoronavirus-vaccine-idUSL8N2I33VV",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-23T00:00:00Z",
+            "content": "By Lin Taylor, Thomson Reuters Foundation\r\nLONDON, Nov 23 (Thomson Reuters Foundation) - Nearly 2 billion doses of COVID-19 vaccines will be shipped and flown to developing countries next year in a m\u2026 [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Marnie Hunter, CNN",
+            "title": "Millions traveling for Thanksgiving despite surging Covid-19 cases - CNN",
+            "description": "<ol><li>Millions traveling for Thanksgiving despite surging Covid-19 cases\u00a0\u00a0CNN\r\n</li><li>Desperate efforts to control COVID surge across U.S.\u00a0\u00a0CBS This Morning\r\n</li><li>As U.S. coronavirus cases soar toward 200,000 a day, holiday travel is surging\u00a0\u00a0The Wash\u2026",
+            "url": "https://www.cnn.com/travel/article/thanksgiving-travel-2020-pandemic/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201122084444-passengers-newark-nov-21-super-tease.jpg",
+            "publishedAt": "2020-11-22T13:41:15Z",
+            "content": "(CNN) Thanksgiving travel is surging as new coronavirus cases approach 200,000 a day in the United States.\r\nOn Friday, the number of travelers screened at US airport security checkpoints topped 1 mil\u2026 [+5532 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Marley Jay",
+            "title": "GOLDMAN SACHS: Buy these 14 stocks well-positioned to see surging cash flow as the recovering economy upends the market",
+            "description": "Summary List Placement\n\nSay that 2021 really does become a banner year for value stocks \u2014 the low-priced, long-neglected, unfashionable stocks that keep bringing up the rear behind everyone's favorites.\nSay it happens, since there are signs it could be starti\u2026",
+            "url": "https://www.businessinsider.com/stock-picks-to-buy-cheap-companies-high-cash-flow-goldman-2020-11",
+            "urlToImage": "https://i.insider.com/5e1383bf855cc26f140d7217?width=1200&format=jpeg",
+            "publishedAt": "2020-11-22T12:48:00Z",
+            "content": "Say that 2021 really does become a banner year for value stocks \u2014 the low-priced, long-neglected, unfashionable stocks that keep bringing up the rear behind everyone's favorites.\r\nSay it happens, sin\u2026 [+1575 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Nectar Gan, Akanksha Sharma and Pauline Lockwood, CNN",
+            "title": "The Hong Kong-Singapore 'travel bubble' is postponed amid Covid-19 spike",
+            "description": "The highly-anticipated Hong Kong and Singapore \"air travel bubble\" was postponed Saturday -- less than 24 hours before it was due to launch.",
+            "url": "https://www.cnn.com/travel/article/hk-singapore-travel-bubble-delay-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200609004358-cathay-pacific-hong-kong-bailout-super-tease.jpg",
+            "publishedAt": "2020-11-22T02:20:19Z",
+            "content": "Nectar Gan, Akanksha Sharma and Pauline Lockwood, CNNPublished 22nd November 2020\r\n(CNN) The highly-anticipated Hong Kong and Singapore \"air travel bubble\" was postponed Saturday -- less than 24 hour\u2026 [+3133 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Emily Erhold",
+            "title": "Air Force selects Kirtland AFB for AC-130J FTU | Afghanistan ordered 15 ScanEagle UAVs from Boeing Insitu | Taurus Sytems Hopes To Develop Taurus K-2 With Korea",
+            "description": "Americas The US Air Force decided to relocate the AC-130J Ghostrider\u00a0Formal Training Unit from\u00a0Hurlburt Field, Florida to Kirtland Air Force Base, New Mexico. This is done so that the Air Force Special Operations Command\u00a0to realign its training mission under\u00a0\u2026",
+            "url": "http://feedproxy.google.com/~r/did/rss/~3/MDkRFwvD-5k/",
+            "urlToImage": null,
+            "publishedAt": "2020-11-22T08:00:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hanna Ziady, CNN Business",
+            "title": "The climate crisis is looming large on Wall Street",
+            "description": "For all their environmental overtures, banks are still pumping billions of dollars into fossil fuel companies. That could become a high-priced habit, as regulators move to tighten rules around how lenders reflect climate-related risks in their accounts.",
+            "url": "https://www.cnn.com/2020/11/22/investing/stocks-week-ahead/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201120091022-restricted-hurricane-sally-florida-0916-super-tease.jpg",
+            "publishedAt": "2020-11-22T13:50:28Z",
+            "content": "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.\r\nLondon (CNN Business)For all their environmental overtures, banks ar\u2026 [+6231 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "VistaJet is about to take delivery of its first charter-ready Bombardier Global 7500, a $70 million ultra-long-range private jet that can fly 7,700 nautical miles \u2014 see inside",
+            "description": "The perfect plane for post-pandemic long-range travel, the Global 7500 can fly further than any aircraft in its class \u2014 and most airliners, too.",
+            "url": "https://www.businessinsider.com/vistajet-takes-delivery-first-charter-ready-bombardier-global-7500-2020-11",
+            "urlToImage": "https://i.insider.com/5fb439b01c741f0019aca4ac?width=1200&format=jpeg",
+            "publishedAt": "2020-11-22T13:05:00Z",
+            "content": "Bombardier's largest private jet will soon be ready for private charter.\r\nEuropean private jet firm VistaJet is preparing to take delivery of its second Bombardier Global 7500 in January. It's the fi\u2026 [+1461 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Delta casts doubts on New York-London travel corridor: FT",
+            "description": "Delta Air Lines Chief Executive Ed Bastian said the travel corridor between New York and London is complicated and it would be easier to relaunch transatlantic flights to \"just about any\" other European capital, Britain's Financial Times (https://www.ft.com/c\u2026",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-delta-air-idUSKBN2820FD",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542062448&r=LYNXMPEGAL08U&w=800",
+            "publishedAt": "2020-11-22T13:30:03Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Ed Bastian, CEO of Delta Air Lines, speaks during a keynote address at the 2019 Consumer Electronics Show (CES) in Las Vegas, Nevada, U.S. January 8, 2019. REUTERS/Steve\u2026 [+984 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Delta casts doubts on New York-London travel corridor -FT",
+            "description": "Delta Air Lines Chief Executive Ed Bastian said the travel corridor between New York and London is complicated and it would be easier to relaunch transatlantic flights to \"just about any\" other European capital, Britain's Financial Times https://www.ft.com/co\u2026",
+            "url": "https://www.reuters.com/article/health-coronavirus-delta-air-idUSL4N2I805P",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-22T13:14:28Z",
+            "content": "By Reuters Staff\r\nNov 22 (Reuters) - Delta Air Lines Chief Executive Ed Bastian said the travel corridor between New York and London is complicated and it would be easier to relaunch transatlantic fl\u2026 [+799 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Italy's Benettons name new holding company chairman in motorway tussle with govt",
+            "description": "Italy's Benetton family has ousted Gianni Mion as head of its holding company Edizione, replacing him with well-connected business professor Enrico Laghi, the company said on Sunday, as it tries to solve a long-running dispute over its motorway unit.",
+            "url": "https://www.reuters.com/article/italy-motorways-atlantia-appointment-idUSL8N2I80L1",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-22T19:30:26Z",
+            "content": "By Reuters Staff\r\n(Adds details, background)\r\nROME, Nov 22 (Reuters) - Italys Benetton family has ousted Gianni Mion as head of its holding company Edizione, replacing him with well-connected busines\u2026 [+1646 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Biggest Australian states reopen borders as coronavirus cases ease",
+            "description": "Australia's two most populous states reopened their borders on Monday after more than four months, as Victoria stamped out a second coronavirus wave, raising prospects of a quicker return to normal and speedy economic recovery.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-australia-idUKKBN2820UP",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201122&t=2&i=1542088619&r=LYNXMPEGAL0IT&w=800",
+            "publishedAt": "2020-11-22T22:56:13Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A woman wearing a face masks walks past cafes after coronavirus disease (COVID-19) restrictions were eased for the state of Victoria, in Melbourne, Australia, October 28\u2026 [+1880 chars]"
+        }
+    ]
+}

@@ -1,0 +1,474 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla third-quarter registrations in California drop 13% -data - Reuters",
+            "description": "Tesla Inc's vehicle registrations in the U.S. state of California dropped 13% in the third quarter compared with last year, according to data from Cross-Sell https://www.cross-sell.com, a research firm that collates title and registration data.",
+            "url": "https://www.reuters.com/article/us-tesla-registrations-idUSKBN275005",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538096665&r=LYNXMPEG9J003&w=800",
+            "publishedAt": "2020-10-20T00:00:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A worker exits a Tesla Model 3 electric vehicle at Tesla's primary vehicle factory in May after CEO Elon Musk announced he was defying local officials' coronavirus disea\u2026 [+1837 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "METALS-LME copper gains, Shanghai copper flat ahead of China Q3 GDP data - Reuters India",
+            "description": "London copper rose while Shanghai prices were little changed on Monday as investors awaited third-quarter economic growth data from top metals consumer China, as well as monthly production and retail sales numbers.",
+            "url": "https://www.reuters.com/article/global-metals-idINL4N2H90VS",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-19T01:51:00Z",
+            "content": "By Reuters Staff\r\nMANILA, Oct 19 (Reuters) - London copper rose while Shanghai prices were little changed on Monday as investors awaited third-quarter economic growth data from top metals consumer Ch\u2026 [+1679 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla to export China-made Model 3 vehicles to Europe - Reuters",
+            "description": "U.S. electric vehicle maker Tesla Inc said on Monday it would export China-made Model 3 sedans to more than 10 European countries this month.",
+            "url": "https://www.reuters.com/article/us-tesla-china-exports-idUSKBN2741HW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538025041&r=LYNXMPEG9I0YD&w=800",
+            "publishedAt": "2020-10-19T11:44:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Tesla China-made Model 3 vehicles are seen during a delivery event at its factory in Shanghai, China January 7, 2020. REUTERS/Aly Song\r\nBEIJING/SHANGHAI (Reuters) - U.S.\u2026 [+232 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla to export China-made Model 3 vehicles to Europe - Reuters Canada",
+            "description": "U.S. electric vehicle maker Tesla Inc said on Monday it would export China-made Model 3 sedans to more than 10 European countries this month.",
+            "url": "https://ca.reuters.com/article/us-tesla-china-exports-idCAKBN2741HW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538025041&r=LYNXMPEG9I0YD&w=800",
+            "publishedAt": "2020-10-19T11:53:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Tesla China-made Model 3 vehicles are seen during a delivery event at its factory in Shanghai, China January 7, 2020. REUTERS/Aly Song\r\nBEIJING/SHANGHAI (Reuters) - U.S.\u2026 [+232 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla to export China-made Model 3 vehicles to Europe - Reuters India",
+            "description": "Tesla Inc said on Monday it would start exporting China-made Model 3 cars to more than 10 European countries this month, joining a growing number of automakers using China as an export hub for electric vehicles.",
+            "url": "https://in.reuters.com/article/tesla-china-exports-idINKBN27425C",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538052525&r=LYNXMPEG9I1CE&w=800",
+            "publishedAt": "2020-10-19T15:42:00Z",
+            "content": "By Reuters Staff\r\nThe Tesla logo is seen on a car in Los Angeles, California, U.S., July 9, 2020. REUTERS/Lucy Nicholson/File Photo\r\nBEIJING/SHANGHAI (Reuters) - Tesla Inc said on Monday it would sta\u2026 [+1752 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla to export China-made Model 3 vehicles to Europe - Reuters",
+            "description": "Tesla Inc said on Monday it would start exporting China-made Model 3 cars to more than 10 European countries this month, joining a growing number of automakers using China as an export hub for electric vehicles.",
+            "url": "https://www.reuters.com/article/tesla-china-exports-idUSKBN27425C",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538052525&r=LYNXMPEG9I1CE&w=800",
+            "publishedAt": "2020-10-19T15:41:00Z",
+            "content": "By Reuters Staff\r\nThe Tesla logo is seen on a car in Los Angeles, California, U.S., July 9, 2020. REUTERS/Lucy Nicholson/File Photo\r\nBEIJING/SHANGHAI (Reuters) - Tesla Inc said on Monday it would sta\u2026 [+1752 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Tesla to export China-made Model 3 vehicles to Europe - Reuters UK",
+            "description": "Tesla Inc <TSLA.O> said on Monday it would start exporting China-made Model 3 cars to more than 10 European countries this month, joining a growing number of automakers using China as an export hub for electric vehicles.",
+            "url": "https://uk.reuters.com/article/uk-tesla-china-exports-idUKKBN27424R",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538052175&r=LYNXMPEG9I1BU&w=800",
+            "publishedAt": "2020-10-19T15:36:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Tesla China-made Model 3 vehicles are seen during a delivery event at its factory in Shanghai, China January 7, 2020. REUTERS/Aly Song/\r\nBEIJING/SHANGHAI (Reuters) - Tes\u2026 [+1811 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Patturaja  Murugaboopathy, Gaurav Dogra",
+            "title": "Graphic: Founder-led firms outpacing CEO-led ones in market recovery - Reuters",
+            "description": "Technology companies led by their founders have been the standout winners in share price performance and profit growth this year, beating companies led by other managers, according to a Reuters analysis.",
+            "url": "https://www.reuters.com/article/global-companies-founders-idUSKBN2741U5",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538040197&r=LYNXMPEG9I15Y&w=800",
+            "publishedAt": "2020-10-19T13:55:00Z",
+            "content": "(Reuters) - Technology companies led by their founders have been the standout winners in share price performance and profit growth this year, beating companies led by other managers, according to a R\u2026 [+2975 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Patturaja  Murugaboopathy, Gaurav Dogra",
+            "title": "Graphic: Founder-led firms outpacing CEO-led ones in market recovery - Reuters Canada",
+            "description": "Technology companies led by their founders have been the standout winners in share price performance and profit growth this year, beating companies led by other managers, according to a Reuters analysis.",
+            "url": "https://ca.reuters.com/article/ctech-us-global-companies-founders-idCAKBN2741T0-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538039649&r=LYNXMPEG9I15C-OCATC&w=800",
+            "publishedAt": "2020-10-19T13:48:00Z",
+            "content": "By Patturaja Murugaboopathy, Gaurav Dogra\r\n(Reuters) - Technology companies led by their founders have been the standout winners in share price performance and profit growth this year, beating compan\u2026 [+3521 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Patturaja  Murugaboopathy, Gaurav Dogra",
+            "title": "Founder-led firms outpacing CEO-led ones in market recovery - Reuters UK",
+            "description": "Technology companies led by their founders have been the standout winners in share price performance and profit growth this year, beating companies led by other managers, according to a Reuters analysis.",
+            "url": "https://uk.reuters.com/article/us-global-companies-founders-idUSKBN2741T0",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538039246&r=LYNXMPEG9I15C&w=800",
+            "publishedAt": "2020-10-19T13:45:00Z",
+            "content": "(Reuters) - Technology companies led by their founders have been the standout winners in share price performance and profit growth this year, beating companies led by other managers, according to a R\u2026 [+3478 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Dean",
+            "title": "NASA gave Nokia 14.1 million dollars to build a 4G network on the Moon",
+            "description": "This network would help astronauts control lunar rovers, navigate Selenite geography in real time, and stream videos.",
+            "url": "https://www.businessinsider.com/nasa-nokia-4g-network-moon-2020-10?r=MX&amp;IR=T",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1603121430-nasa-4g.jpg",
+            "publishedAt": "2020-10-19T15:30:47Z",
+            "content": "October\r\n19, 2020\r\n4 min read\r\nThis article was translated from our Spanish edition using AI technologies. Errors may exist due to this process.\r\nThis story originally appeared on Business InsiderTel\u2026 [+2742 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Swiss electric car maker Pi\u00ebch Automotive hires former VW CEO - Reuters UK",
+            "description": "Swiss electric car start-up Pi\u00ebch Automotive AG appointed Matthias Mueller, the former chief executive of Porsche and Volkswagen <VOWG_p.DE>, as its new chairman, the company said on Monday.",
+            "url": "https://uk.reuters.com/article/us-piech-electric-chairman-idUKKBN27413N",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538008963&r=LYNXMPEG9I0PI&w=800",
+            "publishedAt": "2020-10-19T09:41:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Volkswagen CEO Matthias Mueller speaks at the annual earnings news conference of VW in Berlin in Berlin, Germany, March 13, 2018. REUTERS/Hannibal Hanschke\r\nFRANKFURT (R\u2026 [+1068 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Swiss electric car maker Pi\u00ebch Automotive hires former VW CEO - Reuters UK",
+            "description": "Swiss electric car start-up Pi\u00ebch Automotive AG appointed Matthias Mueller, the former chief executive of Porsche and Volkswagen <VOWG_p.DE>, as its new chairman, the company said on Monday.",
+            "url": "https://www.reuters.com/article/us-piech-electric-chairman-idUKKBN27413N",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538008963&r=LYNXMPEG9I0PI&w=800",
+            "publishedAt": "2020-10-19T09:41:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Volkswagen CEO Matthias Mueller speaks at the annual earnings news conference of VW in Berlin in Berlin, Germany, March 13, 2018. REUTERS/Hannibal Hanschke\r\nFRANKFURT (R\u2026 [+1068 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Vicky Ge Huang",
+            "title": "Cathie Wood runs 5 funds that more than doubled broader market returns in the 3rd quarter. She and her team break down 8 winning stocks turbocharging the outperformance of its top ETFs.",
+            "description": "Summary List Placement\n\nBy all indications, Cathie Wood's $29 billion asset management firm Ark Invest has turned in another great quarter.\u00a0\nThe firm's $10.5 billion Ark Innovation ETF (ARKK), $3 billion ARK Next Generation Internet ETF (ARKW), and $3 billion\u2026",
+            "url": "https://www.businessinsider.com/stock-picks-to-buy-etf-strategy-cathie-wood-ark-invest-2020-10",
+            "urlToImage": "https://i.insider.com/5f8d9044c21cfb0019468b31?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T13:14:20Z",
+            "content": "By all indications, Cathie Wood's $29 billion asset management firm Ark Invest has turned in another great quarter.\u00a0\r\nThe firm's $10.5 billion Ark Innovation ETF (ARKK), $3 billion ARK Next Generatio\u2026 [+6110 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Piedmont Lithium to Issue U.S. Shares as Tesla Drives Interest",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-19/piedmont-lithium-to-issue-u-s-shares-as-tesla-drives-interest",
+            "urlToImage": null,
+            "publishedAt": "2020-10-19T22:52:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aatif Sulleyman",
+            "title": "Elon Musk Again Calls For COVID-19 Lockdowns to End in Great Barrington Declaration Discussion",
+            "description": "The head of Tesla is a high-profile critic of COVID-19 measures, and has called for lockdown restrictions to be lifted.",
+            "url": "https://www.newsweek.com/elon-musk-covid-lockdown-great-barrington-declaration-1540200",
+            "urlToImage": "https://d.newsweek.com/en/full/1655022/tesla-ceo-elon-musk.jpg",
+            "publishedAt": "2020-10-19T10:49:38Z",
+            "content": "Elon Musk has once again called for an end to lockdown measures intended to slow the spread of COVID-19. The Tesla CEO has been one of the most high-profile critics of lockdown and has repeatedly dow\u2026 [+2952 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "May Teng",
+            "title": "The CEO of Hinge thinks of employees as 'customers' of company culture. Here's how he's using this strategy to uncover and address burnout during the pandemic.",
+            "description": "Summary List Placement\n\nFor Hinge founder and CEO Justin McLeod, the coronavirus pandemic has brought with it a set of unique challenges and stressors.\u00a0\nLike many companies across the US, Hinge transitioned its employees to working from home in March. Since t\u2026",
+            "url": "https://www.businessinsider.com/ceo-hinge-leading-coronavirus-pandemic-company-culture-burnout-2020-10",
+            "urlToImage": "https://i.insider.com/5f85fdbdfd1f49001964d5e4?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T12:00:00Z",
+            "content": "For Hinge founder and CEO Justin McLeod, the coronavirus pandemic has brought with it a set of unique challenges and stressors.\u00a0\r\nLike many companies across the US, Hinge transitioned its employees t\u2026 [+5395 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier",
+            "title": "Tesla appears to have quietly killed its 7-day, no questions asked return policy (TSLA)",
+            "description": "Summary List PlacementTesla's generous, 7-day return policy appears to have been quietly nixed.\nAs recently as September 30, Tesla's website explained the flexible return policy: \"We are confident that you will feel great about your new vehicle, and so are gi\u2026",
+            "url": "https://www.businessinsider.com/teslas-7-day-return-policy-appears-to-have-been-killed-2020-10",
+            "urlToImage": "https://i.insider.com/5f8daab8c21cfb0019468c27?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T15:21:01Z",
+            "content": "Tesla's generous, 7-day return policy appears to have been quietly nixed.\r\nAs recently as September 30, Tesla's website explained the flexible return policy: \"We are confident that you will feel grea\u2026 [+1459 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Dean",
+            "title": "NASA gave Nokia $14.1 million to build a 4G network on the moon",
+            "description": "Summary List Placement\n\nTelecom equipment supplier Nokia will use a $14.1 million grant to build the moon's first wireless network as part of NASA's plans to establish a human presence there.\nNASA is investing the money in Nokia-owned American research compan\u2026",
+            "url": "https://www.businessinsider.com/nasa-nokia-4g-network-moon-2020-10",
+            "urlToImage": "https://i.insider.com/5f8d7b08c21cfb0019468b0d?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T12:24:54Z",
+            "content": "Telecom equipment supplier Nokia will use a $14.1 million grant to build the moon's first wireless network as part of NASA's plans to establish a human presence there.\r\nNASA is investing the money in\u2026 [+2675 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "Tesla scales back its warranty on used cars",
+            "description": "Tesla has quietly made it less appealing to buy one of its cars used. As Electrek points out, just days ago, Tesla offered a two- to four-year warranty on used Model S and Model X vehicles. However, visit the company\u2019s website today and you\u2019ll see th...",
+            "url": "https://www.engadget.com/tesla-warranty-214230140.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F5d1face0-1251-11eb-b7ea-5d08b96688c3&client=amp-blogside-v2&signature=bb055706efb952fce887c05122f918dd823d9e6e",
+            "publishedAt": "2020-10-19T21:42:30Z",
+            "content": "Tesla has quietly made it less appealing to buy one of its cars used. As Electrek points out, just days ago, Tesla offered a two- to four-year warranty on used Model S and Model X vehicles. However, \u2026 [+882 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Tesla reportedly cuts its four-year used car warranty to just one year",
+            "description": "Tesla slashed its used car warranty policy. The automaker previously offered used car buyers up to four years of warranty coverage, but that has now been reduced to just one year.",
+            "url": "https://www.theverge.com/2020/10/19/21523278/tesla-used-car-warranty-reduction-model-s-x",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/NtrXLlFjYSqxLfRFBG6QpA2MjeQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10752833/acastro_180430_1777_tesla_0004.jpg",
+            "publishedAt": "2020-10-19T17:03:22Z",
+            "content": "More belt-tightening ahead of Q3 report?\r\nIllustration by Alex Castro / The Verge\r\nTesla has slashed its used car warranty in another round of what could be seen as belt-tightening ahead of what is e\u2026 [+1597 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "Elon Musk says SpaceX has a 'fighting chance' of sending its giant Starship rocket to Mars in 2024 \u2014 2 years later than previously hoped",
+            "description": "SpaceX founder Elon Musk previously set an \"aspirational\" timeline for a Mars launch by 2022. Its Starship rocket is still a prototype.",
+            "url": "https://www.businessinsider.com/spacex-starship-mars-elon-musk-rocket-2020-10",
+            "urlToImage": "https://i.insider.com/5f5233dce6ff30001d4e70e4?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T15:28:04Z",
+            "content": "SpaceX founder Elon Musk said Friday the company has a \"fighting chance\" of sending its Starship rocket to Mars in 2024 \u2014 two years later than hoped.\r\nDuring Mars Society's 2020 virtual conference, M\u2026 [+1674 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "podcast@cnet.com (CNET.com), CNET",
+            "title": "Starlink satellites launched, Musk looks to Mars",
+            "description": "In today's top stories, SpaceX has launched more satellites, Elon Musk thinks they'll go to Mars in 2024 and NASA's Osiris-Rex is set to land on an asteroid on Tuesday.",
+            "url": "http://feedproxy.google.com/~r/allcnetvideopodcasts/~3/hiYuhNufUR0/TT201019_539116_740.mp4",
+            "urlToImage": null,
+            "publishedAt": "2020-10-19T12:00:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "LaToya Harding",
+            "title": "Nikola Shares Recover Some Losses as Investors Await General Motors Deal",
+            "description": "General Motors and Nikola have been in ongoing talks about a potential partnership deal worth $2 billion.",
+            "url": "https://www.newsweek.com/nikola-shares-investors-general-motors-deal-1540212",
+            "urlToImage": "https://d.newsweek.com/en/full/1655042/waymo-driverless-cars.jpg",
+            "publishedAt": "2020-10-19T14:27:34Z",
+            "content": "Nikola shares recovered some of their losses on Monday after the Detroit carmaker slipped 16 percent on Friday as investors worried that General Motors would decide against taking a stake in the comp\u2026 [+3671 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "klee@businessinsider.com (Kristen Lee)",
+            "title": "If you're shopping for an EV, consider these great deals from Jaguar, Audi, and Nissan before going straight for a Tesla",
+            "description": "You can get the all-electric 2020 Nissan Leaf for about $16,000 off and a 2019 Audi E-Tron for almost $20,000 off.",
+            "url": "https://www.businessinsider.com/ev-deals-20000-off-on-jaguar-audi-and-nissan-2020-10",
+            "urlToImage": "https://i.insider.com/5f8db3199e9fe4001900a17a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T16:28:16Z",
+            "content": "Just because it's currently a seller's market doesn't mean that you still can't score a good deal on a new car \u2014 especially if you go electric. Save the planet, save some money, make the neighbors je\u2026 [+3662 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "Tesla will gain another 14% as company closes in on 500,000 annual deliveries, Wedbush says",
+            "description": "Strong demand brings Tesla closer to hitting 500,000 deliveries in 2020, a mere \"pipe dream\" for the automaker earlier this year, Wedbush said.",
+            "url": "https://www.businessinsider.com/tesla-stock-price-target-lifted-china-demand-deliveries-pace-wedbush-2020-10",
+            "urlToImage": "https://i.insider.com/5f8d7e5cc21cfb0019468b15?format=jpeg",
+            "publishedAt": "2020-10-19T12:50:16Z",
+            "content": "Odd Andersen/AFP via Getty Images\r\n<ul><li>Strong third-quarter deliveries set Tesla up for a healthy earnings beat on Wednesday and a sales milestone before the year is out, Wedbush analysts said Fr\u2026 [+2968 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "Dow plunges 411 points as withering stimulus hopes prompt late sell-off",
+            "description": "Stocks extended afternoon losses after House Speaker Nancy Pelosi told Democrats that significant obstacles remain in talks to reach a stimulus deal.",
+            "url": "https://www.businessinsider.com/stock-market-news-today-economic-stimulus-hurdles-coronavirus-cases-selloff-2020-10",
+            "urlToImage": "https://i.insider.com/5f46151742f43f001ddff0c8?format=jpeg",
+            "publishedAt": "2020-10-19T20:10:37Z",
+            "content": "Getty Images\r\n<ul><li>US stocks extended losses into Monday's close as a lack of stimulus progress cut into hopes for a pre-election deal.</li><li>House Speaker Nancy Pelosi expedited talks on Sunday\u2026 [+4879 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "US stocks climb on investor hopes for stimulus ahead of Tuesday deadline",
+            "description": "Stimulus hopes offset concerns around rising COVID-19 case counts. The US notched its fifth-straight day of more than 50,000 new cases.",
+            "url": "https://www.businessinsider.com/stock-market-news-today-dow-sp500-pelosi-stimulus-deadline-2020-10",
+            "urlToImage": "https://i.insider.com/5a37dc2fec1ade2e714a5c4f?format=jpeg",
+            "publishedAt": "2020-10-19T14:03:36Z",
+            "content": "Getty Images\r\n<ul><li>US stocks gained as investors maintained optimism for Democrats and Republicans to pass fresh stimulus ahead of the November elections.</li><li>House Speaker Nancy Pelosi expedi\u2026 [+4363 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla (TSLA) to Start Exporting China-Made Model 3 Cars to Europe - Gooruf",
+            "description": "Tesla Inc. will start exporting Model 3 cars made at its gigafactory on the outskirts of Shanghai to Europe from later this month, the automaker said in a statement sent via WeChat. The company\u2019s Shanghai factory -- its first outside the U.S. -- opened for lo\u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-19/tesla-to-start-exporting-china-made-model-3-cars-to-europe",
+            "urlToImage": "https://gooruf.com/wpraw/asia/news/wp-content/uploads/2019/12/post_default.jpg",
+            "publishedAt": "2020-10-19T14:48:45Z",
+            "content": "Article summary\r\nTesla Inc. will start exporting Model 3 cars made at its gigafactory on the outskirts of Shanghai to Europe from later this month, the automaker said in a statement sent via WeChat. \u2026 [+702 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "US stocks climb on investor hope for stimulus ahead of Tuesday deadline",
+            "description": "Stimulus hopes offset concerns around rising COVID-19 case counts. The US notched its fifth-straight day of more than 50,000 new cases.",
+            "url": "https://www.businessinsider.com/stock-market-news-today-indexes-reaction-stimulus-hope-covid-cases-2020-10",
+            "urlToImage": "https://i.insider.com/5f8d896a9e9fe4001900a025?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T13:34:12Z",
+            "content": "<ul><li>US stocks gained as investors maintained optimism for Democrats and Republicans to pass fresh stimulus ahead of the November elections.</li><li>House Speaker Nancy Pelosi expedited talks on S\u2026 [+4378 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ddefrancesco@businessinsider.com (Dan DeFrancesco)",
+            "title": "Inside Ray McGuire's mayoral run \u2014 Innovation at QVC and HSN \u2014 Wall Street's plan for offices",
+            "description": "The top finance stories for October 19, including the latest news on Ray McGuire's bid for NYC mayor and how QVC and HSN are innovating.",
+            "url": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-19-2020-10",
+            "urlToImage": "https://i.insider.com/5f8a154ad260780019341fbd?width=1200&format=jpeg",
+            "publishedAt": "2020-10-19T10:20:00Z",
+            "content": "Welcome back.\r\nWhile all the big US banks have already posted their third-quarter earnings, there are plenty of interesting companies still to report. This week includes IBM, AT&amp;T, and Tesla.\r\nIf\u2026 [+2298 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bwinck@businessinsider.com (Ben Winck)",
+            "title": "Markets are pricing in a Biden victory and Democratic Senate to fuel massive stimulus in 2021, JPMorgan says",
+            "description": "\"There could be some disappointment\" if Republicans maintain their Senate majority and curtail Democrats' stimulus efforts, the bank added.",
+            "url": "https://www.businessinsider.com/markets-outlook-biden-election-victory-democratic-senate-fiscal-stimulus-jpmorgan-2020-10",
+            "urlToImage": "https://i.insider.com/5f8da1c5c21cfb0019468bbf?format=jpeg",
+            "publishedAt": "2020-10-19T16:12:50Z",
+            "content": "BRENDAN SMIALOWSKI/AFP via Getty Images\r\n<ul><li>Investors are increasingly prepping for a Democratic sweep in November, as well as front-loaded stimulus to boost the economic recovery, JPMorgan said\u2026 [+4059 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "SpaceX launched a Starlink mission Sunday, another on tap for Wednesday",
+            "description": "Don't miss a gallery of breathtaking images showing the rocket recovery process.",
+            "url": "https://arstechnica.com/science/2020/10/spacex-launched-a-starlink-mission-sunday-another-on-tap-for-wednesday/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/50501515611_a29e04cb2e_k-760x380.jpg",
+            "publishedAt": "2020-10-19T14:21:07Z",
+            "content": "SpaceX has employed its used rockets to build out its Starlink constellation, with Sunday morning's launch adding 60 more satellites. This was the 13th launch of \"operational\" satellites, bringing to\u2026 [+2477 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla Powerwall Rival Seeks to Bring Hydrogen Into Your Home - Bloomberg",
+            "description": "Tesla Powerwall Rival Seeks to Bring Hydrogen Into Your Home\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-19/tesla-powerwall-rival-seeks-to-bring-hydrogen-into-your-home",
+            "urlToImage": null,
+            "publishedAt": "2020-10-19T13:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Patturaja  Murugaboopathy, Gaurav Dogra",
+            "title": "Founder-led firms outpacing CEO-led ones in market recovery",
+            "description": "Technology companies led by their founders have been the standout winners in share price performance and profit growth this year, beating companies led by other managers, according to a Reuters analysis.",
+            "url": "https://uk.reuters.com/article/uk-global-companies-founders-idUKKBN2741UK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201019&t=2&i=1538040376&r=LYNXMPEG9I15O&w=800",
+            "publishedAt": "2020-10-19T13:52:54Z",
+            "content": "(Reuters) - Technology companies led by their founders have been the standout winners in share price performance and profit growth this year, beating companies led by other managers, according to a R\u2026 [+3010 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Barclay Ballard",
+            "title": "Stolen VPN credentials at the heart of the infamous Twitter hack",
+            "description": "A new report has revealed that a major Twitter hack was carried out by gaining employees' VPN credentials.",
+            "url": "https://www.techradar.com/news/stolen-vpn-credentials-at-the-heart-of-the-infamous-twitter-hack",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WxBdsnxM9xDcYsnCmExiT3-1200-80.jpg",
+            "publishedAt": "2020-10-19T13:28:42Z",
+            "content": "The massive Twitter hack that took place back in July came about due to stolen VPN credentials. It has now been revealed that Twitter employees were tricked into handing over their account details by\u2026 [+1770 chars]"
+        }
+    ]
+}

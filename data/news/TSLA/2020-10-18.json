@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "After Math: Apple's unveils its inaugural 5G phone amid a week of firsts",
+            "description": "The news cycle has been especially hectic as of late, filled with major revelations, announcements and product premieres seemingly happening right on top of one another. From Apple unveiling the iPhone 12 to Sony revealing the PS5\u2019s user interface \u2014 and the P\u2026",
+            "url": "https://www.engadget.com/after-math-apples-unveils-its-inaugural-5-g-phone-amid-a-week-of-firsts-033015703.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F9bb85400-0f24-11eb-9ff6-15f915240ed1&client=amp-blogside-v2&signature=02fcea5ae3e514da343523b7d7523f6d8f48a028",
+            "publishedAt": "2020-10-18T15:30:15Z",
+            "content": "October 22nd is shaping up to be a big day for Virgin Galactic. The company confirmed last week that it is readying SpaceShipTwo for a new round of flight tests beginning on that date. Should the lau\u2026 [+1018 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thomas Pallini",
+            "title": "I visited a COVID-19-themed boutique selling high-priced 'essentials' to wealthy shoppers in high-end malls alongside Hermes and Louis Vuitton stores \u2013 see inside",
+            "description": "Summary List Placement\n\nCOVID-19 Essentials is one of the newest additions to The Mall at Short Hills, a high-end shopping mall near Morristown, New Jersey.\nA short drive from New York City and mere feet from the highway, the suburban mall boasts nearly 200 s\u2026",
+            "url": "https://www.businessinsider.com/covid-19-essentials-boutique-store-high-priced-face-masks-2020-10",
+            "urlToImage": "https://i.insider.com/5f88813ed2607800193419f1?width=1200&format=jpeg",
+            "publishedAt": "2020-10-18T12:12:00Z",
+            "content": "COVID-19 Essentials is one of the newest additions to The Mall at Short Hills, a high-end shopping mall near Morristown, New Jersey.\r\nA short drive from New York City and mere feet from the highway, \u2026 [+876 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John McCrank",
+            "title": "RPT-WALL ST WEEK AHEAD-Big tech nervousness prompts calls to diversify - Reuters",
+            "description": "As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and that new regulation might be coming have some investors diversifying beyond the rally leaders.",
+            "url": "https://www.reuters.com/article/usa-stocks-weekahead-idUSL1N2H71B4",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-18T13:02:00Z",
+            "content": "(Repeats with no changes)\r\nNEW YORK, Oct 16 (Reuters) - As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and\u2026 [+3987 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mark Matousek",
+            "title": "An Amazon delivery driver says Rivian's electric van could eliminate the transmission problems, dead batteries, and broken doors that can make his work a pain (AMZN)",
+            "description": "Summary List Placement\n\nEarlier this month, Amazon unveiled one of the delivery vans it commissioned from the electric-vehicle startup Rivian. The vans could hit the road as early as 2022, and the retail giant expects 100,000 of them to be delivering packages\u2026",
+            "url": "https://www.businessinsider.com/amazon-driver-rivian-electric-van-reaction-2020-10",
+            "urlToImage": "https://i.insider.com/5f88a1c69e9fe400190099a7?width=1200&format=jpeg",
+            "publishedAt": "2020-10-18T12:31:00Z",
+            "content": "Earlier this month, Amazonunveiled one of the delivery vans it commissioned from the electric-vehicle startup Rivian. The vans could hit the road as early as 2022, and the retail giant expects 100,00\u2026 [+636 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Matthew DeBord)",
+            "title": "The Tesla trade is the best way to invest in a solution to global warming",
+            "description": "Tesla is directly involved in the green sector because it sells only green technologies. So t looks like a nice, easy way to do some green investing.",
+            "url": "https://www.businessinsider.com/tesla-trade-invest-in-a-solution-to-global-warming-2020-10",
+            "urlToImage": "https://i.insider.com/5f888f069e9fe40019009918?width=1200&format=jpeg",
+            "publishedAt": "2020-10-18T12:53:00Z",
+            "content": "Investing in the green economy is tricky, mainly because environmentally-responsible investments are still fairly esoteric, to people who aren't professionals or committed to doing a lot of research.\u2026 [+5274 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Horowitz, CNN Business",
+            "title": "Lockdowns in Europe are a warning to the United States",
+            "description": "The coronavirus is surging again in Europe, forcing harsh new restrictions in London and Paris as governments carefully weigh their next steps. That's bad news for the region's economic recovery \u2014 and puts the United States on notice ahead of a difficult wint\u2026",
+            "url": "https://www.cnn.com/2020/10/18/investing/stocks-week-ahead/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201016100010-coronavirus-italy-1013-super-tease.jpg",
+            "publishedAt": "2020-10-18T12:52:39Z",
+            "content": "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.\r\nLondon (CNN Business)The coronavirus is surging again in Europe, for\u2026 [+4931 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John McCrank",
+            "title": "RPT-WALL ST WEEK AHEAD-Big tech nervousness prompts calls to diversify - Reuters India",
+            "description": "As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and that new regulation might be coming have some investors diversifying beyond the rally leaders.",
+            "url": "https://www.reuters.com/article/usa-stocks-weekahead-idINL1N2H71B4",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-18T13:00:00Z",
+            "content": "(Repeats with no changes)\r\nNEW YORK, Oct 16 (Reuters) - As a technology-driven rally brings U.S. stock indexes within striking distance of fresh records, concerns that big names are over-extended and\u2026 [+3987 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Kate Duffy)",
+            "title": "Elon Musk's SpaceX keeps winning US military contracts \u2014 here's why, according to an aerospace expert",
+            "description": "Steve Nutt, professor at the University of Southern California, says Elon Musk's SpaceX is now the main alternative to traditional contractors.",
+            "url": "https://www.businessinsider.com/elon-musk-spacex-military-contracts-dod-space-force-2020-10",
+            "urlToImage": "https://i.insider.com/5f8881809e9fe400190098e2?width=1200&format=jpeg",
+            "publishedAt": "2020-10-18T11:30:00Z",
+            "content": "Elon Musk's SpaceX has secured three military contracts in as many months \u2014 and one aerospace expert believes the deals won't end there.\r\nThe US Department of Defense (DoD) increasingly wants to tran\u2026 [+1947 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Tesla restores free premium in-car internet for some owners",
+            "description": "Tesla currently reserves some of its in-car internet features for paying subscribers, but it might be making an exception for some owners. Drivers talking to Electrek say they\u2019re suddenly receiving Premium Connectivity features for free, including sa...",
+            "url": "https://www.engadget.com/tesla-restores-premium-connectivity-for-some-car-owners-191203715.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fce86a7c0-1171-11eb-9fef-76c211bacea2&client=amp-blogside-v2&signature=8ca183c254518854f1f95cc2067d64e2037d768a",
+            "publishedAt": "2020-10-18T19:12:03Z",
+            "content": "Tesla currently reserves some of its in-car internet features for paying subscribers, but it might be making an exception for some owners. Drivers talking to Electrek say they\u2019re suddenly receiving P\u2026 [+356 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tlevin@businessinsider.com (Tim Levin)",
+            "title": "This $17,000 German-made kit gives the Tesla Model 3 a muscular makeover. Take a look at how it upgrades the most popular EV in America.",
+            "description": "German car-customization firm Startech unveiled a bunch of modifications for the Model 3 that give the EV an aggressive new look.",
+            "url": "https://www.businessinsider.com/german-body-kit-brabus-startech-new-tesla-model-3-redesign-2020-10",
+            "urlToImage": "https://i.insider.com/5f88c970d260780019341bce?width=1200&format=jpeg",
+            "publishedAt": "2020-10-18T12:48:00Z",
+            "content": "The Tesla Model 3 is far and away the best-selling electric car in the country, making up nearly half of all US EV sales in 2019. That popularity has given rise to a massive market for Model 3 body k\u2026 [+780 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ijibilian@businessinsider.com (Isabella Jibilian)",
+            "title": "Federal inquiries, allegations of sexual assault, a resignation, and billions on the line: Here's everything you need to know about Nikola and its founder's controversial last 5 weeks",
+            "description": "Negotiations are still underway between GM and Nikola. If the deal isn't done by December 3, then either side could walk away.",
+            "url": "https://www.businessinsider.com/nikola-trevor-milton-controversies-gm-general-motors-deal-hindenberg-explained-2020-10",
+            "urlToImage": "https://i.insider.com/5f8922f79e9fe40019009abf?width=1200&format=jpeg",
+            "publishedAt": "2020-10-18T11:30:00Z",
+            "content": "In early September, automotive giant General Motors announced a $2 billion deal with electric-vehicle startup Nikola, with plans to produce the Nikola Badger, an electric pickup truck. But just two d\u2026 [+11153 chars]"
+        }
+    ]
+}

@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 122,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Timothy B. Lee",
+            "title": "The technology behind the iPhone lidar may be coming soon to cars",
+            "description": "How Apple made affordable lidar with no moving parts for the iPhone.",
+            "url": "https://arstechnica.com/cars/2020/10/the-technology-behind-the-iphone-lidar-may-be-coming-soon-to-cars/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/GettyImages-1229061577-760x380.jpg",
+            "publishedAt": "2020-10-15T16:40:29Z",
+            "content": "The story is similar with single photon avalanche diodes. As the name implies, these are sensitive enough to detect a single photon. High sensitivity means they suffer from a lot of noise. As a resul\u2026 [+6571 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "TSMC third-quarter profit surges 36%, beating market forecasts - Reuters India",
+            "description": "Taiwan Semiconductor Manufacturing Co Ltd (TSMC) reported a 35.9% jump in quarterly net profit, boosted by robust demand for products requiring high-end chips and as Apple Inc readies a new iPhone.",
+            "url": "https://in.reuters.com/article/tsmc-results-idINKBN2700KY",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537534819&r=LYNXMPEG9E0BF&w=800",
+            "publishedAt": "2020-10-15T05:55:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Taiwan Semiconductor Manufacturing Co (TSMC) is seen on one of its office buildings in Tainan, Taiwan August 20, 2020. REUTERS/Ann Wang/File Photo\r\nTAIPEI (R\u2026 [+573 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "TSMC Q3 profit surges 36%, beating market forecasts - Reuters UK",
+            "description": "Taiwan Semiconductor Manufacturing Co Ltd (TSMC) reported a 35.9% jump in quarterly net profit, boosted by robust demand for products requiring high-end chips and as Apple Inc readies a new iPhone.",
+            "url": "https://uk.reuters.com/article/tsmc-results-idUKT8N2GB003",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-15T05:44:00Z",
+            "content": "By Reuters Staff\r\nTAIPEI, Oct 15 (Reuters) - Taiwan Semiconductor Manufacturing Co Ltd (TSMC) reported a 35.9% jump in quarterly net profit, boosted by robust demand for products requiring high-end c\u2026 [+458 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "HomePod will soon have Dolby Atmos support for Apple TV 4K",
+            "description": "An upcoming home cinema feature will soon enable Apple HomePod to blast Dolby Atmos audio from Apple TV 4K. The feature, which is on the way as part of a future firmware update, will also support 5.1 and 7.1 channel audio (via The Verge). Only the regular Hom\u2026",
+            "url": "https://www.engadget.com/apple-homepod-dolby-atmos-apple-tv-4k-142055970.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Ff1f1cb60-0eef-11eb-93f5-8797102234b1&client=amp-blogside-v2&signature=adc6aa17fa1135aa3b2749f2ede4e1edf354cda9",
+            "publishedAt": "2020-10-15T14:20:55Z",
+            "content": "An upcoming home cinema feature will soon enable Apple HomePod to blast Dolby Atmos audio from Apple TV 4K. The feature, which is on the way as part of a future firmware update, will also support 5.1\u2026 [+428 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Apple\u2019s HomePod will soon support Dolby Atmos with the Apple TV 4K",
+            "description": "Apple\u2019s HomePod smart speaker will soon be able to output Dolby Atmos audio from an Apple TV 4K, as well as 5.1 and 7.1 channel audio, with an upcoming update. It works with either one or two of the speakers, but not the mini.",
+            "url": "https://www.theverge.com/2020/10/15/21517321/apple-homepod-dolby-atmos-tv-4k-virtual-surround-sound-5-1-7-1",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/BWkOZ5nAZfEl6U99xBuWx1c01JE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10159615/jbareham_180202_2266_0057.jpg",
+            "publishedAt": "2020-10-15T10:19:13Z",
+            "content": "With new home cinema feature\r\nDolby Atmos will be supported by the pre-existing HomePod, but not the HomePod mini.\r\nPhoto by James Bareham / The Verge\r\nApples HomePod is getting a lot more useful as \u2026 [+1829 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "Verizon forced to pull ad that claimed firefighters need Verizon 5G",
+            "description": "Ad dispute echoes 2018 controversy over Verizon throttling fire department.",
+            "url": "https://arstechnica.com/tech-policy/2020/10/verizon-forced-to-pull-ad-that-claimed-firefighters-need-verizon-5g/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/getty-firefighter-760x380.jpg",
+            "publishedAt": "2020-10-15T17:13:38Z",
+            "content": "Verizon finally expanded 5G coverage this week\r\nVerizon didn't even offer any 5G on non-millimeter-wave bands until this week, when it turned on 5G in lower-frequency bands in over 1,800 cities. Even\u2026 [+3107 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lisa Eadicicco",
+            "title": "Apple's iPhone 12 Mini is the small phone everyone has been waiting for after years of giant screens (AAPL)",
+            "description": "Summary List PlacementForget 5G \u2014 Apple is bringing back the smaller-sized smartphone.\nApple unveiled the iPhone 12 Mini earlier this week, a new version of the iPhone 12 that comes with a 5.4-inch screen. That makes the iPhone 12 Mini the smallest iPhone App\u2026",
+            "url": "https://www.businessinsider.com/apple-iphone-12-mini-size-smaller-iphone-se-dimensions-comparison-2020-10",
+            "urlToImage": "https://i.insider.com/5f87a50bea23a5001903d793?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T15:09:55Z",
+            "content": "Forget 5G \u2014 Apple is bringing back the smaller-sized smartphone.\r\nApple unveiled the iPhone 12 Mini earlier this week, a new version of the iPhone 12 that comes with a 5.4-inch screen. That makes the\u2026 [+5201 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Dutch telecom KPN picks Ericsson over Huawei for 5G network - Reuters",
+            "description": "KPN <KPN.AS> has chosen Sweden's Ericsson <ERICb.ST> to build core elements of its new 5G mobile network following a decision last year not to select China's Huawei, the Dutch telecoms company said on Thursday.",
+            "url": "https://www.reuters.com/article/us-kpn-5g-ericsson-idUSKBN2700UW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537546046&r=LYNXMPEG9E0HC&w=800",
+            "publishedAt": "2020-10-15T07:33:00Z",
+            "content": "By Reuters Staff\r\nAMSTERDAM (Reuters) - KPN KPN.AS has chosen Sweden's Ericsson ERICb.ST to build core elements of its new 5G mobile network following a decision last year not to select China's Huawe\u2026 [+786 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Dutch telecom KPN picks Ericsson over Huawei for 5G network - Reuters UK",
+            "description": "KPN <KPN.AS> has chosen Sweden's Ericsson <ERICb.ST> to build core elements of its new 5G mobile network following a decision last year not to select China's Huawei, the Dutch telecoms company said on Thursday.",
+            "url": "https://uk.reuters.com/article/us-kpn-5g-ericsson-idUKKBN2700UW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537546046&r=LYNXMPEG9E0HC&w=800",
+            "publishedAt": "2020-10-15T07:34:00Z",
+            "content": "By Reuters Staff\r\nAMSTERDAM (Reuters) - KPN KPN.AS has chosen Sweden's Ericsson ERICb.ST to build core elements of its new 5G mobile network following a decision last year not to select China's Huawe\u2026 [+786 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sergio Goncalves",
+            "title": "Vodafone may shun Portugal 5G auction unless 'illegal' rules are changed - Reuters UK",
+            "description": "Vodafone may shun Portugal's planned auction of 5G frequency licences unless the regulator changes its proposed rules, which Vodafone Cluster Europe CEO labelled on Thursday as illegal and discriminatory against established players.",
+            "url": "https://www.reuters.com/article/uk-portugal-telecoms-vodafone-5g-idUKKBN270259",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-15T14:53:00Z",
+            "content": "LISBON (Reuters) - Vodafone may shun Portugals planned auction of 5G frequency licences unless the regulator changes its proposed rules, which Vodafone Cluster Europe CEO labelled on Thursday as ille\u2026 [+2243 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sergio Goncalves",
+            "title": "Vodafone may shun Portugal 5G auction unless 'illegal' rules are changed - Reuters",
+            "description": "Vodafone may shun Portugal's planned auction of 5G frequency licences unless the regulator changes its proposed rules, which Vodafone Cluster Europe CEO labelled on Thursday as illegal and discriminatory against established players.",
+            "url": "https://www.reuters.com/article/portugal-telecoms-vodafone-5g-idUSL8N2H63QD",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-15T13:47:00Z",
+            "content": "LISBON, Oct 15 (Reuters) - Vodafone may shun Portugals planned auction of 5G frequency licences unless the regulator changes its proposed rules, which Vodafone Cluster Europe CEO labelled on Thursday\u2026 [+2322 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "U.S. judge 'not inclined' to reverse decision on WeChat app store ban - Reuters Canada",
+            "description": "A U.S. judge in San Francisco on Thursday said she was \"not inclined\" to reverse her decision blocking the government from barring Apple Inc <AAPL.O> and Alphabet Inc's Google <GOOGL.O> from offering WeChat for download in U.S. app stores.",
+            "url": "https://ca.reuters.com/article/us-usa-wechat-idCAKBN270356",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537662993&r=LYNXMPEG9E1WT&w=800",
+            "publishedAt": "2020-10-15T23:18:00Z",
+            "content": "By David Shepardson\r\nWASHINGTON (Reuters) - A U.S. judge in San Francisco on Thursday said she was \"not inclined\" to reverse her decision blocking the government from barring Apple Inc AAPL.O and Alp\u2026 [+1986 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sasha Lekach",
+            "title": "Unknown song stuck in your head? Hum it to Google.",
+            "description": "If you've ever had a song stuck in your head but didn't know the words or the artist, you know it can be an all-consuming mission to name that tune.\nYou're hard-pressed to search for it when all you know is the chorus goes something like, \"Hmmm, hmm, hmm-hmmm\u2026",
+            "url": "https://mashable.com/article/google-search-hum-song/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F15%252Fab%252F66f58db4259b42cea5ed16c7b7006858.5b868.png%252F1200x630.png?signature=ynJbcRyyLvMHYQCguzTaBBO_Fq0=",
+            "publishedAt": "2020-10-15T22:16:25Z",
+            "content": "If you've ever had a song stuck in your head but didn't know the words or the artist, you know it can be an all-consuming mission to name that tune.\r\nYou're hard-pressed to search for it when all you\u2026 [+1253 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Nanoleaf adds large and small triangles to its revamped Shape product line",
+            "description": "Nanoleaf launched the next generation of its light panels in July. Called Shape, this new product looks like the company\u2019s original offering, but sports better connectors, a simpler mounting solution, and most importantly, these panels can work with different\u2026",
+            "url": "http://techcrunch.com/2020/10/15/nanoleaf-adds-large-and-small-triangles-to-its-revamped-shape-product-line/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/Triangles_15x_Beta_Packaging_Living-Room.jpg?w=764",
+            "publishedAt": "2020-10-15T17:29:22Z",
+            "content": "Nanoleaf launched the next generation of its light panels in July. Called Shape, this new product looks like the companys original offering, but sports better connectors, a simpler mounting solution,\u2026 [+1444 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Tim Marcin",
+            "title": "Rudy Giuliani uploaded racist video to YouTube in which he's seen mocking an Asian accent",
+            "description": "Rudy Giuliani, cybersecurity expert extraordinaire, accidentally uploaded a video to his YouTube channel where he did a racist impression of Asian accents.\u00a0\nGiuliani, President Donald Trump's personal lawyer, interviewed former White House Press Secretary Sea\u2026",
+            "url": "https://mashable.com/article/rudy-giuliani-video-mocking-asian-accent/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F15%252F69%252F2674f05548534ce4bec38df3e46a8f02.cf862.png%252F1200x630.png?signature=qoNtB086I5TwuoDu3GLfp3ZTS3w=",
+            "publishedAt": "2020-10-15T14:47:58Z",
+            "content": "Rudy Giuliani, cybersecurity expert extraordinaire, accidentally uploaded a video to his YouTube channel where he did a racist impression of Asian accents.\u00a0\r\nGiuliani, President Donald Trump's person\u2026 [+1803 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "",
+            "title": "iPhone 12 comes with free EarPods in France thanks to radiation laws",
+            "description": "Apple announced on Tuesday that it won\u2019t be shipping the four new iPhone 12 models with EarPods or a power adapter, as a way to prevent them from ending up in landfills. In France, however, the new devices will have earphones in the coffret, likely thanks to \u2026",
+            "url": "https://www.engadget.com/apple-iphone-12-france-earpods-included-122501246.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F8730bdf0-0eda-11eb-8ed7-5d8f38fe5e0a&client=amp-blogside-v2&signature=d3e99279e8cce59729a992b8b9e145a2e440af1f",
+            "publishedAt": "2020-10-15T12:25:01Z",
+            "content": "Apple announced on Tuesday that it will ship the new iPhone 12 models without EarPods or a power adapter, as a way to prevent the accessories from ending up in landfills. In France, however, the new \u2026 [+631 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Medha Singh",
+            "title": "Wall Street futures fall with focus on jobless claims data - Reuters India",
+            "description": "U.S. stock index futures dropped on Thursday as investors braced for weekly jobless claims, which could compound fears of a stalling economic recovery a day after Treasury Secretary Steven Mnuchin dashed hopes for more fiscal aid before the election.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-idINKBN2701ER",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537570031&r=LYNXMPEG9E0VF&w=800",
+            "publishedAt": "2020-10-15T10:50:00Z",
+            "content": "FILE PHOTO: A Wall Street sign is pictured outside the New York Stock Exchange in the Manhattan borough of New York City, New York, U.S., October 2, 2020. REUTERS/Carlo Allegri/File Photo\r\n(Reuters) \u2026 [+1684 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "HK media tycoon Jimmy Lai says police raided his private office - Reuters",
+            "description": "Hong Kong media tycoon and pro-democracy activist Jimmy Lai said police raided his private offices earlier on Thursday, months after he was arrested on suspicion of violating the city's national security law.",
+            "url": "https://www.reuters.com/article/us-hongkong-security-idUSKBN2700U8",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537545228&r=LYNXMPEG9E0GM&w=800",
+            "publishedAt": "2020-10-15T07:27:00Z",
+            "content": "By Reuters Staff\r\nHONG KONG (Reuters) - Hong Kong media tycoon and pro-democracy activist Jimmy Lai said police raided his private offices earlier on Thursday, months after he was arrested on suspici\u2026 [+1445 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "HK media tycoon Jimmy Lai says police raided his private office - Reuters India",
+            "description": "Hong Kong media tycoon and pro-democracy activist Jimmy Lai said police raided his private offices earlier on Thursday, months after he was arrested on suspicion of violating the city's national security law.",
+            "url": "https://in.reuters.com/article/hongkong-security-idINKBN2700TS",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537548505&r=LYNXMPEG9E0HZ&w=800",
+            "publishedAt": "2020-10-15T07:51:00Z",
+            "content": "By Reuters Staff\r\nHONG KONG (Reuters) - Hong Kong media tycoon and pro-democracy activist Jimmy Lai said police raided his private offices earlier on Thursday, months after he was arrested on suspici\u2026 [+1445 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Medha Singh",
+            "title": "Wall Street futures fall with focus on jobless claims data - Reuters UK",
+            "description": "U.S. stock index futures dropped on Thursday as investors braced for weekly jobless claims, which could compound fears of a stalling economic recovery a day after Treasury Secretary Steven Mnuchin dashed hopes for more fiscal aid before the election.",
+            "url": "https://uk.reuters.com/article/us-usa-stocks-idUKKBN2701ER",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537570031&r=LYNXMPEG9E0VF&w=800",
+            "publishedAt": "2020-10-15T10:54:00Z",
+            "content": "FILE PHOTO: A Wall Street sign is pictured outside the New York Stock Exchange in the Manhattan borough of New York City, New York, U.S., October 2, 2020. REUTERS/Carlo Allegri/File Photo\r\n(Reuters) \u2026 [+1684 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Medha Singh",
+            "title": "Wall Street futures fall with focus on jobless claims data - Reuters UK",
+            "description": "U.S. stock index futures dropped on Thursday as investors braced for weekly jobless claims, which could compound fears of a stalling economic recovery a day after Treasury Secretary Steven Mnuchin dashed hopes for more fiscal aid before the election.",
+            "url": "https://www.reuters.com/article/usa-stocks-idUKL4N2H62QO",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-15T10:49:00Z",
+            "content": "(For a live blog on the U.S. stock market, click or type LIVE/ in a news window)\r\n* Futures down: Dow 0.99%, S&amp;P 1.08%, Nasdaq 1.60%\r\nOct 15 (Reuters) - U.S. stock index futures dropped on Thursd\u2026 [+1638 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "William Edwards",
+            "title": "GOLDMAN SACHS: Buy these 21 high-growth stocks that have huge upside potential as future index leaders",
+            "description": "Summary List Placement\n\nThe term index leader has taken on somewhat of a new meaning in 2020: the companies sitting at the top of indexes like the S&P 500 now make up a monstrous share of them.\nTo be exact, the top 5 companies in the S&P 500 \u2014 Apple, Microsof\u2026",
+            "url": "https://www.businessinsider.com/stock-picks-to-buy-21-potential-future-index-leaders-goldman-sachs-2020-10",
+            "urlToImage": "https://i.insider.com/5f874cce2a400c0019debb2a?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T12:47:37Z",
+            "content": "The term index leader has taken on somewhat of a new meaning in 2020: the companies sitting at the top of indexes like the S&amp;P 500 now make up a monstrous share of them.\r\nTo be exact, the top 5 c\u2026 [+1181 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "ZEN SOO / AP",
+            "title": "Hong Kong Police Raid Outspoken Media Tycoon Jimmy Lai\u2019s Office",
+            "description": "The raid came hours ahead of Lai\u2019s court appearance Thursday to face charges of joining an unauthorized assembly on June 4.",
+            "url": "https://time.com/5900326/hong-kong-police-raid-jimmy-lai/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/10/AP20289202808635.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2020-10-15T07:30:44Z",
+            "content": "HONG KONG \u2014 Hong Kong police raided the private offices of media tycoon and pro-democracy activist Jimmy Lai on Thursday, according to Lai\u2019s aide.\r\nLai\u2019s aide Mark Simon wrote in a post on Twitter th\u2026 [+1769 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Antonio Villas-Boas",
+            "title": "The new OnePlus 8T phone comes with top specs for $750 \u2014 it's available to preorder now, but it has serious competition from Samsung",
+            "description": "Summary List Placement\n<ul>\n<li>The OnePlus 8T costs $750 and is available to preorder from the OnePlus website now.</li>\n<li>It'll be available to preorder from T-Mobile on October 16, and the phone will be released and available to buy on October 23.\u00a0</li>\n\u2026",
+            "url": "https://www.businessinsider.com/oneplus-8t-specs-price-release-date-features",
+            "urlToImage": "https://i.insider.com/5f885eddea23a5001903d8e2?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T15:41:00Z",
+            "content": "When you buy through our links, we may earn money from our affiliate partners. Learn more.\r\nOnePlus\r\nOnePlus launched its latest phone on October 14. It's called the OnePlus 8T, it starts at $750, an\u2026 [+2851 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition",
+            "description": "Sit quietly for a moment and pay attention to the different sounds around you. You might hear appliances beeping, cars honking, a dog barking, someone sneezing. These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS pl\u2026",
+            "url": "http://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/cochl_team8.jpg?w=533",
+            "publishedAt": "2020-10-15T08:49:49Z",
+            "content": "Sit quietly for a moment and pay attention to the different sounds around you. You might hear appliances beeping, cars honking, a dog barking, someone sneezing. These are all noises Cochlear.ai, a Se\u2026 [+5622 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Stan Schroeder",
+            "title": "In France, you still get EarPods with new iPhones",
+            "description": "Incroyable!\u00a0\nApple may have stopped shipping its wired EarPods with new iPhones, but apparently its new policy doesn't apply to France.\u00a0\nAccording to MacRumors, every new iPhone shipped in that country will still come with EarPods. This is likely due to Frenc\u2026",
+            "url": "https://mashable.com/article/apple-earpods-france/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F15%252F99%252F8d2859da611848a6bf0a81162f91ae9a.2e0ff.jpg%252F1200x630.jpg?signature=ssFqAKaHBypPJsxUEr29Bei4zrQ=",
+            "publishedAt": "2020-10-15T13:52:39Z",
+            "content": "Incroyable!\u00a0\r\nApple may have stopped shipping its wired EarPods with new iPhones, but apparently its new policy doesn't apply to France.\u00a0\r\nAccording to MacRumors, every new iPhone shipped in that cou\u2026 [+1096 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Medha Singh, Shivani Kumaresan",
+            "title": "Wall Street futures fall with focus on jobless claims data - Reuters.com",
+            "description": "U.S. stock index futures dropped on Thursday as an unexpected rise in weekly jobless claims exacerbated fears of a stalling economic recovery a day after Treasury Secretary Steven Mnuchin dashed hopes for more fiscal aid before the election.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-idUSKBN2701ER",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537570031&r=LYNXMPEG9E0VF&w=800",
+            "publishedAt": "2020-10-15T12:47:00Z",
+            "content": "(Reuters) - U.S. stock index futures dropped on Thursday as an unexpected rise in weekly jobless claims exacerbated fears of a stalling economic recovery a day after Treasury Secretary Steven Mnuchin\u2026 [+2099 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nicole Wetsman",
+            "title": "When senior citizens are the early adopters",
+            "description": "Many senior living facilities use location tracking devices to monitor residents. During the coronavirus pandemic, they started to use them for COVID-19 contact tracing.",
+            "url": "https://www.theverge.com/21509117/contact-tracing-apps-digital-senior-nursing-homes",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XwA8TGk6uX9d4nrZ-ZXJAFUu380=/0x6:2040x1074/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21959622/acastro_201014_4240_00012.0.jpg",
+            "publishedAt": "2020-10-15T13:00:00Z",
+            "content": "Illustration by Alex Castro / The Verge\n\n\n Digital contact tracing wasn\u2019t up for debate in senior living facilities Steve Kasch\u2019s mom, Julia, was always worried about losing her keys. \u201cShe wasn\u2019t eve\u2026 [+21305 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mary Meisenzahl",
+            "title": "Amazon boasts third-party sellers as stars of Prime Day after report slams the company for exploiting sellers (AMZN)",
+            "description": "Summary List Placement\n\nAmazon held its annual Prime Day sale on October 13 and 14, with discounts on electronics and other big ticket items. The next day, instead of promoting overall sales figures, the online retailer emphasized how successful the event was\u2026",
+            "url": "https://www.businessinsider.com/amazon-promoted-third-party-successes-after-house-antitrust-report-2020-10",
+            "urlToImage": "https://i.insider.com/5f5a58d47ed0ee001e25e8cd?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T16:03:21Z",
+            "content": "Amazon held its annual Prime Day sale on October 13 and 14, with discounts on electronics and other big ticket items. The next day, instead of promoting overall sales figures, the online retailer emp\u2026 [+2378 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "Fastly plummets 31% after revenue projections disappoint due to less business with TikTok (FSLY)",
+            "description": "Summary List Placement\n\n<ul>\n<li>Fastly plummeted 31% on Thursday after it reported preliminary third quarter earnings results that missed analyst estimates.</li>\n<li>Fastly said its largest customer, TikTok, did less business with it in the quarter, leading \u2026",
+            "url": "https://www.businessinsider.com/fastly-stock-price-q3-earnings-tiktok-bytedance-disappoint-less-business-2020-10",
+            "urlToImage": "https://i.insider.com/5f36baabe89ebf001f044a3d?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T14:45:05Z",
+            "content": "<ul><li>Fastly plummeted 31% on Thursday after it reported preliminary third quarter earnings results that missed analyst estimates.</li><li>Fastly said its largest customer, TikTok, did less busines\u2026 [+2598 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Balance of Power: Sen. Cardin, Florida Politics, 5G (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-10-15/balance-of-power-sen-cardin-florida-politics-5g-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T02:43:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "IN CASE YOU MISSED IT\u2013Schedule of Reuters features from this week - Reuters India",
+            "description": "Every week, Reuters journalists produce scores of multimedia features and human-interest stories from around the world.",
+            "url": "https://www.reuters.com/article/reuters-schedule-icymi-idINL1N2H602Y",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-15T05:01:00Z",
+            "content": "By Reuters Staff\r\nOct 15 (Reuters) - Every week, Reuters journalists produce scores of multimedia features and human-interest stories from around the world.\r\nBelow are some engaging stories selected \u2026 [+5622 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "IN CASE YOU MISSED IT\u2013Schedule of Reuters features from this week - Reuters India",
+            "description": "Every week, Reuters journalists produce scores of multimedia features and human-interest stories from around the world.",
+            "url": "https://in.reuters.com/article/reuters-schedule-icymi-idINL1N2H602Y",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-15T05:01:00Z",
+            "content": "By Reuters Staff\r\nOct 15 (Reuters) - Every week, Reuters journalists produce scores of multimedia features and human-interest stories from around the world.\r\nBelow are some engaging stories selected \u2026 [+5622 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Forget 5G: MagSafe could be the biggest reason to buy an iPhone 12",
+            "description": "MagSafe opens the door to far more iPhone accessories, and ones that would be easier to use, thanks to how its magnetic design allows manufacturers and users to divide a case, charging capability and attachment points into separate modular components instead \u2026",
+            "url": "https://www.theverge.com/circuitbreaker/2020/10/14/21515490/apple-iphone-12-magsafe-accessories-ecosystem",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/kyQR6rT_GWDWRGubHh5-bgjV9x8=/0x83:1152x686/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21958807/magsafe_main_3_2.jpg",
+            "publishedAt": "2020-10-15T00:35:50Z",
+            "content": "Filed under:\r\nAccessorize \r\nBy now, youve probably read my colleague Nick Statts piece about how the iPhone 12s MagSafe magnetically-attached wireless charging cable opens up a future where iPhones w\u2026 [+5998 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Keerthi Vedantam and Maddy Simpson",
+            "title": "Video game studio salaries revealed: Here's how much employees get paid at the makers of 'Call of Duty,' 'League of Legends,' 'Animal Crossing,' and more",
+            "description": "Summary List Placement\n\nThe video game industry has thrived during the coronavirus crisis, as people craved entertainment while forced to stay home. For example, Nintendo's \"Animal Crossing: New Horizons\" quickly shattered records as the fastest-selling game \u2026",
+            "url": "https://www.businessinsider.com/salary-at-video-game-studios-epic-activision-blizzard-nintendo-2020-10",
+            "urlToImage": "https://i.insider.com/5f872f282a400c0019deba90?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T14:00:00Z",
+            "content": "The video game industry has thrived during the coronavirus crisis, as people craved entertainment while forced to stay home. For example, Nintendo's \"Animal Crossing: New Horizons\" quickly shattered \u2026 [+1880 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "iPhone 12, Pixel reviews, and Xbox Series X | Engadget Podcast Live - Engadget",
+            "description": "<ol><li>iPhone 12, Pixel reviews, and Xbox Series X | Engadget Podcast Live\u00a0\u00a0Engadget\r\n</li><li>Apple iPhone 12, iPhone 12 Pro appear on AnTuTu, fail to impress - GSMArena.com news\u00a0\u00a0GSMArena.com\r\n</li><li>Will Apple's new launch be a game changer or just expe\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WXB0RXplTW9ER0XSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T13:57:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Everything we know about iPhone12 - Finder Australia",
+            "description": "<ol><li>Everything we know about iPhone12\u00a0\u00a0Finder Australia\r\n</li><li>Canadian version of iPhone 12 series doesn't feature mmWave 5G antenna on its side\u00a0\u00a0MobileSyrup\r\n</li><li>How to Pre-Order iPhone 12, iPhone 12 Pro in Canada the Fastest Way Possible\u00a0\u00a0iPhon\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Vm5raEhZZmNkcWPSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T22:56:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Aaron Pressman",
+            "title": "How fast will Apple\u2019s new 5G iPhones be?",
+            "description": "All of Apple's new iPhone 12 line up is compatible with 5G, but carriers haven't built fast 5G networks everywhere yet.",
+            "url": "https://fortune.com/2020/10/15/apple-iphone-5g-compatible-mmwave/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/10/GettyImages-1229049879.jpg?resize=1200,600",
+            "publishedAt": "2020-10-15T19:04:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Jacob Krol",
+            "title": "Score AirPods Pro for just $199 on Amazon",
+            "description": "Apple's AirPods Pro live at the top of the true wireless world; in fact, they're our pick for best true wireless earbuds. And you can score them for just $199 on Amazon. That's $50 off their original $249 price point.",
+            "url": "https://www.cnn.com/2020/10/15/cnn-underscored/airpods-pro-sale-deal-apple/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201014101625-airpods-pro-oct-2020-lead-super-169.jpg",
+            "publishedAt": "2020-10-15T15:15:16Z",
+            "content": "Apples AirPods Pro live at the top of the true wireless world; in fact, theyre our pick for best true wireless earbuds. And you can score them for just $199 on Amazon. Thats $50 off their original $2\u2026 [+1635 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sasha Lekach",
+            "title": "How to stream the Biden and Trump town halls",
+            "description": "Instead of a virtual debate between the presidential candidates as originally planned, Joe Biden and Donald Trump are holding dueling town hall events Thursday.\nBiden's town hall will air live on ABC at 8 p.m. ET, while Trump's is scheduled at the same time o\u2026",
+            "url": "https://mashable.com/article/how-do-i-stream-trump-biden-abc-nbc-town-halls/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F15%252Fff%252F0aa19ad68f6b4e149e9bd4a1cfd13795.3287b.png%252F1200x630.png?signature=_G2ZetoFo0HNiU-7JCtq2_EMgTg=",
+            "publishedAt": "2020-10-15T15:47:56Z",
+            "content": "Instead of a virtual debate between the presidential candidates as originally planned, Joe Biden and Donald Trump are holding dueling town hall events Thursday.\r\nBiden's town hall will air live on AB\u2026 [+1406 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nick Statt",
+            "title": "Verizon pulls misleading ads claiming its 5G service is \u2018necessary\u2019 for firefighters",
+            "description": "Verizon has pulled ads claiming its 5G network is \u201cbuilt for\u201d firefighters after complaints from T-Mobile, according to the National Advertising Division. The NAD says Verizon preemptively agreed to discontinue the firefighter and first responder-specific ads\u2026",
+            "url": "https://www.theverge.com/2020/10/15/21517986/verizon-pulls-5g-ads-firefighters-first-responders-misleading-tmobile",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/1U6x5MhHDMg2pNUcENZ-T2S1Zkg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19590159/acastro_200109_1777_verizon_0002.0.jpg",
+            "publishedAt": "2020-10-15T19:39:16Z",
+            "content": "Verizon agreed to discontinue the ads even before an official review\r\nIllustration by Alex Castro / The Verge\r\nVerizon has agreed to pull 5G advertisements claiming its new network was built for fire\u2026 [+3776 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Flipkart Big Billion Days 2020 Best Offers: iPhone SE at Rs 25999, Samsung S20+, iPhone 11 Pro More - Gadgets 360",
+            "description": "Flipkart Big Billion Days 2020 Best Offers: iPhone SE at Rs 25999, Samsung S20+, iPhone 11 Pro More\u00a0\u00a0Gadgets 360View Full coverage on Google News",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NFdaS0ljcnFsWTDSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T15:55:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Matt Egan, CNN Business",
+            "title": "Elite investors accessing Trump briefings is everything that's wrong with the stock market",
+            "description": "Accurate information can be incredibly valuable to investors, especially in the midst of a confusing health crisis threatening the American economy. Unfortunately, access to that kind of intel is unequal.",
+            "url": "https://www.cnn.com/2020/10/15/investing/investors-trump-briefings-pandemic/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201015111102-01-nyse-mask-file-super-tease.jpg",
+            "publishedAt": "2020-10-15T16:47:03Z",
+            "content": "New York (CNN Business)Accurate information can be incredibly valuable to investors, especially in the midst of a confusing health crisis threatening the American economy. Unfortunately, access to th\u2026 [+6311 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jordan Valinsky, CNN Business",
+            "title": "How to get the iPhone 12 for free -- really",
+            "description": "The release of the eagerly anticipated iPhone 12 (and its siblings) is just about here.",
+            "url": "https://www.cnn.com/2020/10/15/tech/iphone-12-deals/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201013133018-03-apple-event-1013-2020-iphone-12-super-tease.jpg",
+            "publishedAt": "2020-10-15T12:54:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Pocket Casts 1.4.3 - Powerful podcast platform. (Free)",
+            "description": "Pocket Casts is a critically acclaimed, beautifully designed app that\u2019s on a mission to create the world\u2019s greatest podcasting experience through its free and Pocket Cast Plus tiers. \n\nAlso available for iPhone, iPad, Apple Watch.Version 1.4.3: \nStorm, meet c\u2026",
+            "url": "http://feedproxy.google.com/~r/macupdate/~3/70jSSfkhb8o/1602741650",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T06:00:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Lemon",
+            "title": "Apple Is Censoring Belarus Protesters, Activists Say",
+            "description": "\"We're mostly concerned that if those criminals understand that no one can find them behind [their] mask, they'll ramp up the violence against protesters tenfold,\" an activist told Newsweek.",
+            "url": "https://www.newsweek.com/apple-censoring-belarus-protesters-activists-say-1539131",
+            "urlToImage": "https://d.newsweek.com/en/full/1651856/belarus-security-forces.jpg",
+            "publishedAt": "2020-10-15T19:42:08Z",
+            "content": "As Apple released its new iPhone 12 at a launch event on Tuesday, Belarusian activists spammed Twitter and social media using the hashtag #AppleCensorsBelarus, attempting to draw attention to the tec\u2026 [+8919 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "The 'MAGA' ETF is trailing the market for one major reason",
+            "description": "With less than three weeks until Election Day, President Trump is trailing Joe Biden in the polls. And an ETF whose ticker is the acronym for Trump's famous campaign slogan is lagging the market, too.",
+            "url": "https://www.cnn.com/2020/10/15/investing/maga-etf-trump-biden/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201015090331-maga-hat-0913-super-tease.jpg",
+            "publishedAt": "2020-10-15T16:36:37Z",
+            "content": "New York (CNN Business)With less than three weeks until Election Day, President Trump is trailing Joe Biden in the polls. And an ETF whose ticker is the acronym for Trump's famous campaign slogan is \u2026 [+3475 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "news+feed@crunchyroll.com",
+            "title": "'Blue Lock' Manga Artist Posts 4-Hour Daily Sleep Schedule on Twitter",
+            "description": "Yusuke Nomura tracked his sleep over the last week with his Apple WatchIt's a known fact that manga creators don't get enough sleep, especially those who have a weekly serialization schedule. This fact was once again re-affirmed today when Blue Lock manga art\u2026",
+            "url": "http://feedproxy.google.com/~r/crunchyroll/animenews/~3/Hzjlek2JcnU/blue-lock-manga-artist-posts-4-hour-daily-sleep-schedule-on-twitter",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T09:27:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Engadget",
+            "title": "The Morning After: Reviews are in for the Pixel 5, Pixel 4a 5G and OnePlus 8T",
+            "description": "Thinking of buying a new phone? We\u2019ve got opinions on lots of them this week, and we haven\u2019t even handled those 5G iPhones yet. We published no fewer than three in-depth smartphone reviews yesterday: Google\u2019s Pixel 5, the Pixel 4a 5G and the OnePlus...",
+            "url": "https://www.engadget.com/pixel-5-review-tma-112556881.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F79b5d7d0-0ed7-11eb-9bff-ca2b30f00ca5&client=amp-blogside-v2&signature=042f7733520cca9bfed287c19feb37200cb747a6",
+            "publishedAt": "2020-10-15T11:25:56Z",
+            "content": "Thinking of buying a new phone? We\u2019ve got opinions on lots of them this week, and we haven\u2019t even handled those 5G iPhones yet. We published no fewer than three in-depth smartphone reviews yesterday:\u2026 [+2659 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Vicky Ge Huang",
+            "title": "The investment chief at a $750 million firm explains why the bull market will forge on regardless of election outcome \u2014 and shares the 12 highest-conviction stock picks that make up her market-beating strategy",
+            "description": "Summary List Placement\n\nGrowing up, Nancy Tengler wanted to become a fighter pilot in the Navy. But instead, she ended up taking her competitive spirit to the next best thing: investing.\u00a0\n\"I knew I was in Nirvana because you get a report card every day,\" said\u2026",
+            "url": "https://www.businessinsider.com/12-top-stock-picks-to-buy-investing-strategy-nancy-tengler-2020-10",
+            "urlToImage": "https://i.insider.com/5f8751fe2a400c0019debb49?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T12:08:00Z",
+            "content": "Growing up, Nancy Tengler wanted to become a fighter pilot in the Navy. But instead, she ended up taking her competitive spirit to the next best thing: investing.\u00a0\r\n\"I knew I was in Nirvana because y\u2026 [+4989 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chaim Gartenberg",
+            "title": "The HomePod mini could be Apple\u2019s secret weapon for expanding HomeKit",
+            "description": "The HomePod mini isn\u2019t just a smaller Apple Music speaker. It\u2019s a way for Apple to vastly expand its HomeKit ecosystem to a much wider audience than ever before, serving as the cheapest gateway yet to Apple\u2019s HomeKit smart home system.",
+            "url": "https://www.theverge.com/2020/10/15/21517945/apple-homepod-mini-homekit-smart-home-system-gateway-price",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/208-DQxq9F3U71NnRCQ_ECHoLwo=/0x18:2604x1381/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21961667/Screen_Shot_2020_10_15_at_2.09.43_PM.png",
+            "publishedAt": "2020-10-15T18:40:58Z",
+            "content": "A cheaper way into HomeKit\r\nApple is taking another try at building a smart home speaker with the new HomePod mini, a smaller, less expensive version of its original HomePod. \r\nThe original HomePod w\u2026 [+4523 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "OnePlus 8T hands-on: it's top new features - GSMArena Official",
+            "description": "<ol><li>OnePlus 8T hands-on: it's top new features\u00a0\u00a0GSMArena Official\r\n</li><li>OnePlus 8T 5G review: The T-series rules\u00a0\u00a0The Indian Express\r\n</li><li>OnePlus 8T Cyberpunk 2077 Limited Edition announced, Pre Orders start November 4\u00a0\u00a0gizmochina\r\n</li><li>OnePl\u2026",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YkVxaksyQTBreW_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T13:58:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Road Tripper 18.1 - Organize your trip on Apple Map (was Road Tripper). (Free)",
+            "description": "Road Tripper Pro (was Road Tripper) is the perfect app for travelers, salespeople, trucking companies, and couriers. Organize your trip on Apple Maps! Add the places you wish to visit! \n\nAdd a place by right-clicking on the map, or search points of interest a\u2026",
+            "url": "http://feedproxy.google.com/~r/macupdate/~3/oloPE-e-ZPg/1602741283",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T05:54:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "Google debuts an Apple Watch YouTube Music app",
+            "description": "If you\u2019re one of those rare YouTube Music subscribers with both an iPhone and Apple Watch, you won\u2019t be left out in the cold when Google shuts down Play Music later this month. As of today, the company has a YouTube Music app available for the Apple...",
+            "url": "https://www.engadget.com/apple-watch-youtube-music-202356078.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F42f41810-0f22-11eb-b5ff-0bba286f0670&client=amp-blogside-v2&signature=aa12415af6328369e76b00fb3e75fbb60c508a82",
+            "publishedAt": "2020-10-15T20:23:56Z",
+            "content": "If you\u2019re one of those rare YouTube Music subscribers with both an iPhone and Apple Watch, you won\u2019t be left out in the cold when Google shuts down Play Music later this month. As of today, the compa\u2026 [+864 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ahartmans@businessinsider.com (Avery Hartmans)",
+            "title": "Apple just announced a new wireless charger that 'will be available at a later date.' The last time Apple did this, it ended up canceling the product.",
+            "description": "Apple's new wireless charging pad, the MagSafe Duo, will be able to charge both an iPhone and Apple Watch at the same time.",
+            "url": "https://www.businessinsider.com/apple-magsafe-duo-available-later-mirrors-airpower-2020-10",
+            "urlToImage": "https://i.insider.com/5f884a51ea23a5001903d842?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T19:04:43Z",
+            "content": "Apple this week unveiled its new MagSafe wireless charging pads, one of which, MagSafe Duo, can charge both an iPhone and Apple Watch at the same time.\u00a0\r\nThe MagSafe chargers work by magnetically sna\u2026 [+2205 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Extend banks $40M to bring a new approach to the old game of extended warranties",
+            "description": "Extended warranties -- those offers to add an extra year or two to an existing product warranty to give you a little more peace of mind in case something goes wrong with something you've purchased -- have long been a part of the sales process when you're buyi\u2026",
+            "url": "https://techcrunch.com/2020/10/15/extend-banks-40m-to-bring-a-new-approach-to-the-old-game-of-extended-warranties/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/fUmdG3x6Yca3ppsu.VTCBA--~B/aD0xNjQzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/dfc40db10f04effe855a43c7a2bf5244",
+            "publishedAt": "2020-10-15T14:13:59Z",
+            "content": "Extended warranties -- those offers to add an extra year or two to an existing product warranty to give you a little more peace of mind in case something goes wrong with something you've purchased --\u2026 [+5733 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Richard Lawler",
+            "title": "The first iPhone 12 hands-on happened on 'Good Morning America'",
+            "description": "Now that Apple has announced its new iPhones, people are of course eager to see what they look like in real life. Unfortunately our current conditions kept reporters away from the event, and mean it will take a little longer for most of us to get fir...",
+            "url": "https://www.engadget.com/iphone-12-preview-gma-064449744.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6682cae0-0eb1-11eb-b7bf-c270936aab35&client=amp-blogside-v2&signature=b6f1dd8a86b73a33a5a8cd0f32014616052d1964",
+            "publishedAt": "2020-10-15T06:44:49Z",
+            "content": "Now that Apple has announced its new iPhones, people are of course eager to see what they look like in real life. Unfortunately our current conditions kept reporters away from the event, and mean it \u2026 [+599 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "$190 for AirPods Pro is a fantastic post-Prime Day deal",
+            "description": "Prime Day 2020 is a thing of the past, but you can still save on a few of our favorite tech products, like Apple AirPods for $190, The Last of Us Part II, Sony\u2019s ZV1 camera, and Motorola Android phones that work with every carrier.",
+            "url": "https://www.theverge.com/2020/10/15/21517419/amazon-prime-day-deals-still-available-sale-headphones-games-laptops",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/tON2-pvt20QbpyoxPklg6sBuEqc=/0x292:2040x1360/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19336099/cwelch_191031_3763_0003.jpg",
+            "publishedAt": "2020-10-15T14:01:06Z",
+            "content": "The best-ever price is back on at Daily Steals for Verge readers\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nPhoto by Chris Welch / The Verge\r\u2026 [+2256 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "When was the last time you worked out your soul?",
+            "description": "Hello and welcome back to\u00a0Equity, TechCrunch\u2019s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back today, with Natasha and Danny and I gathered to parse over what was really a blast of n\u2026",
+            "url": "http://techcrunch.com/2020/10/15/when-was-the-last-time-you-worked-out-your-soul/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/equity-podcast-2019-phone.jpg?w=711",
+            "publishedAt": "2020-10-15T19:00:23Z",
+            "content": "Hello and welcome back to\u00a0Equity, TechCrunchs venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines.\r\nThe whole crew was back today, with Natasha and Dan\u2026 [+1748 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "News that Calm seeks more funding at a higher valuation is not transcendental thinking",
+            "description": "Earlier this week, Bloomberg reported that meditation app Calm\u00a0is looking into raising $150 million more at a valuation of around $2.2 billion, more than double its last private price. This should not surprise. Calm has raised capital at high prices before, i\u2026",
+            "url": "http://techcrunch.com/2020/10/15/news-that-calm-seeks-more-funding-at-a-higher-valuation-is-not-transcendental-thinking/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3_GRY.jpg?w=533",
+            "publishedAt": "2020-10-15T14:34:46Z",
+            "content": "Earlier this week, Bloomberg reported that meditation app Calm\u00a0is looking into raising $150 million more at a valuation of around $2.2 billion, more than double its last private price. This should no\u2026 [+2412 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "When was the last time you worked out your soul?",
+            "description": "Hello and welcome back to\u00a0Equity, TechCrunch\u2019s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Lots of VCs are raising. The news of a media startup raising money was paired with rumors of an exit for email \u2026",
+            "url": "https://techcrunch.com/2020/10/15/when-was-the-last-time-you-worked-out-your-soul/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jviRmQkb.X637XK1cTOc0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03MjA-/https://s.yimg.com/uu/api/res/1.2/8DgS1lSjO9nl6j9BZSgQtQ--~B/aD0xMzg2O3c9MjQ2MztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/a44a902a0d0176d3e4f994004b7979b7",
+            "publishedAt": "2020-10-15T19:00:23Z",
+            "content": "Hello and welcome back to\u00a0Equity, TechCrunchs venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines.\r\nThe whole crew was back today, with Natasha and Dan\u2026 [+1758 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Dave Johnson)",
+            "title": "How to add Apple Podcasts to your Sonos speaker using AirPlay",
+            "description": "You can add Apple Podcasts to your Sonos speaker from your iPhone using AirPlay to listen to series and episodes from the platform.",
+            "url": "https://www.businessinsider.com/how-to-add-apple-podcasts-to-sonos",
+            "urlToImage": "https://i.insider.com/5f88b198d260780019341b21?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T21:58:00Z",
+            "content": "If you have a Sonos speaker with AirPlay supports \u2013 and these days, virtually all Sonos speakers do \u2013 it's easy to play podcasts on Sonos using the Apple Podcasts app.\r\nIn fact, you can use the same \u2026 [+2126 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "FA18 Hornet Fighter Jet 1.4.0 - Combat Flight Simulator. (Commercial)",
+            "description": "The Acclaimed F/A-18 Hornet Combat Flight Simulation by Graphsim Entertainment Comes to iPhone and iPad in Our Most Realistic and Exhilarating Combat Flight Sim to Date. With Unmatched Depth and Realism, There's Nothing Else Like It on Mobile Devices! \n\nFeatu\u2026",
+            "url": "http://feedproxy.google.com/~r/macupdate/~3/B4SV_S_k5ns/1602749174",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T08:06:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "SecKey 1.3.1 - Second layer of security for your online accounts. (Updater)",
+            "description": "SecKey provides one time passwords to be used with the two factor authentication of Dropbox, Google, Facebook, GitHub, Proton Mail and many more. \n\nIt adds a second layer of security for your online accounts. This works by generating one-time passwords on you\u2026",
+            "url": "http://feedproxy.google.com/~r/macupdate/~3/WMoS1fYCk_c/1602741377",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T05:56:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Samy Adghirni, Simone Preissler Iglesias",
+            "title": "Bolsonaro Weighs Huawei Ban From 5G Network, Cabinet Member Says",
+            "description": "President Jair Bolsonaro is considering banning Huawei Technologies Co. from supplying components to Brazil\u2019s upcoming 5G network because he sees China as a global threat to data privacy and sovereignty, according to a senior member of his cabinet.",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-15/bolsonaro-weighs-huawei-ban-from-5g-network-cabinet-member-says",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T16:02:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dan Whateley",
+            "title": "Inside the podcast push of TikTok group Sway LA, who've launched 4 shows in Apple's top 100 as they aim to shock fans and detractors",
+            "description": "Summary List Placement\n\nInfluencer podcasts have become a hit and a new crop of TikTok stars are leaning in.\nOver the past few weeks, members of the TikTok creator group Sway LA (no affiliation with New York Times columnist Kara Swisher's new tech podcast \"Sw\u2026",
+            "url": "https://www.businessinsider.com/inside-talentx-podcast-strategy-tiktok-group-sway-la-2020-10",
+            "urlToImage": "https://i.insider.com/5f889a0a9e9fe40019009956?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T21:03:32Z",
+            "content": "Influencer podcasts have become a hit and a new crop of TikTok stars are leaning in.\r\nOver the past few weeks, members of the TikTok creator group Sway LA (no affiliation with New York Times columnis\u2026 [+5222 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dan Whateley",
+            "title": "Snapchat's new music features could create another marketing opportunity for artists and record labels that are looking to move beyond TikTok",
+            "description": "Summary List Placement\n\nSnapchat users can now add songs to Snaps as the social-media app makes moves to draw in Gen-Z users who have grown accustomed to joining dance challenges and discovering new tracks on TikTok.\nThe new features, which first rolled out i\u2026",
+            "url": "https://www.businessinsider.com/snapchat-adds-music-to-compete-with-tiktok-and-instagram-reels-2020-10",
+            "urlToImage": "https://i.insider.com/5f88647a2a400c0019debda2?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T15:36:29Z",
+            "content": "Snapchat users can now add songs to Snaps as the social-media app makes moves to draw in Gen-Z users who have grown accustomed to joining dance challenges and discovering new tracks on TikTok.\r\nThe n\u2026 [+2378 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Tabitha Baker",
+            "title": "88 of the best Amazon Prime Day deals you can still buy now - TechRadar",
+            "description": "<ol><li>88 of the best Amazon Prime Day deals you can still buy now\u00a0\u00a0TechRadar\r\n</li><li>Is Amazon Prime Day 2 better than Day 1? Judging by these new deals, yes\u00a0\u00a0Yahoo Lifestyle\r\n</li><li>Amazon Prime Day: Huge deal on this 75in Samsung QLED TV\u00a0\u00a0What Hi-Fi?\r\u2026",
+            "url": "https://www.techradar.com/amazon-prime-day/101-of-the-best-amazon-prime-day-deals-you-can-still-buy-now",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NL64npeyPrKQMK7RytZTuT-1200-80.jpg",
+            "publishedAt": "2020-10-15T06:07:00Z",
+            "content": "Amazon Prime Day is entering its final hours, and competition is heating up. The sales might be nearing the end - the last-minute deals end at midnight tonight - so don't waste time crawling through \u2026 [+22049 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "EtreCheck Pro 6.3.3 - For troubleshooting your Mac; displays important system details. (Free)",
+            "description": "EtreCheck is an app that displays the important details of your system configuration and allow you to copy that information to the Clipboard. It is meant to be used with Apple Support Communities to help people help you with your Mac. EtreCheck automatically \u2026",
+            "url": "http://feedproxy.google.com/~r/macupdate/~3/Puc6YlrKlc8/1602734399",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T03:59:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Underscored Staff",
+            "title": "25 of the best holiday gifts to give (or get) this year",
+            "description": "To help you find the perfect gift this season, we've researched the best holiday gift ideas for everyone on your list.",
+            "url": "https://www.cnn.com/2020/10/15/cnn-underscored/christmas-gift-ideas/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201011111601-holidaygiftslead-super-169.jpg",
+            "publishedAt": "2020-10-15T13:55:09Z",
+            "content": "In a year where time barely has any meaning, it should come as no surprise that the holidays are right around the corner. That happened fast! Anyway, its never too early to shop for presents, whether\u2026 [+10371 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shalini Nagarajan",
+            "title": "Bitcoin will be swept to $1 million in five years by an 'enormous wall of money,' former Goldman Sachs hedge-fund chief says",
+            "description": "Summary List Placement\n\n<ul>\n<li>The price of Bitcoin will hit $1 million in five years, up from around $11,000 right now, thanks to an \"enormous wall of money,\" a former Goldman Sachs hedge fund chief said in a recent interview.</li>\n<li>Raoul Pal, who has a\u2026",
+            "url": "https://www.businessinsider.com/bitcoin-hit-million-five-years-ex-goldman-hedge-fund-boss-2020-10",
+            "urlToImage": "https://i.insider.com/5f87f6cf2a400c0019debc73?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T08:23:18Z",
+            "content": "<ul><li>The price of Bitcoin will hit $1 million in five years, up from around $11,000 right now, thanks to an \"enormous wall of money,\" a former Goldman Sachs hedge fund chief said in a recent inter\u2026 [+3430 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Grace Dean)",
+            "title": "NYC's Eleven Madison Park launches a $275 meal kit for you to cook a three Michelin-starred roast chicken at home",
+            "description": "The Eleven Madison Park To Go meal includes a 3.5lb stuffed chicken, vegetables, potato gratin, apple tart, and granola.",
+            "url": "https://www.businessinsider.com/eleven-madison-park-to-go-meal-mean-kit-roast-chicken-2020-10",
+            "urlToImage": "https://i.insider.com/5f881bd6ea23a5001903d7e7?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T11:39:32Z",
+            "content": "New York City restaurant Eleven Madison Park remains closed, but you can still enjoy its three Michelin-starred roast chicken from home \u2013 so long as you shell out $275 and cook some of it yourself.\r\n\u2026 [+1316 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Karissa Bell",
+            "title": "Snapchat finally lets users add music to their snaps",
+            "description": "Snapchat is finally bringing music to posts. The company updated its app with a new music feature called \u201cSounds\u201d that allows users to add songs that will play alongside their posts. It\u2019s available now to all of Snapchat\u2019s iPhone users (no word yet o...",
+            "url": "https://www.engadget.com/snapchat-adds-music-to-snaps-175438063.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F7275f790-0f0c-11eb-bfff-863b79d7ea45&client=amp-blogside-v2&signature=885670feeb4c678ccbfab7c1ebe85b06056ea393",
+            "publishedAt": "2020-10-15T17:54:38Z",
+            "content": "Right now, there are only a handful of tracks available (including a new Justin Bieber track that\u2019s being featured as a Snapchat \u201cexclusive\u201d), so the app\u2019s music selection isn\u2019t nearly as extensive a\u2026 [+338 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By CNN Underscored Staff",
+            "title": "Prime Day 2020 may be over \u2014 but these Amazon deals are still live",
+            "description": "Prime Day 2020 was a 48-hour deal extravaganza, to say the least, and while Amazon's biggest sale event is officially over, savings on select products seem to be here to stay \u2014 at least for now.",
+            "url": "https://www.cnn.com/2020/10/15/cnn-underscored/amazon-prime-day-2020/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201008144657-cnn-underscored-prime-day-a-z-guide-super-169.jpg",
+            "publishedAt": "2020-10-15T12:14:37Z",
+            "content": "Prime Day 2020 was a 48-hour deal extravaganza, to say the least, and while Amazons biggest sale event is officially over, savings on select products seem to be here to stay at least for now. Below, \u2026 [+11528 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "AirBuddy\u2019s AirPod integration for the Mac gets updated with more iOS-style features",
+            "description": "The AirBuddy app is celebrating another successful Apple week by opening up preorders on v2.0. The original, which arrived in early 2019, brought a pop-up to the Mac when a pair of AirPods were brought near \u2014 bringing simple ecosystem integration to the deskt\u2026",
+            "url": "http://techcrunch.com/2020/10/15/airbuddys-airpod-integration-for-the-mac-gets-updated-with-more-ios-style-features/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/ef4ca883-2dc9-4d01-842f-ecd1ce3f6bf4-thumbnail.jpg?w=711",
+            "publishedAt": "2020-10-15T14:42:00Z",
+            "content": "The AirBuddy app is celebrating another successful Apple week by opening up preorders on v2.0. The original, which arrived in early 2019, brought a pop-up to the Mac when a pair of AirPods were broug\u2026 [+1051 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Snapchat launches its TikTok rival, Sounds on Snapchat",
+            "description": "Snapchat this summer announced it would soon release a new music-powered feature that would allow users to set their Snaps to music. Today, the company made good on that promise with the launch of \u201cSounds on Snapchat\u201d on iOS, a feature that lets users enhance\u2026",
+            "url": "http://techcrunch.com/2020/10/15/snapchat-launches-its-tiktok-rival-sounds-on-snapchat/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/Sounds-on-Snapchat-x-Justin-Bieber-Song-Premiere.png?w=597",
+            "publishedAt": "2020-10-15T14:01:35Z",
+            "content": "Snapchat this summer announced it would soon release a new music-powered feature that would allow users to set their Snaps to music. Today, the company made good on that promise with the launch of \u201cS\u2026 [+3440 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "John Feng",
+            "title": "China State TV Pans Away From Xi Jinping Speech As Chinese Leader Repeatedly Coughs",
+            "description": "The Chinese Communist Party chairman was speaking at a commemorative event in Shenzhen, Guangdong, China, surrounded by other maskless government officials including Hong Kong leader Carrie Lam.",
+            "url": "https://www.newsweek.com/china-state-media-catches-xi-jinping-coughing-speech-1539295",
+            "urlToImage": "https://d.newsweek.com/en/full/1652712/xi-jinping-china.jpg",
+            "publishedAt": "2020-10-15T08:33:17Z",
+            "content": "China's state broadcaster panned away from a coughing Xi Jinping on a number of occasions as the Chinese leader struggled to finish his sentences in the final minutes of a speech given on Wednesday.\r\u2026 [+2660 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Martin Coulter",
+            "title": "10 things in tech you need to know today",
+            "description": "Summary List Placement\n\nGood morning! This is the tech news you need to know this Thursday. Sign up here to get this email in your inbox every morning. Have an Amazon Alexa device? Listen to this update by searching \"Business Insider\" in your flash briefing s\u2026",
+            "url": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-october-15-2020-10",
+            "urlToImage": "https://i.insider.com/5f87f0122a400c0019debc70?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T07:00:28Z",
+            "content": "Good morning! This is the tech news you need to know this Thursday. Sign up here to get this email in your inbox every morning. Have an Amazon Alexa device? Listen to this update by searching \"Busine\u2026 [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Julie Muncy",
+            "title": "Judge Says No to Putting 'Fortnite' Back on Apple's App Store",
+            "description": "The ruling means that Epic Games' massively popular title will remain off iOS devices while Epic's suit against Apple moves to trial.",
+            "url": "https://www.wired.com/story/apple-fortnite-app-store/",
+            "urlToImage": "https://media.wired.com/photos/5f88b97a114b38fa1f833a2f/191:100/w_1280,c_limit/Culture_fortnite_x3lcwubljaexogivi5wy.jpg",
+            "publishedAt": "2020-10-15T22:03:06Z",
+            "content": "Welcome to the new-and-hopefully-improved Replay, WIREDs twice monthly column where we round up some of the more interesting news unfolding in the world of video games. This time around, we have deta\u2026 [+3545 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "AudioFinder 6.0.2 - Manage your audio sample library. (Shareware)",
+            "description": "AudioFinder is an audio asset management system and music production hub. It gathers all the most useful tools in one quick and intuitive application, enabling you to be more creative by handling all the time consuming tasks that slow down your music producti\u2026",
+            "url": "http://feedproxy.google.com/~r/macupdate/~3/T_m-Ah1ZejM/1602743941",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T06:39:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "podcast@cnet.com (CNET.com), CNET",
+            "title": "Apple makes its smart home more accessible with a $99 HomePod Mini",
+            "description": "Apple's new smart speaker aims to bring high-end sound quality and Siri-enabled smarts to a smaller and more affordable package.",
+            "url": "http://feedproxy.google.com/~r/allcnetvideopodcasts/~3/deg9OQ9_Kgs/Homepod_Mini_EVERYTHING_WE_KNOW_536442_740.mp4",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T21:28:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "Warren Buffett's stock portfolio took a $1.6 billion hit from Bank of America and Wells Fargo in a single day",
+            "description": "The famed investor's company saw its shares in the banks slump more than 5% on Wednesday after they reported earnings.",
+            "url": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-2-billion-bank-america-wells-fargo-2020-10",
+            "urlToImage": "https://i.insider.com/5f3fb35342f43f001ddfe3c3?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T11:08:41Z",
+            "content": "<ul><li>Warren Buffett's Berkshire Hathaway took a $1.6 billion hit to its portfolio after Bank of America and Wells Fargo shares dropped more than 5% on Wednesday.</li><li>Shares slumped after the b\u2026 [+2760 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Audiobook Builder 2.1.1 - Import Audiobook CDs or other audio to iPod. (Shareware)",
+            "description": "Audiobook Builder makes it easy to turn your audio CDs, MP3s, M4As, and other audio files into audiobooks for your iPhone, iPod or iPad. Join audio, create enhanced chapter stops, adjust quality settings and let Audiobook Builder handle the rest. When it fini\u2026",
+            "url": "http://feedproxy.google.com/~r/macupdate/~3/u9mzsGTMRuk/1602743614",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T06:33:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Bear 1.7.19 - Writing app for notes and prose. (Free)",
+            "description": "Bear is a flexible writing app for crafting notes and prose. Link notes to each other to build a body of work. Use hashtags to organize for the way you think. And yet, all notes are stored in plain, portable text. Bear is perfect for everything from quick not\u2026",
+            "url": "http://feedproxy.google.com/~r/macupdate/~3/-dA09e5b5r0/1602744975",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T06:56:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Theodoric Meyer",
+            "title": "Hotels appeal to Trump for aid",
+            "description": "Apple, Navient add lobbyists \u2014 Bose Public Affairs Group hires Senate aide",
+            "url": "https://www.politico.com/newsletters/politico-influence/2020/10/15/hotels-appeal-to-trump-for-aid-791002",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-10-15T18:34:43Z",
+            "content": "With Daniel Lippman\r\nHOTELS APPEAL TO TRUMP FOR AID: As the never-ending negotiations over another relief package drag on, the hotel industry is urging President Donald Trump to take executive action\u2026 [+9831 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Amanda Perelli",
+            "title": "The key details to know about Instagram Reels, the app's TikTok competitor",
+            "description": "Summary List Placement\n\nHi, this is Amanda Perelli.\u00a0Welcome back to Insider Influencers, our weekly rundown on the influencer and creator economy.\u00a0Sign up for the newsletter here.\nPlatforms like Instagram and YouTube have been rushing to compete with TikTok's\u2026",
+            "url": "https://www.businessinsider.com/youtube-and-influencer-business-trends-newsletter-october-15-2020-10",
+            "urlToImage": "https://i.insider.com/5f7f448bc655f6001969efcd?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T12:02:16Z",
+            "content": "Hi, this is Amanda Perelli.\u00a0Welcome back to Insider Influencers, our weekly rundown on the influencer and creator economy.\u00a0Sign up for the newsletter here.\r\nPlatforms like Instagram and YouTube have \u2026 [+6107 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Marley Jay",
+            "title": "Lori Keith's mutual fund has grown 98,000% in 12 years by focusing on unflashy companies. She told us about 7 such stocks that thrived in the recession \u2014 and will do even better in the recovery.",
+            "description": "Summary List Placement\n\nInvestors don't always reward a \"slow and steady wins the race\" approach. But Lori Keith has been good enough and steady enough for long enough that they've noticed.\nFor the last 12 years Keith has been the co-manager of the Parnassus \u2026",
+            "url": "https://www.businessinsider.com/long-term-stock-picks-recommendations-investing-strategy-parnassus-lori-keith-2020-10",
+            "urlToImage": "https://i.insider.com/5f873f35ea23a5001903d631?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T15:11:36Z",
+            "content": "Investors don't always reward a \"slow and steady wins the race\" approach. But Lori Keith has been good enough and steady enough for long enough that they've noticed.\r\nFor the last 12 years Keith has \u2026 [+5164 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ashley Carman",
+            "title": "Snapchat finally lets all iOS users put music in their snaps",
+            "description": "Snapchat is letting all iOS users around the world include music in their snaps with a feature called Sounds on Snapchat. The company hasn\u2019t said when it\u2019ll roll the feature out to Android users.",
+            "url": "https://www.theverge.com/2020/10/15/21516348/snapchat-snap-sounds-music-ios-update",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qOiRVpD6pXqsiStiKdFPgKe2Tmc=/0x205:2859x1702/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21958989/snapchatsounds.jpg",
+            "publishedAt": "2020-10-15T07:00:00Z",
+            "content": "Setting it up to compete with TikTok and Instagram\r\nSnapchat\r\nSnap is making good on its word to bring music to Snapchat and setting itself up to compete even more so with TikTok and Instagram. The c\u2026 [+1717 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "IPhone Chipmaker TSMC Lifts 2020 Outlook Expecting Big 5G Boost - Bloomberg",
+            "description": "IPhone Chipmaker TSMC Lifts 2020 Outlook Expecting Big 5G Boost\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-15/tsmc-s-record-profit-beats-forecasts-ahead-of-new-iphones",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T05:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "SkyORB 2020 Astronomy Lite 2020.10.2 - 3D planetarium featuring star-gazing and ephemeris. (Free)",
+            "description": "SkyORB 3D Lite takes you on a tour of the solar system or the galaxy in this new version. Click \"More\" to learn why you should download this App today! You can find an iOS app here. \n\nThis astronomy program charts the stars, planets, and other celestial objec\u2026",
+            "url": "http://feedproxy.google.com/~r/macupdate/~3/dUT9mReQD5o/1602741538",
+            "urlToImage": null,
+            "publishedAt": "2020-10-15T05:58:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "Warren Buffett spoke to Joe Biden about America's opportunity to 'lead the whole damn world'",
+            "description": "The investor and the presidential candidate agreed the US is in a better position to be a global leader than it was 50 years ago.",
+            "url": "https://www.businessinsider.com/warren-buffett-joe-biden-presidential-election-america-global-leadership-2020-10",
+            "urlToImage": "https://i.insider.com/5f4397bc42f43f001ddfe8ea?width=1200&format=jpeg",
+            "publishedAt": "2020-10-15T09:49:45Z",
+            "content": "<ul><li>Joe Biden discussed America's unrivaled prospects with Warren Buffett, ahead of a virtual fundraiser on Wednesday.</li><li>\"Just got off the phone with Warren Buffett, talking about how we ha\u2026 [+2249 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Saloni Sardana",
+            "title": "10 things you need to know before the opening bell",
+            "description": "Summary List Placement\nWelcome to 10 Things Before the Opening Bell. Sign up here to get this email in your inbox every morning.\nHere's what you need to know before markets open.\n1. Global stocks drop as hopes for stimulus wane before election and Europe impo\u2026",
+            "url": "https://www.businessinsider.com/opening-bell-october-15-2020-10",
+            "urlToImage": "https://i.insider.com/5f3d0ba6cdf25a001e84e156?format=jpeg",
+            "publishedAt": "2020-10-15T10:48:53Z",
+            "content": "New York Stock Exchange opens during COVID-19\r\nReuters\r\nWelcome to 10 Things Before the Opening Bell. Sign up here to get this email in your inbox every morning.\r\nHere's what you need to know before \u2026 [+2668 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Saloni Sardana)",
+            "title": "A billionaire that vowed to pay off the debt of an entire college class will pay $140 million to settle a four-year tax probe, a report says",
+            "description": "A billionaire that vowed to pay off the debt of an entire college class will pay $140 million to settle a four-year tax probe, a report says",
+            "url": "https://www.businessinsider.com/billionaire-robert-smith-probe-college-tax-140-million-offshore-evasion-2020-10",
+            "urlToImage": "https://i.insider.com/5f880f902a400c0019debc80?format=jpeg",
+            "publishedAt": "2020-10-15T11:12:59Z",
+            "content": "Stephen Lovekin/Getty Images\r\n<ul><li>Billionaire Robert Smith will pay $140 million to settle a four-year tax investigation, Bloomberg reported Wednesday.\u00a0</li><li>The CEO of private equity firm Vis\u2026 [+2702 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "TSMC third-quarter profit surges 36%, well ahead of market forecasts",
+            "description": "Taiwan Semiconductor Manufacturing Co Ltd (TSMC) reported a 36% jump in quarterly net profit, boosted by robust demand for products requiring high-end chips and as Apple Inc readies a new iPhone.",
+            "url": "https://www.reuters.com/article/tsmc-results-idUSKBN2700KY",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537534819&r=LYNXMPEG9E0BF&w=800",
+            "publishedAt": "2020-10-15T05:57:43Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Taiwan Semiconductor Manufacturing Co (TSMC) is seen on one of its office buildings in Tainan, Taiwan August 20, 2020. REUTERS/Ann Wang/File Photo\r\nTAIPEI (R\u2026 [+1483 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Morgan Stanley posts earnings beat driven by strong trading revenue",
+            "description": "The firm's provision for credit losses on loans and lending commitments was $111 million for the third quarter of 2020.",
+            "url": "https://www.businessinsider.com/morgan-stanley-stock-price-q3-earnings-trading-revenue-etrade-eaton-2020-10",
+            "urlToImage": "https://i.insider.com/5f88351e2a400c0019debcbc?format=jpeg",
+            "publishedAt": "2020-10-15T12:10:19Z",
+            "content": "NEW YORK - JUNE 09: Morgan Stanley headquarters are seen June 9, 2009 in New York City. Morgan Stanley is one of ten lenders that won U.S. Treasury approval to pay back $68 billion in funds from the \u2026 [+2551 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Julian Chokkattu, Gear Team",
+            "title": "Amazon Prime Day: 28 Best Deals if You Work From Home (2020)",
+            "description": "Need noise-canceling headphones? Or a laptop stand? We've rounded up discounts on remote working gear from Amazon and other retailers.",
+            "url": "https://www.wired.com/story/best-prime-day-work-from-home-deals-day-2/",
+            "urlToImage": "https://media.wired.com/photos/5f85feb8340398e14d15b3f8/191:100/w_1280,c_limit/Gear-LG-Monitor-SOURCE-LG-NEW.jpg",
+            "publishedAt": "2020-10-15T02:13:00Z",
+            "content": "<li>Apple MacBook Air 13-Inch for $850 ($150 off): The 2020 MacBook Air is powerful and compact, but best of all is the completely revamped Magic Keyboard. Gone are the butterfly key switches that ca\u2026 [+2977 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Tom Simonite",
+            "title": "This Camera App Is Designed to Fight Fake News",
+            "description": "Chipmaker Qualcomm and startup Truepic are testing a feature for Android phones that automatically tags the time and location when an image was captured.",
+            "url": "https://www.wired.com/story/camera-app-designed-fight-fake-news/",
+            "urlToImage": "https://media.wired.com/photos/5f87802f340398e14d15b410/191:100/w_1280,c_limit/business_camera_1255052847.jpg",
+            "publishedAt": "2020-10-15T12:00:00Z",
+            "content": "On the internet nobody knows where or when you took that photo of a dog. Images can be reused and remixed online without a tracehelpful to those trying to spice up their Instagram feed but also to pu\u2026 [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Saloni Sardana)",
+            "title": "Global stocks drop as hopes for stimulus wane before election and Europe imposes tough new COVID restrictions",
+            "description": "US Treasury Secretary Steven Mnuchin said Wednesday a new fiscal deal is unlikely to be agreed before the US election.",
+            "url": "https://www.businessinsider.com/stock-market-news-today-stimulus-earnings-covid-europe-2020-10",
+            "urlToImage": "https://i.insider.com/5f87f5122a400c0019debc71?format=jpeg",
+            "publishedAt": "2020-10-15T09:43:13Z",
+            "content": "Erin Scott/Pool/Getty Images\r\n<ul><li>Global stocks fell on Thursday, driven by fading chances of a fiscal deal before next month's\u00a0 election, rising COVID cases in Europe and after some Wall Street \u2026 [+3838 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "James Vincent",
+            "title": "Uber is spamming users with political push notifications ahead of a key gig worker vote",
+            "description": "Uber is sending out push notifications to users in California telling them to vote yes on Proposition 22 \u2014 a key ballot that would give Uber and other gig economy companies an exemption to recent employment law passed in the state. Users are complaining that \u2026",
+            "url": "https://www.theverge.com/2020/10/15/21517316/uber-spamming-user-political-push-notifications-prop-22-vote",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/QLNQrcZS20Q8qHZNKuBCHqPJlXo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13175211/acastro_180927_1777_uber_0001.jpg",
+            "publishedAt": "2020-10-15T11:06:58Z",
+            "content": "Your notifications are fair game for a little propaganda\r\nIllustration by Alex Castro / The Verge\r\nUnwanted smartphone notifications are always a pain in the app, but not often are these messages so \u2026 [+3827 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "David Lumb",
+            "title": "This is what iPhone 12 retail box may look like",
+            "description": "A leaked video shows what the iPhone 12 retail box may look like now that Apple has stopped including earbuds and a wall charger.",
+            "url": "https://www.techradar.com/news/this-is-what-iphone-12-retail-box-may-look-like",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UrFkBia5z3FccpVpgejXDb-1200-80.jpg",
+            "publishedAt": "2020-10-15T20:49:10Z",
+            "content": "Weve just seen a video that may suggest how the iPhone 12 box will look. The footage shows an alleged iPhone 11 box one of the new smaller ones, now that Apple has pledged to stop including earbuds o\u2026 [+1849 chars]"
+        }
+    ]
+}

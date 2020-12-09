@@ -1,0 +1,760 @@
+{
+    "status": "ok",
+    "totalResults": 58,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Wizz Air CEO expects smaller airline industry after pandemic - Reuters",
+            "description": "The world will have a smaller airline industry as a result of the coronavirus crisis with many privately funded carriers set to go under and governments throwing \"good money after bad\" to keep national champions afloat, Wizz Air's CEO <WIZZ.L> said.",
+            "url": "https://www.reuters.com/article/us-wizz-ceo-idUSKBN2751WK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538172485&r=LYNXMPEG9J14R&w=800",
+            "publishedAt": "2020-10-20T13:57:00Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - The world will have a smaller airline industry as a result of the coronavirus crisis with many privately funded carriers set to go under and governments throwing \u2026 [+2442 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By John Walton, CNN",
+            "title": "What's next for no-touch air travel?",
+            "description": "The Covid-19 pandemic is accelerating the push to make airplane cabins and airports no-touch -- or at least \"less\" touch as possible. Find out how the technology will work.",
+            "url": "https://www.cnn.com/travel/article/no-touch-airplane-cabins-airports-covid-19/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201020115614-cabin-bin-super-tease.jpg",
+            "publishedAt": "2020-10-20T10:58:21Z",
+            "content": "(CNN) How many times do you touch the cabin around you in an airplane when you fly? How about the airport? How many times do the people working there touch your belongings? \r\nThe answer today is, as \u2026 [+6957 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Wizz Air CEO expects smaller airline industry after pandemic - Reuters India",
+            "description": "The world will have a smaller airline industry as a result of the coronavirus crisis with many privately funded carriers set to go under and governments throwing \"good money after bad\" to keep national champions afloat, Wizz Air's CEO <WIZZ.L> said.",
+            "url": "https://in.reuters.com/article/us-wizz-ceo-idINKBN2751WK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538172485&r=LYNXMPEG9J14R&w=800",
+            "publishedAt": "2020-10-20T13:58:00Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - The world will have a smaller airline industry as a result of the coronavirus crisis with many privately funded carriers set to go under and governments throwing \u2026 [+2442 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Wizz Air CEO expects smaller airline industry post-pandemic - Reuters",
+            "description": "The world will have a smaller airline industry as a result of the coronavirus crisis with many privately funded carriers set to go under and governments throwing \"good money after bad\" to keep national champions afloat, Wizz Air's CEO said.",
+            "url": "https://www.reuters.com/article/wizz-ceo-idUSL8N2HB3XB",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-20T12:18:00Z",
+            "content": "By Reuters Staff\r\n(Recasts, adds detail)\r\nLONDON, Oct 20 (Reuters) - The world will have a smaller airline industry as a result of the coronavirus crisis with many privately funded carriers set to go\u2026 [+819 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Wizz Air CEO expects smaller airline industry post-pandemic - Reuters UK",
+            "description": "The world will have a smaller airline industry as a result of the coronavirus crisis with many privately funded carriers set to go under and governments throwing \"good money after bad\" to keep national champions afloat, Wizz Air's CEO <WIZZ.L> said.",
+            "url": "https://uk.reuters.com/article/uk-wizz-ceo-idUKKBN2751NW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538161162&r=LYNXMPEG9J0ZG&w=800",
+            "publishedAt": "2020-10-20T12:25:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Jozsef Varadi, Chief Executive Officer of Wizz Air speaks during an interview in London, Britain April 30 2019. REUTERS/Simon Dawson\r\nLONDON (Reuters) - The world will h\u2026 [+898 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed",
+            "title": "New Virgin Australia strategy spells end of business travel arms race - Reuters",
+            "description": "Virgin Australia looks set to cut basic fares and start charging fees for items like checked baggage and food under new chief executive Jayne Hrdlicka, prompting a wider industry shake-up as the country's airlines reawaken from the coronavirus crisis.",
+            "url": "https://www.reuters.com/article/us-australia-airlines-strategy-focus-idUSKBN2750EX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538112633&r=LYNXMPEG9J07P&w=800",
+            "publishedAt": "2020-10-20T03:39:00Z",
+            "content": "SYDNEY (Reuters) - Virgin Australia looks set to cut basic fares and start charging fees for items like checked baggage and food under new chief executive Jayne Hrdlicka, prompting a wider industry s\u2026 [+3964 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed",
+            "title": "New Virgin Australia strategy spells end of business travel arms race - Reuters India",
+            "description": "Virgin Australia looks set to cut basic fares and start charging fees for items like checked baggage and food under new chief executive Jayne Hrdlicka, prompting a wider industry shake-up as the country's airlines reawaken from the coronavirus crisis.",
+            "url": "https://in.reuters.com/article/us-australia-airlines-strategy-focus-idINKBN2750EX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538113412&r=LYNXMPEG9J07P&w=800",
+            "publishedAt": "2020-10-20T03:53:00Z",
+            "content": "SYDNEY (Reuters) - Virgin Australia looks set to cut basic fares and start charging fees for items like checked baggage and food under new chief executive Jayne Hrdlicka, prompting a wider industry s\u2026 [+3964 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "Waiting for aid: U.S. airline workers 'pawns' in stimulus battle - Reuters",
+            "description": "When she is not helping her kids with remote school or worrying about her next mortgage payment, Jessica Trujillo spends her days rallying friends and co-workers to lobby Washington for federal aid to protect airline workers who feel their fates are trapped i\u2026",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-airlines-workers-idUSKBN27519C",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-20T10:12:00Z",
+            "content": "CHICAGO (Reuters) - When she is not helping her kids with remote school or worrying about her next mortgage payment, Jessica Trujillo spends her days rallying friends and co-workers to lobby Washingt\u2026 [+3308 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "Waiting for aid: U.S. airline workers 'pawns' in stimulus battle - Reuters",
+            "description": "When she is not helping her kids with remote school or worrying about her next mortgage payment, Jessica Trujillo spends her days rallying friends and co-workers to lobby Washington for federal aid to protect airline workers who feel their fates are trapped i\u2026",
+            "url": "https://www.reuters.com/article/health-coronavirus-airlines-workers-idUSKBN27518G",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538204934&r=LYNXMPEG9J1HP&w=800",
+            "publishedAt": "2020-10-20T17:38:00Z",
+            "content": "CHICAGO (Reuters) - When she is not helping her kids with remote school or worrying about her next mortgage payment, Jessica Trujillo spends her days rallying friends and co-workers to lobby Washingt\u2026 [+3016 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Cathay Pacific to cut 6,000 jobs, axe Cathay Dragon brand amid pandemic: SCMP - Reuters Canada",
+            "description": "Hong Kong's Cathay Pacific Airways Ltd <0293.HK> will cut around 6,000 jobs or 18% of its workforce, and axe regional brand Cathay Dragon to help it weather the coronavirus pandemic, the South China Morning Post reported on Tuesday, citing sources.",
+            "url": "https://ca.reuters.com/article/us-cathay-pacific-layoffs-idCAKBN275153",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538140859&r=LYNXMPEG9J0OG&w=800",
+            "publishedAt": "2020-10-20T09:30:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Cathay Pacific Airways Airbus A350-900 airplane approaches to land at Changi International Airport in Singapore June 10, 2018. REUTERS/Tim Chong\r\n(Reuters) - Hong Kong\u2026 [+1601 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Canada working on possible aid for the airlines and travel sector, says finance minister - Reuters",
+            "description": "The Canadian government is very aware of the challenges facing airlines and the travel sector during the coronavirus pandemic and is working on possible aid, Finance Minister Chrystia Freeland said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-canada-aviation-idUSKBN2752DZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538203247&r=LYNXMPEG9J1FA&w=800",
+            "publishedAt": "2020-10-20T17:45:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Canada's Deputy Prime Minister and Minister of Finance Chrystia Freeland takes part in a news conference on Parliament Hill in Ottawa, Ontario, Canada September 24, 2020\u2026 [+1507 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "David Slotnick",
+            "title": "Even if airlines can convince people their planes are safe from COVID-19, their CEOs say they won't recover until the pandemic ends",
+            "description": "Summary List Placement\n\nA new study shows that there is virtually no real risk of catching COVID-19 on an airplane.\nBut while such results would seem great news for airlines that have been racked by decimated travel demand since the early months of the pandem\u2026",
+            "url": "https://www.businessinsider.com/airline-recovery-pandemic-flying-safe-2020-10",
+            "urlToImage": "https://i.insider.com/5f8e02a99e9fe4001900a3a8?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T14:10:20Z",
+            "content": "A new study shows that there is virtually no real risk of catching COVID-19 on an airplane.\r\nBut while such results would seem great news for airlines that have been racked by decimated travel demand\u2026 [+6407 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "UK to start one-hour COVID-19 tests at Heathrow from Tuesday - The Times - Reuters India",
+            "description": "UK to start one-hour COVID-19 tests at Heathrow from Tuesday - The Times\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/health-coronavirus-britain-travel-idINKBN27505Z",
+            "urlToImage": null,
+            "publishedAt": "2020-10-20T01:48:00Z",
+            "content": "FILE PHOTO: A traveller wearing a face mask walks at the Terminal 5 at Heathrow Airport, as the spread of the\u00a0coronavirus\u00a0disease (COVID-19) continues, in London, Britain, July 26, 2020. REUTERS/Henr\u2026 [+1576 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Aeromexico posts slimmer quarterly loss, eyes pickup amid pandemic - Reuters India",
+            "description": "Mexican airline Aeromexico on Tuesday posted a net loss of $130.38 million in the third quarter under the strain of the coronavirus pandemic, yet said passenger demand had begun to revive.",
+            "url": "https://in.reuters.com/article/aeromexico-results-idINL1N2HB2CT",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-20T22:49:00Z",
+            "content": "By Reuters Staff\r\n(Adds number of passengers in third quarter; workforce reduction)\r\nMEXICO CITY, Oct 20 (Reuters) - Mexican airline Aeromexico on Tuesday posted a net loss of $130.38 million in the \u2026 [+1129 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Aeromexico posts slimmer quarterly loss, eyes pickup amid pandemic - Reuters",
+            "description": "Mexican airline Aeromexico on Tuesday posted a net loss of $130.38 million in the third quarter under the strain of the coronavirus pandemic, yet said passenger demand had begun to revive.",
+            "url": "https://www.reuters.com/article/aeromexico-results-idUSL1N2HB2CT",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-20T22:46:00Z",
+            "content": "By Reuters Staff\r\n(Adds details from earnings report)\r\nMEXICO CITY, Oct 20 (Reuters) - Mexican airline Aeromexico on Tuesday posted a net loss of $130.38 million in the third quarter under the strain\u2026 [+893 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Outbound COVID testing launched at Heathrow to unlock routes - Reuters India",
+            "description": "Rapid outbound COVID-19 testing for passengers has been launched at London's Heathrow Airport, designed to return results in an hour, in an effort to re-open restricted routes and boost traffic for airlines.",
+            "url": "https://in.reuters.com/article/health-coronavirus-britain-heathrow-idINKBN2752GB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538202361&r=LYNXMPEG9J1H7&w=800",
+            "publishedAt": "2020-10-20T17:39:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Visitors are seen in a doorway at the departure area of the new 'Terminal 2: The Queen's Terminal' during a media event in Heathrow Airport, west London April 23, 2014. \u2026 [+1750 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Outbound COVID testing launched at Heathrow to unlock routes - Reuters",
+            "description": "Rapid outbound COVID-19 testing for passengers has been launched at London's Heathrow Airport, designed to return results in an hour, in an effort to re-open restricted routes and boost traffic for airlines.",
+            "url": "https://www.reuters.com/article/uk-health-coronavirus-britain-heathrow-idUSKBN2751I4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538156556&r=LYNXMPEG9J0W4&w=800",
+            "publishedAt": "2020-10-20T11:23:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A woman embraces a man after arriving from Madrid at the Terminal 5 at Heathrow Airport, as the spread of the coronavirus disease (COVID-19) continues, in London, Britai\u2026 [+1758 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Outbound COVID testing launched at Heathrow to unlock routes - Reuters UK",
+            "description": "Rapid outbound COVID-19 testing for passengers has been launched at London's Heathrow Airport, designed to return results in an hour, in an effort to re-open restricted routes and boost traffic for airlines.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-britain-heathrow-idUKKBN2751I4",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538153959&r=LYNXMPEG9J0W4&w=800",
+            "publishedAt": "2020-10-20T11:27:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A woman embraces a man after arriving from Madrid at the Terminal 5 at Heathrow Airport, as the spread of the?coronavirus?disease (COVID-19) continues, in London, Britai\u2026 [+1758 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Outbound COVID testing launched at Heathrow - Reuters",
+            "description": "Rapid outbound COVID-19 testing for passengers has been launched at London's Heathrow Airport, designed to return results in an hour, in an effort to re-open restricted routes and boost traffic for airlines.",
+            "url": "https://www.reuters.com/video/watch/idPT7l?now=true",
+            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/5f8f1e68e4b04f7ff7c2b72c-1603214952671?location=LANDSCAPE",
+            "publishedAt": "2020-10-20T17:48:47Z",
+            "content": "Posted \r\nRapid outbound COVID-19 testing for passengers has been launched at London's Heathrow Airport, designed to return results in an hour, in an effort to re-open restricted routes and boost traf\u2026 [+16 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "BRIEF-Cathay Pacific Airways To Axe 6,000 Staff And Dragon Brand - SCMP - Reuters",
+            "description": "BRIEF-Cathay Pacific Airways To Axe 6,000 Staff And Dragon Brand - SCMP\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/brief-cathay-pacific-airways-to-axe-6000-idUSFWN2HA1B6",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-20T09:21:00Z",
+            "content": "By Reuters Staff\r\nOct 20 (Reuters) - South China Morning Post:\r\n* CATHAY PACIFIC AIRWAYS TO AXE 6,000 STAFF AND DRAGON BRAND - SCMP\r\n* CATHAY PACIFIC AIRWAYS TO MERGE STAFF AND RESOURCES OF THE 2 AIR\u2026 [+180 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ludwig Burger",
+            "title": "Pandemic-stricken Lufthansa posts 1.26 billion euro third-quarter operating loss - Reuters UK",
+            "description": "Deutsche Lufthansa <LHAG.DE> reported a third-quarter operating loss of 1.26 billion euros ($1.49 billion) and warned of weak demand during the remainder of the year.",
+            "url": "https://uk.reuters.com/article/uk-lufthansa-results-idUKKBN27528T",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538192173&r=LYNXMPEG9J1C1&w=800",
+            "publishedAt": "2020-10-20T16:14:00Z",
+            "content": "FILE PHOTO: A Lufthansa airplane is seen partially wrapped at the runway of Berlin Brandenburg Airport (BER), also called \"Willy Brandt\", ahead of its opening in Schoenefeld near Berlin, Germany, Oct\u2026 [+1284 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thomas Pallini",
+            "title": "Singapore Airlines is launching the new world's longest flight that will see flyers spending almost 19 hours on a plane nonstop",
+            "description": "Summary List Placement\n\nSingapore Airlines just announced plans to fly non-stop between Singapore and New York in what will be the world's longest scheduled flight when it launches next month.\nThe new route will connect Singapore's Changi Airport and New York\u2026",
+            "url": "https://www.businessinsider.com/singapore-airlines-launching-new-worlds-longest-route-to-new-york-2020-10",
+            "urlToImage": "https://i.insider.com/5f8ee47d9e9fe4001900a491?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T14:41:02Z",
+            "content": "Singapore Airlines just announced plans to fly non-stop between Singapore and New York in what will be the world's longest scheduled flight when it launches next month.\r\nThe new route will connect Si\u2026 [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Etihad Airways plans transition Islamic bonds - document - Reuters",
+            "description": "Etihad Airways, wholly owned by the Abu Dhabi government, is planning to sell U.S. dollar-denominated 'transition' sukuk, or Islamic bonds, a document issued by one of the banks leading the deal showed.",
+            "url": "https://www.reuters.com/article/etihad-sukuk-int-idUSKBN27515L",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538141508&r=LYNXMPEG9J0OS&w=800",
+            "publishedAt": "2020-10-20T09:37:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: An Etihad Boeing 787-9 Dreamliner aircraft takes off at Cointrin Airport during the outbreak of the coronavirus disease (COVID-19) in Geneva, Switzerland, March 13, 2020\u2026 [+633 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Taylor Borden",
+            "title": "The coronavirus pandemic is costing hotels billions in business travel, and analysts say things might not go back to normal until 2024",
+            "description": "Summary List Placement\n\nThe hotel industry brings in $170 billion annually, and half of that comes from just one sector: corporate travel.\nHowever, new Bank of America research shows that business trips disappearing overnight could cost hotels somewhere betwe\u2026",
+            "url": "https://www.businessinsider.com/corporate-travel-wont-recover-for-years-following-coronavirus-2020-10",
+            "urlToImage": "https://i.insider.com/5f8da9afc21cfb0019468c1f?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T12:33:00Z",
+            "content": "The hotel industry brings in $170 billion annually, and half of that comes from just one sector: corporate travel.\r\nHowever, new Bank of America research shows that business trips disappearing overni\u2026 [+3151 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Danny Crichton",
+            "title": "Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge",
+            "description": "In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT, and more), different price points, and varying capabilitie\u2026",
+            "url": "http://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1161355655.jpg?w=600",
+            "publishedAt": "2020-10-20T12:00:16Z",
+            "content": "In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT\u2026 [+3755 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Brazil to join OECD in a year: economy minister Guedes - Reuters",
+            "description": "Brazil should join the Organisation for Economic Cooperation and Development within a year, Economy Minister Paulo Guedes said on Tuesday, adding that around two thirds of the preparatory work has already been completed.",
+            "url": "https://www.reuters.com/article/us-brazil-economy-guedes-idUSKBN2751W3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538171674&r=LYNXMPEG9J148&w=800",
+            "publishedAt": "2020-10-20T13:52:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Brazil's Economy Minister Paulo Guedes gestures during the launching ceremony of the Voo Simples program, which are a set of measures to modernize rules and reduce costs\u2026 [+596 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Canada gov't working on possible aid for the travel sector: finance minister - Reuters UK",
+            "description": "The Canadian government is very aware of the challenges facing the travel sector during the coronavirus pandemic and is working on possible aid, Finance Minister Chrystia Freeland said on Tuesday.",
+            "url": "https://uk.reuters.com/article/us-health-coronavirus-canada-aviation-idUKKBN2752DZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538197066&r=LYNXMPEG9J1FA&w=800",
+            "publishedAt": "2020-10-20T17:03:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Canada's Deputy Prime Minister and Minister of Finance Chrystia Freeland takes part in a news conference on Parliament Hill in Ottawa, Ontario, Canada September 24, 2020\u2026 [+472 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Canada gov't working on possible aid for the travel sector: finance minister - Reuters Canada",
+            "description": "The Canadian government is very aware of the challenges facing the travel sector during the coronavirus pandemic and is working on possible aid, Finance Minister Chrystia Freeland said on Tuesday.",
+            "url": "https://ca.reuters.com/article/us-health-coronavirus-canada-aviation-idCAKBN2752DZ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538197885&r=LYNXMPEG9J1FA&w=800",
+            "publishedAt": "2020-10-20T17:05:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Canada's Deputy Prime Minister and Minister of Finance Chrystia Freeland takes part in a news conference on Parliament Hill in Ottawa, Ontario, Canada September 24, 2020\u2026 [+472 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Allard",
+            "title": "Exclusive: Indonesia rejected U.S. request to host spy planes - officials - Reuters",
+            "description": "Indonesia rejected this year a proposal by the United States to allow its P-8 Poseidon maritime surveillance planes to land and refuel there, according to four senior Indonesian officials familiar with the matter.",
+            "url": "https://www.reuters.com/article/us-indonesia-usa-exclusive-idUSKBN2750KX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538121554&r=LYNXMPEG9J0DK&w=800",
+            "publishedAt": "2020-10-20T05:36:00Z",
+            "content": "JAKARTA (Reuters) - Indonesia rejected this year a proposal by the United States to allow its P-8 Poseidon maritime surveillance planes to land and refuel there, according to four senior Indonesian o\u2026 [+4022 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tim Hepher",
+            "title": "UPDATE 2-U.S. sees British trade deal 'reasonably soon' - Reuters",
+            "description": "U.S. Trade Representative Robert Lighthizer said on Tuesday he was \"very pleased\" with progress in negotiations with Britain over a trade agreement and predicted a deal \"reasonably soon\".",
+            "url": "https://www.reuters.com/article/britain-usa-trade-idUSL8N2HB6HR",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-20T19:17:00Z",
+            "content": "(Adds quotes, background)\r\nLONDON, Oct 20 (Reuters) - U.S. Trade Representative Robert Lighthizer said on Tuesday he was very pleased with progress in negotiations with Britain over a trade agreement\u2026 [+3252 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed",
+            "title": "New Virgin Australia strategy spells end of business travel arms race - Reuters UK",
+            "description": "Virgin Australia looks set to cut basic fares and start charging fees for items like checked baggage and food under new chief executive Jayne Hrdlicka, prompting a wider industry shake-up as the country's airlines reawaken from the coronavirus crisis.",
+            "url": "https://www.reuters.com/article/us-australia-airlines-strategy-focus-idUKKBN2750EX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538113412&r=LYNXMPEG9J07P&w=800",
+            "publishedAt": "2020-10-20T03:42:00Z",
+            "content": "SYDNEY (Reuters) - Virgin Australia looks set to cut basic fares and start charging fees for items like checked baggage and food under new chief executive Jayne Hrdlicka, prompting a wider industry s\u2026 [+3964 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Buckley, CNN",
+            "title": "The world's longest flight is back -- and it'll be longer",
+            "description": "Singapore Airlines' Newark to Singapore route is the longest passenger flight in the world. Now it's coming back after being paused by the pandemic, and will fly to JFK",
+            "url": "https://www.cnn.com/travel/article/worlds-longest-flight-singapore-relaunch/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181113172437-singapore-airlines-super-tease.jpg",
+            "publishedAt": "2020-10-20T13:40:37Z",
+            "content": "(CNN) At a mammoth 18 hours, it was the world's longest scheduled passenger flight, seen as a feat of endurance for those who dared book it.\r\nBut Singapore Airlines' Singapore-Newark flight, which co\u2026 [+2226 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "REUTERS NEWS SCHEDULE AT 10 p.m. GMT/6 a.m. SGT - Reuters India",
+            "description": "Here are the top stories and upcoming coverage plans for Reuters text service as of 10 p.m. GMT/6 a.m. SGT. For a full schedule of news and events, go to our editorial calendar on Reuters Connect https://www.reutersconnect.com/planning.",
+            "url": "https://in.reuters.com/article/reuters-schedule-idINL4N2HB4IP",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-20T21:49:00Z",
+            "content": "By Reuters Staff\r\nHere are the top stories and upcoming coverage plans for Reuters text service as of 10 p.m. GMT/6 a.m. SGT. For a full schedule of news and events, go to our editorial calendar on R\u2026 [+12326 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Banks, Energy Firms, Airlines Set to Rally, BofAML Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-10-20/banks-energy-firms-airlines-set-to-rally-bofaml-says-video",
+            "urlToImage": null,
+            "publishedAt": "2020-10-20T07:21:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Singapore Airlines to Restart Non-Stop Flights to New York City",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-20/singapore-airlines-to-restart-non-stop-flights-to-new-york-city",
+            "urlToImage": null,
+            "publishedAt": "2020-10-20T09:50:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Record Drop in U.S. Fares Shows How Far Airlines Have to Climb",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-20/record-drop-in-u-s-fares-shows-how-far-airlines-have-to-climb",
+            "urlToImage": null,
+            "publishedAt": "2020-10-20T18:59:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Buckley, CNN",
+            "title": "Airline killed by Covid comes back from dead",
+            "description": "Flybe, a UK-based airline that went bust during the Covid-19 pandemic, has been bought and flights could start again in early 2021",
+            "url": "https://www.cnn.com/travel/article/flybe-relaunch-pandemic/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200305143713-01-flybe-bankruptcy-0305-super-tease.jpg",
+            "publishedAt": "2020-10-20T12:02:45Z",
+            "content": "(CNN) It was one of the early casualties of the Covid-19 pandemic. Now, it looks set to be resurrected. \r\nFlybe, at one point Europe's largest independent regional airline, went bust in March 2020, w\u2026 [+2492 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Lilit Marcus, CNN",
+            "title": "Air New Zealand offers 'mystery breaks' to lure travelers back",
+            "description": "Amid the Covid-19 pandemic, all of travel seems like a big question mark. So, one airline argues, why not embrace that question mark?",
+            "url": "https://www.cnn.com/travel/article/air-new-zealand-travel-mystery-breaks-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190508112638-air-new-zealand-plane-file-super-tease.jpg",
+            "publishedAt": "2020-10-20T06:00:59Z",
+            "content": "Lilit Marcus, CNNPublished 20th October 2020\r\n(CNN) Amid the Covid-19 pandemic, all of travel seems like a big question mark. So, one airline argues, why not embrace that question mark?\r\nAir New Zeal\u2026 [+1873 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "John Feng",
+            "title": "Plane Misses Runway in Botched Mountain Airport Landing",
+            "description": "The captain of the Shenzhen Airlines flight left the aircraft to inspect the damage without clearance and failed to report the incident in Panzhihua, Sichuan province, for more than an hour.",
+            "url": "https://www.newsweek.com/plane-misses-runway-botched-landing-1540552",
+            "urlToImage": "https://d.newsweek.com/en/full/1655532/china-airline-shenzhen.jpg",
+            "publishedAt": "2020-10-20T15:09:33Z",
+            "content": "A passenger plane carrying 99 people was punctured in two places after its captain missed the runway and struck the ground, but failed to report the incident for more than an hour, a report by aviati\u2026 [+2793 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "Ryan Choi",
+            "title": "Engineer #1: Daanish Mazhar, Gordian Software (YC W19)",
+            "description": "Check out Y Combinator\u2019s Work at a Startup, where there are thousands of jobs at well-funded and vetted YC companies, ranging from seed-stage to later-stage, including Brex, Segment and Instacart.",
+            "url": "https://blog.ycombinator.com/engineer-1-daanish-mazhar-gordian-software-yc-w19/",
+            "urlToImage": "https://blog.ycombinator.com/wp-content/uploads/2020/10/Artboard.png",
+            "publishedAt": "2020-10-20T16:44:30Z",
+            "content": "Daanish Mazhar was the first engineer at Gordian Software (YC W19), a startup building APIs for airlines, like leading travel brands Kiwi.com, lastminute.com, Ctrip and Travix. With a background in m\u2026 [+5814 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "A new reboot of the iconic Eastern Air Lines is flying between New York and Cabo this winter for under $250 round-trip",
+            "description": "The new Eastern Airlines might not be the same as its legendary predecessor but the fares to Mexico are unbeatable for winter travel.",
+            "url": "https://www.businessinsider.com/new-eastern-airlines-flying-between-new-york-los-cabos-mexico-2020-10",
+            "urlToImage": "https://i.insider.com/5f8e033ec21cfb0019468e80?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T12:11:00Z",
+            "content": "Cabo San Lucas, Mexico will only be a non-stop flight away from New York City this fall as a new airline prepares to inaugurate a new route between the two cities on November 14.\u00a0\r\nEastern Airlines w\u2026 [+5363 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Benjamin Pimentel",
+            "title": "A top IBM exec explains how the $34 billion merger with Red Hat is helping it speed up and make faster decisions right at a crucial juncture in its big cloud play (IBM)",
+            "description": "Summary List Placement\n\nThe big fear when IBM gobbled up Red Hat was that the 109-year tech behemoth would end up changing \u2014 and perhaps even destroying \u2014 the 27-year-old company.\nBut about a year into the tie-up, the opposite appears to be happening, accordi\u2026",
+            "url": "https://www.businessinsider.com/ibm-red-hat-merger-speed-culture-impact-2020-10",
+            "urlToImage": "https://i.insider.com/5c1c87282ab31e41393196c8?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T17:41:33Z",
+            "content": "The big fear when IBM gobbled up Red Hat was that the 109-year tech behemoth would end up changing \u2014 and perhaps even destroying \u2014 the 27-year-old company.\r\nBut about a year into the tie-up, the oppo\u2026 [+6005 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "dslotnick@businessinsider.com (David Slotnick)",
+            "title": "New data shows how US airfares plunged alongside demand early in the pandemic, dealing airlines a double blow",
+            "description": "The average domestic airfare was down 26% from 2019 during the second quarter, compounding airlines' difficulties during the pandemic.",
+            "url": "https://www.businessinsider.com/airline-flight-prices-airfare-coronavirus-spring-pandemic-q2-department-transportation-2020-10",
+            "urlToImage": "https://i.insider.com/5f8eff37c21cfb0019469014?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T17:08:28Z",
+            "content": "As the COVID-19 pandemic grounded many would-be flyers earlier this year, airlines didn't just have plummeting demand to contend with. Compounding their financial pain was a staggering collapse in pr\u2026 [+2586 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Julian Kheel",
+            "title": "Chase Sapphire credit cards to earn bonus points on groceries for a limited time",
+            "description": "Chase Sapphire Reserve and Chase Sapphire Preferred card holders will earn bonus points on groceries from November to April.",
+            "url": "https://www.cnn.com/2020/10/20/cnn-underscored/bonus-points-groceries-chase-sapphire-credit-cards/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200504181204-underscored-grocery-store-supermarket-checkout-super-169.jpg",
+            "publishedAt": "2020-10-20T20:56:38Z",
+            "content": "CNN Underscored reviews financial products such as credit cards and bank accounts based on their overall value. We may receive a commission through The Points Guy affiliate network if you apply and a\u2026 [+3089 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tsonnemaker@businessinsider.com (Tyler Sonnemaker)",
+            "title": "The Trump administration let aviation companies lay off more than 16,500 workers while taking coronavirus relief funds \u2014 some used the money to pay executives \u2014 according to a congressional report",
+            "description": "The Treasury Department incentivized companies to fire workers, while some companies never rehired the ones they let go, a House report concluded.",
+            "url": "https://www.businessinsider.com/trump-administration-coronavirus-funds-delayed-aviation-layoffs-payroll-support-report-2020-10",
+            "urlToImage": "https://i.insider.com/5f8e54fd9e9fe4001900a3fd?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T07:16:15Z",
+            "content": "The Trump administration's mismanagement of a coronavirus bailout program that Congress created to \"preserve aviation jobs\" has instead led to 16,655 layoffs across the industry while overpaying comp\u2026 [+3944 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mmeisenzahl@businessinsider.com (Mary Meisenzahl)",
+            "title": "Microsoft created a portable data center the size of a shipping container connected by SpaceX satellites that can be placed anywhere \u2014 take a look",
+            "description": "The new data center doesn't need a traditional internet connection and can be located anywhere with a satellite signal.",
+            "url": "https://www.businessinsider.com/microsoft-azure-modular-portable-data-center-connected-by-satellites-2020-10",
+            "urlToImage": "https://i.insider.com/5f8f2fc6dace450018a3e415?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T20:02:00Z",
+            "content": "Microsoft Azure just announced a new design for modular, portable data centers. Azure is the company's cloud computing service, used by big names including Boeing, eBay, and Samsung.\r\nThe Azure Modul\u2026 [+656 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "egraffeo@businessinsider.com (Emily Graffeo)",
+            "title": "The odds of a Biden victory are rising \u2014 and this is how you should position your portfolio, Raymond James says",
+            "description": "A team of Raymond James analysts said cyclical stocks will perform well under a Biden-led blue-wave victory.",
+            "url": "https://www.businessinsider.com/stock-market-strategy-how-position-portfolio-biden-win-election-raymond-2020-10",
+            "urlToImage": "https://i.insider.com/5f8e44e3c21cfb0019468ebf?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T12:51:02Z",
+            "content": "<ul><li>Raymond James raised its estimates for a Democratic sweep to 55% up from 50%, while lowering estimates of a \"status quo\" Trump win and divided Congress to 30% from 35%.\u00a0</li><li>A team of ana\u2026 [+2436 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Holly Johnson",
+            "title": "Citi is the first major US bank to let transgender and non-binary cardholders go by their chosen name",
+            "description": "Summary List Placement<ul>\n<li>Thanks to a new True Name feature rolling out in the coming weeks, Citi customers will be able to update the name associated with their profile and credit cards.</li>\n<li>Citi announced this feature as part of its effort to cham\u2026",
+            "url": "https://www.businessinsider.com/personal-finance/citi-new-true-name-cardholders-use-chosen-name-2020-10",
+            "urlToImage": "https://i.insider.com/5f45456742f43f001ddfee53?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T21:13:00Z",
+            "content": "This article is brought to you by the Personal Finance Insider team. It has not been reviewed, approved, or otherwise endorsed by any of the issuers listed. Some of the offers you see on the page are\u2026 [+3400 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "I visited a just-reopened American Airlines lounge and found it impeccably clean but stripped of most of its luxuries \u2013 see inside",
+            "description": "Airport lounges have been forced to scale back on luxuries as changing priorities during the pandemic require a focus on health and safety.",
+            "url": "https://www.businessinsider.com/american-airlines-admirals-club-jfk-airport-lounge-pandemic-visit-photos-2020-10",
+            "urlToImage": "https://i.insider.com/5f85e88a91aa9e001880b588?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T16:47:22Z",
+            "content": "American Airlines is reopening more of its Admirals Club lounges at airports across the country as localities ease indoor dining restrictions and more flyers return to the skies following a disappoin\u2026 [+1182 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Wizz Air CEO expects smaller airline industry after pandemic",
+            "description": "The world will have a smaller airline industry as a result of the coronavirus crisis with many privately funded carriers set to go under and governments throwing \"good money after bad\" to keep national champions afloat, Wizz Air's CEO <WIZZ.L> said.",
+            "url": "https://uk.reuters.com/article/us-wizz-ceo-idUKKBN2751WK",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538172485&r=LYNXMPEG9J14R&w=800",
+            "publishedAt": "2020-10-20T13:54:18Z",
+            "content": "By Reuters Staff\r\nLONDON (Reuters) - The world will have a smaller airline industry as a result of the coronavirus crisis with many privately funded carriers set to go under and governments throwing \u2026 [+2442 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Grace Dean)",
+            "title": "Europe's busiest airport is now offering $100 coronavirus tests that give results within an hour",
+            "description": "The tests at London Heathrow are on offer to passengers flying to Hong Kong and Italy, which require proof of a negative test result on arrival.",
+            "url": "https://www.businessinsider.com/heathrow-covid-test-coronavirus-hong-kong-italy-virgin-british-airways-2020-10",
+            "urlToImage": "https://i.insider.com/5f8ea6779e9fe4001900a422?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T10:27:53Z",
+            "content": "Passengers at Europe's busiest airport, London Heathrow, can now take a $100 rapid COVID-19 test if they're flying to Hong Kong and Italy, which require proof of a negative test result on arrival.\r\nF\u2026 [+2416 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jamie Freed",
+            "title": "New Virgin Australia strategy spells end of business travel arms race",
+            "description": "Virgin Australia looks set to cut basic fares and start charging fees for items like checked baggage and food under new chief executive Jayne Hrdlicka, prompting a wider industry shake-up as the country's airlines reawaken from the coronavirus crisis.",
+            "url": "https://uk.reuters.com/article/us-australia-airlines-strategy-focus-idUKKBN2750EX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538113412&r=LYNXMPEG9J07P&w=800",
+            "publishedAt": "2020-10-20T03:52:32Z",
+            "content": "SYDNEY (Reuters) - Virgin Australia looks set to cut basic fares and start charging fees for items like checked baggage and food under new chief executive Jayne Hrdlicka, prompting a wider industry s\u2026 [+3964 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Christopher Woody)",
+            "title": "US Marines in remote corner of Australia are practicing to guide Air Force bombers to targets across the Pacific",
+            "description": "If a future war breaks out in the Pacific, the Marines expect to fight it out across far-flung islands. But they don't expect to do it alone.",
+            "url": "https://www.businessinsider.com/marines-in-australia-drones-to-guide-air-force-bombers-targeting-2020-10",
+            "urlToImage": "https://i.insider.com/5f8e6f4e9e9fe4001900a40b?width=1200&format=jpeg",
+            "publishedAt": "2020-10-20T15:35:01Z",
+            "content": "At remote ranges in northern Australia this summer, US Marines and Australian troops trained to guide US bombers to targets on far-flung islands, illustrating the Corps' increasing focus on a potenti\u2026 [+6000 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "UPDATE 1-Cathay Pacific to cut 6,000 jobs, axe Cathay Dragon brand -SCMP",
+            "description": "Hong Kong's Cathay Pacific Airways Ltd <0293.HK> will cut around 6,000 jobs, or 18% of its workforce, and axe regional brand Cathay Dragon to help it weather the coronavirus pandemic, the South China Morning Post reported on Tuesday, citing sources.",
+            "url": "https://uk.reuters.com/article/us-cathay-pacific-layoffs-idUKKBN275153",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538140859&r=LYNXMPEG9J0OG&w=800",
+            "publishedAt": "2020-10-20T10:28:01Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: A Cathay Pacific Airways Airbus A350-900 airplane approaches to land at Changi International Airport in Singapore June 10, 2018. REUTERS/Tim Chong\r\n(Reuters) - Hong Kong\u2026 [+1832 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jake Sherman and Anna Palmer",
+            "title": "POLITICO Playbook: Today\u2019s the big day",
+            "description": "And the debate commission says it will mute the mics at the next presidential debate.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/10/20/todays-the-big-day-490652",
+            "urlToImage": "https://static.politico.com/79/7b/5ebdef324735b434bde7abefc6c6/gettyimages-1228687568-1.jpg",
+            "publishedAt": "2020-10-20T09:56:02Z",
+            "content": "The level of distrust in Treasury Secretary Steven Mnuchin among Republicans is hard to overstate. | Toni L. Sandys-Pool/Getty Images\r\nDRIVING THE DAY\r\nTODAY -- the 91st day since Covid relief talks \u2026 [+17947 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Cathay Pacific to cut 5,900 jobs, end Cathay Dragon brand due to pandemic",
+            "description": "Hong Kong's Cathay Pacific Airways Ltd said on Wednesday it would cut 5,900 jobs and end its regional Cathay Dragon brand as it grapples with a plunge in demand from the coronavirus pandemic.",
+            "url": "https://uk.reuters.com/article/cathay-pacific-layoffs-idUKL4N2HB2TT",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-20T23:52:46Z",
+            "content": "By Reuters Staff\r\nSYDNEY, Oct 21 (Reuters) - Hong Kongs Cathay Pacific Airways Ltd said on Wednesday it would cut 5,900 jobs and end its regional Cathay Dragon brand as it grapples with a plunge in d\u2026 [+399 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Allard",
+            "title": "Exclusive: Indonesia rejected U.S. request to host spy planes - officials",
+            "description": "Indonesia rejected this year a proposal by the United States to allow its P-8 Poseidon maritime surveillance planes to land and refuel there, according to four senior Indonesian officials familiar with the matter.",
+            "url": "https://ca.reuters.com/article/us-indonesia-usa-exclusive-idCAKBN2750KX",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201020&t=2&i=1538121554&r=LYNXMPEG9J0DK&w=800",
+            "publishedAt": "2020-10-20T05:20:15Z",
+            "content": "JAKARTA (Reuters) - Indonesia rejected this year a proposal by the United States to allow its P-8 Poseidon maritime surveillance planes to land and refuel there, according to four senior Indonesian o\u2026 [+4022 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Leila Stein",
+            "title": "How tech has changed travel",
+            "description": "Technology has been one of the biggest contributors to an ever-changing travel landscape",
+            "url": "https://global.techradar.com/en-za/news/how-tech-has-changed-travel",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VV38NHYWGnKgidwnoxq32Z-1200-80.jpg",
+            "publishedAt": "2020-10-20T13:54:29Z",
+            "content": "The travel industry has changed significantly, from the rise of air travel overtaking luxury boats to travel agents becoming a central part of your travel experience: The industry has not stopped rei\u2026 [+4126 chars]"
+        }
+    ]
+}

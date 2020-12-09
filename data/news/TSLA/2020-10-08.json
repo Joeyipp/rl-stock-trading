@@ -1,0 +1,357 @@
+{
+    "status": "ok",
+    "totalResults": 27,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Musk says Tesla to use new batteries, tech at Berlin factory; flags production risk - Reuters Canada",
+            "description": "Tesla Inc <TSLA.O> Chief Executive Elon Musk said on Wednesday the company will produce Model Y with a new structural battery design and technology at its Berlin factory next year and that could result in a \"significant production risk\".",
+            "url": "https://in.reuters.com/article/us-tesla-musk-germany-idINKBN26T04J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201008&t=2&i=1536622844&r=LYNXMPEG9703B&w=800",
+            "publishedAt": "2020-10-08T01:40:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Futurist entrepreneur Elon Musk presents an RNA printer, essentially a vaccine production device, on the sidelines of a meeting with the leadership of the conservative C\u2026 [+1652 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Musk says Tesla to use new batteries, tech at Berlin factory; flags production risk - Reuters India",
+            "description": "Tesla Inc Chief Executive Elon Musk said on Wednesday the company will produce Model Y with a new structural battery design and technology at its Berlin factory next year and that could result in a \"significant production risk\".",
+            "url": "https://in.reuters.com/article/tesla-musk-germany-idINKBN26T06U",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201008&t=2&i=1536625838&r=LYNXMPEG9705E&w=800",
+            "publishedAt": "2020-10-08T02:14:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: FILE PHOTO: SpaceX owner and Tesla CEO Elon Musk arrives on the red carpet for the automobile awards \"Das Goldene Lenkrad\" given by a German newspaper in Berlin, Germany\u2026 [+1615 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Musk says Tesla to use new batteries, tech at Berlin factory; flags production risk - Reuters",
+            "description": "Tesla Inc <TSLA.O> Chief Executive Elon Musk said on Wednesday the company will produce Model Y with a new structural battery design and technology at its Berlin factory next year and that could result in a \"significant production risk\".",
+            "url": "https://in.reuters.com/article/us-tesla-musk-germany-idUSKBN26T04J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201008&t=2&i=1536622844&r=LYNXMPEG9703B&w=800",
+            "publishedAt": "2020-10-08T01:38:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Futurist entrepreneur Elon Musk presents an RNA printer, essentially a vaccine production device, on the sidelines of a meeting with the leadership of the conservative C\u2026 [+1652 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Levin",
+            "title": "A Tesla owner who reportedly butt-dialed a $4,280 update is struggling to get a refund, highlighting a longtime complaint from customers",
+            "description": "Summary List Placement\n\nA benefit of Tesla ownership is that the electric-car maker beams out over-the-air software updates, allowing owners to upgrade their car's performance and add other features without setting foot in a dealership or buying a newer model\u2026",
+            "url": "https://www.businessinsider.com/tesla-owner-who-accidentally-bought-4280-update-cant-get-refund-2020-10",
+            "urlToImage": "https://i.insider.com/5f7f25b2c655f6001969ee88?width=1200&format=jpeg",
+            "publishedAt": "2020-10-08T15:27:00Z",
+            "content": "A benefit of Tesla ownership is that the electric-car maker beams out over-the-air software updates, allowing owners to upgrade their car's performance and add other features without setting foot in \u2026 [+2365 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Paul Lienert",
+            "title": "Ex-Tesla exec Straubel aims to build world's top battery recycler - Reuters India",
+            "description": "Tesla co-founder J.B. Straubel wants to build his startup Redwood Materials into the world's top battery recycling company and one of the largest battery materials companies, he said at a technology conference Wednesday.",
+            "url": "https://in.reuters.com/article/batteries-redwood-recycling-idINKBN26T06S",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-08T02:14:00Z",
+            "content": "(Reuters) - Tesla co-founder J.B. Straubel wants to build his startup Redwood Materials into the worlds top battery recycling company and one of the largest battery materials companies, he said at a \u2026 [+2148 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Stan Schroeder",
+            "title": "Mercedes-Benz teases Vision EQXX electric car with a 750-mile range",
+            "description": "As far as range goes, there's not much of a fight between electric car makers these days; Tesla sits firmly on the throne in most categories.\u00a0\nBut that may change sometime in the (fairly distant) future. On Tuesday, while detailing its upcoming strategy, Merc\u2026",
+            "url": "https://mashable.com/article/merdeces-benz-eqxx/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F10%252F08%252F01%252F137f6d6f1d894d1984a16e4bc1a528cc.0a85d.png%252F1200x630.png?signature=CHQ9tv5Kragmh6tVI1w-cWsRC3U=",
+            "publishedAt": "2020-10-08T11:05:53Z",
+            "content": "As far as range goes, there's not much of a fight between electric car makers these days; Tesla sits firmly on the throne in most categories.\u00a0\r\nBut that may change sometime in the (fairly distant) fu\u2026 [+1569 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "Owning an electric car really does save money, Consumer Reports finds",
+            "description": "Most EVs are $6,000-$10,000 cheaper to operate than an equivalent ICE vehicle.",
+            "url": "https://arstechnica.com/cars/2020/10/owning-an-electric-car-really-does-save-money-consumer-reports-finds/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/GettyImages-1199890688-760x380.jpg",
+            "publishedAt": "2020-10-08T14:00:27Z",
+            "content": "2 with 2 posters participating\r\nIf you bought a Tesla Model 3 instead of a BMW 3 Series or Audi A4, you'd probably save $15,000 over the total lifetime of the vehicle. That's according to a new analy\u2026 [+6888 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "A Bet on Tesla and Faith in Elon Musk Drive 72% Jump in Top-Ranked U.K. Fund",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-08/best-performing-uk-fund-elon-musk-s-tesla-drives-72-increase",
+            "urlToImage": null,
+            "publishedAt": "2020-10-08T04:01:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Exclusive: Virgin Hyperloop picks West Virginia to test high-speed transport system - Reuters",
+            "description": "Virgin Hyperloop has picked the U.S. state of West Virginia to host a $500 million certification center and test track for billionaire Richard Branson's super high-speed travel system, the company told Reuters.",
+            "url": "https://www.reuters.com/article/us-virgin-hyperloop-west-virginia-exclus-idUSKBN26T2J3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201008&t=2&i=1536712883&r=LYNXMPEG971K5&w=800",
+            "publishedAt": "2020-10-08T13:53:00Z",
+            "content": "SEATTLE (Reuters) - Virgin Hyperloop has picked the U.S. state of West Virginia to host a $500 million certification center and test track for billionaire Richard Bransons super high-speed travel sys\u2026 [+2185 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Exclusive: Virgin Hyperloop picks West Virginia to test high-speed transport system - Reuters India",
+            "description": "Virgin Hyperloop has picked the U.S. state of West Virginia to host a $500 million certification center and test track for billionaire Richard Branson's super high-speed travel system, the company told Reuters.",
+            "url": "https://www.reuters.com/article/us-virgin-hyperloop-west-virginia-exclus-idINKBN26T2J3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201008&t=2&i=1536716555&r=LYNXMPEG971MB&w=800",
+            "publishedAt": "2020-10-08T14:01:00Z",
+            "content": "SEATTLE (Reuters) - Virgin Hyperloop has picked the U.S. state of West Virginia to host a $500 million certification center and test track for billionaire Richard Bransons super high-speed travel sys\u2026 [+2185 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Musk says Tesla to use new batteries, tech at Berlin factory; flags production risk - Reuters",
+            "description": "Tesla Inc <TSLA.O> Chief Executive Elon Musk said on Wednesday the company will produce Model Y with a new structural battery design and technology at its Berlin factory next year and that could result in a \"significant production risk\".",
+            "url": "https://uk.reuters.com/article/us-tesla-musk-germany-idUSKBN26T04J",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201008&t=2&i=1536622844&r=LYNXMPEG9703B&w=800",
+            "publishedAt": "2020-10-08T01:38:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Futurist entrepreneur Elon Musk presents an RNA printer, essentially a vaccine production device, on the sidelines of a meeting with the leadership of the conservative C\u2026 [+1652 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Dean",
+            "title": "Amazon unveils its first custom electric delivery vehicle, complete with a driver 'dancefloor' and built-in Alexa",
+            "description": "Summary List PlacementAmazon unveiled its first custom electric delivery vehicle on Thursday morning \u2013 and it plans to have 100,000 on the road within a decade.\u00a0\nThe vehicles are made by California-based Rivian, and Amazon is aiming to deploy the first of the\u2026",
+            "url": "https://www.businessinsider.com/amazon-rivian-unveil-first-custom-electric-delivery-vehicle-2020-10",
+            "urlToImage": "https://i.insider.com/5f7f2e8ec655f6001969eed8?width=1200&format=jpeg",
+            "publishedAt": "2020-10-08T15:30:13Z",
+            "content": "Amazon unveiled its first custom electric delivery vehicle on Thursday morning \u2013 and it plans to have 100,000 on the road within a decade.\u00a0\r\nThe vehicles are made by California-based Rivian, and Amaz\u2026 [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Isobel Asher Hamilton",
+            "title": "Elon Musk said Starlink now has enough satellites in orbit to launch a public beta of its high-speed internet service",
+            "description": "Summary List PlacementElon Musk's goal of beaming high-speed internet to remote parts of the Earth using orbiting satellites just got a step closer to reality.\nSpaceX on Tuesday successfully launched a batch of 60 satellites, bringing the total number of Star\u2026",
+            "url": "https://www.businessinsider.com/spacex-starlink-enough-satellites-to-launch-public-beta-2020-10",
+            "urlToImage": "https://i.insider.com/5f7edd08282c500018c7945d?width=1200&format=jpeg",
+            "publishedAt": "2020-10-08T10:11:19Z",
+            "content": "Elon Musk's goal of beaming high-speed internet to remote parts of the Earth using orbiting satellites just got a step closer to reality.\r\nSpaceX on Tuesday successfully launched a batch of 60 satell\u2026 [+2284 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Tesla Berlin Will Use the Big 4680 Battery and Structural Battery Pack",
+            "description": "Elon Musk says Tesla Berlin will produce and use the new 4680 battery cell and the structural battery pack. Tesla Berlin should be producing cars in Q1 or Q2 of 2021. Berlin will use 4680 cell with...\n\n[[ This is a content summary only. Visit my website for f\u2026",
+            "url": "https://www.nextbigfuture.com/2020/10/tesla-berlin-will-use-the-big-4680-battery-and-structural-battery-pack.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-22-at-3.32.10-PM-1024x541.jpg",
+            "publishedAt": "2020-10-08T03:15:40Z",
+            "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology\u2026 [+593 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Adam Lashinsky",
+            "title": "Does Elon Musk even need a PR department?",
+            "description": "Elon Musk's Tesla has decided to dump its public relations staff.",
+            "url": "https://fortune.com/2020/10/08/does-elon-musk-even-need-a-pr-department/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/10/GettyImages-1228336765.jpg?resize=1200,600",
+            "publishedAt": "2020-10-08T13:52:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Allen Kim, CNN",
+            "title": "SpaceX's Tesla roadster made its first close approach with Mars",
+            "description": "SpaceX CEO Elon Musk's Tesla roadster made its first close approach to Mars on Wednesday. along with the dummy mannequin dubbed \"Starman.\" SpaceX tweeted yesterday that the vehicle came within 5 million miles of the planet.",
+            "url": "https://www.cnn.com/2020/10/08/cars/spacex-tesla-mars-starman-scn-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201008124823-tesla-starman-2018-super-tease.jpg",
+            "publishedAt": "2020-10-08T20:21:37Z",
+            "content": "The stage passed Mars's orbit a couple days earlier, about Oct 5.5, but Mars was further from it then (hadn't reached that part of its orbit). pic.twitter.com/mWUoUn0UO9\r\n\u2014 Jonathan McDowell (@planet\u2026 [+20 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "esully@businessinsider.com (Evan Sully)",
+            "title": "Elon Musk is reportedly pushing his team to boost production to hit a 'tough' but historic milestone \u2014\u00a0building half a million cars in one year",
+            "description": "\"It all comes down to Q4. Please take whatever steps you can think of to improve output (while increasing quality),\" Musk told his employees.",
+            "url": "https://www.businessinsider.com/elon-musk-is-pushing-to-build-500000-vehicles-this-year-2020-10",
+            "urlToImage": "https://i.insider.com/5f7f3b4ec655f6001969ef67?width=1200&format=jpeg",
+            "publishedAt": "2020-10-08T18:37:59Z",
+            "content": "Elon Musk has never shied away from aggressive goals \u2014 and never hesitated to push those around him to help make them happen. For his latest would-be coup, the Tesla CEO wants to ramp up fourth quart\u2026 [+1627 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt McFarland, CNN Business",
+            "title": "For Trevor Milton's business partners, warning signs emerged years before Nikola downfall",
+            "description": "Nevada businessman Glen Pilz was excited to be buying a business in 2006 from Trevor Milton. Milton seemed like a good guy, Pilz said. He recalled Milton telling him how he was paying for someone's education in Brazil.",
+            "url": "https://www.cnn.com/2020/10/08/cars/nikola-trevor-milton-background/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200929191724-trevor-milton-nikola-feb-2019-super-tease.jpg",
+            "publishedAt": "2020-10-08T20:57:00Z",
+            "content": "Washington, DC (CNN)Nevada businessman Glen Pilz was excited to be buying a business in 2006 from Trevor Milton. Milton seemed like a good guy, Pilz said. He recalled Milton telling him how he was pa\u2026 [+10988 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mmcfalljohnsen@businessinsider.com (Morgan McFall-Johnsen)",
+            "title": "Elon Musk's Tesla and its 'Starman' driver just flew past Mars for the first time, 2 years after SpaceX launched the car into the void",
+            "description": "From Musk's old Roadster \u2014 a \"hood ornament\" on a Falcon Heavy rocket stage \u2014 Mars would look about one-tenth the size of the moon as seen from Earth.",
+            "url": "https://www.businessinsider.com/elon-musk-spacex-tesla-starman-space-launch-first-martian-flyby-2020-10",
+            "urlToImage": "https://i.insider.com/5f7e3822282c500018c793ed?width=1200&format=jpeg",
+            "publishedAt": "2020-10-08T14:11:00Z",
+            "content": "An electric car that Elon Musk rocketed into space more than two years ago just flew past Mars for the first time.\r\nSpaceX, the rocket company Musk founded, launched his old Tesla Roadster electric s\u2026 [+3129 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kelly Wynne",
+            "title": "Here's Why You Might See Kanye West as a Vice President Pick on Your November Ballot",
+            "description": "\"Kanye is an example of a good thing that we found along the way,\" Chairman of the American Independence Party Markham Robinson told Newsweek.",
+            "url": "https://www.newsweek.com/heres-why-you-might-see-kanye-west-vice-president-pick-your-november-ballot-1537655",
+            "urlToImage": "https://d.newsweek.com/en/full/1648392/kanye-west.jpg",
+            "publishedAt": "2020-10-08T22:18:17Z",
+            "content": "Kanye West may not be officially running for President in every state, but he's still on California's ballot...for an entirely different reason. West is now listed as a vice president option, in case\u2026 [+4517 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Vicky Ge Huang",
+            "title": "David Herro has steered the $22.2 billion Oakmark International fund through 5 crises since its inception 28 years ago. The veteran investor shares 3 stocks he's betting on, and the pandemic-related opportunities he's seizing.",
+            "description": "Summary List Placement\n\nDavid Herro has seen it all during his 35-year investing career.\u00a0\nFor 28 years, he has been at the helm of the $22.2 billion Oakmark International fund, a gold-rated Morningstar fund despite its almost 18% slump in performance year-to-\u2026",
+            "url": "https://www.businessinsider.com/stock-picks-value-investing-strategy-from-fund-manager-david-herro-2020-10",
+            "urlToImage": "https://i.insider.com/5f7dc9f9282c500018c7910e?width=1200&format=jpeg",
+            "publishedAt": "2020-10-08T12:02:00Z",
+            "content": "David Herro has seen it all during his 35-year investing career.\u00a0\r\nFor 28 years, he has been at the helm of the $22.2 billion Oakmark International fund, a gold-rated Morningstar fund despite its alm\u2026 [+6499 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Susie Neilson)",
+            "title": "Double Dragon: SpaceX plans to have at least 1 spaceship \u2013 and sometimes 2 \u2013 in space for the next 14 months without a break",
+            "description": "SpaceX's next NASA astronaut launch is scheduled for Halloween \u2014 the first of at least seven back-to-back spaceflight missions.",
+            "url": "https://www.businessinsider.com/spacex-will-have-crew-ship-in-orbit-14-months-2020-10",
+            "urlToImage": "https://i.insider.com/5f7e84eec655f6001969ed7b?width=1200&format=jpeg",
+            "publishedAt": "2020-10-08T10:52:00Z",
+            "content": "SpaceX is preparing to launch four NASA astronauts on its Crew Dragon spaceship this Halloween \u2014 the first of six crewed missions the space agency has contracted from the rocket company founded by El\u2026 [+4150 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sghosh@businessinsider.com (Shona Ghosh)",
+            "title": "10 things in tech you need to know today",
+            "description": "Facebook bans political ads, Etsy blocks QAnon, and Trump restricts H-1B visas.",
+            "url": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-october-8-2020-10",
+            "urlToImage": "https://i.insider.com/5f620eb357b7da001ee11e74?width=1200&format=jpeg",
+            "publishedAt": "2020-10-08T06:59:44Z",
+            "content": "Good morning! This is the tech news you need to know this Thursday. Sign up here to get this email in your inbox every morning.\r\n<ol><li>Facebook says it will ban all political ads indefinitely after\u2026 [+1833 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Musk says Tesla to use new batteries, tech at Berlin factory; flags production risk",
+            "description": "Tesla Inc <TSLA.O> Chief Executive Elon Musk said on Wednesday the company will produce Model Y with a new structural battery design and technology at its Berlin factory next year and that could result in a \"significant production risk\".",
+            "url": "https://ca.reuters.com/article/ctech-us-tesla-musk-germany-idCAKBN26T04J-OCATC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201008&t=2&i=1536622910&r=LYNXMPEG9703B-OCATC&w=800",
+            "publishedAt": "2020-10-08T01:39:32Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Futurist entrepreneur Elon Musk presents an RNA printer, essentially a vaccine production device, on the sidelines of a meeting with the leadership of the conservative C\u2026 [+1652 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Dana Hull",
+            "title": "Tesla Seeks Approval for Battery-Cell Output at New Texas Plant",
+            "description": "Tesla Seeks Approval for Battery-Cell Output at New Texas Plantbloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-10-08/tesla-seeks-approval-for-battery-cell-output-at-new-texas-plant",
+            "urlToImage": null,
+            "publishedAt": "2020-10-08T23:45:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Lime adds Wheels shared e-bikes to its app as it seeks to become a one-stop shop for mobility",
+            "description": "Lime is adding Wheels, the shared e-bike startup, into its app so customers can rent both bikes and scooters from the same app. It\u2019s part of Lime\u2019s mission to become a one-stop shop for lightweight electric vehicles.",
+            "url": "https://www.theverge.com/2020/10/8/21506805/lime-wheels-app-integrate-scooter-bike-mobility",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_l7BUwzCUGVVbPVyd6Pp9xXpt6A=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15985620/akrales_190321_3312_0040.jpg",
+            "publishedAt": "2020-10-08T14:00:00Z",
+            "content": "Lime wants to own all light electric vehicle trips under five miles\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nThe next time you open Limes smartphone app, you may see a new type of vehicle that i\u2026 [+2740 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Eric M. Johnson",
+            "title": "Exclusive: Virgin Hyperloop picks West Virginia to test high-speed transport system",
+            "description": "Virgin Hyperloop has picked the U.S. state of West Virginia to host a $500 million certification center and test track for billionaire Richard Branson's super high-speed travel system, the company told Reuters.",
+            "url": "https://uk.reuters.com/article/us-virgin-hyperloop-west-virginia-exclus-idUKKBN26T2J3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201008&t=2&i=1536712883&r=LYNXMPEG971K5&w=800",
+            "publishedAt": "2020-10-08T13:58:16Z",
+            "content": "SEATTLE (Reuters) - Virgin Hyperloop has picked the U.S. state of West Virginia to host a $500 million certification center and test track for billionaire Richard Bransons super high-speed travel sys\u2026 [+2185 chars]"
+        }
+    ]
+}

@@ -1,0 +1,539 @@
+{
+    "status": "ok",
+    "totalResults": 41,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noel Randewich",
+            "title": "Tesla surge adds to dominance of S&P 500's biggest players - Reuters",
+            "description": "Tesla Inc <TSLA.O> extended its rally on Thursday ahead of its December debut in the S&P 500 <.SPX>, with its market value nearing $500 billion, highlighting the growing domination of mega-cap growth stocks within Wall Street's main benchmark.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-tesla-idUSKBN27Z38I",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541825059&r=LYNXMPEGAI1XC&w=800",
+            "publishedAt": "2020-11-19T22:29:00Z",
+            "content": "(Reuters) - Tesla Inc TSLA.O extended its rally on Thursday ahead of its December debut in the S&amp;P 500 .SPX, with its market value nearing $500 billion, highlighting the growing domination of meg\u2026 [+3867 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman",
+            "title": "Model Y drags down Tesla's ranking in annual reliability survey by Consumer Reports - Reuters",
+            "description": "Tesla Inc's newly introduced Model Y crossover, which has had body-hardware and paint issues, dragged down the electric carmaker's standing in Consumer Reports magazine's annual reliability study.",
+            "url": "https://www.reuters.com/article/us-autos-reliability-tesla-idUSKBN27Z28C",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541779277&r=LYNXMPEGAI1AD&w=800",
+            "publishedAt": "2020-11-19T15:20:00Z",
+            "content": "DETROIT (Reuters) - Tesla Incs newly introduced Model Y crossover, which has had body-hardware and paint issues, dragged down the electric carmakers standing in Consumer Reports magazines annual reli\u2026 [+2332 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Walter Thompson",
+            "title": "Against all odds: The sheer force of immigrant startup founders",
+            "description": "Niko Bonatsos Contributor Share on Twitter Niko Bonatsos is a managing director at General Catalyst Partners. More posts by this contributor As VCs enroll the startup class of 2016, it\u2019s RIP for \u2018me too\u2019 companies I\u2019ve long said that I don\u2019t care where you co\u2026",
+            "url": "http://techcrunch.com/2020/11/19/against-all-odds-the-sheer-force-of-immigrant-startup-founders/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-sb10065934d-001.jpg?w=600",
+            "publishedAt": "2020-11-19T16:45:17Z",
+            "content": "I\u2019ve long said that I dont care where you come from, if your name is hard to say, or you have a \u201cfunny\u201d accent. Theres a reason for that. For centuries, some of America\u2019s biggest companies have been \u2026 [+6159 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman",
+            "title": "Model Y drags down Tesla's ranking in annual reliability survey by Consumer Reports - Reuters",
+            "description": "Tesla Inc's <TSLA.O> newly introduced Model Y crossover, which has had body-hardware and paint issues, dragged down the electric-car maker's standing in Consumer Reports magazine's annual reliability study.",
+            "url": "https://www.reuters.com/article/autos-reliability-tesla-int-idUSKBN27Z26G",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541777843&r=LYNXMPEGAI18R&w=800",
+            "publishedAt": "2020-11-19T15:20:00Z",
+            "content": "DETROIT (Reuters) - Tesla Inc's TSLA.O newly introduced Model Y crossover, which has had body-hardware and paint issues, dragged down the electric-car maker's standing in Consumer Reports magazine's \u2026 [+2427 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman",
+            "title": "GM boosts EV spending by 35%, moves to increase battery production - Reuters UK",
+            "description": "General Motors Co <GM.N> Chief Executive Mary Barra said the Detroit automaker is accelerating an \"all out pursuit of global EV leadership,\" challenging electric vehicle leader Tesla Inc <TSLA.O> with increased spending and sped-up vehicle production targets.",
+            "url": "https://uk.reuters.com/article/uk-gm-evs-idUKKBN27Z2RC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541801571&r=LYNXMPEGAI1MD&w=800",
+            "publishedAt": "2020-11-19T18:16:00Z",
+            "content": "DETROIT (Reuters) - General Motors Co GM.N Chief Executive Mary Barra said the Detroit automaker is accelerating an \"all out pursuit of global EV leadership,\" challenging electric vehicle leader Tesl\u2026 [+2945 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman",
+            "title": "GM boosts EV spending by 35%, moves to increase battery production - Reuters Canada",
+            "description": "General Motors Co <GM.N> on Thursday stepped up its challenge to electric vehicle leader Tesla Inc <TSLA.O>, boosting planned spending on future electric models by 35% to more than $27 billion and outlining plans to increase battery output to meet ramped-up v\u2026",
+            "url": "https://ca.reuters.com/article/us-gm-evs-idCAKBN27Z2QI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541801261&r=LYNXMPEGAI1LU&w=800",
+            "publishedAt": "2020-11-19T18:05:00Z",
+            "content": "DETROIT (Reuters) - General Motors Co GM.N on Thursday stepped up its challenge to electric vehicle leader Tesla Inc TSLA.O, boosting planned spending on future electric models by 35% to more than $2\u2026 [+2521 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman",
+            "title": "GM boosts EV spending by 35%, moves to increase battery production - Reuters",
+            "description": "General Motors Co <GM.N> on Thursday stepped up its challenge to electric vehicle leader Tesla Inc <TSLA.O>, boosting planned spending on future electric models by 35% to more than $27 billion and outlining plans to increase battery output to meet ramped-up v\u2026",
+            "url": "https://in.reuters.com/article/us-gm-evs-idUSKBN27Z2QI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541801261&r=LYNXMPEGAI1LU&w=800",
+            "publishedAt": "2020-11-19T18:02:00Z",
+            "content": "DETROIT (Reuters) - General Motors Co GM.N on Thursday stepped up its challenge to electric vehicle leader Tesla Inc TSLA.O, boosting planned spending on future electric models by 35% to more than $2\u2026 [+2521 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Niko Bonatsos",
+            "title": "Against all odds: The sheer force of immigrant startup founders",
+            "description": "For centuries, some of America's biggest companies have been founded by immigrants.  Beyond household names like Levi Strauss (Germany) and Elon Musk (South ...",
+            "url": "https://techcrunch.com/2020/11/19/against-all-odds-the-sheer-force-of-immigrant-startup-founders/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/noi9ie8fUm.yceZBUTnEwQ--~B/aD03MzM7dz0xMTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/f891014e7845d41798c9a74a6810d630",
+            "publishedAt": "2020-11-19T16:45:17Z",
+            "content": "I've long said that I dont care where you come from, if your name is hard to say, or you have a \"funny\" accent. Theres a reason for that. For centuries, some of America's biggest companies have been \u2026 [+6122 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. agency opens regulatory proceeding to ensure self-driving car safety - Reuters India",
+            "description": "U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles.",
+            "url": "https://in.reuters.com/article/us-autos-self-driving-idINKBN27Z2FM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541788378&r=LYNXMPEGAI1EJ&w=800",
+            "publishedAt": "2020-11-19T16:36:00Z",
+            "content": "By Reuters Staff\r\nWASHINGTON (Reuters) - U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards\u2026 [+931 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. agency opens regulatory proceeding to ensure self-driving car safety - Reuters",
+            "description": "U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles.",
+            "url": "https://www.reuters.com/article/us-autos-self-driving-idUSKBN27Z2FM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541788378&r=LYNXMPEGAI1EJ&w=800",
+            "publishedAt": "2020-11-19T16:10:00Z",
+            "content": "By Reuters Staff\r\nWASHINGTON (Reuters) - U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards\u2026 [+931 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. agency opens regulatory proceeding to ensure self-driving car safety - Reuters UK",
+            "description": "U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles.",
+            "url": "https://uk.reuters.com/article/us-autos-self-driving-idUKKBN27Z2FM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541788378&r=LYNXMPEGAI1EJ&w=800",
+            "publishedAt": "2020-11-19T16:12:00Z",
+            "content": "By Reuters Staff\r\nWASHINGTON (Reuters) - U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards\u2026 [+931 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman",
+            "title": "U.S. electric van maker ELMS in talks to go public through merger with a SPAC: source - Reuters UK",
+            "description": "A U.S. electric delivery van company is in talks to go public through a merger with a special-purpose acquisition company (SPAC), a person familiar with the plan said on Wednesday.",
+            "url": "https://uk.reuters.com/article/us-autos-evs-elms-idUKKBN27Z01N",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T00:27:00Z",
+            "content": "DETROIT (Reuters) - A U.S. electric delivery van company is in talks to go public through a merger with a special-purpose acquisition company (SPAC), a person familiar with the plan said on Wednesday\u2026 [+1655 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Elon Passes Zuckerberg as Tesla Nears $500 Billion",
+            "description": "Tesla is worth $480 billion and Elon Musk is worth about 20% more than Mark Zuckerberg. Another 10% move in Tesla stock will send Elon Musk past the net worth of Bill Gates ($128 billion). SP Global...\n\n[[ This is a content summary only. Visit my website for \u2026",
+            "url": "https://www.nextbigfuture.com/2020/11/elon-passes-zuckerberg-as-tesla-nears-500-billion.html",
+            "urlToImage": "https://www.nextbigfuture.com/wp-content/uploads/2020/01/elondancing.jpg",
+            "publishedAt": "2020-11-19T16:56:34Z",
+            "content": "Tesla is worth $480 billion and Elon Musk is worth about 20% more than Mark Zuckerberg. Another 10% move in Tesla stock will send Elon Musk past the net worth of Bill Gates ($128 billion).\r\nSP Global\u2026 [+1263 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shalini Nagarajan",
+            "title": "10 things you need to know before the opening bell",
+            "description": "Summary List Placement\n\nWelcome to 10 Things Before the Opening Bell. Sign up here to get this email in your inbox every morning.\nFor the biggest stories in politics,\u00a0sign up here for 10 Things in Politics You Need to Know Today\u00a0- launching soon!\nHere's what \u2026",
+            "url": "https://www.businessinsider.com/opening-bell-november-19-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fb6508c32f2170011f6ff6e?format=jpeg",
+            "publishedAt": "2020-11-19T11:31:05Z",
+            "content": "Thomson Reuters\r\nWelcome to 10 Things Before the Opening Bell. Sign up here to get this email in your inbox every morning.\r\nFor the biggest stories in politics,\u00a0sign up here for 10 Things in Politics\u2026 [+1597 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "GM ups electric and autonomous vehicle spending to $27 billion through 2025",
+            "description": "General Motors said it will spend $27 billion over the next five years on the development of electric vehicles and automated technology, a 35% percent increase that exceeds the automaker\u2019s investment and gas and diesel and is an effort bring products to marke\u2026",
+            "url": "http://techcrunch.com/2020/11/19/gm-ups-electric-and-autonomous-vehicle-spending-to-27-billion-through-2025/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/Cadillac-LYRIQ-308099.jpg?w=626",
+            "publishedAt": "2020-11-19T18:01:41Z",
+            "content": "General Motors said it will spend $27 billion over the next five years on the development of electric vehicles and automated technology, a 35% percent increase that exceeds the automaker\u2019s investment\u2026 [+3912 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scott K. Johnson",
+            "title": "New \u201ctargeted healing\u201d approach rejuvenates run-down battery materials",
+            "description": "Rather than break down cathode material, why not restore it?",
+            "url": "https://arstechnica.com/science/2020/11/new-targeted-healing-approach-rejuvenates-run-down-battery-materials/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/batteries_peter_miller-760x380.jpg",
+            "publishedAt": "2020-11-19T22:20:45Z",
+            "content": "4 with 4 posters participating\r\nAs electric vehicle adoption grows, the need for battery recycling is growing along with it. Typically, recycling involves breaking the battery down into pure chemical\u2026 [+3886 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Culp",
+            "title": "Wall Street closes higher as new stimulus talks ease shutdown worries - Reuters UK",
+            "description": "Wall Street closes higher as new stimulus talks ease shutdown worries\u00a0\u00a0Reuters UK",
+            "url": "https://www.reuters.com/article/usa-stocks-idUKL1N2I52QD",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-19T21:34:08Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window)\r\n* Weekly jobless claims unexpectedly rise\r\n* U.S. COVID-19 hospitalizations jump by 50%\r\n\u2026 [+3264 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Culp",
+            "title": "Wall Street closes higher as new stimulus talks ease shutdown worries - Reuters",
+            "description": "U.S. stocks ended in positive territory on Thursday as fresh stimulus hopes buoyed investor sentiment toward the end of a session fraught with worries over mounting shutdowns and layoffs linked to spiraling COVID-19 infection rates.",
+            "url": "https://www.reuters.com/article/us-usa-stocks-idUKKBN27Z1NF",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541756608&r=LYNXMPEGAI0WZ&w=800",
+            "publishedAt": "2020-11-19T21:36:22Z",
+            "content": "(Reuters) - U.S. stocks ended in positive territory on Thursday as fresh stimulus hopes buoyed investor sentiment toward the end of a session fraught with worries over mounting shutdowns and layoffs \u2026 [+3151 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla, Taycan Snub by Consumer Reports Shows Challenge for EVs",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-11-19/tesla-taycan-snub-by-consumer-reports-shows-challenge-for-evs",
+            "urlToImage": null,
+            "publishedAt": "2020-11-19T15:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Avery Hartmans",
+            "title": "Elon Musk is $8 billion away from surpassing Bill Gates as the world's second-richest person (TSLA)",
+            "description": "Summary List Placement\n\nElon Musk is $8 billion shy of dislodging Bill Gates as the second-richest person in the world.\u00a0\nThe Tesla and SpaceX CEO saw his net worth rise $10.2 billion to $120 billion on Wednesday, the result of Tesla shares spiking 10% after M\u2026",
+            "url": "https://www.businessinsider.com/elon-musk-net-worth-nearing-bill-gates-second-richest-person-2020-11",
+            "urlToImage": "https://i.insider.com/5fb67d4032f2170011f6ffd9?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T15:51:33Z",
+            "content": "Elon Musk is $8 billion shy of dislodging Bill Gates as the second-richest person in the world.\u00a0\r\nThe Tesla and SpaceX CEO saw his net worth rise $10.2 billion to $120 billion on Wednesday, the resul\u2026 [+1938 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "",
+            "title": "Consumer Reports study finds reliability issues with some EVs",
+            "description": "It will no longer recommend certain EVs from Audi, Kia and Porsche.",
+            "url": "https://www.engadget.com/consumer-reports-reliability-study-electric-vehicles-202508542.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fedfd7820-d7b7-11ea-9ff7-65d3ee9dde33&client=amp-blogside-v2&signature=afb153cc78db2acbf21f501e6e3a7253e63b112d",
+            "publishedAt": "2020-11-19T20:25:08Z",
+            "content": "As a result, Consumer Reports no longer recommends the E-Tron or Niro. Audi and Kia said they're taking steps to address the reported issues.\r\nModel Y owners, meanwhile, flagged some build quality is\u2026 [+728 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dave Levinthal",
+            "title": "Big corporations like BofA, Ford, and UPS want to bankroll Biden's inauguration. But the president-elect won't say yet whether he'll take their money.",
+            "description": "Summary List Placement\n\nFrom the earliest days of his campaign, President-elect Joe Biden has sniped at special interests itching to influence politics with their money.\u00a0\n\"Our Constitution didn't begin with the phrase, 'We the Democrats,' or 'We the Republica\u2026",
+            "url": "https://www.businessinsider.com/biden-inauguration-inaugural-ceremony-2021-president-corporations-covid19-2020-11",
+            "urlToImage": "https://i.insider.com/5fb6dd8132f2170011f7028b?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T21:21:06Z",
+            "content": "From the earliest days of his campaign, President-elect Joe Biden has sniped at special interests itching to influence politics with their money.\u00a0\r\n\"Our Constitution didn't begin with the phrase, 'We\u2026 [+11408 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena, CNN Business",
+            "title": "GM says it's increasing spending to accelerate electric vehicle plan even more",
+            "description": "General Motors is increasing its spending on electric vehicles, planning more electric cars, trucks and SUVs than previously announced and that it will produce many of them sooner than originally planned, the company announced Thursday.",
+            "url": "https://www.cnn.com/2020/11/19/business/gm-electric-vehicle-strategy/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200806165613-02-cadillac-lyric-electric-crossover-suv-super-tease.jpg",
+            "publishedAt": "2020-11-19T18:04:26Z",
+            "content": "New York (CNN Business)General Motors is increasing its spending on electric vehicles, planning more electric cars, trucks and SUVs than previously announced and that it will produce many of them soo\u2026 [+3696 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "Model Y reliability woes put Tesla near bottom of Consumer Reports rating",
+            "description": "Consumer Reports gave the Tesla Model Y SUV a \"not recommended\" rating because of significant reliability problems, dragging the brand to near the bottom of the magazine's industry-wide reliability ranking.",
+            "url": "https://www.cnn.com/2020/11/19/tech/tesla-model-y-reliability-consumer-reports/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201119135800-tesla-model-y-file-super-tease.jpg",
+            "publishedAt": "2020-11-19T21:32:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "grapier@businessinsider.com (Graham Rapier)",
+            "title": "Tesla's Model S is no longer recommended by Consumer Reports after problems with its touchscreen, suspension, and body hardware",
+            "description": "The magazine said its readers reported issues with the Tesla sedan's suspension, electronics, body hardware and more.",
+            "url": "https://www.businessinsider.com/tesla-model-s-consumer-reports-no-longer-recommended-reliability-problems-2020-11",
+            "urlToImage": "https://i.insider.com/5fb6a85550e71a00115563a7?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T18:14:58Z",
+            "content": "Tesla has sunk to second-to-last place in Consumer Reports' ranking of automaker reliability, with its Model S no longer being recommended by the magazine due to ongoing reliability issues.\r\nThe maga\u2026 [+1180 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Grace Dean)",
+            "title": "Tesla is on a hiring spree to try to reach 500,000 annual car deliveries, and is recruiting part-time staff because it doesn't have to buy them laptops, according to a report",
+            "description": "Tesla is reportedly hiring part-time staff because they have fewer benefits and it doesn't need to buy them phones, sources told Electrek.",
+            "url": "https://www.businessinsider.com/tesla-hiring-spree-part-time-staff-benefits-profits-cost-2020-11",
+            "urlToImage": "https://i.insider.com/5f206241f34d050d03115385?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T17:31:14Z",
+            "content": "Tesla has hired about 1,000 sales and delivery staff across North America over the past two months, sources familiar with the matter told Electrek, as it works towards its 500,000 annual deliveries t\u2026 [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "snagarajan@businessinsider.com (Shalini Nagarajan)",
+            "title": "A Tesla rival is going public at a $5.4 billion valuation via a SPAC set up by Marvel Comics' ex-CEO",
+            "description": "Arrival  A Tesla-like British startup is set to go public at a $5.4 billion valuation via a special-acquistion company formed by former Marvel ...",
+            "url": "https://www.businessinsider.com/tesla-rival-arrival-public-via-spac-54-bln-valuation-marvel-2020-11",
+            "urlToImage": "https://images2.markets.businessinsider.com/5fb63b6232f2170011f6ff4b?format=jpeg",
+            "publishedAt": "2020-11-19T11:14:00Z",
+            "content": "Arrival\r\nBritish electric-vehicle startup Arrival will go public by combining with a US \"blank check company\" set up by Peter Cuneo, the former CEO of Marvel Comics and personal care firm Remington P\u2026 [+1802 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "GM ups electric and autonomous vehicle spending to $27 billion through 2025",
+            "description": "General Motors said it will spend $27 billion over the next five years on the development of electric vehicles and automated technology, a 35% percent...",
+            "url": "https://techcrunch.com/2020/11/19/gm-ups-electric-and-autonomous-vehicle-spending-to-27-billion-through-2025/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/2K.vvIvNT7Wo_P5FTgSNcQ--~B/aD04MTg7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/47467937bc99a6cf8d7917f74b1cb83d",
+            "publishedAt": "2020-11-19T18:01:41Z",
+            "content": "General Motors said it will spend $27 billion over the next five years on the development of electric vehicles and automated technology, a 35% percent increase that exceeds the automaker's investment\u2026 [+3912 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dave Mosher",
+            "title": "Rocket Lab is about to recover a space-launched booster for the first time. Watch the company fly its SpaceX-inspired mission live.",
+            "description": "Summary List PlacementSpaceX is famous for recovering and reusing its colossal Falcon 9 rocket boosters, each time saving more than $10 million. However, the Elon Musk-founded company is about to have some impressive (if smaller) competition in New Zealand.\nR\u2026",
+            "url": "https://www.businessinsider.com/rocket-lab-used-booster-recovery-attempt-return-to-sender-youtube-2020-11",
+            "urlToImage": "https://i.insider.com/5fb6cff632f2170011f70221?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T22:15:37Z",
+            "content": "SpaceX is famous for recovering and reusing its colossal Falcon 9 rocket boosters, each time saving more than $10 million. However, the Elon Musk-founded company is about to have some impressive (if \u2026 [+5871 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Allana Akhtar)",
+            "title": "Facebook, Twitter, and Google are uniting to stop vaccine misinformation from spreading online",
+            "description": "During the pandemic, misinformation about public health guidelines spread on Facebook, Twitter, YouTube, and other social media sites.",
+            "url": "https://www.businessinsider.com/facebook-twitter-google-team-up-to-fight-vaccine-misinformation-2020-11",
+            "urlToImage": "https://i.insider.com/5f6ccc88c4049200115cb6ff?width=1200&format=jpeg",
+            "publishedAt": "2020-11-20T00:00:00Z",
+            "content": "Canada and the UK will work with Facebook, Google, and Twitter on ways to stop misinformation about the coronavirus vaccine from spreading online.\u00a0\r\nBritish fact checking charity Full Fact will coord\u2026 [+2195 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jake Bright",
+            "title": "African fintech startup Chipper Cash raises $30M backed by Jeff Bezos",
+            "description": "African cross-border fintech startup\u00a0Chipper Cash has raised a $30 million Series B funding round led by Ribbit Capital with participation of Bezos...",
+            "url": "https://techcrunch.com/2020/11/18/african-fintech-startup-chipper-cash-raises-30m-backed-by-jeff-bezos/",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/IxB3xAW6FCFRFKQQX3NPZg--~B/aD0yODgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/462f8131787f7e437ba81279097b6d8d",
+            "publishedAt": "2020-11-19T05:00:26Z",
+            "content": "African cross-border fintech startup Chipper Cash has raised a $30 million Series B funding round led by Ribbit Capital with participation of Bezos Expeditions the personal VC fund of Amazon CEO Jeff\u2026 [+5421 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tlevin@businessinsider.com (Tim Levin)",
+            "title": "100-mph Tesla Model 3 crash sends hundreds of scorching battery cells flying, starting a housefire and taking 3 hours to clean up",
+            "description": "The crash obliterated the Tesla Model 3 and launched hundreds of hot battery cells around the neighborhood.",
+            "url": "https://www.businessinsider.com/tesla-model-3-crash-sends-scorching-batteries-flying-starts-housefire-2020-11",
+            "urlToImage": "https://i.insider.com/5fb6927932f2170011f7005e?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T18:38:00Z",
+            "content": "Tesla has caught heat in the past for its battery packs bursting into flames, but a recent incident in Corvallis, Oregon shows that the electric vehicles may pose a fire hazard not just to the cars t\u2026 [+2767 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "Bill Gates Dismisses Parler App, Says It's 'Great' for People Who Want Holocaust Denial",
+            "description": "The billionaire Microsoft co-founder and philanthropist said this week that content uploaded to the up-and-coming \"free speech\" platform includes \"crazy stuff.\"",
+            "url": "https://www.newsweek.com/bill-gates-parler-app-social-media-holocaust-denial-crazy-content-1548645",
+            "urlToImage": "https://d.newsweek.com/en/full/1672879/parler.jpg",
+            "publishedAt": "2020-11-19T11:17:42Z",
+            "content": "Bill Gates criticised the \"free speech\" social media platform Parler this week by saying it will be a \"great\" place for Holocaust deniers.\r\nThe billionaire Microsoft co-founder said Tuesday that cont\u2026 [+4803 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "GM plans to launch 30 electric vehicles by 2025",
+            "description": "GM is stepping up its commitment to electric vehicles, and it\u2019s providing a clearer view of its strategy in the process. The automaker revealed at a Barclays conference that it\u2019s boosting its combined EV and self-driving investment from $20 billion t...",
+            "url": "https://www.engadget.com/gm-2025-ev-roadmap-ultium-battery-upgrade-180037793.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F5e4c1d90-2a7c-11eb-be7f-5014b6df760f&client=amp-blogside-v2&signature=6ab49b97526c3fab72fbeffdb5b774c10b6f1334",
+            "publishedAt": "2020-11-19T18:00:37Z",
+            "content": "These EVs should be more capable, too. GM now expects cars based on its Ultium batteries to get up to 450 miles of range on a charge versus the previously claimed 400. It\u2019s also prototyping second-ge\u2026 [+806 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jake Bright",
+            "title": "African fintech startup Chipper Cash raises $30M backed by Jeff Bezos",
+            "description": "African cross-border fintech startup\u00a0Chipper Cash has raised a $30 million Series B funding round led by Ribbit Capital with participation of Bezos Expeditions \u2014 the personal VC fund of Amazon CEO Jeff Bezos. Chipper Cash was founded in San Francisco in 2018 \u2026",
+            "url": "http://techcrunch.com/2020/11/18/african-fintech-startup-chipper-cash-raises-30m-backed-by-jeff-bezos/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/Ham_Official.jpg?w=267",
+            "publishedAt": "2020-11-19T05:00:26Z",
+            "content": "African cross-border fintech startup\u00a0Chipper Cash has raised a $30 million Series B funding round led by Ribbit Capital with participation of Bezos Expeditions the personal VC fund of Amazon CEO Jeff\u2026 [+5391 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "General Motors\u2019 electric vehicle plan just got bigger, bolder, and more expensive",
+            "description": "GM increased the amount of money it will spend on electric vehicles, from $20 billion to $27 billion by 2025. The automaker is also accelerating its production plans, committing to releasing 30 new EVs by 2025.",
+            "url": "https://www.theverge.com/2020/11/19/21575153/gm-electric-ev-investment-deadline-cadillac-chevy-hummer",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/58CMviA4LMxUyRFByi5tGkbxJ1U=/22x0:5678x2961/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21975967/2022_GMC_HUMMER_EV_003.jpg",
+            "publishedAt": "2020-11-19T18:00:00Z",
+            "content": "GM says it will spend $27 billion by 2025 to release 30 EVs globally\r\nGeneral Motors announced Thursday that it was dumping more money into its electrification plans and would also be accelerating it\u2026 [+2684 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bsmith@businessinsider.com (Barbara Smith)",
+            "title": "SoftBank CEO says he doesn't understand bitcoin, and watching the price fluctuate was 'distracting my focus on my own business'",
+            "description": "The SoftBank CEO invested close to $200 million of his own money into bitcoin, but quickly grew tired of watching its price rise and fall daily.",
+            "url": "https://www.businessinsider.com/softbank-masayoshi-son-doesnt-understand-bitcoin-sold-stake-price-distraction-2020-11",
+            "urlToImage": "https://i.insider.com/5fb69fcb32f2170011f700e0?width=1200&format=jpeg",
+            "publishedAt": "2020-11-19T21:02:06Z",
+            "content": "Softbank CEO Masayoshi Son said that he \"doesn't understand\" bitcoin, and that he spent a good chunk of his time tracking its movement while invested in the cryptocurrency.\r\nSon, who made the remarks\u2026 [+2078 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Defies Elon Musk\u2019s Warnings and Pushes Ahead With Hydrogen - Bloomberg",
+            "description": "China Defies Elon Musk\u2019s Warnings and Pushes Ahead With Hydrogen\u00a0\u00a0Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-11-19/china-defies-elon-musk-s-warnings-and-pushes-ahead-with-hydrogen",
+            "urlToImage": null,
+            "publishedAt": "2020-11-19T21:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman",
+            "title": "Model Y drags down Tesla's ranking in annual reliability survey by Consumer Reports",
+            "description": "Tesla Inc's <TSLA.O> newly introduced Model Y crossover, which has had body-hardware and paint issues, dragged down the electric-car maker's standing in Consumer Reports magazine's annual reliability study.",
+            "url": "https://ca.reuters.com/article/us-autos-reliability-tesla-idCAKBN27Z28C",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541779666&r=LYNXMPEGAI1AD&w=800",
+            "publishedAt": "2020-11-19T15:24:22Z",
+            "content": "DETROIT (Reuters) - Tesla Inc's TSLA.O newly introduced Model Y crossover, which has had body-hardware and paint issues, dragged down the electric-car maker's standing in Consumer Reports magazine's \u2026 [+2427 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ben Klayman",
+            "title": "GM's Barra accelerates 'all out pursuit of global EV leadership'",
+            "description": "General Motors Co <GM.N> Chief Executive Mary Barra said the Detroit automaker is accelerating an \"all out pursuit of global EV leadership,\" challenging electric vehicle leader Tesla Inc <TSLA.O> with increased spending and sped-up vehicle production targets.",
+            "url": "https://www.reuters.com/article/us-gm-evs-idUSKBN27Z2QI",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541801261&r=LYNXMPEGAI1LU&w=800",
+            "publishedAt": "2020-11-19T18:59:33Z",
+            "content": "DETROIT (Reuters) - General Motors Co GM.N Chief Executive Mary Barra said the Detroit automaker is accelerating an \"all out pursuit of global EV leadership,\" challenging electric vehicle leader Tesl\u2026 [+2932 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "U.S. agency opens regulatory proceeding to ensure self-driving car safety",
+            "description": "U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles.",
+            "url": "https://ca.reuters.com/article/us-autos-self-driving-idCAKBN27Z2FM",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201119&t=2&i=1541788378&r=LYNXMPEGAI1EJ&w=800",
+            "publishedAt": "2020-11-19T16:09:21Z",
+            "content": "By Reuters Staff\r\nWASHINGTON (Reuters) - U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards\u2026 [+931 chars]"
+        }
+    ]
+}

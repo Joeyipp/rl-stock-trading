@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stella Qiu, Tim Hepher",
+            "title": "UPDATE 1-Airbus in tussle over jet deliveries to China - sources - Reuters India",
+            "description": "Chinese airlines are shunning some deliveries of Airbus aircraft, citing fears of coronavirus infection for their staff in the latest tussle over efforts to keep delayed deliveries on track despite the pandemic, industry sources said.",
+            "url": "https://in.reuters.com/article/airbus-china-deliveries-idINL1N2HT035",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-07T02:45:00Z",
+            "content": "(Adds byline)\r\nBEIJING/PARIS, Nov 6 (Reuters) - Chinese airlines are shunning some deliveries of Airbus aircraft, citing fears of coronavirus infection for their staff in the latest tussle over effor\u2026 [+1781 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "UPDATE 1-Airbus in tussle over jet deliveries to China - sources - Reuters",
+            "description": "UPDATE 1-Airbus in tussle over jet deliveries to China - sources\u00a0\u00a0Reuters",
+            "url": "https://www.reuters.com/article/airbus-china-deliveries-idUSL1N2HT035",
+            "urlToImage": null,
+            "publishedAt": "2020-11-07T02:41:00Z",
+            "content": "Airport Services\r\nStella Qiu\r\nTim Hepher\r\n(Adds byline)\r\nBEIJING/PARIS, Nov 6 (Reuters) - Chinese airlines are shunning some deliveries of Airbus aircraft, citing fears of coronavirus infection for t\u2026 [+1915 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Brittany Chang",
+            "title": "Volvo Trucks has unveiled a whole line of heavy duty electric trucks featuring ranges of nearly 200 miles that will go on sale in 2021",
+            "description": "Summary List Placement\n\nVolvo Trucks has unveiled electrified versions of several of its heavy-duty trucks \u2014 the Volvo FH, FM, and FMX \u2014 that will go on sale in Europe next year.\nLike the original non electric iterations in Volvo Trucks' arsenal, the new envi\u2026",
+            "url": "https://www.businessinsider.com/volvo-trucks-electrifying-heavy-duty-trucks-in-2021-2020-11",
+            "urlToImage": "https://i.insider.com/5fa43c84f7d1cb0019e3a03c?width=1200&format=jpeg",
+            "publishedAt": "2020-11-07T12:56:00Z",
+            "content": "Volvo Trucks has unveiled electrified versions of several of its heavy-duty trucks \u2014 the Volvo FH, FM, and FMX \u2014 that will go on sale in Europe next year.\r\nLike the original non electric iterations i\u2026 [+783 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China October exports surge, imports rise amid global recovery - Reuters",
+            "description": "<ol><li>China October exports surge, imports rise amid global recovery\u00a0\u00a0Reuters\r\n</li><li>China exports remain strong in October, import growth slows\u00a0\u00a0Yahoo News\r\n</li><li>China Exports Roar Ahead; Trade Surplus With U.S., World Widens\u00a0\u00a0The Wall Street Journa\u2026",
+            "url": "https://www.reuters.com/article/us-china-economy-trade-idUKKBN27N08G",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540336572&r=LYNXMPEGA6063&w=800",
+            "publishedAt": "2020-11-07T05:33:00Z",
+            "content": "By Reuters Staff\r\nBEIJING (Reuters) - China exports grew at the fastest pace in 19 months in October, while imports also rose, official data showed on Saturday, as the worlds second largest economy c\u2026 [+2769 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Michael D'Antonio",
+            "title": "Trump is a one-term president who can't admit he's a loser",
+            "description": "Following the election of President-elect Joe Biden, Michael D'Antonio writes that President Trump has become what he fears most: a loser. The result of this election was a referendum on President Trump's personality--rather than his policies or his administr\u2026",
+            "url": "https://www.cnn.com/2020/11/07/opinions/donald-trump-one-term-president-dantonio/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201106101913-10-trump-presser-1105-super-tease.jpg",
+            "publishedAt": "2020-11-07T16:54:00Z",
+            "content": "Michael D'Antonio is the author of the book \"Never Enough: Donald Trump and the Pursuit of Success\" and co-author, with Peter Eisner, of the upcoming book \"High Crimes: The Corruption, Impunity, and \u2026 [+8864 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China October exports surge, imports rise amid global recovery - Reuters",
+            "description": "<ol><li>China October exports surge, imports rise amid global recovery\u00a0\u00a0Reuters\r\n</li><li>China Exports Roar Ahead; Trade Surplus With U.S., World Widens\u00a0\u00a0The Wall Street Journal\r\n</li><li>China exports remain strong in October, import growth slows\u00a0\u00a0Yahoo New\u2026",
+            "url": "https://www.reuters.com/article/china-economy-trade-idINKBN27N08M",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540337055&r=LYNXMPEGA606L&w=800",
+            "publishedAt": "2020-11-07T05:50:00Z",
+            "content": "By Reuters Staff\r\nBEIJING (Reuters) - China exports grew at the fastest pace in 19 months in October, while imports also rose, official data showed on Saturday, as the worlds second largest economy c\u2026 [+2769 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Warren Buffett's Berkshire Hathaway swings back into action, spending a net $4.8 billion on stocks and a record $9 billion on buybacks in the 3rd quarter",
+            "description": "Summary List Placement\n<ul>\n<li>Warren Buffett's Berkshire Hathaway reported third-quarter earnings on Saturday.</li>\n<li>The billionaire investor's company bought back a record $9 billion of its shares, and spent a net $4.8 billion on stocks after selling a \u2026",
+            "url": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-q3-earnings-stock-purchases-buybacks-2020-11",
+            "urlToImage": "https://i.insider.com/5f49246ccd2fec00296a4c9b?width=1200&format=jpeg",
+            "publishedAt": "2020-11-07T14:37:50Z",
+            "content": "<ul><li>Warren Buffett's Berkshire Hathaway reported third-quarter earnings on Saturday.</li><li>The billionaire investor's company bought back a record $9 billion of its shares, and spent a net $4.8\u2026 [+2921 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stella Qiu, Tim Hepher",
+            "title": "UPDATE 1-Airbus in tussle over jet deliveries to China - sources",
+            "description": "Chinese airlines are shunning some deliveries of Airbus aircraft, citing fears of coronavirus infection for their staff in the latest tussle over efforts to keep delayed deliveries on track despite the pandemic, industry sources said.",
+            "url": "https://uk.reuters.com/article/airbus-china-deliveries-idUKL1N2HT035",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-11-07T02:41:24Z",
+            "content": "(Adds byline)\r\nBEIJING/PARIS, Nov 6 (Reuters) - Chinese airlines are shunning some deliveries of Airbus aircraft, citing fears of coronavirus infection for their staff in the latest tussle over effor\u2026 [+2362 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China October exports surge, imports rise amid global recovery",
+            "description": "China exports grew at the fastest pace in 19 months in October, while imports also rose, official data showed on Saturday, as the world's second largest economy continued to recover after being hit hard by the coronavirus crisis earlier this year.",
+            "url": "https://uk.reuters.com/article/us-china-economy-trade-idUKKBN27N08G",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540336572&r=LYNXMPEGA6063&w=800",
+            "publishedAt": "2020-11-07T05:39:16Z",
+            "content": "By Reuters Staff\r\nBEIJING (Reuters) - China exports grew at the fastest pace in 19 months in October, while imports also rose, official data showed on Saturday, as the worlds second largest economy c\u2026 [+2769 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "China October exports surge, imports rise amid global recovery",
+            "description": "China exports grew at the fastest pace in 19 months in October, while imports also rose, official data showed on Saturday, as the world's second largest economy continued to recover after being hit hard by the coronavirus crisis earlier this year.",
+            "url": "https://www.reuters.com/article/china-economy-trade-idUSKBN27N08M",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201107&t=2&i=1540337055&r=LYNXMPEGA606L&w=800",
+            "publishedAt": "2020-11-07T05:48:04Z",
+            "content": "By Reuters Staff\r\nBEIJING (Reuters) - China exports grew at the fastest pace in 19 months in October, while imports also rose, official data showed on Saturday, as the worlds second largest economy c\u2026 [+2769 chars]"
+        }
+    ]
+}

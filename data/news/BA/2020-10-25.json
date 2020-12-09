@@ -1,0 +1,305 @@
+{
+    "status": "ok",
+    "totalResults": 23,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thomas Pallini",
+            "title": "This Boeing 767 private jet's operator claims it has an advanced air system that kills pathogens so passengers don't need to wear a mask onboard \u2013 see inside",
+            "description": "Summary List Placement\n\nEuropean private jet operator Comlux specializes in a unique type of aircraft that only an elite group of flyers can afford to enjoy: airliners-turned-private-jets.\u00a0\nThese massive planes were intended to carry hundreds of airline passe\u2026",
+            "url": "https://www.businessinsider.com/inside-comluxs-boeing-bbj-767-with-ionization-system-kills-covid-2020-10",
+            "urlToImage": "https://i.insider.com/5f91e54f2121130018740449?width=1200&format=jpeg",
+            "publishedAt": "2020-10-25T12:16:00Z",
+            "content": "European private jet operator Comlux specializes in a unique type of aircraft that only an elite group of flyers can afford to enjoy: airliners-turned-private-jets.\u00a0\r\nThese massive planes were intend\u2026 [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Japan's ANA to cut 3,500 jobs in 3 years as it anticipates prolonged virus woes - Yomiuri - Reuters India",
+            "description": "ANA Holdings Inc plans to cut about 3,500 jobs in three years as Japan's largest airline operator braces for its biggest-ever annual loss due to a plunge in demand driven by the coronavirus pandemic, the Yomiuri daily reported.",
+            "url": "https://www.reuters.com/article/ana-outlook-redundancies-idINKBN27A01Q",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-25T02:30:00Z",
+            "content": "By Reuters Staff\r\nTOKYO (Reuters) - ANA Holdings Inc plans to cut about 3,500 jobs in three years as Japans largest airline operator braces for its biggest-ever annual loss due to a plunge in demand \u2026 [+1629 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thomas Pallini",
+            "title": "The new Centurion Lounge at JFK airport blows every airline lounge I've been to during the pandemic out of the water \u2013 here are its 9 coolest features",
+            "description": "Summary List Placement\n\nAmerican Express opened its newest Centurion Lounge at New York's John F. Kennedy International Airport earlier this month to less fanfare than normal amid a pandemic that's crippled travel.\nOnly a handful of visitors could be found on\u2026",
+            "url": "https://www.businessinsider.com/coolest-features-of-the-new-amex-centurion-lounge-jfk-airport-2020-10",
+            "urlToImage": "https://i.insider.com/5f8f7321b0526700185cc814?width=1200&format=jpeg",
+            "publishedAt": "2020-10-25T12:09:00Z",
+            "content": "American Express opened its newest Centurion Lounge at New York's John F. Kennedy International Airport earlier this month to less fanfare than normal amid a pandemic that's crippled travel.\r\nOnly a \u2026 [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa to ground more planes during winter as pandemic bites - Reuters",
+            "description": "Deutsche Lufthansa <LHAG.DE> is preparing to ground more planes than planned and cut working hours during the winter as a surge in coronavirus infections is putting people off travelling.",
+            "url": "https://www.reuters.com/article/us-lufthansa-winter-idUSKBN27A0VC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201025&t=2&i=1538769814&r=LYNXMPEG9O0JK&w=800",
+            "publishedAt": "2020-10-25T19:02:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Airplanes of German carrier Lufthansa stand on the tarmac at Munich International Airport, Germany, August 4, 2020. REUTERS/Michael Dalder\r\nFRANKFURT (Reuters) - Deutsch\u2026 [+867 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa to ground more planes during winter as pandemic bites - Reuters UK",
+            "description": "Deutsche Lufthansa <LHAG.DE> is preparing to ground more planes than planned and cut working hours during the winter as a surge in coronavirus infections is putting people off travelling.",
+            "url": "https://uk.reuters.com/article/uk-lufthansa-winter-idUKKBN27A0W3",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201025&t=2&i=1538771247&r=LYNXMPEG9O0K3&w=800",
+            "publishedAt": "2020-10-25T19:35:00Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Airplanes of German carrier Lufthansa stand on the tarmac at Munich International Airport, Germany, August 4, 2020. REUTERS/Michael Dalder/File Photo\r\nFRANKFURT (Reuters\u2026 [+878 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Khalid Abdelaziz, Dan Williams",
+            "title": "Sudan says it will discuss trade, migration deals with Israel - Reuters",
+            "description": "Sudan and Israel will discuss agreements to cooperate on trade and migration issues in the coming weeks, the Sudanese foreign ministry said on Sunday, signalling steps to implement a normalisation pact after decades of hostilities.",
+            "url": "https://www.reuters.com/article/us-sudan-israel-idUSKBN27A0LB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201025&t=2&i=1538754612&r=LYNXMPEG9O0DP&w=800",
+            "publishedAt": "2020-10-25T14:27:00Z",
+            "content": "KHARTOUM/JERUSALEM (Reuters) - Sudan and Israel will discuss agreements to cooperate on trade and migration issues in the coming weeks, the Sudanese foreign ministry said on Sunday, signalling steps \u2026 [+2049 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Khalid Abdelaziz, Dan Williams",
+            "title": "Sudan says it will discuss trade, migration deals with Israel - Reuters",
+            "description": "Sudan and Israel will discuss agreements to cooperate on trade and migration issues in the coming weeks, the Sudanese foreign ministry said on Sunday, signalling steps to implement a normalisation pact after decades of hostilities.",
+            "url": "https://www.reuters.com/article/sudan-israel-int-idUSKBN27A0R1",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201025&t=2&i=1538764466&r=LYNXMPEG9O0H3&w=800",
+            "publishedAt": "2020-10-25T17:19:00Z",
+            "content": "KHARTOUM/JERUSALEM (Reuters) - Sudan and Israel will discuss agreements to cooperate on trade and migration issues in the coming weeks, the Sudanese foreign ministry said on Sunday, signalling steps \u2026 [+2134 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "REUTERS NEWS SCHEDULE AT 10:15 p.m. GMT/6:15 p.m. ET - Reuters India",
+            "description": "Here are the top stories and upcoming coverage plans for Reuters text service as of 10:15 p.m. GMT/6:15 p.m. ET. For a full schedule of news and events, go to our editorial calendar on Reuters Connect https://www.reutersconnect.com/planning.",
+            "url": "https://in.reuters.com/article/reuters-schedule-idINL4N2HG0LR",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-25T22:17:00Z",
+            "content": "By Reuters Staff\r\nHere are the top stories and upcoming coverage plans for Reuters text service as of 10:15 p.m. GMT/6:15 p.m. ET. For a full schedule of news and events, go to our editorial calendar\u2026 [+13777 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Airline Nationalization Must Be Temporary, French Minister Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-25/airline-nationalization-must-be-temporary-french-minister-says",
+            "urlToImage": null,
+            "publishedAt": "2020-10-25T10:49:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Turkish Airlines to Put Foreign Pilots on Unpaid Leave",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-10-25/turkish-airlines-to-put-foreign-pilots-on-unpaid-leave",
+            "urlToImage": null,
+            "publishedAt": "2020-10-25T10:52:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Julie Gordon",
+            "title": "Canada's Atlantic region closed out world to beat COVID-19, and the economy has done OK - Reuters",
+            "description": "Chef Emily Wells was unsure what to expect as she opened the doors of her seasonal restaurant in rural Prince Edward Island the same day Canada's four Atlantic provinces bubbled together, allowing travel between them while keeping their borders restricted to \u2026",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-canada-economy-idUSKBN27A0KG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201025&t=2&i=1538753793&r=LYNXMPEG9O0CY&w=800",
+            "publishedAt": "2020-10-25T14:09:00Z",
+            "content": "OTTAWA (Reuters) - Chef Emily Wells was unsure what to expect as she opened the doors of her seasonal restaurant in rural Prince Edward Island the same day Canadas four Atlantic provinces bubbled tog\u2026 [+4026 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Kelly Hooper",
+            "title": "National security adviser: Hackers 'can't change votes'",
+            "description": "Federal officials announced Thursday that the Russian government was behind cyber attacks against \u201cdozens\u201d of state and local governments.",
+            "url": "https://www.politico.com/news/2020/10/25/obrien-hackers-votes-november-election-432268",
+            "urlToImage": "https://static.politico.com/03/61/38e015984408974651853eaf3fd7/200107-robert-obrien-ap-773.jpg",
+            "publishedAt": "2020-10-25T16:48:24Z",
+            "content": "\"We've told our foreign adversaries, 'don't try to mess with the ballots.' And it is very hard for them to do so,\" National security adviser Robert O'Brien said. | Evan Vucci/AP Photo\r\nWhite House Na\u2026 [+899 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dakin Andone, CNN",
+            "title": "US Navy identifies crew killed in training aircraft crash in southern Alabama",
+            "description": "The US Navy has identified the two-person crew killed Friday when a training aircraft crashed in a small town outside Mobile, Alabama.",
+            "url": "https://www.cnn.com/2020/10/25/us/navy-alabama-plane-crash-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201025152256-navy-crash-victims-split-super-tease.jpg",
+            "publishedAt": "2020-10-25T20:24:38Z",
+            "content": "(CNN)The US Navy has identified the two-person crew killed Friday when a training aircraft crashed in a small town outside Mobile, Alabama. \r\nIn a news release Sunday, the Navy identified the victims\u2026 [+1599 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tpallini@businessinsider.com (Thomas Pallini)",
+            "title": "Singapore Airlines doesn't want to dethrone its original world's longest flight even though the new one is three miles longer \u2013 here's how the two will differ",
+            "description": "The new Singapore-New York route is one of the few new international routes to launch during the pandemic, but the airline is keeping it low-key.",
+            "url": "https://www.businessinsider.com/singapore-airlines-new-worlds-longest-flight-to-nyc-2020-10",
+            "urlToImage": "https://i.insider.com/5f90f452212113001874010f?width=1200&format=jpeg",
+            "publishedAt": "2020-10-25T12:45:00Z",
+            "content": "Singapore Airlines announced the latest addition to its route network on Wednesday that will bring non-stop flights between Singapore and New York City beginning next month.\r\nThe first flight bound f\u2026 [+8284 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Hank Gilman",
+            "title": "What Tech Giants Google and Microsoft Now Have in Common | Opinion",
+            "description": "Mitch McConnell continues his Ebenezer Scrooge act in time for the holidays, the Department of Justice declares war on Google, and why all CEO pay isn't created equal.",
+            "url": "https://www.newsweek.com/what-tech-giants-google-microsoft-now-have-common-opinion-1540353",
+            "urlToImage": "https://d.newsweek.com/en/full/348500/07-03-bizsamesex-04.jpg",
+            "publishedAt": "2020-10-25T11:00:01Z",
+            "content": "I keep waiting for some down time, but stuff keeps happening. This week in On the Street:Mitch McConnell turned up the volume on his Ebenezer Scrooge act just in time for the holidays; the Department\u2026 [+8228 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mmcfalljohnsen@businessinsider.com (Morgan McFall-Johnsen,Susie Neilson)",
+            "title": "NASA will share an 'exciting new discovery' about the moon on Monday. Listen to the announcement live.",
+            "description": "NASA says the discovery could support deep-space exploration efforts. It will share the findings in a briefing on Monday and stream the audio live.",
+            "url": "https://www.businessinsider.com/watch-live-nasa-announcement-new-discovery-moon-2020-10",
+            "urlToImage": "https://i.insider.com/5ee12f8c5af6cc70c67d8c44?width=1200&format=jpeg",
+            "publishedAt": "2020-10-25T11:51:00Z",
+            "content": "NASA made a cryptic announcement this week: It has \"an exciting new discovery\" about the moon, but it's not going to reveal the finding just yet.\r\nInstead, it will share the details in a press briefi\u2026 [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bchang@businessinsider.com (Brittany Chang)",
+            "title": "Airbus created a remote-controlled aircraft with flapping wingtips to see how much it could increase efficiency",
+            "description": "Airbus' AlbatrossOne has hinged, flapping wingtips that help reduce drag, therefore saving fuel and decreasing carbon dioxide emissions.",
+            "url": "https://www.businessinsider.com/airbus-created-a-remote-controlled-aircraft-with-flapping-wingtips-2020-10",
+            "urlToImage": "https://i.insider.com/5f907401212113001873ff36?width=1200&format=jpeg",
+            "publishedAt": "2020-10-25T12:41:00Z",
+            "content": "Airbus created the AlbatrossONE, a remote-controlled small-scale aircraft with wingtips that can flap like a bird.\r\nIn accordance with its namesake, the AlbatrossONE was inspired by the albatross bir\u2026 [+1147 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jake Sherman and Anna Palmer",
+            "title": "POLITICO Playbook: Nine days out, and Penceworld has an outbreak",
+            "description": "And Mark Meadows says Mitch McConnell will bring a Covid relief deal to the Senate floor.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/10/25/nine-days-out-and-penceworld-has-an-outbreak-490699",
+            "urlToImage": "https://static.politico.com/13/7d/448c9fe544a9a12b2ec30e612855/gettyimages-1169602722.jpg",
+            "publishedAt": "2020-10-25T15:04:49Z",
+            "content": "Marc Short, the VPs chief of staff and a longtime fixture of Mike Pences inner circle, tested positive for the coronavirus. | Drew Angerer/Getty Images\r\nDRIVING THE DAY\r\nSINGLE DIGITS: NINE DAYS unti\u2026 [+15557 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Japan's ANA to cut 3,500 jobs in 3 years as it anticipates prolonged virus woes: Yomiuri",
+            "description": "ANA Holdings Inc <9202.T> plans to cut about 3,500 jobs in three years as Japan's largest airline operator braces for its biggest-ever annual loss due to a plunge in demand driven by the coronavirus pandemic, the Yomiuri daily reported.",
+            "url": "https://uk.reuters.com/article/us-ana-outlook-redundancies-idUKKBN27A029",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201025&t=2&i=1538725271&r=LYNXMPEG9O01Z&w=800",
+            "publishedAt": "2020-10-25T02:38:31Z",
+            "content": "By Reuters Staff\r\nTOKYO (Reuters) - ANA Holdings Inc 9202.T plans to cut about 3,500 jobs in three years as Japan's largest airline operator braces for its biggest-ever annual loss due to a plunge in\u2026 [+1877 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Lufthansa to ground more planes during winter as pandemic bites",
+            "description": "Deutsche Lufthansa <LHAG.DE> is preparing to ground more planes than planned and cut working hours during the winter as a surge in coronavirus infections is putting people off travelling.",
+            "url": "https://ca.reuters.com/article/us-lufthansa-winter-idCAKBN27A0VC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201025&t=2&i=1538769814&r=LYNXMPEG9O0JK&w=800",
+            "publishedAt": "2020-10-25T19:05:25Z",
+            "content": "By Reuters Staff\r\nFILE PHOTO: Airplanes of German carrier Lufthansa stand on the tarmac at Munich International Airport, Germany, August 4, 2020. REUTERS/Michael Dalder\r\nFRANKFURT (Reuters) - Deutsch\u2026 [+867 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Khalid Abdelaziz, Dan Williams",
+            "title": "Sudan says it will discuss trade, migration deals with Israel",
+            "description": "Sudan and Israel will discuss agreements to cooperate on trade and migration issues in the coming weeks, the Sudanese foreign ministry said on Sunday, signalling steps to implement a normalisation pact after decades of hostilities.",
+            "url": "https://ca.reuters.com/article/us-sudan-israel-idCAKBN27A0LB",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201025&t=2&i=1538754612&r=LYNXMPEG9O0DP&w=800",
+            "publishedAt": "2020-10-25T14:27:22Z",
+            "content": "By Khalid Abdelaziz, Dan Williams\r\nKHARTOUM/JERUSALEM (Reuters) - Sudan and Israel will discuss agreements to cooperate on trade and migration issues in the coming weeks, the Sudanese foreign ministr\u2026 [+2084 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Julie Gordon",
+            "title": "Canada's Atlantic region closed out world to beat COVID-19, and the economy has done OK",
+            "description": "Chef Emily Wells was unsure what to expect as she opened the doors of her seasonal restaurant in rural Prince Edward Island the same day Canada's four Atlantic provinces bubbled together, allowing travel between them while keeping their borders restricted to \u2026",
+            "url": "https://ca.reuters.com/article/us-health-coronavirus-canada-economy-idCAKBN27A0KG",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201025&t=2&i=1538753793&r=LYNXMPEG9O0CY&w=800",
+            "publishedAt": "2020-10-25T14:09:12Z",
+            "content": "By Julie Gordon\r\nOTTAWA (Reuters) - Chef Emily Wells was unsure what to expect as she opened the doors of her seasonal restaurant in rural Prince Edward Island the same day Canadas four Atlantic prov\u2026 [+4043 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Julie Gordon",
+            "title": "Canada's Atlantic region closed out world to beat COVID-19, and the economy has done OK",
+            "description": "Chef Emily Wells was unsure what to expect as she opened the doors of her seasonal restaurant in rural Prince Edward Island the same day Canada's four Atlantic provinces bubbled together, allowing travel between them while keeping their borders restricted to \u2026",
+            "url": "https://www.reuters.com/article/health-coronavirus-canada-economy-idUSL8N2HE5AH",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2020-10-25T14:00:00Z",
+            "content": "OTTAWA, Oct 25 (Reuters) - Chef Emily Wells was unsure what to expect as she opened the doors of her seasonal restaurant in rural Prince Edward Island the same day Canadas four Atlantic provinces bub\u2026 [+3742 chars]"
+        }
+    ]
+}
