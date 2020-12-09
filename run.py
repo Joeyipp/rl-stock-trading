@@ -19,8 +19,8 @@ def main():
     n_stock = len(stock_tickers)
     n_forecast = 0
     n_sentiment = 0
-    models_folder = 'saved_models/'
-    rewards_folder = 'saved_rewards/'
+    models_folder = 'saved_models'
+    rewards_folder = 'saved_rewards'
     rl_folder = 'saved_models/rl'
     lstm_folder = 'saved_models/lstm'
     news_folder = './data/news'
