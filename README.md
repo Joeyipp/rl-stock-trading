@@ -52,6 +52,8 @@ To run locally:
 
 `python run.py -a {DQN|DDPG} -f {one|multi} -s True`
 
+Stock Forecast and Portfolio Reward plots will pop up during runtime. It is intended behavior for visual reports and it is fine to exit (X) and **run.py** will continue running through its course.
+
 ### System Architecture
 
 ![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/flowchart_design.png)
