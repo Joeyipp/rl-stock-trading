@@ -2,7 +2,7 @@
 
 ### Description
 
-An automated stock trading using Deep Reinforcement Learning (DQN and DDPG) for AAPL, BA, and TSLA with news sentiment and one/ multi-step stock price prediction.
+An automated stock trading with Deep Reinforcement Learning (DQN & DDPG) for AAPL, BA, and TSLA with news sentiment and one/ multi-step stock price prediction.
 
 ### Flowchart
 
@@ -12,6 +12,18 @@ An automated stock trading using Deep Reinforcement Learning (DQN and DDPG) for 
 
 1. Install Open MPI from [here](https://stable-baselines.readthedocs.io/en/master/guide/install.html)
 
-`MacOS: brew install cmake openmpi`
+> `MacOS: brew install cmake openmpi`
 
 2. Create conda environment
+
+> `conda create --name rl_stock python=3.7`
+
+3. Activate the conda environment
+
+> `conda activate rl_stock`
+
+4. Install requirements
+
+> `pip install -r requirements.txt`
+
+5. Run!
