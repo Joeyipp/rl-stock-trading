@@ -27,3 +27,9 @@ An automated stock trading with Deep Reinforcement Learning (DQN & DDPG) for AAP
 > `pip install -r requirements.txt`
 
 5. Run!
+
+**run.py arguments**
+
+- -a, --agent, DQN or DDPG
+- -f, --forecast, one or multi
+- -s, --sentiment, True or False
