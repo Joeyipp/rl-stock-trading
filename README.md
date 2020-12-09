@@ -67,7 +67,7 @@ To run locally:
 ### Data Collection
 
 This repo is self-contained with data.
-To self-collect data for your own stock data, navigate to `utils/collect_data.py` and modify accordingly.
+To self-collect for your own stock data, navigate to `utils/collect_data.py` and modify accordingly.
 
 ### References
 
