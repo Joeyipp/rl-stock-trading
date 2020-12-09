@@ -4,6 +4,8 @@
 
 An automated stock trading with Deep Reinforcement Learning (DQN & DDPG) for AAPL, BA, and TSLA with news sentiment and one/ multi-step stock price prediction.
 
+For complete report & slide, navigate to `reports`.
+
 ### Instructions
 
 To run locally:
@@ -61,6 +63,11 @@ To run locally:
 ### Stock Price Forecast
 
 ![Flowchart](https://github.com/Joeyipp/rl-stock-trading/blob/master/images/forecast.png)
+
+### Data Collection
+
+This repo is self-contained with data.
+To self-collect data for your own stock data, navigate to `utils/collect_data.py` and modify accordingly.
 
 ### References
 
